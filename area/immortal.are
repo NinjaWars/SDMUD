@@ -1,0 +1,52 @@
+#AREADATA
+Name Immortal Area~
+Builders None~
+VNUMs 1200 1299
+Credits Ashen*Twist of Fate*~
+Security 9
+RepopMsg (null)~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#1200
+Immortal Council Chamber~
+Immortals of past and present line themselves within portraits that hang
+amongst tapestries of the fallen gods.  
+~
+0 0 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

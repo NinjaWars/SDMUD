@@ -1,0 +1,38 @@
+#!/bin/csh
+# Written by Furey.
+# With additions from Tony, Alander and Rhaelar.
+
+# Set the port number.
+set port = 7000
+if ( "$1" != "" ) set port="$1"
+
+# Change to area directory.
+cd area
+
+# Set limits.
+nice +4
+nohup
+if ( -e ../data/text/shutdown.txt ) rm -f ../data/text/shutdown.txt
+unlimit core
+
+while ( 1 )
+    # If you want to have logs in a different directory,
+    #   change the 'set logfile' line to reflect the directory name.
+    set index = 1000
+    while ( 1 )
+	set logfile = ../log/$index.log
+	if ( ! -e $logfile ) break
+	@ index++
+    end
+
+    # Run rom.
+    if ( -e shutdown.txt ) rm -f shutdown.txt
+    ../data/sdmud $port >&! $logfile
+ 
+    # Restart, giving old connections a chance to die.
+    if ( -e ../data/text/shutdown.txt ) then
+	rm -f ../data/text/shutdown.txt
+	exit 0
+    endif
+    sleep 2
+end

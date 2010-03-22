@@ -1,0 +1,4240 @@
+#AREADATA
+Name Roads of Death Rising~
+Builders Roland Loki Kalicu Suraman Mangan~
+VNUMs 600 999
+Credits [  ALL  ] Loki Roads of Death Rising~
+Security 9
+RepopMsg The winds of adventure kick up.~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#600
+9565342523~
+a {Dboulder{x~
+A large boulder has come to rest here~
+stone rock~
+furniture 0 0
+0 0 0 0 0
+0 16960 0 P
+#601
+4568687~
+a road sign~
+A battered weather beaten sign is stuck in the ground here ({WLOOK SIGN{x)~
+unknown~
+furniture A 0
+0 0 0 0 0
+0 0 0 P
+#602
+seashell shell~
+a {Bs{We{Ba{Ws{Bh{We{Bl{Wl{x~
+A {Bs{We{Ba{Ws{Bh{We{Bl{Wl{x is shining in the light here.~
+unknown~
+trash SY AO
+0 0 0 0 0
+0 1 0 P
+#603
+small acorn~
+a small {ya{gc{yorn{x~
+A small {ya{gc{yorn {xis here.~
+unknown~
+food S AO
+1 1 0 0 0
+1 0 0 P
+#0
+
+
+
+#ROOMS
+#600
+{BG{baa{Bl{bst{Br{bom {RR{ro{Rad{x~
+A wide dirt road.  Nothing interesting to note.  Many a traveller has
+blazed a trail down this road, looking for adventure.  Gaalstrom is to the
+east, a sprawling magnificent city.  The road continues to the west.  
+~
+0 0 2
+D1
+~
+~
+0 0 3052
+D3
+~
+~
+0 0 601
+S
+#601
+{BG{baa{Bl{bst{Br{bom {RR{ro{Rad{x~
+Plain uneventful dirt road.  Save for a few curves here and there, this
+is a rather boring road, but one that leads to much adventure.  West leads
+on, Gaalstrom is back to the east.  
+~
+0 0 2
+D1
+~
+~
+0 0 600
+D3
+~
+~
+0 0 602
+S
+#602
+{BG{baa{Bl{bst{Br{bom {RR{ro{Rad{x~
+Plain uneventful dirt road.  Save for a few curves here and there, this
+is a rather boring road, but one that leads to much adventure.  A few
+abandoned farms can be seen around here, victims of the bad soil surrounding
+Gaalstrom.  The road continues west and east.  
+~
+0 0 2
+D1
+~
+~
+0 0 601
+D3
+~
+~
+0 0 603
+S
+#603
+{BG{baa{Bl{bst{Br{bom {RR{ro{Rad{x~
+Plain uneventful dirt road.  Save for a few curves here and there, this
+is a rather boring road, but one that leads to much adventure.  The long
+dusty road continues east and west.  
+~
+0 0 2
+D0
+~
+~
+0 0 689
+D1
+~
+~
+0 0 602
+D3
+~
+~
+0 0 604
+S
+#604
+{BG{baa{Bl{bst{Br{bom {RR{ro{Rad{x~
+Plain uneventful dirt road.  Save for a few curves here and there, this
+is a rather boring road, but one that leads to much adventure.  A large
+boulder has come to rest here, the names of travelers have been carved upon
+it many times, and washed away by the sands of time 
+~
+0 0 2
+E
+boulder~
+{WNames of travellers are carved into its surface...{X
+{b Yurian     Aice       Dredge
+Zaen     Cyblade     Aldar
+Baodwyn    Cyx     Stryder
+Quasam   Quede   Guise{x
+~
+D1
+~
+~
+0 0 603
+D3
+~
+~
+0 0 605
+S
+#605
+{BG{baa{Bl{bst{Br{bom {RR{ro{Rad{x~
+Plain uneventful dirt road.  Save for a few curves here and there, this
+is a rather boring road, but one that leads to much adventure.  To the far
+northwest can be seen some very large mountains.  The road continues east
+and west.  
+~
+0 0 2
+D1
+~
+~
+0 0 604
+D3
+~
+~
+0 0 606
+S
+#606
+{BG{baa{Bl{bst{Br{bom {RR{ro{Rad{x~
+Plain uneventful dirt road.  Save for a few curves here and there, this
+is a rather boring road, but one that leads to much adventure.  The road
+forks here.  Another similiar road leads off to the south now, the mountains
+can be seen to the west, drawing ever closer.  
+~
+0 0 2
+D1
+~
+~
+0 0 605
+D2
+~
+~
+0 0 676
+D3
+~
+~
+0 0 607
+S
+#607
+{BG{baa{Bl{bst{Br{bom {RR{ro{Rad{x~
+Continuing down the sprawling Gaalstrom Road.  The looming Northern
+Mountains can be seen further up ahead.  A small dot on the eastern horizon
+is Gaalstrom.  The road continues east and west.  A large, gloomy looking
+black tower is to the north.  
+~
+0 0 2
+D0
+~
+~
+0 0 19900
+D1
+~
+~
+0 0 606
+D3
+~
+~
+0 0 608
+S
+#608
+{BG{baa{Bl{bst{Br{bom {RR{ro{Rad{x~
+Continuing down the sprawling Gaalstrom Road.  The looming Northern
+Mountains can be seen further up ahead.  A small dot on the eastern horizon
+is Gaalstrom.  The road continues east and west.  
+~
+0 0 2
+D1
+~
+~
+0 0 607
+D3
+~
+~
+0 0 609
+S
+#609
+{BG{baa{Bl{bst{Br{bom {RR{ro{Rad{x~
+Continuing down the sprawling Gaalstrom Road.  The looming Northern
+Mountains can be seen further up ahead.  A small dot on the eastern horizon
+is Gaalstrom.  The road continues east and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 608
+D3
+~
+~
+0 0 610
+S
+#610
+{BG{baa{Bl{bst{Br{bom {RR{ro{Rad{x~
+Continuing down the sprawling Gaalstrom Road.  The looming Northern
+Mountains can be seen further up ahead.  A small dot on the eastern horizon
+is Gaalstrom.  The road continues east and west.  
+~
+0 0 2
+D1
+~
+~
+0 0 609
+D3
+~
+~
+0 0 611
+S
+#611
+{BG{baa{Bl{bst{Br{bom {RR{ro{Rad{x~
+The last bit of travelled road dies away to open, hilly grassland known
+as "Gaalstrom Plains".  The sweeping foothills reach up to the horizon,
+looming to the far north are the frosty peaks of the "Northern Mountains". 
+A small trail cuts into the plains north.  
+~
+0 0 2
+D0
+~
+~
+0 0 612
+D1
+~
+~
+0 0 610
+D2
+~
+~
+0 0 1023
+S
+#612
+{BG{baa{Bl{bst{Br{bom {YP{ylains{x~
+Gently rolling hills spread out in all directions.  The grassy plains of
+Gaalstrom lead to the foothills of the northern mountains.  A light trail
+has begun to be forged through the plains in a northerly direction.  
+~
+0 0 0
+D0
+~
+~
+0 0 613
+D2
+~
+~
+0 0 611
+S
+#613
+{BG{baa{Bl{bst{Br{bom {YP{ylains{x~
+The freshly forged trail leads further into the plains to the north. 
+There are no trees around, just flat grasslands.  The mountains grow ever
+closer, Gaalstrom itself is back southeast.  
+~
+0 0 0
+D0
+~
+~
+0 0 614
+D2
+~
+~
+0 0 612
+S
+#614
+{BG{baa{Bl{bst{Br{bom {YP{ylains{x~
+The freshly forged trail leads further into the plains to the north. 
+There are no trees around, just flat grasslands.  The mountains grow ever
+closer, Gaalstrom itself is back southeast.  
+~
+0 0 0
+D0
+~
+~
+0 0 615
+D2
+~
+~
+0 0 613
+D3
+~
+~
+0 0 18000
+S
+#615
+{BG{baa{Bl{bst{Br{bom {YP{ylains{x~
+The freshly forged trail leads further into the plains.  There are no
+trees around, just flat grasslands.  The mountains grow ever closer in the
+distance.  A small pond is here, its stagnant water reaks.  The trail
+continues north.  
+~
+0 0 0
+D0
+~
+~
+0 0 616
+D2
+~
+~
+0 0 614
+S
+#616
+{BG{baa{Bl{bst{Br{bom {YP{ylains{x~
+The freshly forged trail leads further into the plains.  There are no
+trees around, just flat grasslands.  The mountains grow ever closer, looming
+on the horizon with malevolent knowing and malice.  
+~
+0 0 0
+D0
+~
+~
+0 0 617
+D2
+~
+~
+0 0 615
+S
+#617
+{BG{baa{Bl{bst{Br{bom {YP{ylains{x~
+The freshly forged trail leads further into the plains.  There are no
+trees around, just flat grasslands.  The mountains grow ever closer, looming
+on the horizon with malevolent knowing and malice.  
+~
+0 0 0
+D0
+~
+~
+0 0 618
+D2
+~
+~
+0 0 616
+S
+#618
+{BG{baa{Bl{bst{Br{bom {YP{ylains{x~
+The freshly forged trail leads further into the plains.  There are no
+trees around, just flat grasslands.  The mountains grow ever closer, looming
+on the horizon with malevolent knowing and malice.  
+~
+0 0 0
+D0
+~
+~
+0 0 619
+D2
+~
+~
+0 0 617
+S
+#619
+{wThe {yFoothills{x~
+The temperature takes a nose dive.  The chilly wind kicks up to a biting
+gust.  The hilly, grassy landscape turns into craggy rocky hills, the
+mountains are afoot.  The plains are south.  The mountains begin north.  A
+long trail on a lesser mountain range begins to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 620
+D1
+~
+~
+0 0 9201
+D2
+~
+~
+0 0 618
+S
+#620
+{RN{rorthern {CM{Wountains{x~
+The temperature drops to bitter conditions.  The hilly mountain path is
+easy going now, but looks a bit more deft further ahead.  There is no
+evidence of other travelers anywhere.  South leads back to the plains.  The
+mountain path continues west.  
+~
+0 0 0
+D2
+~
+~
+0 0 619
+D3
+~
+~
+0 0 621
+S
+#621
+{RN{rorthern {CM{Wountains{x~
+The temperature drops to bitter conditions.  The hilly mountain path is
+easy going now, but looks a bit more deft further ahead.  There is no
+evidence of other travelers anywhere.  East leads back to the plains.  The
+mountain path continues west.  
+~
+0 0 0
+D0
+~
+~
+0 0 231
+D1
+~
+~
+0 0 620
+D3
+~
+~
+0 0 622
+S
+#622
+{RN{rorthern {CM{Wountains{x~
+The temperature drops to bitter conditions.  The hilly mountain path is
+easy going now, but looks a bit more deft further ahead.  There is no
+evidence of other travelers anywhere.  East leads back to the plains.  The
+mountain path continues west.  
+~
+0 0 5
+D1
+~
+~
+0 0 621
+D3
+~
+~
+0 0 623
+S
+#623
+{CM{Wountain{y Path{x~
+The temperature drops to bitter conditions.  The hilly mountain path is
+easy going now, but looks a bit more deft further ahead.  There is no
+evidence of other travelers anywhere.  East leads back to the plains.  The
+mountain path continues west.  
+~
+0 0 0
+D1
+~
+~
+0 0 622
+D3
+~
+~
+0 0 624
+S
+#624
+{RN{rorthern {CM{Wountains{x~
+A steep cliff juts high into the air.  The craggy rockface looks semi
+easy to climb.  The wind is gusting heavily now, the mountains continnue
+going up, the plains are back east.  
+~
+0 0 0
+D1
+~
+~
+0 0 623
+D4
+~
+~
+0 0 625
+S
+#625
+{RN{rorthern {CM{Wountains{x~
+A barren desolate plateau sprawls out to the west.  The rocky cliff leads
+back down to the mountain path.  The plateau continues west.  There are no
+signs of life anywhere.  The gusty winds kick up drifts of snow.  
+~
+0 0 0
+D3
+~
+~
+0 0 626
+D5
+~
+~
+0 0 624
+S
+#626
+{RN{rorthern {CM{Wountains{x~
+A narrow mountain ledge winds and weaves on the left side of the mountain
+and then splits off to the east and west.  The mountains areas seem to flow
+on into an endless horizon.  
+~
+0 0 0
+D0
+~
+~
+0 0 627
+D1
+~
+~
+0 0 625
+D3
+~
+~
+0 0 640
+S
+#627
+{RN{rorthern {CM{Wountains{x~
+A sharp incline leads to one of the only trails forged in the northern mountains. The  climb looks to be a tad difficult, but not impossible. South leads to more mountains.
+~
+0 0 0
+D2
+~
+~
+0 0 626
+D4
+~
+~
+0 0 628
+S
+#628
+{CM{Wou{Cntain {yTrail{x~
+Large drifts of snow have piled up on either side of this trail.  It
+appears to have been forged by the foot of man.  It continues to the north. 
+~
+0 0 0
+D0
+~
+~
+0 0 629
+D5
+~
+~
+0 0 627
+S
+#629
+{CM{Wou{Cntain {yTrail{x~
+Large drifts of snow have piled up on either side of this trail.  It
+appears to have been forged by the foot of man.  It continues to the east,
+west and south.  
+~
+0 0 0
+D1
+~
+~
+0 0 630
+D2
+~
+~
+0 0 628
+D3
+~
+~
+0 0 634
+S
+#630
+{CM{Wou{Cntain {yTrail{x~
+Large drifts of snow have piled up on either side of this trail.  It
+appears to have been forged by the foot of man.  It continues to the east
+and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 631
+D3
+~
+~
+0 0 629
+S
+#631
+{CM{Wou{Cntain {yTrail{x~
+Large drifts of snow have piled up on either side of this trail.  It
+appears to have been forged by the foot of man.  It continues to the east
+and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 632
+D3
+~
+~
+0 0 630
+S
+#632
+{CM{Wou{Cntain {yTrail{x~
+Large drifts of snow have piled up on either side of this trail.  It
+appears to have been forged by the foot of man.  It continues to the east
+and west.  To the south is the mouth of a small cave.  
+~
+0 0 0
+D1
+~
+~
+0 0 633
+D2
+~
+~
+0 0 1445
+D3
+~
+~
+0 0 631
+S
+#633
+{CM{Wou{Cntain {yTrail{x~
+Large drifts of snow have piled up on either side of this trail.  It
+appears to have been forged by the foot of man.  It continues back west.  
+~
+0 0 0
+D3
+~
+~
+0 0 632
+S
+#634
+{CM{Wou{Cntain {yTrail{x~
+Large drifts of snow have piled up on either side of this trail.  It
+appears to have been forged by the foot of man.  It continues to the east
+and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 629
+D3
+~
+~
+0 0 635
+S
+#635
+{CM{Wou{Cntain {yTrail{x~
+Large drifts of snow have piled up on either side of this trail.  It
+appears to have been forged by the foot of man.  It continues to the east
+and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 634
+D3
+~
+~
+0 0 636
+S
+#636
+{CM{Wou{Cntain {yTrail{x~
+Large drifts of snow have piled up on either side of this trail.  It
+appears to have been forged by the foot of man.  It continues to the east
+and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 635
+D3
+~
+~
+0 0 637
+S
+#637
+{CM{Wou{Cntain {yTrail{x~
+Large drifts of snow have piled up on either side of this trail.  It
+appears to have been forged by the foot of man.  It continues to the east
+and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 636
+D3
+~
+~
+0 0 638
+S
+#638
+{CM{Wou{Cntain {yTrail{x~
+Large drifts of snow have piled up on either side of this trail.  It
+appears to have been forged by the foot of man.  It continues to the east
+and west.  
+~
+0 0 0
+D1
+~
+~
+0 0 637
+D3
+~
+~
+0 0 639
+S
+#639
+{CM{Wou{Cntain {yTrail{x~
+Large drifts of snow have piled up on either side of this trail.  It
+appears to have been forged by the foot of man.  The trail goes back to the
+east.  To the north a large plumes of black smoke can be seen rising into
+the air.  
+~
+0 0 0
+D0
+~
+~
+0 0 5655
+D1
+~
+~
+0 0 638
+S
+#640
+{RN{rorthern {CM{Wountains{x~
+The mountains path veers off into the western sky.  As the sky begins to
+darken you can see the shadows of the vast and overwhelming mountains begin
+to sink into an endless shadow below you.  
+~
+0 0 0
+D0
+~
+~
+0 0 16900
+D1
+~
+~
+0 0 626
+D3
+~
+~
+0 0 641
+S
+#641
+{RN{rorthern {CM{Wountains{x~
+As the eastern path continues along the mountain side the sun sinks even
+lower into the horizon, the sky is almost finally black.  As you grasp the
+mountain side to support yourself from falling you think that you hear the
+howls of wolves to the west.  
+~
+0 0 0
+D1
+~
+~
+0 0 640
+D4
+~
+~
+0 0 642
+S
+#642
+{RN{rorthern {CM{Wountains{x~
+The bitter winds bite down with the force of ages.  The peak of the
+mountain is not so much a peak, but a plateau of sorts.  Blinding white snow
+whips about in a fierce storm of chaos.  The mountain continues west and
+down.  
+~
+0 0 0
+D3
+~
+~
+0 0 643
+D5
+~
+~
+0 0 641
+S
+#643
+{RN{rorthern {CM{Wountains{x~
+The bitter winds bite down with the force of ages.  The peak of the
+mountain is not so much a peak, but a plateau of sorts.  Blinding white snow
+whips about in a fierce storm of chaos.  The mountain continues west.  
+~
+0 0 0
+D1
+~
+~
+0 0 642
+D3
+~
+~
+0 0 644
+S
+#644
+{RN{rorthern {CM{Wountains{x~
+The bitter winds bite down with the force of ages.  The peak of the
+mountain is not so much a peak, but a plateau of sorts.  Blinding white snow
+whips about in a fierce storm of chaos.  The mountain continues south.  
+~
+0 0 0
+D1
+~
+~
+0 0 643
+D2
+~
+~
+0 0 645
+S
+#645
+{RN{rorthern {CM{Wountains{x~
+The bitter winds bite down with the force of ages.  The peak of the
+mountain is not so much a peak, but a plateau of sorts.  Blinding white snow
+whips about in a fierce storm of chaos.  The mountain continues west.  
+~
+0 0 0
+D0
+~
+~
+0 0 644
+D3
+~
+~
+0 0 646
+S
+#646
+{RN{rorthern {CM{Wountains{x~
+The icy winds force the snow into towering drifts.  The drifts grow in
+size until they are too large to support their own weight and collapse,
+destroying all that is unfortunate enough to be in their path.  The
+dangerous terrain continues west.  
+~
+0 0 0
+D1
+~
+~
+0 0 645
+D3
+~
+~
+0 0 647
+S
+#647
+{RN{rorthern {CM{Wountains{x~
+The icy winds force the snow into towering drifts.  The drifts grow in
+size until they are too large to support their own weight and collapse,
+destroying all that is unfortunate enough to be in their path.  They have
+beaten somewhat of a path downwards.  
+~
+0 0 0
+D1
+~
+~
+0 0 646
+D5
+~
+~
+0 0 648
+S
+#648
+{RN{rorthern {CM{Wountains{x~
+As you slowly decend down the mountain the chilling air begins to reside.
+To the west of you is the path away from the Norther Mountains.  Up leads
+back up the mountains.  
+~
+0 0 0
+D3
+~
+~
+0 0 649
+D4
+~
+~
+0 0 647
+S
+#649
+{RN{rorthern {CM{Wountains{x~
+The chilling winds have all but vanished.  The rolling foothills of the
+Northern Mountains are quite breathtaking.  To the south you can see the
+plains of gaalstrom.  The mountains are back north.  
+~
+0 0 0
+D1
+~
+~
+0 0 648
+D2
+~
+~
+0 0 650
+S
+#650
+{RN{rorthern {CM{Wountains{x~
+The chilling winds have all but vanished.  The rolling foothills of the
+Northern Mountains are quite breathtaking.  To the south you can see the
+plains of gaalstrom.  The mountains are back north.  
+~
+0 0 0
+D0
+~
+~
+0 0 649
+D2
+~
+~
+0 0 651
+S
+#651
+{RN{rorthern {CM{Wountains{x~
+The chilling winds have all but vanished.  The rolling foothills of the
+Northern Mountains are quite breathtaking.  To the south you can see the
+plains of gaalstrom.  The mountains are back north.  
+~
+0 0 0
+D0
+~
+~
+0 0 650
+D2
+~
+~
+0 0 652
+S
+#652
+{DBottom{x of the {CM{Wou{Cntains{x~
+The mountains end with a fairly steep climb down a jagged rock face.  The
+plains begin at the bottom.  To the far north, the gloomy mountains dominate
+the distant horizon.  
+~
+0 0 0
+D0
+~
+~
+0 0 651
+D5
+~
+~
+0 0 653
+S
+#653
+{BG{baa{Bl{bst{Br{bom {YP{ylains{x~
+The grass has all but vanished here.  Large jagged boulders sit
+halfburied in the soft earth.  A rather high rock face leads into the
+Northern Mountains, a cold and treacherous place.  South leads back through
+the plains.  
+~
+0 0 0
+D2
+~
+~
+0 0 654
+D4
+~
+~
+0 0 652
+S
+#654
+{BG{baa{Bl{bst{Br{bom {YP{ylains{x~
+There are no trees, no rocks, only large hilly grasslands.  There is a
+slight path forged through the plains, it heads off to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 653
+D2
+~
+~
+0 0 655
+S
+#655
+{BG{baa{Bl{bst{Br{bom {YP{ylains{x~
+There are no trees, no rocks, only large hilly grasslands.  There is a
+slight path forged through the plains, it heads off to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 654
+D1
+~
+~
+0 0 553
+D2
+~
+~
+0 0 656
+S
+#656
+{BG{baa{Bl{bst{Br{bom {YP{ylains{x~
+There are no trees, no rocks, only large hilly grasslands.  There is a
+slight path forged through the plains, it heads off to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 655
+D2
+~
+~
+0 0 657
+S
+#657
+{BG{baa{Bl{bst{Br{bom {YP{ylains{x~
+There are no trees, no rocks, only large hilly grasslands.  There is a
+slight path forged through the plains, it heads off to the north.  West of
+here, the rather large city of Inklar can be seen.  
+~
+0 0 0
+D0
+~
+~
+0 0 656
+D1
+~
+~
+0 0 658
+D3
+~
+~
+0 0 40000
+S
+#658
+{BG{baa{Bl{bst{Br{bom {YP{ylains{x~
+There are no trees, no rocks, only large hilly grasslands.  There is a
+slight path forged through the plains, it heads off to the west.  
+~
+0 0 0
+D1
+~
+~
+0 0 659
+D3
+~
+~
+0 0 657
+S
+#659
+{BG{baa{Bl{bst{Br{bom {YP{ylains{x~
+There are no trees, no rocks, only large hilly grasslands.  There is a
+slight path forged through the plains, it heads off to the west.  To the
+north, a clamorous explosion of metal on metal fills the air, thunderous
+screams of triumph and anguish can be heard.  
+~
+0 0 0
+D0
+~
+~
+0 0 200
+D1
+~
+~
+0 0 660
+D3
+~
+~
+0 0 658
+S
+#660
+{BG{baa{Bl{bst{Br{bom {YP{ylains{x~
+There are no trees, no rocks, only large hilly grasslands.  There is a
+slight path forged through the plains, it heads off to the west.  
+~
+0 0 0
+D1
+~
+~
+0 0 670
+D3
+~
+~
+0 0 659
+S
+#670
+{BG{baa{Bl{bst{Br{bom {YP{ylains{x~
+There are no trees, no rocks, only large hilly grasslands.  There is a
+slight path forged through the plains, it heads off to the west.  
+~
+0 0 0
+D1
+~
+~
+0 0 671
+D3
+~
+~
+0 0 660
+S
+#671
+{BG{baa{Bl{bst{Br{bom {YP{ylains{x~
+The road dies away to grass.  There are no trees, no rocks, only large
+hilly grasslands.  There is a slight path forged through the plains, it
+heads off to the west.  
+~
+0 0 0
+D1
+~
+~
+0 0 673
+D3
+~
+~
+0 0 670
+S
+#672
+~
+~
+0 4 0
+S
+#673
+{BG{baa{Bl{bst{Br{bom {RR{ro{Rad{x~
+The dusty road peters out here.  The dirt gives way to grass and the
+rolling hills of the plains.  Gaalstrom can be seen back to the east, a
+small speck on the horizon.  The plains are west.  There are some large
+silvery gates to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 11702
+D1
+~
+~
+0 0 674
+D3
+~
+~
+0 0 671
+S
+#674
+{BG{baa{Bl{bst{Br{bom {RR{ro{Rad{x~
+A smaller, mostly unused branch of the main Gaalstrom Road.  It continues
+to the west, heading into the plains.  Grass has overgrown most of the dirt
+road.  
+~
+0 0 0
+D1
+~
+~
+0 0 675
+D3
+~
+~
+0 0 673
+S
+#675
+{BG{baa{Bl{bst{Br{bom {RR{ro{Rad{x~
+A smaller, mostly unused branch of the main Gaalstrom Road.  It continues
+to the west, heading into the plains.  Grass has overgrown most of the dirt
+road.  
+~
+0 0 0
+D1
+~
+~
+0 0 676
+D3
+~
+~
+0 0 674
+S
+#676
+{BG{baa{Bl{bst{Br{bom {RR{ro{Rad{x~
+A triple intersection in Gaalstrom road.  The main road is back to the
+north.  The plains are west.  And the smaller, utilitarian Merchants Road is
+to the south, leading back into Southern Gaalstrom.  
+~
+0 0 0
+D0
+~
+~
+0 0 606
+D2
+~
+~
+0 0 703
+D3
+~
+~
+0 0 675
+S
+#677
+{YB{ye{Ya{yt{Ye{yn {WPath Around Gaalstrom{x~
+A roughly forged path leading around from the city's western side to te
+northern side, mostly a utilitarian necessity.  The Northern Gate of
+Gaalstrom is to the south.  There is a huge sprawling forest to the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 761
+D2
+~
+~
+0 0 3268
+D3
+~
+~
+0 0 678
+S
+#678
+{YB{ye{Ya{yt{Ye{yn {WPath Around Gaalstrom{x~
+A roughly forged path leading around from the city's western side to te
+northern side, mostly a utilitarian necessity.  The path continues to the
+east.  
+~
+0 0 0
+D1
+~
+~
+0 0 677
+D3
+~
+~
+0 0 679
+S
+#679
+{YB{ye{Ya{yt{Ye{yn {WPath Around Gaalstrom{x~
+A roughly forged path leading around from the city's western side to te
+northern side, mostly a utilitarian necessity.  The path continues to the
+east.  
+~
+0 0 0
+D1
+~
+~
+0 0 678
+D3
+~
+~
+0 0 680
+S
+#680
+{YB{ye{Ya{yt{Ye{yn {WPath Around Gaalstrom{x~
+A roughly forged path leading around from the city's western side to te
+northern side, mostly a utilitarian necessity.  The path continues to the
+east.  
+~
+0 0 0
+D1
+~
+~
+0 0 679
+D3
+~
+~
+0 0 681
+S
+#681
+{YB{ye{Ya{yt{Ye{yn {WPath Around Gaalstrom{x~
+A roughly forged path leading around from the city's western side to te
+northern side, mostly a utilitarian necessity.  The path continues to the
+east.  
+~
+0 0 0
+D1
+~
+~
+0 0 680
+D3
+~
+~
+0 0 682
+S
+#682
+{YB{ye{Ya{yt{Ye{yn {WPath Around Gaalstrom{x~
+A roughly forged path leading around from the city's western side to te
+northern side, mostly a utilitarian necessity.  The path continues to the
+east.  
+~
+0 0 0
+D1
+~
+~
+0 0 681
+D2
+~
+~
+0 0 683
+S
+#683
+{YB{ye{Ya{yt{Ye{yn {WPath Around Gaalstrom{x~
+A roughly forged path leading around from the city's western side to te
+northern side, mostly a utilitarian necessity.  The path continues to the
+north.  
+~
+0 0 0
+D0
+~
+~
+0 0 682
+D2
+~
+~
+0 0 684
+S
+#684
+{YB{ye{Ya{yt{Ye{yn {WPath Around Gaalstrom{x~
+A roughly forged path leading around from the city's western side to te
+northern side, mostly a utilitarian necessity.  The path continues to the
+north.  
+~
+0 0 0
+D0
+~
+~
+0 0 683
+D3
+~
+~
+0 0 685
+S
+#685
+{YB{ye{Ya{yt{Ye{yn {WPath Around Gaalstrom{x~
+A roughly forged path leading around from the city's western side to the
+northern side, mostly a utilitarian necessity.  The path continues east.  
+~
+0 0 0
+D1
+~
+~
+0 0 684
+D2
+~
+~
+0 0 686
+S
+#686
+{YB{ye{Ya{yt{Ye{yn {WPath Around Gaalstrom{x~
+~
+0 0 0
+D0
+~
+~
+0 0 685
+D2
+~
+~
+0 0 687
+S
+#687
+{YB{ye{Ya{yt{Ye{yn {WPath Around Gaalstrom{x~
+~
+0 0 0
+D0
+~
+~
+0 0 686
+D2
+~
+~
+0 0 688
+S
+#688
+{YB{ye{Ya{yt{Ye{yn {WPath Around Gaalstrom{x~
+A roughly forged path leading around from the city's western side to the
+northern side, mostly a utilitarian necessity.  The path continues north and
+west.  
+~
+0 0 0
+D0
+~
+~
+0 0 687
+D2
+~
+~
+0 0 689
+D3
+~
+~
+0 0 689
+S
+#689
+{YB{ye{Ya{yt{Ye{yn {WPath Around Gaalstrom{x~
+A roughly forged path leading around from the city's western side to the
+northern side, mostly a utilitarian necessity.  The path continues north and
+west.  
+~
+0 0 0
+D0
+~
+~
+0 0 688
+D2
+~
+~
+0 0 603
+S
+#690
+{GM{ger{Gc{gha{Gn{gts{R R{ro{Rad{x~
+The southern gate of Gaalstrom is to the north.  The smaller, lesser used
+Merchants Road heads off to the west.  As the name implies, it is mostly
+used by merchants to traffic their wares into the city in a faster and safer
+manner.  North leads back into the city.  
+~
+0 0 0
+D0
+~
+~
+0 0 3256
+D2
+~
+~
+0 0 762
+D3
+~
+~
+0 0 691
+S
+#691
+{GM{ger{Gc{gha{Gn{gts{R R{ro{Rad{x~
+The road is lined with many wagons and carts full of wares.  Many
+merchants make Gaalstrom their first stop on their long and winding trade
+routes.  Some stop to haggle and barter with each other, each trying to get
+the best deal for any item that catches their fancy.  Merchants road
+continues to the west.  
+~
+0 0 0
+D1
+~
+~
+0 0 690
+D3
+~
+~
+0 0 692
+S
+#692
+{GM{ger{Gc{gha{Gn{gts{R R{ro{Rad{x~
+The road is lined with many wagons and carts full of wares.  Many
+merchants make Gaalstrom their first stop on their long and winding trade
+routes.  Some stop to haggle and barter with each other, each trying to get
+the best deal for any item that catches their fancy.  Merchants road
+continues to the west.  
+~
+0 0 0
+D1
+~
+~
+0 0 691
+D3
+~
+~
+0 0 693
+S
+#693
+{GM{ger{Gc{gha{Gn{gts{R R{ro{Rad{x~
+The road is lined with many wagons and carts full of wares.  Many
+merchants make Gaalstrom their first stop on their long and winding trade
+routes.  Some stop to haggle and barter with each other, each trying to get
+the best deal for any item that catches their fancy.  Merchants road
+continues to the west.  
+~
+0 0 0
+D1
+~
+~
+0 0 692
+D3
+~
+~
+0 0 694
+S
+#694
+{GM{ger{Gc{gha{Gn{gts{R R{ro{Rad{x~
+The road is lined with many wagons and carts full of wares.  Many
+merchants make Gaalstrom their first stop on their long and winding trade
+routes.  Some stop to haggle and barter with each other, each trying to get
+the best deal for any item that catches their fancy.  Merchants road
+continues to the west.  
+~
+0 0 0
+D1
+~
+~
+0 0 693
+D3
+~
+~
+0 0 695
+S
+#695
+{GM{ger{Gc{gha{Gn{gts{R R{ro{Rad{x~
+The road is lined with many wagons and carts full of wares.  Many
+merchants make Gaalstrom their first stop on their long and winding trade
+routes.  Some stop to haggle and barter with each other, each trying to get
+the best deal for any item that catches their fancy.  Merchants road
+continues to the west.  
+~
+0 0 0
+D1
+~
+~
+0 0 694
+D3
+~
+~
+0 0 696
+S
+#696
+{GM{ger{Gc{gha{Gn{gts{R R{ro{Rad{x~
+The road is lined with many wagons and carts full of wares.  Many
+merchants make Gaalstrom their first stop on their long and winding trade
+routes.  Some stop to haggle and barter with each other, each trying to get
+the best deal for any item that catches their fancy.  Merchants road takes a
+sharp turn to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 697
+D1
+~
+~
+0 0 695
+S
+#697
+{GM{ger{Gc{gha{Gn{gts{R R{ro{Rad{x~
+The road is lined with many wagons and carts full of wares.  Many
+merchants make Gaalstrom their first stop on their long and winding trade
+routes.  Some stop to haggle and barter with each other, each trying to get
+the best deal for any item that catches their fancy.  Merchants road
+continues to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 698
+D2
+~
+~
+0 0 696
+S
+#698
+{GM{ger{Gc{gha{Gn{gts{R R{ro{Rad{x~
+The road is lined with many wagons and carts full of wares.  Many
+merchants make Gaalstrom their first stop on their long and winding trade
+routes.  Some stop to haggle and barter with each other, each trying to get
+the best deal for any item that catches their fancy.  Merchants road
+continues to the west.  
+~
+0 0 0
+D2
+~
+~
+0 0 697
+D3
+~
+~
+0 0 699
+S
+#699
+{GM{ger{Gc{gha{Gn{gts{R R{ro{Rad{x~
+The road is lined with many wagons and carts full of wares.  Many
+merchants make Gaalstrom their first stop on their long and winding trade
+routes.  Some stop to haggle and barter with each other, each trying to get
+the best deal for any item that catches their fancy.  Merchants road
+continues to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 700
+D1
+~
+~
+0 0 698
+S
+#700
+{GM{ger{Gc{gha{Gn{gts{R R{ro{Rad{x~
+The road is lined with many wagons and carts full of wares.  Many
+merchants make Gaalstrom their first stop on their long and winding trade
+routes.  Some stop to haggle and barter with each other, each trying to get
+the best deal for any item that catches their fancy.  Merchants road
+continues to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 701
+D2
+~
+~
+0 0 699
+S
+#701
+{GM{ger{Gc{gha{Gn{gts{R R{ro{Rad{x~
+The road is lined with many wagons and carts full of wares.  Many
+merchants make Gaalstrom their first stop on their long and winding trade
+routes.  Some stop to haggle and barter with each other, each trying to get
+the best deal for any item that catches their fancy.  Merchants road
+continues to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 702
+D2
+~
+~
+0 0 700
+S
+#702
+{GM{ger{Gc{gha{Gn{gts{R R{ro{Rad{x~
+The road is lined with many wagons and carts full of wares.  Many
+merchants make Gaalstrom their first stop on their long and winding trade
+routes.  Some stop to haggle and barter with each other, each trying to get
+the best deal for any item that catches their fancy.  Merchants road
+continues to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 703
+D2
+~
+~
+0 0 701
+S
+#703
+{GM{ger{Gc{gha{Gn{gts{R R{ro{Rad{x~
+The road is lined with many wagons and carts full of wares.  Many
+merchants make Gaalstrom their first stop on their long and winding trade
+routes.  Some stop to haggle and barter with each other, each trying to get
+the best deal for any item that catches their fancy.  Merchants road
+continues to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 676
+D2
+~
+~
+0 0 702
+S
+#704
+{GF{worest {GP{wath{x~
+This scarcely travelled road leads into the dark forest that borders
+gaalstrom on two sides.  Few to no travellers venture to deep within the
+darkness as fear and myth working together can wittle a mans courage to
+nothing more than a fleeting wisp of bravery.  The giant city is back west,
+the forest is east.  
+~
+0 0 0
+D1
+~
+~
+0 0 705
+D3
+~
+~
+0 0 3053
+S
+#705
+{GF{worest {GP{wath{x~
+This scarcely travelled road leads into the dark forest that borders
+gaalstrom on two sides.  Few to no travellers venture to deep within the
+darkness as fear and myth working together can wittle a mans courage to
+nothing more than a fleeting wisp of bravery.  The giant city is back west,
+the forest is east.  
+~
+0 0 0
+D1
+~
+~
+0 0 706
+D3
+~
+~
+0 0 704
+S
+#706
+{GF{worest {GP{wath{x~
+This scarcely travelled road leads into the dark forest that borders
+gaalstrom on two sides.  Few to no travellers venture to deep within the
+darkness as fear and myth working together can wittle a mans courage to
+nothing more than a fleeting wisp of bravery.  The giant city is back west,
+the forest is east.  
+~
+0 0 0
+D1
+~
+~
+0 0 707
+D3
+~
+~
+0 0 705
+S
+#707
+{GF{worest {GP{wath{x~
+This scarcely travelled road leads into the dark forest that borders
+gaalstrom on two sides.  Few to no travellers venture to deep within the
+darkness as fear and myth working together can wittle a mans courage to
+nothing more than a fleeting wisp of bravery.  The giant city is back west,
+the forest is east.  
+~
+0 0 0
+D1
+~
+~
+0 0 708
+D3
+~
+~
+0 0 706
+S
+#708
+{GF{worest {GP{wath{x~
+This scarcely travelled road leads into the dark forest that borders
+gaalstrom on two sides.  Few to no travellers venture to deep within the
+darkness as fear and myth working together can wittle a mans courage to
+nothing more than a fleeting wisp of bravery.  The giant city is back west,
+the forest is east.  
+~
+0 0 0
+D1
+~
+~
+0 0 709
+D3
+~
+~
+0 0 707
+S
+#709
+{GF{worest {GP{wath{x~
+This scarcely travelled road leads into the dark forest that borders
+gaalstrom on two sides.  Few to no travellers venture to deep within the
+darkness as fear and myth working together can wittle a mans courage to
+nothing more than a fleeting wisp of bravery.  The giant city is back west,
+the forest is east.  
+~
+0 0 0
+D1
+~
+~
+0 0 710
+D3
+~
+~
+0 0 708
+S
+#710
+{GF{worest {GP{wath{x~
+This scarcely travelled road leads into the dark forest that borders
+gaalstrom on two sides.  Few to no travellers venture to deep within the
+darkness as fear and myth working together can wittle a mans courage to
+nothing more than a fleeting wisp of bravery.  The giant city is back west,
+the forest is east.  
+~
+0 0 0
+D1
+~
+~
+0 0 712
+D2
+~
+~
+0 0 779
+D3
+~
+~
+0 0 709
+S
+#711
+~
+~
+0 4 0
+S
+#712
+{GF{worest {GP{wath{x~
+This scarcely travelled road leads into the dark forest that borders
+gaalstrom on two sides.  Few to no travellers venture to deep within the
+darkness as fear and myth working together can wittle a mans courage to
+nothing more than a fleeting wisp of bravery.  The giant city is back west,
+the forest is east.  
+~
+0 0 0
+D1
+~
+~
+0 0 713
+D3
+~
+~
+0 0 710
+S
+#713
+{GF{worest {GP{wath{x~
+This scarcely travelled road leads into the dark forest that borders
+gaalstrom on two sides.  Few to no travellers venture to deep within the
+darkness as fear and myth working together can wittle a mans courage to
+nothing more than a fleeting wisp of bravery.  The giant city is back west,
+the forest is north.  To the east lies a small lake.  
+~
+0 0 0
+D0
+~
+~
+0 0 716
+D1
+~
+~
+0 0 714
+D3
+~
+~
+0 0 712
+S
+#714
+{cE{bdge Of The {CL{ba{ck{be{x~
+The water is still.  Between two large and sprawling hills the water here
+has gathered to form a gigantic lake.  Hundreds of fish and other types of
+animals live inside.  The water is cold, fresh and clean.  The forest is
+back west, the lake is east.  
+~
+0 0 0
+D1
+~
+~
+0 0 715
+D3
+~
+~
+0 0 713
+S
+#715
+{cFloating about the Lake{x~
+The massive lake is devoid of any significant life.  There are hundreds
+of fish floating around below, darting about between the reeds and large
+rocks.  A few water insects scamper across the surface of the lake as if it
+were ice.  The water is cold but not unpleasant.  West leads out of the
+lake.  
+~
+0 0 0
+D3
+~
+~
+0 0 714
+S
+#716
+{DDark {GF{go{Gr{ge{Gs{gt{x~
+Inside a dark forest.  The trees appear very menacing.  Thick tendrils of
+mist float out from the bushes and shrubbery.  Many insects can be heard
+buzzing and chirping in the darkness.  The thick canopy of trees above
+allows barely any light to break through.  The forest continues north.  The
+forest path is back south.  
+~
+0 0 0
+D0
+~
+~
+0 0 717
+D2
+~
+~
+0 0 713
+S
+#717
+{DDark {GF{go{Gr{ge{Gs{gt{x~
+Inside a dark forest.  The trees appear very menacing.  Thick tendrils of
+mist float out from the bushes and shrubbery.  Many insects can be heard
+buzzing and chirping in the darkness.  The thick canopy of trees above
+allows barely any light to break through.  The forest continues south and
+north.  
+~
+0 0 0
+D0
+~
+~
+0 0 718
+D2
+~
+~
+0 0 716
+S
+#718
+{DDark {GF{go{Gr{ge{Gs{gt{x~
+Inside a dark forest.  The trees appear very menacing.  Thick tendrils of
+mist float out from the bushes and shrubbery.  Many insects can be heard
+buzzing and chirping in the darkness.  The thick canopy of trees above
+allows barely any light to break through.  The forest continues south.  
+~
+0 0 0
+D1
+~
+~
+0 0 719
+D2
+~
+~
+0 0 717
+S
+#719
+{DDark {GF{go{Gr{ge{Gs{gt{x~
+Inside a dark forest.  The trees appear very menacing.  Thick tendrils of
+mist float out from the bushes and shrubbery.  Many insects can be heard
+buzzing and chirping in the darkness.  The thick canopy of trees above
+allows barely any light to break through.  The forest continues west. 
+Nearyby to the north, a gigantic, menacing tree looms.  
+~
+0 0 0
+D0
+~
+~
+0 0 720
+D3
+~
+~
+0 0 718
+S
+#720
+{DDark {GF{go{Gr{ge{Gs{gt{x~
+Inside a dark forest.  The trees appear very menacing.  Thick tendrils of
+mist float out from the bushes and shrubbery.  Many insects can be heard
+buzzing and chirping in the darkness.  The thick canopy of trees above
+allows barely any light to break through.  The forest continues south.  
+~
+0 0 0
+D0
+~
+~
+0 0 41000
+D1
+~
+~
+0 0 721
+D2
+~
+~
+0 0 719
+S
+#721
+{DDark {GF{go{Gr{ge{Gs{gt{x~
+Inside a dark forest.  The trees appear very menacing.  Thick tendrils of
+mist float out from the bushes and shrubbery.  Many insects can be heard
+buzzing and chirping in the darkness.  The thick canopy of trees above
+allows barely any light to break through.  The forest continues in many
+directions.  
+~
+0 0 0
+D0
+~
+~
+0 0 731
+D1
+~
+~
+0 0 722
+D3
+~
+~
+0 0 720
+S
+#722
+{DDark {GF{go{Gr{ge{Gs{gt{x~
+Inside a dark forest.  The trees appear very menacing.  Thick tendrils of
+mist float out from the bushes and shrubbery.  Many insects can be heard
+buzzing and chirping in the darkness.  The thick canopy of trees above
+allows barely any light to break through.  The forest continues in many
+directions.  
+~
+0 0 0
+D1
+~
+~
+0 0 723
+D3
+~
+~
+0 0 721
+S
+#723
+{DDark {GF{go{Gr{ge{Gs{gt{x~
+Inside a dark forest.  The trees appear very menacing.  Thick tendrils of
+mist float out from the bushes and shrubbery.  Many insects can be heard
+buzzing and chirping in the darkness.  The thick canopy of trees above
+allows barely any light to break through.  The forest continues in many
+directions.  
+~
+0 0 0
+D1
+~
+~
+0 0 724
+D3
+~
+~
+0 0 722
+S
+#724
+{DDark {GF{go{Gr{ge{Gs{gt{x~
+Inside a dark forest.  The trees appear very menacing.  Thick tendrils of
+mist float out from the bushes and shrubbery.  Many insects can be heard
+buzzing and chirping in the darkness.  The thick canopy of trees above
+allows barely any light to break through.  The forest continues in many
+directions.  
+~
+0 0 0
+D1
+~
+~
+0 0 725
+D3
+~
+~
+0 0 723
+S
+#725
+{DDark {GF{go{Gr{ge{Gs{gt{x~
+Inside a dark forest.  The trees appear very menacing.  Thick tendrils of
+mist float out from the bushes and shrubbery.  Many insects can be heard
+buzzing and chirping in the darkness.  The thick canopy of trees above
+allows barely any light to break through.  The forest continues in many
+directions.  
+~
+0 0 0
+D1
+~
+~
+0 0 726
+D3
+~
+~
+0 0 724
+S
+#726
+{DDark {GF{go{Gr{ge{Gs{gt{x~
+Inside a dark forest.  The trees appear very menacing.  Thick tendrils of
+mist float out from the bushes and shrubbery.  Many insects can be heard
+buzzing and chirping in the darkness.  The thick canopy of trees above
+allows barely any light to break through.  The forest continues in many
+directions.  
+~
+0 0 0
+D1
+~
+~
+0 0 727
+D3
+~
+~
+0 0 725
+S
+#727
+{DDark {GF{go{Gr{ge{Gs{gt{x~
+Inside a dark forest.  The trees appear very menacing.  Thick tendrils of
+mist float out from the bushes and shrubbery.  Many insects can be heard
+buzzing and chirping in the darkness.  The thick canopy of trees above
+allows barely any light to break through.  The forest continues in many
+directions.  
+~
+0 0 0
+D1
+~
+~
+0 0 728
+D3
+~
+~
+0 0 726
+S
+#728
+{DDark {GF{go{Gr{ge{Gs{gt{x~
+Inside a dark forest.  The trees appear very menacing.  Thick tendrils of
+mist float out from the bushes and shrubbery.  Many insects can be heard
+buzzing and chirping in the darkness.  The thick canopy of trees above
+allows barely any light to break through.  The forest continues in many
+directions.  
+~
+0 0 0
+D1
+~
+~
+0 0 729
+D3
+~
+~
+0 0 727
+S
+#729
+{DDark {GF{go{Gr{ge{Gs{gt{x~
+Inside a dark forest.  The trees appear very menacing.  Thick tendrils of
+mist float out from the bushes and shrubbery.  Many insects can be heard
+buzzing and chirping in the darkness.  The thick canopy of trees above
+allows barely any light to break through.  The forest continues in many
+directions.  
+~
+0 0 0
+D1
+~
+~
+0 0 730
+D3
+~
+~
+0 0 728
+S
+#730
+{DDark {GF{go{Gr{ge{Gs{gt{x~
+Inside a dark forest.  The trees appear very menacing.  Thick tendrils of
+mist float out from the bushes and shrubbery.  Many insects can be heard
+buzzing and chirping in the darkness.  The thick canopy of trees above
+allows barely any light to break through.  The forest continues in many
+directions.  
+~
+0 0 0
+D0
+~
+~
+0 0 748
+D3
+~
+~
+0 0 729
+S
+#731
+{DDark {GF{go{Gr{ge{Gs{gt{x~
+Inside a dark forest.  The trees appear very menacing.  Thick tendrils of
+mist float out from the bushes and shrubbery.  Many insects can be heard
+buzzing and chirping in the darkness.  The thick canopy of trees above
+allows barely any light to break through.  The forest continues south.  A
+strange area can be seen to the east, buzzing with animal life.  
+~
+0 4 0
+D0
+~
+~
+0 0 732
+D1
+~
+~
+0 0 319
+D2
+~
+~
+0 0 721
+S
+#732
+{DDark {GI{gn{Gt{ge{Gr{gs{Ge{gc{Gt{gi{Go{gn{x~
+The path splits into two different routes here.  A small pond sits in the
+center where the road splits, its stagnant filthy water reaks of death.  One
+trail leads to the north, the other south.  West leads back to Gaalstrom.  
+~
+0 0 0
+D0
+~
+~
+0 0 733
+D2
+~
+~
+0 0 731
+D3
+~
+~
+0 0 749
+S
+#733
+{BM{ci{Bs{ct{By {GGrove{x~
+A deep fog settles over the shrubs and bushes here.  The darkness has
+lifted enough to make travel through the mist rather simple.  The forest
+still has a tense feeling flowing through the branches and trees.  The
+barely visible trail continues north.  
+~
+0 0 0
+D0
+~
+~
+0 0 734
+D2
+~
+~
+0 0 732
+S
+#734
+{BM{ci{Bs{ct{By {GGrove{x~
+A deep fog settles over the shrubs and bushes here.  The darkness has
+lifted enough to make travel through the mist rather simple.  The forest
+still has a tense feeling flowing through the branches and trees.  The
+barely visible trail continues east.  A smaller, lesser used trail is to the
+north.  A large black tower can be seen to the distant northwest.  
+~
+0 4 0
+D0
+~
+~
+0 0 400
+D1
+~
+~
+0 0 735
+D2
+~
+~
+0 0 733
+S
+#735
+{BM{ci{Bs{ct{By {GGrove{x~
+A deep fog settles over the shrubs and bushes here.  The darkness has
+lifted enough to make travel through the mist rather simple.  The forest
+still has a tense feeling flowing through the branches and trees.  The
+barely visible trail continues east.  
+~
+0 0 0
+D1
+~
+~
+0 0 736
+D3
+~
+~
+0 0 734
+S
+#736
+{BM{ci{Bs{ct{By {GGrove{x~
+A deep fog settles over the shrubs and bushes here.  The darkness has
+lifted enough to make travel through the mist rather simple.  The forest
+still has a tense feeling flowing through the branches and trees.  The
+barely visible trail continues east.  
+~
+0 0 0
+D0
+~
+~
+0 0 40384
+D1
+~
+~
+0 0 737
+D3
+~
+~
+0 0 735
+S
+#737
+{BM{ci{Bs{ct{By {GGrove{x~
+A deep fog settles over the shrubs and bushes here.  The darkness has
+lifted enough to make travel through the mist rather simple.  The forest
+still has a tense feeling flowing through the branches and trees.  The
+barely visible trail continues east.  
+~
+0 0 0
+D1
+~
+~
+0 0 738
+D3
+~
+~
+0 0 736
+S
+#738
+{BM{ci{Bs{ct{By {GGrove{x~
+A deep fog settles over the shrubs and bushes here.  The darkness has
+lifted enough to make travel through the mist rather simple.  The forest
+still has a tense feeling flowing through the branches and trees.  The
+barely visible trail continues north, where it appears to traverse into a
+less sinister locale.  
+~
+0 0 0
+D0
+~
+~
+0 0 739
+D3
+~
+~
+0 0 737
+S
+#739
+{YB{yright {GF{wo{Gr{we{Gs{wt{x~
+The forest seems to come alive here.  The birds are chirping merrily in
+their boughs and branches.  Lots of tree blossoms and bushes are in full
+bloom, turning the trip through this forest into a work of art.  A petal
+covered trail leads off to the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 740
+D2
+~
+~
+0 0 738
+S
+#740
+{YB{yright {GF{wo{Gr{we{Gs{wt{x~
+The forest seems to come alive here.  The birds are chirping merrily in
+their boughs and branches.  Lots of tree blossoms and bushes are in full
+bloom, turning the trip through this forest into a work of art.  A petal
+covered trail leads off to the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 741
+D3
+~
+~
+0 0 739
+S
+#741
+{YB{yright {GF{wo{Gr{we{Gs{wt{x~
+The forest seems to come alive here.  The birds are chirping merrily in
+their boughs and branches.  Lots of tree blossoms and bushes are in full
+bloom, turning the trip through this forest into a work of art.  A petal
+covered trail leads off to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 845
+D1
+~
+~
+0 0 742
+D3
+~
+~
+0 0 740
+S
+#742
+{YB{yright {GF{wo{Gr{we{Gs{wt{x~
+The forest seems to come alive here.  The birds are chirping merrily in
+their boughs and branches.  Lots of tree blossoms and bushes are in full
+bloom, turning the trip through this forest into a work of art.  A petal
+covered trail leads off to the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 743
+D3
+~
+~
+0 0 741
+S
+#743
+{YB{yright {GF{wo{Gr{we{Gs{wt{x~
+The forest seems to come alive here.  The birds are chirping merrily in
+their boughs and branches.  Lots of tree blossoms and bushes are in full
+bloom, turning the trip through this forest into a work of art.  A petal
+covered trail leads off to the south, where it begins to get a bit darker.  
+~
+0 0 0
+D2
+~
+~
+0 0 744
+D3
+~
+~
+0 0 742
+S
+#744
+{DDark {GF{go{Gr{ge{Gs{gt{x~
+Inside a dark forest.  The trees appear very menacing.  Thick tendrils of
+mist float out from the bushes and shrubbery.  Many insects can be heard
+buzzing and chirping in the darkness.  The thick canopy of trees above
+allows barely any light to break through.  The forest continues in many
+directions.  
+~
+0 0 0
+D0
+~
+~
+0 0 743
+D1
+~
+~
+0 0 838
+D2
+~
+~
+0 0 745
+S
+#745
+{DDark {GF{go{Gr{ge{Gs{gt{x~
+Inside a dark forest.  The trees appear very menacing.  Thick tendrils of
+mist float out from the bushes and shrubbery.  Many insects can be heard
+buzzing and chirping in the darkness.  The thick canopy of trees above
+allows barely any light to break through.  The forest continues in many
+directions.  
+~
+0 0 0
+D0
+~
+~
+0 0 744
+D2
+~
+~
+0 0 746
+S
+#746
+{DDark {GF{go{Gr{ge{Gs{gt{x~
+Inside a dark forest.  The trees appear very menacing.  Thick tendrils of
+mist float out from the bushes and shrubbery.  Many insects can be heard
+buzzing and chirping in the darkness.  The thick canopy of trees above
+allows barely any light to break through.  The forest continues in many
+directions.  
+~
+0 0 0
+D0
+~
+~
+0 0 745
+D1
+~
+~
+0 0 747
+S
+#747
+{DDark {GF{go{Gr{ge{Gs{gt{x~
+Inside a dark forest.  The trees appear very menacing.  Thick tendrils of
+mist float out from the bushes and shrubbery.  Many insects can be heard
+buzzing and chirping in the darkness.  The thick canopy of trees above
+allows barely any light to break through.  The forest continues in many
+directions.  
+~
+0 0 0
+D2
+~
+~
+0 0 748
+D3
+~
+~
+0 0 746
+S
+#748
+{DDark {GF{go{Gr{ge{Gs{gt{x~
+Inside a dark forest.  The trees appear very menacing.  Thick tendrils of
+mist float out from the bushes and shrubbery.  Many insects can be heard
+buzzing and chirping in the darkness.  The thick canopy of trees above
+allows barely any light to break through.  The forest continues in many
+directions.  
+~
+0 0 0
+D0
+~
+~
+0 0 747
+D2
+~
+~
+0 0 730
+S
+#749
+{DDark {GF{go{Gr{ge{Gs{gt{x~
+Inside a dark forest.  The trees appear very menacing.  Thick tendrils of
+mist float out from the bushes and shrubbery.  Many insects can be heard
+buzzing and chirping in the darkness.  The thick canopy of trees above
+allows barely any light to break through.  The forest continues east.  
+~
+0 0 0
+D1
+~
+~
+0 0 732
+D3
+~
+~
+0 0 751
+S
+#750
+~
+~
+0 4 0
+S
+#751
+{DDark {GF{go{Gr{ge{Gs{gt{x~
+Inside a dark forest.  The trees appear very menacing.  Thick tendrils of
+mist float out from the bushes and shrubbery.  Many insects can be heard
+buzzing and chirping in the darkness.  The thick canopy of trees above
+allows barely any light to break through.  The forest continues east.  
+~
+0 0 0
+D1
+~
+~
+0 0 749
+D3
+~
+~
+0 0 752
+S
+#752
+{DDark {GF{go{Gr{ge{Gs{gt{x~
+Inside a dark forest.  The trees appear very menacing.  Thick tendrils of
+mist float out from the bushes and shrubbery.  Many insects can be heard
+buzzing and chirping in the darkness.  The thick canopy of trees above
+allows barely any light to break through.  The forest continues east.  
+~
+0 0 0
+D1
+~
+~
+0 0 751
+D3
+~
+~
+0 0 753
+S
+#753
+{DDark {GF{go{Gr{ge{Gs{gt{x~
+Inside a dark forest.  The trees appear very menacing.  Thick tendrils of
+mist float out from the bushes and shrubbery.  Many insects can be heard
+buzzing and chirping in the darkness.  The thick canopy of trees above
+allows barely any light to break through.  The forest continues east.  
+~
+0 0 0
+D1
+~
+~
+0 0 752
+D3
+~
+~
+0 0 754
+S
+#754
+{DDark {GF{go{Gr{ge{Gs{gt{x~
+Inside a dark forest.  The trees appear very menacing.  Thick tendrils of
+mist float out from the bushes and shrubbery.  Many insects can be heard
+buzzing and chirping in the darkness.  The thick canopy of trees above
+allows barely any light to break through.  The forest continues east.  
+~
+0 0 0
+D1
+~
+~
+0 0 753
+D3
+~
+~
+0 0 755
+S
+#755
+{DDark {GF{go{Gr{ge{Gs{gt{x~
+Inside a dark forest.  The trees appear very menacing.  Thick tendrils of
+mist float out from the bushes and shrubbery.  Many insects can be heard
+buzzing and chirping in the darkness.  The thick canopy of trees above
+allows barely any light to break through.  The forest continues east.  
+~
+0 0 0
+D1
+~
+~
+0 0 754
+D3
+~
+~
+0 0 756
+S
+#756
+{DDark {GF{go{Gr{ge{Gs{gt{x~
+Inside a dark forest.  The trees appear very menacing.  Thick tendrils of
+mist float out from the bushes and shrubbery.  Many insects can be heard
+buzzing and chirping in the darkness.  The thick canopy of trees above
+allows barely any light to break through.  The forest continues east.  
+~
+0 0 0
+D1
+~
+~
+0 0 755
+D3
+~
+~
+0 0 757
+S
+#757
+{DDark {GF{go{Gr{ge{Gs{gt{x~
+Inside a dark forest.  The trees appear very menacing.  Thick tendrils of
+mist float out from the bushes and shrubbery.  Many insects can be heard
+buzzing and chirping in the darkness.  The thick canopy of trees above
+allows barely any light to break through.  The forest continues east.  
+~
+0 0 0
+D1
+~
+~
+0 0 756
+D3
+~
+~
+0 0 758
+S
+#758
+{DDark {GF{go{Gr{ge{Gs{gt{x~
+Inside a dark forest.  The trees appear very menacing.  Thick tendrils of
+mist float out from the bushes and shrubbery.  Many insects can be heard
+buzzing and chirping in the darkness.  The thick canopy of trees above
+allows barely any light to break through.  The forest continues east.  
+~
+0 0 0
+D1
+~
+~
+0 0 757
+D3
+~
+~
+0 0 759
+S
+#759
+{DDark {GF{go{Gr{ge{Gs{gt{x~
+Inside a dark forest.  The trees appear very menacing.  Thick tendrils of
+mist float out from the bushes and shrubbery.  Many insects can be heard
+buzzing and chirping in the darkness.  The thick canopy of trees above
+allows barely any light to break through.  The forest continues east.  A
+strange looking path cuts through the underbrush to the north.  
+~
+0 4 0
+D0
+~
+~
+0 0 4200
+D1
+~
+~
+0 0 758
+D3
+~
+~
+0 0 760
+S
+#760
+{DDark {GF{go{Gr{ge{Gs{gt{x~
+Inside a dark forest.  The trees appear very menacing.  Thick tendrils of
+mist float out from the bushes and shrubbery.  Many insects can be heard
+buzzing and chirping in the darkness.  The thick canopy of trees above
+allows barely any light to break through.  The forest continues east.  
+~
+0 0 0
+D1
+~
+~
+0 0 759
+D3
+~
+~
+0 0 761
+S
+#761
+{DDark {GF{go{Gr{ge{Gs{gt{x~
+Inside a dark forest.  The trees appear very menacing.  Thick tendrils of
+mist float out from the bushes and shrubbery.  Many insects can be heard
+buzzing and chirping in the darkness.  The thick canopy of trees above
+allows barely any light to break through.  The forest continues east.  
+~
+0 0 0
+D1
+~
+~
+0 0 760
+D3
+~
+~
+0 0 677
+S
+#762
+A Small {yPath {xaway from {BG{baa{Bl{bst{Br{bom{x~
+The grand city known as Gaalstrom is north of here.  This small path
+leads south to the Gaalstrom Beach and the docks where ships can harbor. 
+The docks are rarely traveled, for it's rumored that a group of pirates live
+there.  
+~
+0 4 0
+D0
+~
+~
+0 0 690
+D2
+~
+~
+0 0 763
+S
+#763
+A Small {yPath {xaway from {BG{baa{Bl{bst{Br{bom{x~
+The grand city known as Gaalstrom is north of here.  This small path
+leads south to the Gcalstrom Beach and the docks where ships can harbor. 
+The docks are rarely traveled, for it's rumored that a group of pirates live
+there.  
+~
+0 0 0
+D0
+~
+~
+0 0 762
+D1
+~
+~
+0 0 814
+D2
+~
+~
+0 0 764
+S
+#764
+A Small {yPath {xaway from {BG{baa{Bl{bst{Br{bom{x~
+The grand city known as Gaalstrom is north of here.  This small path
+leads south to the Gaalstrom Beach and the docks where ships can harbor. 
+The docks are rarely traveled, for it's rumored that a group of pirates live
+there.  
+~
+0 0 0
+D0
+~
+~
+0 0 763
+D2
+~
+~
+0 0 765
+S
+#765
+A Small {yPath {xaway from {BG{baa{Bl{bst{Br{bom{x~
+The grand city known as Gaalstrom is north of here.  This small path
+leads south to the Gaalstrom Beach and the docks where ships can harbor. 
+The docks are rarely traveled, for it's rumored that a group of pirates live
+there.  
+~
+0 0 0
+D0
+~
+~
+0 0 764
+D2
+~
+~
+0 0 766
+S
+#766
+A {YSandy {BB{We{Ba{Wc{Bh{x~
+The sand here is as soft as an feather.  Your feet sink into it with
+every step.  The sound of breaking waves is coming from the south.  The
+waves are crashing against a long wooden dock.  Far off to the north lies
+the city of Gaalstrom.  
+~
+0 0 0
+D0
+~
+~
+0 0 765
+D1
+~
+~
+0 0 767
+D2
+~
+~
+0 0 769
+D3
+~
+~
+0 0 768
+S
+#767
+A {YSandy {BB{We{Ba{Wc{Bh{x~
+The sand here is as soft as an feather.  Your feet sink into it with
+every step.  The sound of breaking waves is coming from the south.  The
+waves are crashing against a long wooden dock.  Far off to the north lies
+the city of Gaalstrom.  
+~
+0 0 0
+D2
+~
+~
+0 0 770
+D3
+~
+~
+0 0 766
+S
+#768
+A {YSandy {BB{We{Ba{Wc{Bh{x~
+The sand here is as soft as an feather.  Your feet sink into it with
+every step.  The sound of breaking waves is coming from the south.  The
+waves are crashing against a long wooden dock.  Far off to the north lies
+the city of Gaalstrom.  
+~
+0 0 0
+D1
+~
+~
+0 0 766
+D2
+~
+~
+0 0 771
+S
+#769
+A {YSandy {BB{We{Ba{Wc{Bh{x~
+The sand here is as soft as an feather.  Your feet sink into it with
+every step.  The sound of breaking waves is coming from the south.  The
+waves are crashing against a long wooden dock.  Far off to the north lies
+the city of Gaalstrom.  
+~
+0 0 0
+D0
+~
+~
+0 0 766
+D1
+~
+~
+0 0 770
+D2
+~
+~
+0 0 772
+D3
+~
+~
+0 0 771
+S
+#770
+A {YSandy {BB{We{Ba{Wc{Bh{x~
+The sand here is as soft as an feather.  Your feet sink into it with
+every step.  The sound of breaking waves is coming from the south.  The
+waves are crashing against a long wooden dock.  Far off to the north lies
+the city of Gaalstrom.  
+~
+0 0 0
+D0
+~
+~
+0 0 767
+D2
+~
+~
+0 0 773
+D3
+~
+~
+0 0 769
+S
+#771
+A {YSandy {BB{We{Ba{Wc{Bh{x~
+The sand here is as soft as an feather.  Your feet sink into it with
+every step.  The sound of breaking waves is coming from the south.  The
+waves are crashing against a long wooden dock.  Far off to the north lies
+the city of Gaalstrom.  
+~
+0 0 0
+D0
+~
+~
+0 0 768
+D1
+~
+~
+0 0 769
+D2
+~
+~
+0 0 776
+S
+#772
+The {yDocks{x~
+These docks were made by the ancients that can only be heard about in
+stories now.  The wooden boards that make up the docks creak with every step
+you take.  The waves crash against the posts holding the dock up.  The sea
+to the south expands until it meets the sky at the horizon.  The beach is
+back to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 769
+D1
+~
+~
+0 0 773
+D3
+~
+~
+0 0 776
+S
+#773
+The {yDocks{x~
+These docks were made by the ancients that can only be heard about in
+stories now.  The wooden boards that make up the docks creak with every step
+you take.  The waves crash against the posts holding the dock up.  A pier
+branches off to the south and leads to a large ghost-like ship.  The beach
+is back to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 770
+D1
+~
+~
+0 0 774
+D2
+~
+~
+0 0 16000
+D3
+~
+~
+0 0 772
+S
+#774
+The {yDocks{x~
+These docks were made by the ancients that can only be heard about in
+stories now.  The wooden boards that make up the docks creak with every step
+you take.  The waves crash against the posts holding the dock up.  The sea
+to the south expands until it meets the sky at the horizon.  The beach is
+back to the north.  
+~
+0 0 0
+D1
+~
+~
+0 0 775
+D3
+~
+~
+0 0 773
+S
+#775
+The {yDocks{x~
+These docks were made by the ancients that can only be heard about in
+stories now.  The wooden boards that make up the docks creak with every step
+you take.  The waves crash against the posts holding the dock up.  The sea
+to the south expands until it meets the sky at the horizon.  The beach is
+back to the north.  
+~
+0 0 0
+D3
+~
+~
+0 0 774
+S
+#776
+The {yDocks{x~
+These docks were made by the ancients that can only be heard about in
+stories now.  The wooden boards that make up the docks creak with every step
+you take.  The waves crash against the posts holding the dock up.  The sea
+to the south expands until it meets the sky at the horizon.  The beach is
+back to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 771
+D1
+~
+~
+0 0 772
+D3
+~
+~
+0 0 777
+S
+#777
+The {yDocks{x~
+These docks were made by the ancients that can only be heard about in
+stories now.  The wooden boards that make up the docks creak with every step
+you take.  The waves crash against the posts holding the dock up.  The sea
+to the south expands until it meets the sky at the horizon.  The beach is
+back to the north.  
+~
+0 0 0
+D1
+~
+~
+0 0 776
+D3
+~
+~
+0 0 778
+S
+#778
+The {yDocks{x~
+These docks were made by the ancients that can only be heard about in
+stories now.  The wooden boards that make up the docks creak with every step
+you take.  The waves crash against the posts holding the dock up.  The sea
+to the south expands until it meets the sky at the horizon.  The beach is
+back to the north.  
+~
+0 0 0
+D1
+~
+~
+0 0 777
+S
+#779
+{GF{go{Gr{ge{Gs{gt {Cof {YL{Wife{x~
+Rays of light shine through the trees spotting the grass with small
+circles.  The birds are chirping all around, soothing your mind and soul.  A
+small squirrel runs up a nearby tree as a young rabbit darts in front of
+you.  You're too busy gazing at the lively forest to notice whether it's day
+or night.  
+~
+0 0 0
+D0
+~
+~
+0 0 710
+D2
+~
+~
+0 0 780
+S
+#780
+{GF{go{Gr{ge{Gs{gt {Cof {YL{Wife{x~
+Rays of light shine through the trees spotting the grass with small
+circles.  The birds are chirping all around, soothing your mind and soul.  A
+small squirrel runs up a nearby tree as a young rabbit darts in front of
+you.  You're too busy gazing at the lively forest to notice whether it's day
+or night.  
+~
+0 0 0
+D0
+~
+~
+0 0 779
+D2
+~
+~
+0 0 781
+S
+#781
+{GF{go{Gr{ge{Gs{gt {Cof {YL{Wife{x~
+Rays of light shine through the trees spotting the grass with small
+circles.  The birds are chirping all around, soothing your mind and soul.  A
+small squirrel runs up a nearby tree as a young rabbit darts in front of
+you.  You're too busy gazing at the lively forest to notice whether it's day
+or night.  
+~
+0 0 0
+D0
+~
+~
+0 0 780
+D1
+~
+~
+0 0 782
+D3
+~
+~
+0 0 783
+S
+#782
+{GF{go{Gr{ge{Gs{gt {Cof {YL{Wife{x~
+Rays of light shine through the trees spotting the grass with small
+circles.  The birds are chirping all around, soothing your mind and soul.  A
+small squirrel runs up a nearby tree as a young rabbit darts in front of
+you.  You're too busy gazing at the lively forest to notice whether it's day
+or night.  
+~
+0 0 0
+D2
+~
+~
+0 0 784
+D3
+~
+~
+0 0 781
+S
+#783
+{GF{go{Gr{ge{Gs{gt {Cof {YL{Wife{x~
+Rays of light shine through the trees spotting the grass with small
+circles.  The birds are chirping all around, soothing your mind and soul.  A
+small squirrel runs up a nearby tree as a young rabbit darts in front of
+you.  You're too busy gazing at the lively forest to notice whether it's day
+or night.  
+~
+0 0 0
+D1
+~
+~
+0 0 781
+D2
+~
+~
+0 0 788
+S
+#784
+{GF{go{Gr{ge{Gs{gt {Cof {YL{Wife{x~
+Rays of light shine through the trees spotting the grass with small
+circles.  The birds are chirping all around, soothing your mind and soul.  A
+small squirrel runs up a nearby tree as a young rabbit darts in front of
+you.  You're too busy gazing at the lively forest to notice whether it's day
+or night.  
+~
+0 0 0
+D0
+~
+~
+0 0 782
+D1
+~
+~
+0 0 785
+S
+#785
+{GF{go{Gr{ge{Gs{gt {Cof {YL{Wife{x~
+Rays of light shine through the trees spotting the grass with small
+circles.  The birds are chirping all around, soothing your mind and soul.  A
+small squirrel runs up a nearby tree as a young rabbit darts in front of
+you.  You're too busy gazing at the lively forest to notice whether it's day
+or night.  
+~
+0 0 0
+D2
+~
+~
+0 0 786
+D3
+~
+~
+0 0 784
+S
+#786
+{GF{go{Gr{ge{Gs{gt {Cof {YL{Wife{x~
+Rays of light shine through the trees spotting the grass with small
+circles.  The birds are chirping all around, soothing your mind and soul.  A
+small squirrel runs up a nearby tree as a young rabbit darts in front of
+you.  You're too busy gazing at the lively forest to notice whether it's day
+or night.  
+~
+0 0 0
+D0
+~
+~
+0 0 785
+D1
+~
+~
+0 0 806
+D2
+~
+~
+0 0 787
+S
+#787
+{GF{go{Gr{ge{Gs{gt {Cof {YL{Wife{x~
+Rays of light shine through the trees spotting the grass with small
+circles.  The birds are chirping all around, soothing your mind and soul.  A
+small squirrel runs up a nearby tree as a young rabbit darts in front of
+you.  You're too busy gazing at the lively forest to notice whether it's day
+or night.  
+~
+0 0 0
+D0
+~
+~
+0 0 786
+D3
+~
+~
+0 0 792
+S
+#788
+{GF{go{Gr{ge{Gs{gt {Cof {YL{Wife{x~
+Rays of light shine through the trees spotting the grass with small
+circles.  The birds are chirping all around, soothing your mind and soul.  A
+small squirrel runs up a nearby tree as a young rabbit darts in front of
+you.  You're too busy gazing at the lively forest to notice whether it's day
+or night.  
+~
+0 0 0
+D0
+~
+~
+0 0 783
+D2
+~
+~
+0 0 790
+D3
+~
+~
+0 0 789
+S
+#789
+{GF{go{Gr{ge{Gs{gt {Cof {YL{Wife{x~
+Rays of light shine through the trees spotting the grass with small
+circles.  The birds are chirping all around, soothing your mind and soul.  A
+small squirrel runs up a nearby tree as a young rabbit darts in front of
+you.  You're too busy gazing at the lively forest to notice whether it's day
+or night.  
+~
+0 0 0
+D1
+~
+~
+0 0 788
+D3
+~
+~
+0 0 793
+S
+#790
+{GF{go{Gr{ge{Gs{gt {Cof {YL{Wife{x~
+Rays of light shine through the trees spotting the grass with small
+circles.  The birds are chirping all around, soothing your mind and soul.  A
+small squirrel runs up a nearby tree as a young rabbit darts in front of
+you.  You're too busy gazing at the lively forest to notice whether it's day
+or night.  
+~
+0 0 0
+D0
+~
+~
+0 0 788
+D2
+~
+~
+0 0 791
+S
+#791
+{GF{go{Gr{ge{Gs{gt {Cof {YL{Wife{x~
+Rays of light shine through the trees spotting the grass with small
+circles.  The birds are chirping all around, soothing your mind and soul.  A
+small squirrel runs up a nearby tree as a young rabbit darts in front of
+you.  You're too busy gazing at the lively forest to notice whether it's day
+or night.  
+~
+0 0 0
+D0
+~
+~
+0 0 790
+D1
+~
+~
+0 0 792
+D2
+~
+~
+0 0 796
+S
+#792
+{GF{go{Gr{ge{Gs{gt {Cof {YL{Wife{x~
+Rays of light shine through the trees spotting the grass with small
+circles.  The birds are chirping all around, soothing your mind and soul.  A
+small squirrel runs up a nearby tree as a young rabbit darts in front of
+you.  You're too busy gazing at the lively forest to notice whether it's day
+or night.  
+~
+0 0 0
+D1
+~
+~
+0 0 787
+D3
+~
+~
+0 0 791
+S
+#793
+{GF{go{Gr{ge{Gs{gt {Cof {YL{Wife{x~
+Rays of light shine through the trees spotting the grass with small
+circles.  The birds are chirping all around, soothing your mind and soul.  A
+small squirrel runs up a nearby tree as a young rabbit darts in front of
+you.  You're too busy gazing at the lively forest to notice whether it's day
+or night.  
+~
+0 0 0
+D1
+~
+~
+0 0 789
+D3
+~
+~
+0 0 794
+S
+#794
+{GF{go{Gr{ge{Gs{gt {Cof {YL{Wife{x~
+Rays of light shine through the trees spotting the grass with small
+circles.  The birds are chirping all around, soothing your mind and soul.  A
+small squirrel runs up a nearby tree as a young rabbit darts in front of
+you.  You're too busy gazing at the lively forest to notice whether it's day
+or night.  
+~
+0 0 0
+D1
+~
+~
+0 0 793
+D3
+~
+~
+0 0 795
+S
+#795
+{GF{go{Gr{ge{Gs{gt {Cof {YL{Wife{x~
+Rays of light shine through the trees spotting the grass with small
+circles.  The birds are chirping all around, soothing your mind and soul.  A
+small squirrel runs up a nearby tree as a young rabbit darts in front of
+you.  You're too busy gazing at the lively forest to notice whether it's day
+or night.  
+~
+0 0 0
+D1
+~
+~
+0 0 794
+D3
+~
+~
+0 0 807
+S
+#796
+{GF{go{Gr{ge{Gs{gt {Cof {YL{Wife{x~
+Rays of light shine through the trees spotting the grass with small
+circles.  The birds are chirping all around, soothing your mind and soul.  A
+small squirrel runs up a nearby tree as a young rabbit darts in front of
+you.  You're too busy gazing at the lively forest to notice whether it's day
+or night.  
+~
+0 0 0
+D0
+~
+~
+0 0 791
+D2
+~
+~
+0 0 797
+S
+#797
+{GF{go{Gr{ge{Gs{gt {Cof {YL{Wife{x~
+Rays of light shine through the trees spotting the grass with small
+circles.  The birds are chirping all around, soothing your mind and soul.  A
+small squirrel runs up a nearby tree as a young rabbit darts in front of
+you.  You're too busy gazing at the lively forest to notice whether it's day
+or night.  
+~
+0 0 0
+D0
+~
+~
+0 0 796
+D1
+~
+~
+0 0 798
+S
+#798
+{GF{go{Gr{ge{Gs{gt {Cof {YL{Wife{x~
+Rays of light shine through the trees spotting the grass with small
+circles.  The birds are chirping all around, soothing your mind and soul.  A
+small squirrel runs up a nearby tree as a young rabbit darts in front of
+you.  You're too busy gazing at the lively forest to notice whether it's day
+or night.  
+~
+0 0 0
+D1
+~
+~
+0 0 799
+D3
+~
+~
+0 0 797
+S
+#799
+{GF{go{Gr{ge{Gs{gt {Cof {YL{Wife{x~
+Rays of light shine through the trees spotting the grass with small
+circles.  The birds are chirping all around, soothing your mind and soul.  A
+small squirrel runs up a nearby tree as a young rabbit darts in front of
+you.  You're too busy gazing at the lively forest to notice whether it's day
+or night.  
+~
+0 0 0
+D1
+~
+~
+0 0 800
+D3
+~
+~
+0 0 798
+S
+#800
+{GF{go{Gr{ge{Gs{gt {Cof {YL{Wife{x~
+Rays of light shine through the trees spotting the grass with small
+circles.  The birds are chirping all around, soothing your mind and soul.  A
+small squirrel runs up a nearby tree as a young rabbit darts in front of
+you.  You're too busy gazing at the lively forest to notice whether it's day
+or night.  
+~
+0 0 0
+D0
+~
+~
+0 0 801
+D3
+~
+~
+0 0 799
+S
+#801
+{GF{go{Gr{ge{Gs{gt {Cof {YL{Wife{x~
+Rays of light shine through the trees spotting the grass with small
+circles.  The birds are chirping all around, soothing your mind and soul.  A
+small squirrel runs up a nearby tree as a young rabbit darts in front of
+you.  You're too busy gazing at the lively forest to notice whether it's day
+or night.  
+~
+0 0 0
+D1
+~
+~
+0 0 802
+D2
+~
+~
+0 0 800
+S
+#802
+{GF{go{Gr{ge{Gs{gt {Cof {YL{Wife{x~
+Rays of light shine through the trees spotting the grass with small
+circles.  The birds are chirping all around, soothing your mind and soul.  A
+small squirrel runs up a nearby tree as a young rabbit darts in front of
+you.  You're too busy gazing at the lively forest to notice whether it's day
+or night.  
+~
+0 0 0
+D1
+~
+~
+0 0 803
+D3
+~
+~
+0 0 801
+S
+#803
+{GF{go{Gr{ge{Gs{gt {Cof {YL{Wife{x~
+Rays of light shine through the trees spotting the grass with small
+circles.  The birds are chirping all around, soothing your mind and soul.  A
+small squirrel runs up a nearby tree as a young rabbit darts in front of
+you.  You're too busy gazing at the lively forest to notice whether it's day
+or night.  
+~
+0 0 0
+D1
+~
+~
+0 0 804
+D3
+~
+~
+0 0 802
+S
+#804
+{GF{go{Gr{ge{Gs{gt {Cof {YL{Wife{x~
+Rays of light shine through the trees spotting the grass with small
+circles.  The birds are chirping all around, soothing your mind and soul.  A
+small squirrel runs up a nearby tree as a young rabbit darts in front of
+you.  You're too busy gazing at the lively forest to notice whether it's day
+or night.  
+~
+0 0 0
+D0
+~
+~
+0 0 805
+D3
+~
+~
+0 0 803
+S
+#805
+{GF{go{Gr{ge{Gs{gt {Cof {YL{Wife{x~
+Rays of light shine through the trees spotting the grass with small
+circles.  The birds are chirping all around, soothing your mind and soul.  A
+small squirrel runs up a nearby tree as a young rabbit darts in front of
+you.  You're too busy gazing at the lively forest to notice whether it's day
+or night.  
+~
+0 0 0
+D0
+~
+~
+0 0 806
+D2
+~
+~
+0 0 804
+S
+#806
+{GF{go{Gr{ge{Gs{gt {Cof {YL{Wife{x~
+Rays of light shine through the trees spotting the grass with small
+circles.  The birds are chirping all around, soothing your mind and soul.  A
+small squirrel runs up a nearby tree as a young rabbit darts in front of
+you.  You're too busy gazing at the lively forest to notice whether it's day
+or night.  
+~
+0 0 0
+D2
+~
+~
+0 0 805
+D3
+~
+~
+0 0 786
+S
+#807
+A {yTrail {xbetween the {GF{go{Gr{ge{Gs{gt {xand {BB{We{Ba{Wc{Bh{x~
+This trail is visible only due to the few blades of grass that have been
+bent over by foot steps.  You can tell that this path is rarely traveled due
+to the animals running around without a fear in the world.  Birds are
+chirping in the forest to the east while the sound of waves crashing on the
+sand comes from the west.  
+~
+0 0 0
+D1
+~
+~
+0 0 795
+D3
+~
+~
+0 0 808
+S
+#808
+A {yTrail {xbetween the {GF{go{Gr{ge{Gs{gt {xand {BB{We{Ba{Wc{Bh{x~
+This trail is visible only due to the few blades of grass that have been
+bent over by foot steps.  You can tell that this path is rarely traveled due
+to the animals running around without a fear in the world.  Birds are
+chirping in the forest to the east while the sound of waves crashing on the
+sand comes from the west.  
+~
+0 0 0
+D1
+~
+~
+0 0 807
+D3
+~
+~
+0 0 809
+S
+#809
+A {yTrail {xbetween the {GF{go{Gr{ge{Gs{gt {xand {BB{We{Ba{Wc{Bh{x~
+This trail is visible only due to the few blades of grass that have been
+bent over by foot steps.  You can tell that this path is rarely traveled due
+to the animals running around without a fear in the world.  Birds are
+chirping in the forest to the east while the sound of waves crashing on the
+sand comes from the west.  
+~
+0 0 0
+D1
+~
+~
+0 0 808
+D3
+~
+~
+0 0 810
+S
+#810
+A {yTrail {xbetween the {GF{go{Gr{ge{Gs{gt {xand {BB{We{Ba{Wc{Bh{x~
+This trail is visible only due to the few blades of grass that have been
+bent over by foot steps.  You can tell that this path is rarely traveled due
+to the animals running around without a fear in the world.  Birds are
+chirping in the forest to the east while the sound of waves crashing on the
+sand comes from the west.  
+~
+0 0 0
+D1
+~
+~
+0 0 809
+D3
+~
+~
+0 0 811
+S
+#811
+A {yTrail {xbetween the {GF{go{Gr{ge{Gs{gt {xand {BB{We{Ba{Wc{Bh{x~
+This trail is visible only due to the few blades of grass that have been
+bent over by foot steps.  You can tell that this path is rarely traveled due
+to the animals running around without a fear in the world.  Birds are
+chirping in the forest to the east while the sound of waves crashing on the
+sand comes from the west.  
+~
+0 0 0
+D1
+~
+~
+0 0 810
+D3
+~
+~
+0 0 812
+S
+#812
+A {yTrail {xbetween the {GF{go{Gr{ge{Gs{gt {xand {BB{We{Ba{Wc{Bh{x~
+This trail is visible only due to the few blades of grass that have been
+bent over by foot steps.  You can tell that this path is rarely traveled due
+to the animals running around without a fear in the world.  Birds are
+chirping in the forest to the east while the sound of waves crashing on the
+sand comes from the west.  
+~
+0 0 0
+D1
+~
+~
+0 0 811
+D2
+~
+~
+0 0 813
+S
+#813
+A {yTrail {xbetween the {GF{go{Gr{ge{Gs{gt {xand {BB{We{Ba{Wc{Bh{x~
+This trail is visible only due to the few blades of grass that have been
+bent over by foot steps.  You can tell that this path is rarely traveled due
+to the animals running around without a fear in the world.  Birds are
+chirping in the forest to the east while the sound of waves crashing on the
+sand comes from the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 812
+D3
+~
+~
+0 0 814
+S
+#814
+A {yTrail {xbetween the {GF{go{Gr{ge{Gs{gt {xand {BB{We{Ba{Wc{Bh{x~
+This trail is visible only due to the few blades of grass that have been
+bent over by foot steps.  You can tell that this path is rarely traveled due
+to the animals running around without a fear in the world.  Birds are
+chirping in the forest to the east while the sound of waves crashing on the
+sand comes from the west.  
+~
+0 0 0
+D1
+~
+~
+0 0 813
+D3
+~
+~
+0 0 763
+S
+#815
+{xBefore the {rS{gw{ra{gw{rp{x~
+You find yourself right before a large swamp.  The scent of sulfur is
+wandering all around.  The Dark Forest doesn't seem so bad after this... 
+You can continue on into the swamp, or go back into the forest.  
+~
+0 0 0
+D1
+~
+~
+0 0 816
+D3
+~
+~
+0 0 842
+S
+#816
+{xBefore the {rS{gw{ra{gw{rp{x~
+You find yourself right before a large swamp.  The scent of sulfur is
+wandering all around.  The Dark Forest doesn't seem so bad after this... 
+You can continue on into the swamp, or go back into the forest.  
+~
+0 0 0
+D1
+~
+~
+0 0 817
+D3
+~
+~
+0 0 815
+S
+#817
+{xThe {rS{gw{ra{gw{rp{x {xof {DD{Re{Ds{Re{Dc{Rr{Da{Rt{Di{Ro{Dn~
+Your walking through this horrid swamp.  Steam is rising from all around.
+The murky water reaches up to your knee, and the water is bubbling with a
+sickening sulfurous scent.  The stench alone drives off most adventurers.  
+~
+0 0 0
+D0
+~
+~
+0 0 818
+D2
+~
+~
+0 0 841
+D3
+~
+~
+0 0 816
+S
+#818
+{xThe {rS{gw{ra{gw{rp{x {xof {DD{Re{Ds{Re{Dc{Rr{Da{Rt{Di{Ro{Dn~
+Your walking through this horrid swamp.  Steam is rising from all around.
+The murky water reaches up to your knee, and the water is bubbling with a
+sickening sulfurous scent.  The stench alone drives off most adventurers.  
+~
+0 0 0
+D0
+~
+~
+0 0 819
+D2
+~
+~
+0 0 817
+S
+#819
+{xThe {rS{gw{ra{gw{rp{x {xof {DD{Re{Ds{Re{Dc{Rr{Da{Rt{Di{Ro{Dn~
+Your walking through this horrid swamp.  Steam is rising from all around.
+The murky water reaches up to your knee, and the water is bubbling with a
+sickening sulfurous scent.  The stench alone drives off most adventurers.  
+~
+0 0 0
+D1
+~
+~
+0 0 820
+D2
+~
+~
+0 0 818
+S
+#820
+{xThe {rS{gw{ra{gw{rp{x {xof {DD{Re{Ds{Re{Dc{Rr{Da{Rt{Di{Ro{Dn~
+Your walking through this horrid swamp.  Steam is rising from all around.
+The murky water reaches up to your knee, and the water is bubbling with a
+sickening sulfurous scent.  The stench alone drives off most adventurers.  
+~
+0 0 0
+D0
+~
+~
+0 0 821
+D3
+~
+~
+0 0 819
+S
+#821
+{xThe {rS{gw{ra{gw{rp{x {xof {DD{Re{Ds{Re{Dc{Rr{Da{Rt{Di{Ro{Dn~
+Your walking through this horrid swamp.  Steam is rising from all around.
+The murky water reaches up to your knee, and the water is bubbling with a
+sickening sulfurous scent.  The stench alone drives off most adventurers.  
+~
+0 0 0
+D1
+~
+~
+0 0 822
+D2
+~
+~
+0 0 820
+S
+#822
+{xThe {rS{gw{ra{gw{rp{x {xof {DD{Re{Ds{Re{Dc{Rr{Da{Rt{Di{Ro{Dn~
+Your walking through this horrid swamp.  Steam is rising from all around.
+The murky water reaches up to your knee, and the water is bubbling with a
+sickening sulfurous scent.  The stench alone drives off most adventurers.  
+~
+0 0 0
+D1
+~
+~
+0 0 823
+D3
+~
+~
+0 0 821
+S
+#823
+{xThe {rS{gw{ra{gw{rp{x {xof {DD{Re{Ds{Re{Dc{Rr{Da{Rt{Di{Ro{Dn~
+Your walking through this horrid swamp.  Steam is rising from all around.
+The murky water reaches up to your knee, and the water is bubbling with a
+sickening sulfurous scent.  The stench alone drives off most adventurers.  
+~
+0 0 0
+D2
+~
+~
+0 0 824
+D3
+~
+~
+0 0 822
+S
+#824
+{xThe {rS{gw{ra{gw{rp{x {xof {DD{Re{Ds{Re{Dc{Rr{Da{Rt{Di{Ro{Dn~
+Your walking through this horrid swamp.  Steam is rising from all around.
+The murky water reaches up to your knee, and the water is bubbling with a
+sickening sulfurous scent.  The stench alone drives off most adventurers.  
+~
+0 0 0
+D0
+~
+~
+0 0 823
+D1
+~
+~
+0 0 834
+D2
+~
+~
+0 0 825
+S
+#825
+{xThe {rS{gw{ra{gw{rp{x {xof {DD{Re{Ds{Re{Dc{Rr{Da{Rt{Di{Ro{Dn~
+Your walking through this horrid swamp.  Steam is rising from all around.
+The murky water reaches up to your knee, and the water is bubbling with a
+sickening sulfurous scent.  The stench alone drives off most adventurers.  
+~
+0 0 0
+D0
+~
+~
+0 0 824
+D3
+~
+~
+0 0 826
+S
+#826
+{xThe {rS{gw{ra{gw{rp{x {xof {DD{Re{Ds{Re{Dc{Rr{Da{Rt{Di{Ro{Dn~
+Your walking through this horrid swamp.  Steam is rising from all around.
+The murky water reaches up to your knee, and the water is bubbling with a
+sickening sulfurous scent.  The stench alone drives off most adventurers.  
+~
+0 0 0
+D1
+~
+~
+0 0 825
+D2
+~
+~
+0 0 827
+S
+#827
+{xThe {rS{gw{ra{gw{rp{x {xof {DD{Re{Ds{Re{Dc{Rr{Da{Rt{Di{Ro{Dn~
+Your walking through this horrid swamp.  Steam is rising from all around.
+The murky water reaches up to your knee, and the water is bubbling with a
+sickening sulfurous scent.  The stench alone drives off most adventurers.  
+~
+0 0 0
+D0
+~
+~
+0 0 826
+D1
+~
+~
+0 0 828
+D2
+~
+~
+0 0 835
+S
+#828
+{xThe {rS{gw{ra{gw{rp{x {xof {DD{Re{Ds{Re{Dc{Rr{Da{Rt{Di{Ro{Dn~
+Your walking through this horrid swamp.  Steam is rising from all around.
+The murky water reaches up to your knee, and the water is bubbling with a
+sickening sulfurous scent.  The stench alone drives off most adventurers.  
+~
+0 0 0
+D1
+~
+~
+0 0 829
+D3
+~
+~
+0 0 827
+S
+#829
+{xThe {rS{gw{ra{gw{rp{x {xof {DD{Re{Ds{Re{Dc{Rr{Da{Rt{Di{Ro{Dn~
+Your walking through this horrid swamp.  Steam is rising from all around.
+The murky water reaches up to your knee, and the water is bubbling with a
+sickening sulfurous scent.  The stench alone drives off most adventurers.  
+~
+0 0 0
+D0
+~
+~
+0 0 830
+D3
+~
+~
+0 0 828
+S
+#830
+{xThe {rS{gw{ra{gw{rp{x {xof {DD{Re{Ds{Re{Dc{Rr{Da{Rt{Di{Ro{Dn~
+Your walking through this horrid swamp.  Steam is rising from all around.
+The murky water reaches up to your knee, and the water is bubbling with a
+sickening sulfurous scent.  The stench alone drives off most adventurers.  
+~
+0 0 0
+D1
+~
+~
+0 0 831
+D2
+~
+~
+0 0 829
+S
+#831
+{xThe {rS{gw{ra{gw{rp{x {xof {DD{Re{Ds{Re{Dc{Rr{Da{Rt{Di{Ro{Dn~
+Your walking through this horrid swamp.  Steam is rising from all around.
+The murky water reaches up to your knee, and the water is bubbling with a
+sickening sulfurous scent.  The stench alone drives off most adventurers.  
+~
+0 0 0
+D0
+~
+~
+0 0 832
+D3
+~
+~
+0 0 830
+S
+#832
+{xThe {rS{gw{ra{gw{rp{x {xof {DD{Re{Ds{Re{Dc{Rr{Da{Rt{Di{Ro{Dn~
+Your walking through this horrid swamp.  Steam is rising from all around.
+The murky water reaches up to your knee, and the water is bubbling with a
+sickening sulfurous scent.  The stench alone drives off most adventurers.  
+~
+0 0 0
+D0
+~
+~
+0 0 833
+D2
+~
+~
+0 0 831
+S
+#833
+{xThe {rS{gw{ra{gw{rp{x {xof {DD{Re{Ds{Re{Dc{Rr{Da{Rt{Di{Ro{Dn~
+Your walking through this horrid swamp.  Steam is rising from all around.
+The murky water reaches up to your knee, and the water is bubbling with a
+sickening sulfurous scent.  The stench alone drives off most adventurers.  
+~
+0 0 0
+D2
+~
+~
+0 0 832
+D3
+~
+~
+0 0 834
+S
+#834
+{xThe {rS{gw{ra{gw{rp{x {xof {DD{Re{Ds{Re{Dc{Rr{Da{Rt{Di{Ro{Dn~
+Your walking through this horrid swamp.  Steam is rising from all around.
+The murky water reaches up to your knee, and the water is bubbling with a
+sickening sulfurous scent.  The stench alone drives off most adventurers.  
+~
+0 0 0
+D1
+~
+~
+0 0 833
+D3
+~
+~
+0 0 824
+S
+#835
+{xThe {rS{gw{ra{gw{rp{x {xof {DD{Re{Ds{Re{Dc{Rr{Da{Rt{Di{Ro{Dn~
+Your walking through this horrid swamp.  Steam is rising from all around.
+The murky water reaches up to your knee, and the water is bubbling with a
+sickening sulfurous scent.  The stench alone drives off most adventurers.  
+~
+0 0 0
+D0
+~
+~
+0 0 827
+D1
+~
+~
+0 0 836
+S
+#836
+{xThe {rS{gw{ra{gw{rp{x {xof {DD{Re{Ds{Re{Dc{Rr{Da{Rt{Di{Ro{Dn~
+Your walking through this horrid swamp.  Steam is rising from all around.
+The murky water reaches up to your knee, and the water is bubbling with a
+sickening sulfurous scent.  The stench alone drives off most adventurers.  
+~
+0 0 0
+D1
+~
+~
+0 0 839
+D2
+~
+~
+0 0 837
+D3
+~
+~
+0 0 835
+S
+#837
+{xBefore the {rS{gw{ra{gw{rp{x~
+You find yourself right before a large swamp.  The scent of sulfur is
+wandering all around.  The Dark Forest doesn't seem so bad after this... 
+You can continue on into the swamp, or go back into the forest.  
+~
+0 0 0
+D0
+~
+~
+0 0 836
+D2
+~
+~
+0 0 838
+S
+#838
+{xBefore the {rS{gw{ra{gw{rp{x~
+You find yourself right before a large swamp.  The scent of sulfur is
+wandering all around.  The Dark Forest doesn't seem so bad after this... 
+You can continue on into the swamp, or go back into the forest.  
+~
+0 0 0
+D0
+~
+~
+0 0 837
+D3
+~
+~
+0 0 744
+S
+#839
+{xThe {rS{gw{ra{gw{rp{x {xof {DD{Re{Ds{Re{Dc{Rr{Da{Rt{Di{Ro{Dn~
+Your walking through this horrid swamp.  Steam is rising from all around.
+The murky water reaches up to your knee, and the water is bubbling with a
+sickening sulfurous scent.  The stench alone drives off most adventurers.  
+~
+0 0 0
+D1
+~
+~
+0 0 840
+D3
+~
+~
+0 0 836
+S
+#840
+{xThe {rS{gw{ra{gw{rp{x {xof {DD{Re{Ds{Re{Dc{Rr{Da{Rt{Di{Ro{Dn~
+Your walking through this horrid swamp.  Steam is rising from all around.
+The murky water reaches up to your knee, and the water is bubbling with a
+sickening sulfurous scent.  The stench alone drives off most adventurers.  
+~
+0 0 0
+D0
+~
+~
+0 0 841
+D3
+~
+~
+0 0 839
+S
+#841
+{xThe {rS{gw{ra{gw{rp{x {xof {DD{Re{Ds{Re{Dc{Rr{Da{Rt{Di{Ro{Dn~
+Your walking through this horrid swamp.  Steam is rising from all around.
+The murky water reaches up to your knee, and the water is bubbling with a
+sickening sulfurous scent.  The stench alone drives off most adventurers.  
+~
+0 0 0
+D0
+~
+~
+0 0 817
+D2
+~
+~
+0 0 840
+S
+#842
+{xA Narrow {yPath{x~
+Your on a narrow dirt path.  The trees seem to be spreading apart.  You
+look all around but see nothing but the bright forest and an awful swamp up
+ahead.  
+~
+0 0 0
+D1
+~
+~
+0 0 815
+D3
+~
+~
+0 0 843
+S
+#843
+{xA Narrow {yPath{x~
+Your on a narrow dirt path.  The trees seem to be spreading apart.  You
+look all around but see nothing but the bright forest and an awful swamp up
+ahead.  
+~
+0 0 0
+D1
+~
+~
+0 0 842
+D2
+~
+~
+0 0 844
+S
+#844
+{xA Narrow {yPath{x~
+Your on a narrow dirt path.  The trees seem to be spreading apart.  You
+look all around but see nothing but the bright forest and an awful swamp up
+ahead.  
+~
+0 0 0
+D0
+~
+~
+0 0 843
+D2
+~
+~
+0 0 845
+S
+#845
+{xA Narrow {yPath{x~
+Your on a narrow dirt path.  The trees seem to be spreading apart.  You
+look all around but see nothing but the bright forest and an awful swamp up
+ahead.  
+~
+0 0 0
+D0
+~
+~
+0 0 844
+D2
+~
+~
+0 0 741
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 600 0 604
+O 0 602 0 767
+O 0 603 0 802
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

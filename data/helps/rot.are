@@ -1,0 +1,921 @@
+#HELPS
+202 Poweritems~
+Power Items in NON hero areas are limited to 1 weapon and
+1 item every 50 vnums. {YALL{x power items MUST have
+p-item in their name. For example, Broadsword sword p-item,
+black dagger p-item.
+
+The formula for powerweapons must be followed accordingly.
+
+The formula is  level x 3 = points, points are used according
+to the chart below.
+
+ Point chart:
+============================
+1 point      = 1 mana
+1 point      = 1 hp
+1 point      = 5 move
+5 points     = 1 save, savingbreath, savingpara, savingrod, etc.
+5 points     = 1 ac
+5 points     = 1 stat (str,dex,con,wis, or int)
+10 points    = 1 hitroll
+10 points    = 1 damroll
+10 points    = vorpal, and sharp, each
+20 points    = vampiric, flaming, shocking, frost, and poison, each
+-10 points   = two handed
+
+For AVdam on Power Weapons set the level 5 levels above the level you
+want it to be and then type autoweapon, then set it back down, use
+the level you want the weapon to be for points, not the level you used
+for AVdam. Also remember to erase the stats given by autoweapon BEFORE
+giving stats according to the formula.
+
+
+Power Items
+
+Power Armor
+
+The formula for power armor is level x 4 = points. Use the chart below
+to see how points are allocated. For the AC on armor set the level 5 levels
+above what you are intending it to be, then autoarmor, then set it back down.
+Also remember to erase autoarmor addaffects before applying new addaffects.
+
+Power Items (Jewelry, Auras, Floating items, and Tattoos)
+
+The formula for power items is level x 6 = points. See chart below. Remember everything but
+jewelry has HALF the armor for its level, jewelry can not have AC. Jewelry includes Rings,
+Earrings, and some necklaces.
+
+Here is the point values:
+============================
+1 point      = 1 mana
+1 point      = 1 hp
+1 point      = 5 move
+5 points     = 1 save, savingbreath, savingpara, savingrod, etc.
+5 points     = 1 ac
+10 points    = 1 hitroll
+10 points    = 1 damroll
+15 points    = 1 stat (1 str,dex,con,wis, or int)
+~
+
+-1 Application~
+There are a few rules when it comes to being considered to be an imm on DR.
+1) You must be at least hero 1st tier (need to know the mud)
+2) You are expected to allways have shown respect and consideration for
+all other players
+
+If you think you pass both of these rules feel out the following application that
+suites your needs, and email it to drmud@spaceservices.net. Also Immortal EXP is
+a plus but not a must. Everyone has to start some where.
+
+---------------------------------------------------------------------------------------
+
+Builder Application
+
+Your Current Level on DR:
+Mud EXP (Years you have been mudding):
+Imm EXP (Years you have been an imm of that time mudding):
+Building EXP:
+Rom/RoT OLC building EXP:
+Muds you have built for, thier names, and if they are still up
+thier addy and your name when you were an imm there:
+2 Mob descriptions (what you see when you look at them):
+2 Room descriptions:
+
+---------------------------------------------------------------------------------------
+
+Quest IMM Application
+
+Your Current Level on DR (due to the need of great knowlage of the entire
+mud we ask that you be at least an Ancient):
+Mud EXP:
+IMM EXP:
+Building EXP:
+Rom/RoT OLC building EXP:
+Muds you have been either a quest imm on or have built for, their names, and if
+still running addy and your name when you were an imm there:
+2 Mob descriptions:
+2 Room descriptions:
+
+---------------------------------------------------------------------------------------
+
+Coder Application
+
+Your Current Level on DR:
+Mud EXP:
+Imm EXP:
+Coding EXP (years you have coded):
+Coding languages known:
+Muds you have coded on, names, and if they are still up and running, the addy to the
+mud, and your name there as an imm:
+Rom/RoT Coding EXP:
+
+---------------------------------------------------------------------------------------
+
+Webmaster Application
+
+Your Current Level on DR:
+Mud EXP:
+Imm EXP:
+HTML EXP:
+Other languages known, like java, php, shockwave ect:
+A allready built site we can look at and judge: <addy>
+
+---------------------------------------------------------------------------------------
+~
+
+-1 ROT~
+RoT is a ROM2.4 derived mud, which is originally based on the Merc 1.0 code.
+The RoT modifications to the ROM source are copyright 1996-1997 by Russ Walsh.
+~
+
+-1 ROM~
+ROM started in early February 1993, using Merc 1.0 code. In July of 1993,  
+ROM II was started, eventually replacing the original ROM.  ROM was up for
+a little over a year, after which the code (version 2.3) was released,
+and various other ROM muds were started, including Rivers of Mud under
+a new management (Zump's ROM), at rom.org 9000.
+
+Alander's current project is Tesseract, the latest version of the ROM code.
+It can be found at hypercube.org 9000.
+
+The following people contributed to the ROM flavor of the merc base code:
+
+Socials --
+    Kelsey and Liralen
+
+New, Improved Valhalla --
+    Liralen
+
+Puff's new special proc and improved poofin/poofout code --
+    Seth
+
+Maps and map shop --
+    Ezra, Regnan (Olympus)
+
+Nirvana zone --
+    Forstall (mobiles rewritten by Alander)
+
+Mob Factory --
+    Pinkfloyd (originally written for ROM, mobiles rewritten by Alander)
+
+Geographically correct Midgaard (tm) --
+    Alander
+
+Ideas and playtesting --
+    Thousands of dedicated mudders around the world
+
+Beta testing --
+    Ken Blosser, Doug Araya, and Sherene Neil all helped with bug reports
+    and suggestions, saving a lot of headaches
+
+New Thalos area was donated by Onivel of Jedi, who was also the originator
+of the ASCII flags used in the zone files
+
+ROM 2.4 was developed during my time with Moosehead mud, and the release
+shares many of the features I wrote while I was there.  Additional code
+was written by Seth Scott (the new poofin/poofout), and many contributions
+and ideas from the Merc list were used. 
+
+The new features of 2.4 were largely produced in bull sessions with
+Gabrielle (my wife) and Brian Moore, without whom this release wouldn't
+have happened.  In particular, the new privacy code, furniture, and
+wiznet are largely the results of Gabrielle's ideas.
+
+Changes to the standard diku mob and object format, as well as the changes
+to Merc 2.1 source code, were done by Alander over many a late night of
+hair-pulling. Hope you enjoy it.
+
+(my apologies if anyone was forgotten in this list)
+~
+
+-1 IMMORTAL IMMORT GOD WIZARD WIZ~
+'Immortal' (often, simply, 'immort') refers to players who have reached
+the highest attainable levels in the game.  Here, anyone of level 102
+or higher is an 'immortal.'  Immortals are capable of exceeding the
+usual game rules, in more drastic and pervasive ways as levels increase;
+examples range from teleportation and invisibility to mortal sight to
+creation of objects, removal of a player's privileges (channels,
+ability to move, or even ability to log in), and ability to promote
+players to immortality.
+
+Since immortals can wreak havoc with game balance, they are (ideally)
+a carefully-chosen and policed group.  An absolute rule of immortal
+behavior is that no immortal can aid or assist any player without
+explicit permission from the higher ranks; in other words, please
+don't ask an immortal to help you kill a mob, gather EQ, etc, or
+you'll likely be either politely or rudely refused, or referred to
+this file.
+
+The duties of immortals, and even the very reasons for their existence,
+are topics of continual and heated debate in various MUD forums, and are
+fraught with misconceptions, poor examples, and outrageous hypocrisies. :)
+~
+
+-1 SOCIALS~
+This is a complete list of socials for this MUD:
+Compiled originally by: Sara
+accuse       adjust      air          apologize     applaud     babble
+bark         bcatch      beckon       beer          bearhug     beg
+bird         bkiss       bleed        blink         blush       boast
+boggle       bonk        bounce       bow           brb         burp
+cackle       caress      charge       cheer         chuckle     clap
+claw         collapse    comfort      comb          cough       cover
+cower        cringe      criticize    cry           cuddle      curse
+curtsey      dance       daydream     drool         duck        embrace
+explode      eyebrow     faint        fart          flare       flash
+flex         flinch      flip         flirt         flutter     fondle
+french       frown       fume         gasp          giggle      glare
+goose        grimace     grin         groan         grope       grovel
+growl        grumble     hand         head          hiccup      highfive
+hop          howl        hug          hush          ignore      innocent
+insane       judge       kiss         knee          laugh       lick
+love         lust        massage      meditate      moan        moon
+mosh         mutter      nibble       nod           nudge       nuzzle
+pant         passout     pat          peck          pie         pinch
+pissed       plead       point        poke          ponder      pout
+pray         propose     puke         punch         purr        ramble
+raspberry    rofl        roll         rub           ruffle      run
+scratch      scream      serenade     shake         shiver      shrug
+sigh         sing        slap         slobber       smile       smirk
+snap         snarl       sneeze       snicker       sniff       snore
+snort        snowball    snuggle      sob           spam        spank
+spit         squeal      squeeze      squirm        stare       stretch
+strip        stroke      strut        sulk          swoon       tackle
+tease        thank       threaten     tickle        tip         tongue
+twiddle      type        undress      view          wave        whine
+whistle      wiggle      wince        wink          wonder      worry
+worship      yawn        yeehaw       yodel         rose	laces
+tank	     starve	 aargh	      homework	    puff	differ
+yae	     lightbulb   ogg	      confused	    beam        twitch
+bite	     discodance  scuff        whap	    lag		chortle
+zerbert
+ 
+~
+
+-1 MERC~
+This mud is based on Merc 2.1, created by Furey, Hatchet, and Kahn.  
+Merc 2.1 is available as Merc_21.tar.gz from ftp.tcp.com and 
+ftp.math.okstate.edu.
+E-mail to 'merc-request@kpc.com' to join the merc mailing list.
+
+Thanks to ...
+  ... Diku Mud for starting it all.
+  ... The Free Software Foundation and DJ Delorie for kick-ass tools.
+  ... Copper Mud and Alfa Mud for releasing their code and worlds.
+  ... Aod of Generic for ... well, everything.  You're a hoopy frood, Aod.
+  ... Alander for many ideas and contributions.
+  ... John Brothers of Silly for permission to use Silly code and worlds.
+  ... Zrin for administering the mailing list.
+  ... Abaddon for proofreading our comm.c.
+  ... Hind, Quin, Vic, Diavolo, Oleg, Trienne, and others for porting help.
+  ... Diavolo, Grodyn, Morgenes, and others for code and bug fixes.
+  ... Raff, Doctor, VampLestat, Nirrad, Tyrst, PinkF, Chris, Glop for worlds.
+  ... the players and imps of Mud Dome, Final Mud, Mud Lite, Vego Mud, Rivers
+      of Mud, Ruhr Mud, and Mystic Realms for bug reports, ideas, new code,
+      and hours of enjoyment.
+
+~
+
+-1 MAP MAPS~
+Thanks to Ezra for drawing the originals of several maps on ROM.
+~
+
+-1 LOGIN~
+
+Imagine a fancy login picture... This is it!
+
+
+{WWho's you? {x ~
+
+-1 GREETINGA~
+Hello.
+~
+
+-1 AUTHORS~
+.
+
+~
+
+-1 MOTD~
+This is the message of the day:
+Hello there.
+No monkey business!
+~
+
+102 IMOTD~
+{W* {yNothing yet....{x
+~
+
+102 JOBS~
+This is a partial list of what a god of any given level should be doing. It is
+not complete yet.
+
+Angels:(102-104)
+Angels and higher level gods may not assist mortals directly in any way.  
+An Angel's main job is to help with quests (via switch), or possibly run
+small quest of their own -- but the rewards should be minimal.
+
+Deities:(105-106)
+Deities have two main roles: reimbursement and quest running.  Be skeptical
+on reimburses, don't just hand out every piece of gear.  I suggest limiting
+reimbursements to 10 items at a time, and make sure that you do not load things
+at too high a level (new format items have hard-coded levels, so are not a
+problem).  vnum and stat are useful for this.  You can draft Angels to help you
+run a quest, and please note that quests should NOT have huge rewards -- the
+main point should be to have fun.  Deities have no business trying to enforce
+rules -- the most you should do to a player is a NOCHANNEL or similar light
+punishment.
+
+Gods:(107-109)
+Gods can run quests just like Deities, and it's nice to do reimbursements too.
+However, the main role of a God is keeping the peace.  Gods can enforce (but
+not create rules), using the various NOTELL-class commands, as well as deny,
+purge, freeze, and ban (but be careful with these commands!)  Gods are expected
+to help make the mud run more smoothly, power trips are strictly verbotten.
+
+Not fufilling the roles of your office can result in demotion or deletion.
+~
+
+-1 PKILL PKILLING PKILLER 'PLAYER KILLING' PSTEAL PSTEALING 'PLAYER STEALING'~
+.
+{W1{x) {cNo PK is to happen if person is Linkdead or AFK, both are shown{x
+       {cto you in the room so you DO know.{x
+
+{W2{x) {cNO {RMalicious{c PK, you may ONLY pk someone every 30 minutes.{x
+
+{W3{x) {cPK is to be kept to SAME tier as the attacker ONLY, no Cross Tier{x
+       {cPK. Even though the code currently allows this, it will NOT be{x
+       {callowed.{x
+
+{W4{x) {cYour {RVictim{c MUST be in a PK clan.{x
+
+{W5{x) {cYour victim must NOT be more then 10 levels above you or 5 levels{x
+       {cbelow you. Anyone not following this WILL have all characters{x
+       {cdeleted without warning period, no warnings.{x
+
+{W6{x) {cYou may NOT loot any Quest Items, restrung or otherwise. All other{x
+       {cequipment is fair game along with the platinum on the corpse.{x
+
+{W7{x) {cYou may NOT sacrafice your victims corpse, you may only loot it so{x
+       {cmake sure you turn autosac off before starting a fight because it is{x
+       {cno excuse!{x
+
+{W8{x) {cFailure to follow all of these rules when pking shall result{x
+       {cin extreme punishment and that will be your only warning.{x
+       {cA second offense will result in immediate deletion. We {x
+       {cunderstand accidents happen and will take this into consideration{x 
+
+~
+
+102 COMMANDMENTS LAWS 'GOD RULES' GODS~
+.
+                         **********************
+                         ** The Rules of DR  **
+                         **********************
+ 
+1)  Do not kill mortals, do not kill mortals, do not kill mortals.
+    This includes transferring/summoning them to aggressive mobs.
+ 
+2)  Do not cheat for ANY mortal in ANY way, especially your own. 
+    Unless of course you LIKE deletion. Yes this includes tanking,
+    healing/restoring, casting protection spells <armor, sanct>,    
+    and softening up or altering mobs.
+ 
+3)  Do not transfer or summon mobs to mortals or mortals to mobs.
+    They have legs, if they want to kill a mob, they can easilly
+    go there themselves.
+ 
+4)  DO NOT kill the shopkeepers for any reason at ALL.
+ 
+5)  DO NOT use reboot.  <--- Note, simple English.
+ 
+6)  Do not give out free equipment.  You don't need to win brownie
+    points with the mortals.  Quest are fine but handing out items
+    isn't.
+ 
+7)  A note on quests: Quests are a good thing, more or less, BUT 
+    do not give out overly extravagant prizes.  Exercise some 
+    common sense here folks.  Do not load items more than 4 levels
+    below their normal level (i.e. no level 5 ogre gauntlets).
+ 
+8)  Do not undermine the authority of a higher level god.  If you 
+    see that someone has been frozen or nochannelled do not restore
+    their priveleges.  They are being punished for a reason.
+ 
+9)  Do not try to overrule each other.  
+ 
+10) Trusted mortals:  Do not use your god powers to help your mortal
+    character.  If you do, your trust will be taken away.
+
+~
+
+-1 RULES~
+These are the rules of DR.  For other matters, use common sense.
+For clan specific rules, see HELP CLANRULES.
+
+
+ {W1){c     Player Killing and Stealing may be encouraged{x
+     {c   here on Death Rising, but it is limited ONLY to{x
+     {c   members of PK clans, or Loners. Also see help PK{x
+     {c   for further rules on the matter.
+ 
+ {W2){c     The {DC{RU{DRSE{c channel is there for a reason,{x
+     {c   if you want to use foul language use the curse{x
+     {c   channel, not ANY other public channels or forums.{x
+     {c   If you are offended by profane language turn off{x
+     {c   the {DC{RU{DRSE{c channel.{x
+ 
+ {W3){c     Cheating on Death Rising is considered highly{x
+     {c   illegal, if you caught abusing any bug or any{x
+     {c   feature the consequences will be HIGH (possible{x
+     {c   deletion of all characters, permenate site ban).{x
+ 
+ {W4){c     Multi-Playing in ANY way is considered HIGHLY{x
+     {c   illegal. If you are caught with two characters{x
+     {c   on at any time without permission directly from{x
+     {c   Loki expect the same consequences as cheating{x
+     {c   holds. For more information on the subject see{x
+     {c   help multi-play.{x
+
+ {W5){c     Kill stealing is not allowed here. Though{x
+     {c   accidents do happen, we understand this.{x
+     {c   But you need to be aware of if there are{x
+     {c   any other players in the area and ask before{x
+     {c   killing an allready hurt mob.{x
+    
+ {W6){c     You being here is a privilage not a right.{x
+     {c   Immortals are to be respected at ALL times,{x
+     {c   as are other fellow players. Past the roleplaying{x
+     {c   aspect any disrespect is not allowed to other{x
+     {c   mortal players. Any orders/requests by immortals{x
+     {c   are expected to be complied with immediately.{x
+
+ {W7){c     If you lose equipment from a PK battle do {RNOT{x
+     {c   ask the Immortals to replace it. This will be{x
+     {c   very badly by immortals, and punishments will be{x
+     {c   awared to the player that asks.{x
+
+ {W8){c     Your name MUST be of a fantasy matter, while names{x
+     {c   like Takasi may be accepeted, name like Bob or Joe{x
+     {c   will not be. Any vulger names will be renamed{x
+     {c   immediately upon seeing of it, this includes{x
+     {c   all other unacceptable names.{x
+ 
+ {W9 {c     Any and all spam is totally unacceptable!!{x
+ 
+{W10){c     These rules may be changed at any time by the{x
+     {c   Immortals, do not question them on any statement{x
+     {c   of the rules.{x
+     {x
+~
+
+-1 CLANRULES~
+1. Do NOT join any clan until you investigate ALL clans.
+
+2. Once you join a clan, you must STAY WITH THAT Clan. No switching clans,
+abandoning your clan mates, etc.; the point of joining a clan is to use
+TEAMWORK. That means when you get pkilled, you ask your CLAN MATES to
+retrieve your corpse, re-equip you, help you avenge your death, etc. Do
+not count on the IMMs for help.
+
+3. Clanned characters are *not* allowed to pkill anyone in their own clan,
+or anyone NOT clanned; nor are they allowed to kill members of non-pkill clans.
+
+4. Clanned characters are NOT allowed to use edited equipment for pkill.
+This does not include Clan EQ or Quest items, both of which are allowed.
+
+5. If you get pkilled, you will *NOT* be reimbursed ANY eq by the IMMs;
+this includes edited EQ, items of sentimental value, quest items, etc.
+
+6. Clanned characters are not allowed to ask for or receive ANY kind of
+IMM-related help; this includes corpse retrievals, spellups, assistance
+locating chars, reimbursements, etc.
+
+7. If you are a clan leader, you are expected to MUD on a regular basis.
+If you do not actively play your character for three weeks, and have not
+found a replacement, you will be removed as leader.
+
+8. Clan leaders must be tier 2 and at least level 50.
+
+9. In order to form a new clan, you must follow these rules:
+
+        a. Have two people involved in forming the clan.
+	b. Have the cash/cubics to create it and support it.(see help prices)
+
+10. You must ALWAYS have at least THREE members of your clan ACTIVELY
+PLAYING the game. This means that if your membership drops to less than
+three members for more than one month, your clan will be disbanded and dropped
+from the list of clans.
+
+11. As a member of a clan, you are expected to assist other members of your
+clan. This includes spellups, corpse retrievals, levelling, etc.
+
+12. If you reroll a clan leader into, you must find three
+current members of your clan to "sponsor" you back into the leader position.
+The three members can email, note, or verbally give their nominations to
+the Implementors.
+
+~
+
+0 SUICIDE DELETE~
+Use the delete command to erase unwanted characters, so the name will be
+available for use.  This command must be typed twice to delete a character,
+and you cannot be forced to delete.  Typing delete with an argument will
+return your character to 'safe' status if you change your mind after the
+first delete.  Second tier players should use reroll to recreate a
+character, instead of the delete command.
+~
+
+0 REROLL~
+The reroll command may be used once you reach hero status in the first
+tier of classes, or at any time while playing a second tier character.
+This command must be typed twice to reroll a character, and you cannot
+be forced to reroll.  Typing reroll with an argument will return your
+character to 'safe' status if you change your mind after the first reroll.
+
+After typing reroll the second time, you will be forced to quit.  When
+you reconnect, you will have to re-create your character, but will be
+given the second tier classes to choose from, instead of the first tier
+classes. (see 'help tier')
+
+After rerolling, you will start out in your new class at level 1, so
+this command is similar to deleting and recreating your character.
+~
+
+0 TIER~
+.
+There are currently a total of 28 classes on Death Rising,
+split into three seperate tiers.
+
+
+     {GTier {g1{W   |  {YTier {y2    {W|  {RTier {r3{W     |  {BTier {b4{x
+     {W================================================{x
+     {GM{gage{W     |  {YW{yizard    {W|  {RI{rnvoker    {W| {BS{borcerer{x
+     {GC{gleric{W   |  {YP{yriest    {W|  {RB{rishop     {W| {BT{bemplar{x
+     {GR{gogue{W    |  {YT{yhief     {W|  {RM{rercenary {W | {BA{bssassin{x
+     {GW{garrior{W  |  {YB{yerserker {W|  {RG{rladiator {W | {BK{bnight{x
+     {GT{gracker{W  |  {YH{yunter    {W|  {RR{ranger    {W | {BS{btrider{x
+     {GD{gruid    {W|  {YS{yhaman    {W|  {RS{rage      {W | {BE{blder{x
+     {GR{gevenant {W|  {YV{yampire   {W|  {RL{rich      {W | {BC{bainite{x
+
+
+
+Tier 2 is notably stronger then tier 1, and tier 3 is notabaly
+stronger then tier 2 or 1, and tier 4 is notably stronger
+then all the other tiers Death Rising.
+
+Though before you advance to tier 2, 3, or 4 you must become a
+Hero (level 201), and must reroll into the next tier
+(help reroll).
+
+You do NOT have to choose a class in the same slot as your
+previous class, you may choose any class. In other words;
+a Mage does NOT have to become a Wizard, and Gladiator
+does NOT have to become a Berserker.
+~
+
+0 HEALER~
+The healer decided to grab a quick buck, and now charges for his heals.  Some
+services are still free to players of level 30 or below, however.  To see
+a full listing of the healer's services, type 'heal' at his residence. To
+receive healing, bring plenty of money, and type 'heal <spell>'.
+~
+
+-1 GAIN~
+The gain command is used to learn new skills, once the proper trainer has 
+been found. (Check New Thalos) The following options can be used with gain:
+
+gain list:    list all groups and skills that can be learned
+gain points:  lower your creation points by 1 (costs two sessions)
+gain <name>:  add a skill or skill group, at the listed cost
+gain convert: turns 6 practices into one training session
+gain study:   turns 1 training session into 6 practices
+
+Gain uses training sessions, not practices. (see 'help train')
+Gained skills and groups do NOT increase your experience per level or total
+number of creation points. 
+~
+
+-1 RESTRING~
+Syntax: restring obj <string>
+
+The restring command is used to change the name of an object in your
+inventory.  Only specific trainers have the ability to restring an object
+for you (Check New Thalos), and charge you 8 quest points per item.
+
+Restringing an object will only change the short name of the object, not
+the long description or keywords associated with that object, so you will
+still have to use the original keywords to use a restrung object.
+
+For example:
+    Object to be restrung is 'an imperial sword',
+
+       > restring sword a battle axe
+
+    This will now show up as 'a battle axe' in your inventory, and will use
+    this string in actions:  '<char> wields a battle axe' or '<char> gets a
+    battle axe'.
+
+    Because the keywords of the object are not changed, to wield or
+    manipulate this object, you will still need to use 'sword' or 'imperial',
+    ie:  get sword     wield sword
+~
+
+102 CLONE~
+Syntax:
+  clone obj <object>
+  clone mob <mobile>
+  clone <name>
+
+The clone command duplicates an object or mobile.  The level of item or mobile
+that may be cloned depends on your level.  The target object or mob must be in
+the same room as you, or in your posession.  Strung and set information is
+preserved by clone, as well as any spell effects and container contents or
+mobile inventory, except for items which are too high for you to clone.  
+Strung extended descriptions on objects are not kept, however.
+~
+
+110 RANDCLAN~
+Syntax: randclan
+
+Randclan will move the entrances to all clan halls to new randomly selected
+locations.  This is automatically done by the system at boot, and once per
+day thereafter, but can be called by an implementor to correct any problems
+in the choice of locations from the last automatic run.
+~
+
+0 SKILLS SPELLS~
+The skills and spells commands are used to display your character's list
+of available skills (or spells, as the case may be).  They are listed in
+order of level, with mana cost (for spells) or percentage (for skills)
+listed where applicable.
+~
+
+0 OUTFIT~
+The outfit command, usable by levels 9 and below, equips your character with
+a new set of sub issue gear (banner, weapon, helmet, shield, and vest), 
+courtesy of the Mayor's warehouses.  Only empty equipment slots are affected.
+~
+
+0 AUTO AUTOLIST AUTOLOOT AUTOGOLD AUTOSAC AUTOEXIT AUTOASSIST AUTOSPLIT AUTOSTORE AUTOPEEK~
+ROT uses varies automatic actions, to ease the boredom of always splitting
+gold and sacrificing corpses.  The commands are as follows:
+
+autolist  : list all automatic actions
+autoloot  : take all equipment from dead mobiles
+autogold  : take all gold from dead mobiles
+autosac	  : sacrifice dead monsters (if autoloot is on, only empty corpes)
+autoexit  : display room exits upon entering a room
+autosplit : split up spoils from combat among your group members
+autoassist: makes you help group members in combat
+autostore : saves all tells during combat
+autopeek  : will show inventory during a look <char> (with the peek skill)
+
+Typing a command sets the action , typing it again removes it. 
+~
+
+-1 CLAN~
+A Clan is a collection of players, united to follow and further
+a common cause.  Each clan has rules and regulations, to find out
+more about clans and their 'beliefs' type "help <clan name>".  Only
+Clan members can kill or steal from other players.  To join a Clan
+you must be level 25 or above and level 70 or below.  Second tier
+players may join a clan starting at level 15.  Speak to the Clan
+Leader about joining.  If you go Loner before level 70 you may 
+join a Clan later.
+   Joining a Clan is a dangerous step.  Many adventurers live to 
+kill and torture others and chances are that your paths will cross.
+   Clans may now choose to allow pkill or not, members of clans that
+choose not to have pkill will be unable to attack other players, or
+be attacked by others.
+   Existing Clans may buy special rooms and mobiles by acquiring 
+imm quest points as payment.  To see room prices, type
+"help prices".  New Clans may be formed by petitioning the immortals.
+Please remember that their word is final on all matters not covered by
+this help.
+
+A list of current clans can be obtained with:  clan list
+~
+
+-1 PRICES PRICE~
+{xAll prices below are listed in imm quest points, NOT auto quest points.
+{xYou must have ALL imm quest points BEFORE requesting an addition.
+{xContact Loki for all additions.{x
+
+{WAddition Type   {D|{B Max of the type{D |{R  Price in IQP 
+{WClan Hall       {D|{B        1{D        |{R     500  
+{WClan Room       {D|{B       20{D        |{R    75 {m$ 
+{WClan Healer     {D|{B        1{D        |{R     150 
+{WClan Merchant   {D|{B        5{D        |{R     150 
+{WClan Weapon     {D|{B       15{D        |{m       *  
+{WClan Armor      {D|{B       30{D        |{m      ** 
+{WClan Potion     {D|{B       15{D        |{m     *** 
+{WClan Items      {D|{B       20{D        |{R    30{m @ 
+{WClan Portal     {D|{B        6{D        |{R      50 
+
+
+
+{m$   {xSee 'help rooms' for more information on ordering new rooms.
+{m*   {xWeapon Prices are dependent on level and added affects (see charts below).
+{m**  {xArmor Prices are dependent on level and added affects (see charts below).
+{m*** {xPotions Prices are determines by Loki once they have been made.
+{m&   {xClan Items include keys, furniture, beds and other misc. items.
+
+{GLevel    {D|{Y Price in IQP 
+{G1-25     {D|{Y     10 
+{G26-35    {D|{Y     15 
+{G36-45    {D|{Y     20 
+{G46-55    {D|{Y     25 
+{G56-65    {D|{Y     30 
+{G66-75    {D|{Y     35 
+{G76-85    {D|{Y     40 
+{G86-95    {D|{Y     45 
+{G96-105   {D|{Y     50 
+{G106-115  {D|{Y     55 
+{G116-125  {D|{Y     60 
+{G126-135  {D|{Y     65 
+{G136-145  {D|{Y     70 
+{G146-155  {D|{Y     75 
+{G156-165  {D|{Y     80 
+{G166-175  {D|{Y     85 
+{G176-185  {D|{Y     90 
+{G186-195  {D|{Y     95 
+{G196-201  {D|{Y    100 
+{G  202    {D|{Y    110
+
+
+{WAdded Affect    {D| {B Price in IQP {D| {RMax{x
+{W4 hit or dam    {D|{B    15         {D| {R90h/90d{x
+{W-20 AC          {D|{B    15         {D| {R-200ac{x
+{W-2 Saving Throw {D|{B    20         {D| {R-20s{x
+{W+20 hp,mana,mv  {D|{B     5         {D| {R200hp/200m/200mv{x
+{WExtra Flags     {D|{B    10         {D|{R N/A{x
+{WSpecial Flags{M # {D|{B    20         {D| {R3{x
+{W+1 to a stat{D    |{B    15         {D| {R4str/4dex/4wis/4int/4con{x
+
+{m#{xSpecial Flags are Flaming,Vampiric,Shocking,Poison,Sharp,Vorpal,Freezing. 
+
+~
+
+-1 COUNT~
+The count command displays the number of people (that you can see) logged
+into the mud.  It also displays the highest number observed that day, if
+it is higher.
+~
+
+-1 GATE~
+The gate spell is a powerful transportation magic that opens up a portal 
+between your character and another person or creature somewhere else in the
+world.  This portal will transport you and any pet you might have, but not
+other members of your group.  Monsters recieve a save against gate, and
+monster or players more than 3 levels higher than you can not be gated to at 
+all.  God rooms, private rooms, and no recall rooms cannot be gated to, and
+no recall rooms cannot be gated out of.  Finally, any god or hero is also 
+immune to gate, as well as any player who has no summon set.  Clan members 
+may not be gated to except by their fellow Clan members.
+~
+
+-1 WORLD DIRECTIONS MAP~
+None Currently
+~
+
+102 WEAPONSTATS~
+Weapon Stats                                
+=====================================================================
+This help is to be used as a guide for making weapons.  The point of 
+this is to keep the mud in balance.  The following shows the damdice
+to use for it's level.  DO NOT use any other values.  Round to the 
+nearest level if the weapon is inbetween.
+
+
+Level     AVG      Dice
+=======================
+0          6       3d3
+5          9       3d5
+10        12       4d5
+15        15       5d5
+20        17       5d6
+25        20       5d7
+30        24       6d7
+35        30       6d9
+40        35       7d9
+45        39       6d12
+50        45       7d12
+55        49       7d13
+60        54       9d11
+65        60       10d11
+70        64       8d15
+75        72       8d17
+80        76       9d16
+85        80       10d15
+90        85       10d16
+95        93       11d16
+100       95       10d18
+101       119      14d16
+
+
+Points for weapons.
+============================
+When putting in added affects a weapon recieves points.  To determine 
+this you go by the level of the weapon.  i.e. A level 55 weapon 
+recieves 110 points.  These points can be used according to the chart
+below.  The formula for figuring out the points for a weapon would be
+(weapon level) * 2 = Points. 
+
+
+ Point chart:
+============================
+1 point      = 1 mana
+1 point      = 1 hp
+1 point      = 5 move
+5 points     = 1 save, savingbreath, savingpara, savingrod, etc.
+5 points     = 1 ac
+5 points     = 1 stat (str,dex,con,wis, or int)
+10 points    = 1 hitroll
+10 points    = 1 damroll
+10 points    = vorpal, and sharp, each
+20 points    = vampiric, flaming, shocking, frost, and poison, each
+-10 points   = two handed
+
+You can also add negative effects.  For example a level 65 weapon with
+-30 hps.  You take half of the -30 and add it for extra points, thus 
+the weapon would have 80 points.  Another example is a level 40 weapon
+with -2 damroll would recieve half of those points.  So it would be 50
+points.
+
+Please remember when creating weapons to make diverse weapons.  Not just
+swords, daggers, and the like.  Try to keep a good mix of weapons in your area.
+
+The only exception to these stats are powerweapons.  These stats are onlyto be created after
+checking with an IMM 108+.
+~
+
+-1 AFFECTS AFFECT~
+This command is used to show all the spells affecting your character. At
+low levels, only the spell name will be displayed, at higher levels the
+effects and duration of the spell will also be shown.  Spell effects
+are no longer shown on score (this can be changed by using 'show' command).
+~
+
+-1 Version~
+.
+                 {R********************************* 
+                 {R*    {YATTENTION!! ATTENTION!!{R    *
+                 {R*********************************
+                 {R*********************************{x
+{R****************************************************************{x
+{R*                  {YREAD THIS!!! READ THIS!!!{R                   *{x
+{R*  {WAs of January 25th the mud will become wizlocked. There will{R*{x
+{R*  {Wbe countless changes. This could take between one week and  {R*{x
+{R*  {Wand one year. When you come back there will have been a     {R*{x
+{R*  {Wp-wipe, and a clan-wipe. The mud will come back in alpha    {R*{x
+{R*  {Wmode, this means even more changes. Once we are out of alpha{R*{x
+{R*  {Wthere will be another p-wipe and clan-wipe, and we will come{R*{x
+{R*  {Wback in beta mode, we will probably be in this version much {R*{x
+{R*  {Wlonger than alpha because much more must be tested and      {R*{x
+{R*  {Wand ptested.                                                {R*{x
+{R*                                                               *{x
+{R*  {WAs of now I know exactally what your asking yourself. Right {R*{x
+{R*  {Wnow your asking yourself, if Im going to lose my player     {R*{x
+{R*  {Wand my clan, why should I ever come back? Well coming back  {R*{x
+{R*  {Wis really up to you, but you have to think this way do you  {R*{x
+{R*  {Wwant to be a part of one of the all out funnest muds, one of{R*{x
+{R*  {Wmost innovative muds, and simply a part of a great mud from {R*{x
+{R*  {Wthe beggining? Or do you want to leave because you simply   {R*{x
+{R*  {Wlost a character in a time of great change?                 {R*{x
+{R*                                                               {R*{x
+{R*  {WAlso from now until Jan. 25th I will be interviewing        {R*{x
+{R*  {Wbuilders, and questimms. If you are hoping to become either {R*{x
+{R*  {Wyou need to either send me a note, contact me while I am on,{R*{x
+{R*  {Wor send me an email (death_rising_implementor@hotmail.com). {R*{x
+{R*  {WI will be hiring 2 more builders, and 2 questimms, so you   {R*{x
+{R*  {Wwill have to know what your getting into before i interview {R*{x
+{R*  {Wyou.                                                        {R*{x
+{R*                                                               {R*{x
+{R*  {GLoki, Owner and Head Coder                                  {R*{x
+{R****************************************************************{x
+~
+
+-1 newchartier~
+.
+     {GTier {g1{W   |  {YTier {y2    {W|  {RTier {r3{W     |  {BTier {b4{x
+     {W================================================{x
+     {GM{gage{W     |  {YW{yizard    {W|  {RI{rnvoker    {W| {BS{borcerer{x
+     {GC{gleric{W   |  {YP{yriest    {W|  {RB{rishop     {W| {BT{bemplar{x
+     {GR{gogue{W    |  {YT{yhief     {W|  {RM{rercenary {W | {BA{bssassin{x
+     {GW{garrior{W  |  {YB{yerserker {W|  {RG{rladiator {W | {BK{bnight{x
+     {GT{gracker{W  |  {YH{yunter    {W|  {RR{ranger    {W | {BS{btrider{x
+     {GD{gruid    {W|  {YS{yhaman    {W|  {RS{rage      {W | {BE{blder{x
+     {GR{gevenant {W|  {YV{yampire   {W|  {RL{rich      {W | {BC{bainite{x
+
+If you are creating a brand new character, you have to select one of the
+classes from the first tier. The other tiers are accessible by reaching
+hero level and typing 'reroll'.
+
+~
+
+
+-1 $~
+
+#$

@@ -1,0 +1,878 @@
+#AREADATA
+Name Eagle's Peak~
+Builders Mangan~
+VNUMs 550 579
+Credits {M[100-125] Eagles Peak{x~
+Security 9
+RepopMsg You see the eagles reinforcements fly in.~
+End
+
+
+
+#MOBILES
+#550
+large eagle~
+{xA large {Weagle{x~
+{xA large {Weagle{x lies here waiting to be of some assistance.
+~
+This large eagle is floating right next to the edge of the stairs.  The
+eagle keeps glancing at you and then staring up towards the platform above. 
+Perhaps it could be of some assistance...  
+~
+Gryphon~
+AB T CDEFGJTZac AHMV 0 0
+130 520 521d44+17070 130d15+600 33d5+156 claw
+-149 -149 -149 -122
+CDEFGHIKN AL CDERS HJPT
+stand stand none 0
+ABCDEFGHIJKW P large unknown
+F res J
+M ACT 551 nods~
+M GRALL 550 100~
+#551
+eagle guard~
+An {WEagle {YG{Wu{Ya{Wr{Yd{x~
+An {WEagle {YG{Wu{Ya{Wr{Yd{x stands here blocking all without an invitation from entering.
+~
+This eagle is here stopping you from entering the gate.  He must be
+hiding a key somewhere.  If only you could find an invitation of some
+sort...  
+~
+Gryphon~
+AB T DFTVac AMV 1000 0
+125 125 627d41+5049 125d10+85 41d3+137 claw
+-75 -75 -75 -49
+ACDEFGHIJKNU ABL GNS HJ
+stand stand none 0
+ABCDEFGHIJKW P medium unknown
+F shd H
+F res J
+#552
+alkor captain eagles~
+{RAl{Ck{Ror{x~
+{RAl{Ck{Ror{x the Captain of the {WEagles {xis here.
+~
+This large eagle has hidden when he heard an outsider has entered the
+palace.  He now stands proud, ready to protect his crown.  His height out
+matches any of the other eagles.  
+~
+Gryphon~
+AB T DFJQTVa AHMV 1000 0
+150 600 601d51+19696 150d15+600 38d5+176 claw
+-173 -173 -173 -142
+ADEFGHIJK AB DEIJL JK
+stand stand male 947
+ABCDEFGHIJK K large unknown
+F imm L
+#553
+eagle cell guard~
+The {DC{We{Dl{Wl {CGu{Wa{Crd{x~
+{xAn {WEagle {xis here {CGu{Wa{Crd{Wi{Cng {xthe {DC{We{Dl{Wl{x and making sure no one gets out.
+~
+This eagle is fair in size, definately able to watch out for himself.  He
+guards these cells day and night without rest.  He also stops anyone from
+entering the room behind the eastern door.  
+~
+Gryphon~
+AB T DF AHMV 1000 0
+130 130 652d43+5253 130d10+85 43d3+142 peck
+-78 -78 -78 -51
+AEFHIKR AL EJ F
+stand stand none 9
+ABCDEFGHIJK P medium unknown
+#554
+chanting  eagle~
+a {CC{Yh{Ca{Yn{Ct{Yi{Cn{Yg {WEagles{x~
+An {WEagle {xis {CC{Yh{Ca{Yn{Ct{Yi{Cn{Yg {xhere.
+~
+~
+Gryphon~
+AB T 0 AHMV 1000 1
+140 140 1405d46+3817 140d9+60 43d3+150 none
+-80 -80 -80 -51
+EFGHN L BE JK
+rest rest either 0
+ABCDEFGHIJK U small unknown
+F res J
+#555
+small fish~
+{xa {BS{Wmal{Bl {gFi{bs{gh{x~
+{xA fish is swimming in the river here.
+~
+This small fish is obviously terrified of your presence.  It swims aruond
+you constantly, trying to get you to leave.  Perhaps it would be best to
+just let it be...  
+~
+water fowl~
+AB 0 Tb 0 0 0
+125 125 1255d41+3409 125d9+60 38d3+135 frbite
+-71 -71 -71 -44
+FH H R J
+stand stand none 0
+AGb FKO small unknown
+F for W
+F par ACDEHP
+#556
+caged orc~
+a {Dc{Wa{Dg{We{Dd {go{yr{gc{x~
+An orc is here, caged up like a savage beast.
+~
+This orc is large in size with many battle scars.  It's fingers are all
+ripped open at the tips.  It grins, making its yellow slimy teeth visible
+for all to see.  
+~
+Orc~
+AB 0 Xa 0 -1000 0
+115 460 461d39+13933 115d15+600 29d5+141 charge
+-130 -130 -130 -107
+ACOR AB D NP
+rest stand male 0
+AHMV ABCDEFGHIJK large unknown
+F res C
+#557
+caged goblin~
+a {Dc{Wa{Dg{We{Dd {ggo{ybl{Gin{x~
+A goblin is here looking very suspicous.
+~
+A goblin is here half awake.  It doesn't seem to mind the cold dark room
+it's in.  The smell from the cell nearby is obviously bothering him.  It
+seems to be hiding something.  
+~
+Goblin~
+AB 0 J 0 -985 0
+113 113 567d37+3424 113d10+85 37d3+125 none
+-66 -66 -66 -43
+EFGHK AB P NSXY
+rest stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#550
+sign~
+{xa {ysign{x~
+A {ywooden sign {xis hanging here.~
+wood~
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+{D    V          V    
+    |          |    
+    0          0    
+    |          |    
+   /|          |\
+{y--------------------
+{y| ---------------- |
+{y| | {cWelcome  to: {y| |
+{y| | {WEagle's Peak {y| |
+{y| ---------------- |
+{y--------------------{x
+~
+#551
+wooden staff~
+{xa {ywooden {rstaff{x~
+{xA {ywooden {rstaff{x is here.~
+wood~
+weapon S AN
+staff 11 17 pound C
+100 101 7280 P
+A
+18 9
+A
+19 9
+#552
+guard helm~
+{xa {YG{Wu{Ya{Wr{Yd{W'{Ys {CH{Ye{Cl{Ym{x~
+{xA {YG{Wu{Ya{Wr{Yd{W'{Ys {CH{Ye{Cl{Ym{x lies here.~
+unknown~
+armor KL AE
+88 88 88 87 0
+100 101 96 P
+A
+17 -40
+#553
+shiny key~
+a {YS{Wh{Yi{Wn{Yy {YKey{x~
+A {YS{Wh{Yi{Wn{Yy {YKey{x looks as if it has just been polished.~
+unknown~
+key Q A
+0 0 0 0 0
+1 0 0 P
+#554
+key cloud~
+a {ykey {xmade of {Wcloud{x~
+{x~
+unknown~
+key SY A
+0 0 0 0 0
+0 0 0 P
+E
+cloud~
+A {ykey {xmade of thick {Wcloud{x is here.
+~
+E
+key~
+A {ykey {xmade of thick {Wcloud{x is here.
+~
+#555
+ring cell keys~
+{xa {Yring {xof {Dc{We{Dl{Wl {ykeys{x~
+{xA {Yring {xof {Dc{We{Dl{Wl {ykeys{x is here.~
+unknown~
+key 0 AO
+0 0 0 0 0
+0 0 0 P
+#556
+muddy key~
+{xa {ymuddy {ykey{x~
+{x~
+unknown~
+key S AO
+0 0 0 0 0
+0 1 0 P
+E
+key~
+{xA {ymuddy key {xis here.
+~
+#557
+large sack seeds~
+{xa large sack of {ys{we{ye{wd{ys{x~
+{xA large sack of {ys{we{ye{wd{ys{x is here.~
+unknown~
+food 0 A
+3 3 0 0 0
+0 4 0 P
+#558
+keg vodka~
+{xa {ykeg {xof {Wv{wo{Wd{wk{Wa{x~
+{xA {ykeg {xof {Wv{wo{Wd{wk{Wa{x is here.~
+unknown~
+drink 0 A
+8 6 'vodka' 0 0
+0 6 0 P
+#559
+no name~
+a water fountain~
+A fountain is here pouring out water for all.~
+unknown~
+fountain 0 0
+-1 -1 'water' 0 0
+0 0 0 P
+#560
+captain bed~
+the Captain's Bed~
+A large bed belonging to the Captain of the eagles is here.~
+unknown~
+furniture 0 0
+2 1000 K 10 10
+0 0 0 P
+#561
+staff eagles~
+{xthe {yStaff {xof the {WEagles{x~
+{xThe {yStaff {xof the {WEagles{x is here.~
+unknown~
+weapon S AN
+polearm 13 17 smash CEG
+125 126 8670 P
+A
+18 10
+A
+19 10
+#562
+crown eagles~
+{xthe {YCrown {xof the {WEagles{x~
+{xThe {YCrown {xof the {WEagles{x is here.~
+unknown~
+armor 0 AE
+109 109 109 108 0
+125 126 121 P
+A
+17 -50
+#0
+
+
+
+#ROOMS
+#550
+A Soft Bank {c({WEagle's Peak{c){x~
+{cWelcome {xto {WEagle's Peak{x!
+ 
+{R**************
+{R*{*High {*Leveled{R*
+{R*{*Players {*Only{R*
+{R**************{x
+ 
+{DR{Gecommended {xfor {DP{Glayers {DL{Gevel {B100{C-{B125{x.
+{RE{rnjoy {RY{rour {RS{rtay{x!
+~
+0 1028 6
+D3
+A path lined with grass is to your west.
+~
+~
+0 0 553
+D4
+A spriral staircase leads up from here.
+~
+~
+0 0 551
+S
+#551
+A Spiral Staircase {c({WEagle's Peak{c){x~
+A staircase leads upwards from here.  As you look towards the clouds
+above you hear the cries of the eagles that live here.  You notice a sign
+hanging above you.  
+~
+0 1024 4
+D5
+~
+~
+0 0 550
+S
+#552
+A Small Platform {c({WEagle's Peak{c){x~
+Your standing here infront of a large gate, to the west.  Two eagle
+guards are here, equiped with a staff and a helm.  Looks like these guys
+could present a problem.  
+~
+0 0 2
+D3
+~
+~
+4 553 554
+D5
+~
+~
+0 0 551
+S
+#553
+A Grassy Pathway~
+Your are walking along a small pathway.  The path is lined with knee-high
+grass.  You look ahead of you and see a large staircase.  It is rumored that
+eagles live ahead that fight off the forces of Morlok, the evil king.  
+~
+0 4 4
+D1
+A large staircase is ahead of you.
+~
+~
+0 0 550
+D3
+~
+~
+0 0 655
+S
+#554
+{xInside the Gate {c({WEagle's Peak{c){x~
+Your standing inside the gate of Eagle's Peak.  You look around and see
+nothing but the sky.  To the north you see two clouds seeming to form the
+shape of a bridge.  The gate is back to the east.  
+~
+0 0 2
+D0
+~
+~
+0 0 555
+D1
+~
+~
+4 0 552
+S
+#555
+{xA Bridge of Clouds {c({WEagle's Peak{c){x~
+You seem to be standing on a cloud.  It looks as if there is a gap to
+the north where some cloud is missing from the center of the bridge.  You
+peer over the edge of the cloud and see a river running far below.  
+~
+0 0 2
+D0
+~
+~
+0 0 556
+D2
+~
+~
+0 0 554
+S
+#556
+{xA Gap in the Bridge {c({WEagle's Peak{C){x~
+You seem to standing on...  Nothing.  The bridge is to the north and
+south, but there seems to be a part missing.  You can't find the guts to
+look down below you.  All this happens in a split second, as you hope you
+remember how to fly.  
+~
+0 0 2
+D0
+~
+~
+0 0 557
+D5
+~
+~
+0 0 558
+S
+#557
+{xA Thinner Section of the Bridge {c({WEagle's Peak{c){x~
+This bridge seems to be less stable as the clouds are thinner.  You
+almost feel as if you'd slip through.  Better hurry across to the land north
+of you.  
+~
+0 0 9
+D0
+~
+~
+0 0 567
+D2
+~
+~
+0 0 556
+S
+#558
+{xFalling through the Sky {c({WEagle's Peak{c){x~
+Your falling down, farther and farther.  There's no way back now, unless
+you can fly somehow.  If only you had some wings or a spell...  You continue
+to fall down...  Down...  Down...  
+~
+0 0 2
+D4
+~
+~
+0 0 560
+D5
+~
+~
+0 0 559
+S
+#559
+{xFalling through the Sky {c({WEagle's Peak{c){x~
+You continue to fall farther towards the earth.  You are close to the
+river now.  You realize this is your last chance to fly before you splash
+into the water.  
+~
+0 0 0
+D4
+~
+~
+0 0 560
+D5
+~
+~
+0 0 561
+S
+#560
+{xAttempting to Fly {c({WEagle's Peak{c){x~
+You start flying upwards, trying to reach the bridge of clouds.  It's
+only a breath away now.  You try with all your might to reach it, then throw
+out a limb and grab it.  All you have to do now is pull yourself up.  
+~
+0 0 9
+D4
+~
+~
+0 0 556
+S
+#561
+{xThe River {c({WEagle's Peak{c){x~
+The water's current is so strong, you can't even come close to touching
+the bottom.  You don't even have to swim with this current.  The river is
+running north, and a small bank is to the south.  
+~
+0 0 2
+D0
+~
+~
+0 0 562
+D2
+~
+~
+0 0 550
+S
+#562
+{xThe River {c({WEagle's Peak{c){x~
+The river seems to come to an end at the nearby bank to the north.  The
+fish swimming here seem to be frightened of your presence.  They tend to
+keep their distance, while showing that they aren't going to leave their
+home.  
+~
+0 0 2
+D0
+~
+~
+0 0 563
+S
+#563
+{xA Rocky Bank {c({WEagle's Peak{c){x~
+The bank here is filled with rocks of all shapes and sizes.  To the north
+they create a huge wall.  There is also a small crack in the rocks near the
+bottom of the wall.  The river is back to the south.  
+~
+0 0 2
+D0
+~
+~
+3 0 564
+D2
+~
+~
+0 0 562
+S
+#564
+{xBeyond the Wall {c({WEagle's Peak{c){x~
+The huge rock wall is to the south.  You stand at the foot of yet another
+staircase.  This one is made of a white marble that zig-zags it way towards
+the clouds.  The only other way to go is back to the river.  
+~
+0 0 2
+D2
+~
+~
+3 0 563
+D4
+~
+~
+0 0 565
+S
+#565
+{xA White Marble Staircase {c({WEagle's Peak{c){x~
+This staircase seems to be as white as the clouds.  You have to guide
+yourself by feel, as marble is obviously harder then the fluff of clouds
+that are about you.  The top of the staircase is close above you.  
+~
+0 0 4
+D4
+~
+~
+0 0 566
+D5
+~
+~
+0 0 564
+S
+#566
+On Top of the Marble Staircase {c({WEagle's Peak{c){x~
+You've reached the top of the staircase.  To the east lies another
+platform before a wooden door.  A fluff of cloud so thick that you can't see
+through it as it at your feet.  
+~
+0 0 0
+D3
+~
+~
+0 0 567
+D5
+~
+~
+0 0 565
+S
+#567
+{x A Large Platform {c({WEagle's Peak{c){x~
+You've reached the door to Alkor's palace.  This wooden door is to the
+east.  A key hole is in the door surrounded by a white glow.  Ths palace is
+said to have a secret room filled with riches.  
+~
+0 0 0
+D1
+~
+~
+0 0 566
+D2
+~
+~
+0 0 557
+D3
+~
+~
+1 554 568
+S
+#568
+{xThe Palace Foyer {c({WEagle's Peak{c){x~
+You're standing inside the huge palace of Alkor.  You ar in a large room
+with a hallway to the west.  The floor seems to be of a rare, white granite.
+You hear many grunts coming from the hallway before you.  
+~
+0 0 0
+D1
+~
+~
+1 0 567
+D3
+~
+~
+0 0 569
+S
+#569
+The Hallway {c({WEagle's Peak{c){x~
+The hallway splits here, leaving you with a choice of direction between
+north and south.  Grunting and snorting come from the north while to the
+south you hear nothing at all.  
+~
+0 0 0
+D0
+~
+~
+0 0 570
+D1
+~
+~
+0 0 568
+D2
+~
+~
+0 0 575
+S
+#570
+{xThe Northern Hallway {c({WEagle's Peak{c){x~
+Noises echo off the walls.  The hallway takes a turn here and leads you
+to the east.  The grunting is growing louder and louder as you continue.  To
+the south is the Southern Hallway.  
+~
+0 0 0
+D1
+~
+~
+0 0 571
+D2
+~
+~
+0 0 569
+S
+#571
+{xThe Northern Hallway {c({WEagle's Peak{c){x~
+You see cells containing captured orcs to the north and south.  They
+probably served Morlok before they were caged.  A door is to the east.  The
+hallway is back to the west.  
+~
+0 0 0
+D0
+~
+~
+1 555 572
+D1
+~
+~
+2 556 574
+D2
+~
+~
+1 555 573
+D3
+~
+~
+0 0 570
+S
+#572
+{xA Cell {c({WEagle's Peak{c){x~
+This cell smells like an orc's armpit.  You see scratch marks on the
+northern wall.  The floor is made of tightly packed dirt.  By looking
+closely at the center of the floor, it seems like the orcs amused themselves
+with some ancient game.  
+~
+0 0 0
+D2
+~
+~
+1 0 571
+S
+#573
+{xA Cell {c({WEagle's Peak{c){x~
+This cell's floor is made of dirt.  The ground is wet in the corner
+creating mud.  The smell from the nearby cell has drifted in.  It smells
+very similiar to an orc.  
+~
+0 0 0
+D0
+~
+~
+1 0 571
+S
+#574
+{XA Storage Room {c({WEagle's Peak{c){x~
+This room is used for storing food and drink.  There are sacks filled
+with seed on the northern shelves and kegs on the southern shelves.  The
+hallway is back to the west.  
+~
+0 0 0
+D3
+~
+~
+2 0 571
+S
+#575
+The Southern Hallway {c({WEagle's Peak{c){x~
+This hallway leads to the southern end of the palace.  There is a small
+staircase here towards the south.  There are no handrails to help you up
+this small set of stairs.  
+~
+0 0 0
+D0
+~
+~
+0 0 569
+D2
+~
+~
+0 0 576
+S
+#576
+{xThe Southern Hallway {c({WEagle's Peak{c){x~
+You stand at a junction.  There is a huge metal door to the east. 
+Through a small arch in the western wall is a fountain.  You here a soft
+chanting coming from the fountain.  
+~
+0 0 0
+D0
+~
+~
+0 0 575
+D1
+~
+~
+1 0 578
+D3
+~
+~
+0 0 577
+S
+#577
+{xThe Palace Sanctuary {c({WEagle's Peak{c){x~
+A small fountain is here gushing out water for all who want it.  You
+notice many eagles surrounding the fountain and chanting soft songs.  This
+might not be a good time to disturb them.  
+~
+0 1024 0
+D1
+~
+~
+0 0 576
+M 150 H 150
+S
+#578
+{xThe Captain's Chambers {c({WEagle's Peak{c){x~
+You stand in the Captain's Chambers.  A large bed is against the wall. 
+The Captain is no where to be found.  You step foward and notice a board
+seems to be loose in the floor.  
+~
+0 0 0
+E
+board~
+A loose board is covering the entrance to a tunnel.
+~
+E
+loose~
+A loose board is covering the entrance to a tunnel.
+~
+D3
+~
+~
+1 0 576
+D5
+~
+~
+1 0 579
+S
+#579
+The Secret Chamber {c({WEagle's Peak{c){x~
+This room is filled with silver and gold coins.  These must belong to the
+Captain of the eagles.  You grab a coin and it crumbles into dust.  All this
+searching for nothing.  
+~
+0 0 0
+D4
+~
+~
+1 0 578
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 552 3 2
+D 0 554 1 2
+D 0 563 0 1
+D 0 564 2 1
+D 0 567 3 2
+D 0 568 1 2
+D 0 571 0 2
+D 0 571 1 2
+D 0 571 2 2
+D 0 572 2 2
+D 0 573 0 2
+D 0 574 3 2
+D 0 576 1 1
+D 0 578 3 1
+D 0 578 5 1
+D 0 579 4 1
+O 0 550 0 551
+M 0 550 1 551 1
+M 0 551 2 552 2
+G 0 553 0
+E 0 552 0 6
+E 0 551 0 16
+M 0 551 2 552 2
+G 0 553 0
+E 0 552 0 6
+E 0 551 0 16
+M 0 555 8 561 5
+M 0 555 8 561 5
+M 0 555 8 561 5
+M 0 555 8 562 5
+M 0 555 8 562 5
+M 0 555 8 562 5
+O 0 554 0 566
+M 0 553 1 571 1
+E 0 555 0 17
+M 0 556 5 572 5
+M 0 556 5 572 5
+M 0 556 5 572 5
+M 0 557 3 573 3
+M 0 557 3 573 3
+O 0 556 0 573
+O 0 557 0 574
+O 0 557 0 574
+O 0 557 0 574
+O 0 558 0 574
+O 0 558 0 574
+O 0 558 0 574
+O 0 559 0 577
+M 0 554 6 577 6
+M 0 554 6 577 6
+M 0 554 6 577 6
+M 0 554 6 577 6
+O 0 560 0 578
+M 0 552 1 579 1
+E 0 562 0 6
+E 0 561 0 16
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#550
+say Welcome $n
+mob echo A large {Weagle{x says '{WI can take you further, if you're ready, just nod.{x'
+~
+#551
+say Very well.
+mob echo You climb onto the eagle's back.
+mob echo With the tremendous force of its large wings, it pushes upward into the air.
+mob transfer $n 552
+mob echo With delicate grace the eagle lands safely back on its perch.
+~
+#0
+
+#$

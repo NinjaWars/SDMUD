@@ -1,0 +1,927 @@
+#AREADATA
+Name The City of Carthalion~
+Builders Kalicu~
+VNUMs 1000 1099
+Credits {W[  ALL  ] City of Carthalion{x~
+Security 9
+RepopMsg You feel the ground rumble beneath your feet~
+End
+
+
+
+#MOBILES
+#1000
+teari statue~
+The statue of {RT{re{Ra{rr{Ri{X ~
+The statue of Teari seems to sing a slow song of healing
+~
+Before you stands a huge statue of the greatest goddess Teari, she stands
+before you with a tear flowing down her eye and singing a soft song in her
+heavy voice.  
+~
+Titan~
+ABa 0 Da 0 -1000 0
+250 80 81d7+2021 20d15+600 6d5+46 divine
+-15 -15 -15 -11
+C B DF 0
+stand stand female 4
+AHKMV ABCDEFGHIJK medium unknown
+#1002
+avatar drconian~
+A {GDra{gcon{Gian{X Avatar~
+A {GDra{gcon{Gian{X avatar stands before you.
+~
+Before you stands a nine foot tall draconian warrior he drops both of his
+weapons and flashes his fangs at you.  He quickly begins to circle around
+you snaping his jaws furiously.  
+~
+Draconian~
+AB 0 T 0 100 0
+3 3 35d2+28 3d9+60 1d3+13 bite
+7 7 7 8
+0 LQ HIP FGJ
+stand stand none 500
+AHMV ABCDEFGHIJKPQ medium unknown
+#1003
+golden dragon dungeonmaster~
+{YThe Fab{yled {YDu{yngeon{Ymaster{X~
+A large {YG{yo{Yl{yd{Ye{yn {RD{rr{Ra{rg{Ro{rn{X stands before you offering {Yq{yu{Ye{ys{Yt{ys{X.
+~
+Before you stands a large golden dragon he looks down on you with a gleam
+in his eyes and says what do you wish of me?  
+~
+unique~
+AB 0 JT D 100 0
+200 800 801d67+30301 200d15+600 51d5+226 smash
+-234 -234 -234 -193
+C 0 BEH FI
+stand stand male 600
+AHZ ACDEFGHIJKPQUVX medium flesh
+M GREET 1003 100~
+#1004
+potion seller draconian~
+A {GD{gr{Ga{gc{Go{gn{Gi{ga{Gn {FP{ro{Ft{ri{Fo{rn{Fs{re{Fl{rl{Fe{rr{F.{X~
+A Draconian potoinseller slithers back and forth before you.
+~
+~
+Draconian~
+AB 0 T 0 7 0
+200 800 801d67+30301 200d15+600 51d5+226 none
+-234 -234 -234 -193
+0 LQ HIP FGJ
+stand stand female 0
+AHMV ABCDEFGHIJKPQ medium unknown
+#1005
+titan weapons master~
+A {eT{Di{et{Da{en{Di{ea{Dn {eW{De{ea{Dp{eo{Dn{es {DM{ea{Ds{et{De{er{X~
+A {RT{ri{Rt{ra{Rn{ri{Ra{rn{X Weapons Master forges togeather raw metals
+~
+Before you stands a tall muscular being!  He has the power to create
+weapons with his bare hands althoug a real Titan needs nothing more then its
+hands.  It is said that this greate race was greater then even the Gods.... 
+~
+Titan~
+AB 0 FZa 0 90 0
+200 800 801d67+30301 200d15+600 51d5+226 crush
+-234 -234 -234 -193
+0 B DF 0
+stand stand none 1
+AHMV ABCDEFGHIJK medium unknown
+F aff D
+#1007
+dr master death rising~
+A {DDe{rat{Rh R{Ri{rsi{Dng M{ras{Rte{Dr{X~
+A {DDe{rat{Rh R{risi{Dng M{ras{Rte{Dr{X awaits you.
+~
+Before you stands a Man filled with all the knowledge od DR.
+~
+Human~
+AB 0 W D 900 0
+200 800 801d67+30301 200d15+600 51d5+226 slash
+-234 -234 -234 -193
+0 BFG 0 0
+stand stand male 1
+AHMV ABCDEFGHIJK medium unknown
+M SPEECH 1008 yes~
+M GREET 1007 100~
+#1008
+guildmaster~
+A Scaled {yG{ru{yi{rl{Yd{Rm{Ya{Rs{yt{re{yr{rs{X ~
+A Scaled {yG{ru{yi{rl{Yd{Rm{Ya{Rs{yt{re{yr{rs{X awaits your requests.
+~
+Before you stands yet another avatar of (DR) he awaits your questions. He knows all Spells and Skills that are other wise infaninte.
+ 
+~
+unique~
+ABb 0 JT D 1000 0
+200 800 801d67+30301 200d15+600 51d5+226 divine
+-234 -234 -234 -193
+0 0 BEH FI
+stand stand female 20
+AHZ ACDEFGHIJKPQUVX medium unknown
+#1018
+dragon banker~
+A {RD{rr{Ga{gg{Yo{yn {WB{ea{Wn{ek{We{er{X~
+A {RD{rr{Ga{gg{Yo{yn {Wb{ea{Wn{ek{We{er{X stands before you
+~
+Before you stands a tall banker with visious jaws and arms that could
+crush a god.  He looks down on you with a pleasent look and says like our
+security?.  
+~
+unique~
+AB C JT D 1000 0
+200 800 801d67+30301 200d15+600 51d5+226 none
+-234 -234 -234 -193
+0 0 BEH FI
+stand stand none 4400
+AHZ ACDEFGHIJKPQUVX medium unknown
+#1019
+titan omni armorer~
+{rO{bm{rn{bi {rt{bh{re {ba{rr{bm{ro{br{re{br{X~
+{DO{em{Dn{ei{X stands before you forging metal with his hands.
+~
+Omni stands before you with his hands forging metal and and molding it
+into a thin armor.  He looks down on you and asks if he can help you.  
+~
+Titan~
+AB 0 DFZa 0 900 0
+200 800 801d67+30301 200d15+600 51d5+226 slash
+-234 -234 -234 -193
+0 B DF 0
+stand stand male 600
+AHMV ABCDEFGHIJK medium unknown
+#1032
+baby titan~
+a baby titan~
+A baby titan stands here
+~
+A baby titan runs at you fists flying
+~
+Titan~
+A 0 Da 0 60 0
+2 2 25d2+19 2d9+60 1d2+12 crush
+8 8 8 8
+0 B DF 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#1033
+a greater dragon~
+a greater dragon~
+A Greater Dragon stands here growling
+~
+A greater dragon bares down on you growling and moshing around the room
+~
+unique~
+ABF 0 JT D -10 2
+3 3 35d2+28 3d9+60 1d3+13 slap
+7 7 7 8
+0 0 BEH FI
+stand stand none 50
+AHZ ACDEFGHIJKPQUVX medium unknown
+#1037
+no name~
+The {YF{ya{Yb{yl{Ye{yd {RG{ru{Ri{rl{Rd{rm{Ra{rs{Rt{re{Rr{X~
+The {YF{ya{Yb{yl{Ye{yd {RG{ru{Ri{rl{Rd{rm{Ra{rs{Rt{re{Rr{X stands before you
+~
+The fabled Guildmaster stands before you prepair to teach you in the ways
+of combat.  
+~
+Human~
+ABJKb 0 0 0 80 0
+200 800 801d67+30301 200d15+600 51d5+226 smash
+-234 -234 -234 -193
+0 0 0 0
+stand stand female 20
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1054
+gainmaster~
+The {YF{ya{Yb{yl{Ye{yd {RG{ra{Ri{rn{Rm{ra{Rs{rt{Re{rr{X~
+The {YF{ya{Yb{yl{Ye{yd {RG{ra{Ri{rn{Rm{ra{Rs{rt{Re{rr{X stands before you
+~
+A woman stands here prepaired to each you about skills and spells
+~
+Human~
+ABb 0 0 0 600 0
+200 800 801d67+30301 200d15+600 51d5+226 none
+-234 -234 -234 -193
+0 0 0 0
+stand stand none 1200
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1056
+guildmaster~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#1000
+potion true sight~
+a {YP{yo{Yt{yi{Yo{yn{X Of {GT{gr{Gu{ge {CS{ci{Cg{ch{Ct{X~
+A potion that raises your sences lies here.~
+sickening~
+potion A A
+10 'detect invis' 'detect hidden' 'detect magic' 'reserved'
+10 2 300 P
+#1002
+potion strength supreme~
+a {YP{yo{Yt{yi{Yo{yn{X Of {GS{gu{Gp{gr{Ge{gm{Ge {CS{ct{Cr{ce{Cn{Cg{ct{Ch{X~
+A potion of Strength lies here half empty.~
+poison~
+potion B A
+19 'giant strength' 'haste' 'gods armor' 'mystic armor'
+20 3 10000 P
+#1003
+portal ~
+a portal ~
+A mystic portal swirls before you. {W(enter portal){X~
+unknown~
+portal HMS P
+2147483647 0 0 1006 0
+1 16960 1 P
+#1004
+potion of full healing~
+a {YP{yo{Yt{yi{Yo{yn {Xof {GF{gu{Gl{gl {CH{ce{Ca{cl{Ci{cn{Cg{X~
+An expensive potion lies here on the ground.~
+unknown~
+potion ABG A
+199 'master healing' 'master healing' 'master healing' 'master healing'
+201 4 1000000000 P
+#1005
+mace heavy~
+a {eHeavy {DMace{X ~
+A heavy mace lies in the open street~
+steel~
+weapon 0 AN
+mace 1 2 smash A
+2 3 600 P
+A
+1 1
+#1006
+dagger sharp extremly~
+{YA{yn {yExt{Yre{ymly {eShar{Dp Da{egger{X~
+An small dagger lies here glowinf mysticly.~
+mystic~
+weapon A AN
+dagger 10 16 pierce E
+90 91 6360 P
+A
+19 8
+A
+18 8
+A
+1 -1
+A
+2 2
+#1008
+light polearm~
+a {yL{Yigh{yt {Dpolearm{X~
+A light polearm lies in the dirt~
+steel~
+weapon B AN
+polearm 1 5 smash 0
+3 4 310 P
+A
+18 2
+#1009
+fine dagger~
+a {RF{ri{rn{Re {ed{Da{eg{Dg{ee{Dr{X~
+A {rf{Rin{re {ed{Da{eg{Dg{ee{Dr{X lies on the floor glinting in the {Yl{yigh{Yt{X~
+platinum~
+weapon 0 AN
+dagger 1 2 pierce 0
+2 3 140 P
+A
+19 1
+#1010
+long sword~
+a {el{Do{en{Dg {Gs{gw{Go{gr{Gd{X ~
+A {eL{Do{en{Dg {gs{Gw{go{Gr{gd{X leans against a {yt{gr{ye{ge{X.~
+steel~
+weapon 0 AN
+sword 1 4 slash 0
+3 4 800 P
+A
+1 1
+#1012
+potion of minor healing~
+a {YP{yo{Yt{yi{Yo{yn{X of {GM{gi{Gn{go{Gr {CH{ce{Ca{cl{Ci{cn{Cg{X~
+A {YP{yo{Yt{yi{Yo{yn{X of {GM{gi{Gn{go{Gr {CH{ce{Ca{cl{Ci{cn{Cg{X~
+unknown~
+potion A A
+10 'cure serious' 'cure serious' 'reserved' 'reserved'
+10 12 900 P
+#1013
+a potion of minor spells~
+a {YP{yo{Yt{yi{Yo{yn{X of {GM{gi{Gn{go{Gr {CS{cp{Ce{cl{Cl{cs{X~
+A {YP{yo{Yt{yi{Yo{yn{X of {GM{gi{Gn{go{Gr {CS{cp{Ce{cl{Cl{cs{X~
+unknown~
+potion ABG A
+20 'fireshield' 'iceshield' 'shockshield' 'haste'
+20 2 1000 P
+#1018
+short sword~
+a {Ws{bh{Wo{br{Wt {gs{Ww{go{Wr{gd{X~
+A {Ws{bh{Wo{br{Wt {Ws{gw{Wo{gr{Wd{gs{X blade is stuck into the ground~
+metal~
+weapon 0 AN
+sword 1 2 slash 0
+2 3 800 P
+A
+18 3
+#1019
+lether armor~
+a piece of small {yleather{X armor~
+A piece of {yleather{X armor has been left in the soil.~
+leather~
+armor 0 AD
+5 5 5 4 0
+1 2 5 P
+A
+2 2
+#1020
+emerald dragon scales~
+{GE{gm{Ge{gr{Ga{gl{Gd {gD{Gr{ga{Gg{go{Gn {gS{Gc{ga{Gl{ge{Gs{X~
+A pair of long {GD{gr{Ga{gg{Go{gn {Gs{gc{Ga{gl{Ge{gs{X lie here~
+unknown~
+armor ABG AD
+213 213 213 212 0
+200 251 254 P
+A
+2 -2
+A
+1 4
+A
+13 100
+A
+19 10
+A
+18 -10
+#1021
+fur bed~
+a {gF{yu{gr {yb{ge{yd{X~
+A large {gF{yu{gr {yb{ge{yd{X~
+unknown~
+furniture 0 A
+1 2000 EHK 1000 200
+50 20 50000 P
+#1022
+crack in the wall~
+a small crack in the wall~
+A {ycrack{X that leads to a new room~
+unknown~
+portal ABM P
+1000 0 0 1030 0
+1 -31072 2 P
+#1023
+a large healing pool~
+a {WLarge {YH{ye{Ya{yl{Yi{yn{Yg {BP{bo{Bo{bl{x~
+A large healing pool takes up most of this chamber~
+unknown~
+furniture A 0
+15 100000 FIL 1500 1500
+0 10000 0 P
+#1034
+fountain~
+a {eT{Da{el{Dl {eF{Wo{eu{Wn{et{Wa{ei{Wn{X ~
+A tall {ef{Do{Wu{en{Wt{Da{ei{Wn{X in the shape of {YK{ya{Dl{Yi{yc{Du{X stands here~
+stone~
+fountain M P
+2147483647 2147483647 'milk' 0 0
+1 16960 5 P
+#0
+
+
+
+#ROOMS
+#1030
+The Second Test~
+Congradulations!  Well you past the first test.  Now for the second test
+battle if you can survive these creatures you will venture fourth into the
+final test..  
+ 
+Good Luck.
+Note: Remember these commands FLEE, WIMPY and KILL
+~
+0 0 0
+D0
+~
+~
+0 0 1031
+S
+#1031
+The Dungeon~
+This is the first part of the dungeon from here you will fight monsters
+in the order of one, two, and three...  Mind you you may not be able to
+defeath two, or three..  So remember the commands 
+~
+0 0 0
+D0
+~
+~
+0 0 1032
+D2
+~
+~
+0 0 1030
+S
+#1032
+Dungeon~
+You eill face three tests in the order of one, two and three.  You may
+not be able to deafet all of the monsters so remember the commands: FLEE
+WIMPY and KILL 
+~
+0 0 0
+D0
+~
+~
+0 0 1033
+D2
+~
+~
+0 0 1031
+S
+#1033
+Second Dungeon Test Two~
+Here is the second test mind you these are what you call AGGRESSIVE
+MONSTERS they will attack without warning.  The best way to deal with them
+if they ATTACK is to FLEE and get spelled up if you have the spells.  
+~
+0 0 0
+D2
+~
+~
+0 0 1032
+S
+#1000
+The City of Carthalion~
+South is the Giant healer Teari, and to the north is the rest of the city
+for you to explore.  
+~
+0 4 0
+D0
+~
+~
+0 0 1009
+D2
+~
+~
+0 0 1002
+S
+#1002
+{YH{We{Ya{Wl{Yi{Wn{Yg {WT{Ye{Wm{Yp{Wl{Ye{X~
+Here stands the statue of Teari the greatest Titan goddess, the unique
+thing about Teari is that she was the only Titan that ever had the healing
+ability.  She beckons you to sleep away your wounds.  
+~
+0 0 0
+D0
+~
+~
+0 0 1000
+S
+#1003
+Entrance to The Mud school~
+Continue Up to learn about the mud, Down to learn about your skills and
+how to fight, and west to test what you have learned.  
+ 
+Note: Death Rising or (DR) has been highly modified so we insist that you go through the newbie school until ou understand everything.
+~
+0 0 0
+D2
+~
+~
+1 0 1006
+D3
+~
+~
+0 0 1007
+D4
+~
+~
+0 0 1004
+D5
+~
+~
+0 0 1008
+S
+#1004
+Mud School~
+Ahhh..  So you wish to learn about the world of Death Rising yes?  Well
+here you will learn mostly what you will need to know to get yoruself
+started.  First off you should make sure you read everything in the
+description to learn the locations of cities, use HELP DIR to find out the
+general location of area's that you wish to explore.  Also use AREA to find
+out what area's you should hunt in at your level (you should hunt monsters
+at least fire levels above yourself for the best exp.  Secondly you should
+make sure that you equip yourself properly and find the best eq at least
+every 5 level.  You have already been givin some equipment so simply press
+OPEN BACK and then GET ALL BACK and finsh off by typing WEAR ALL.  You can
+also see what is in your inventory by pressing INV and find out what your
+character is wearing by typing LOOK <YOUR NAME> or EQ .  
+ 
+Please Continue North Through mud school.
+~
+0 0 0
+D0
+~
+~
+0 0 1005
+D5
+~
+~
+0 0 1003
+S
+#1005
+Mud School~
+Here you will learn about moving around the world of Death Rising, there
+is much more to moving around then just pressing NORTH, SOUTH, WEST or EAST
+there are also PORTALS DOORS and various other things.  Here you will learn
+about PORTALS and DOORS.  
+Please enter the portal before you by  pressing enter portal
+~
+0 0 0
+D2
+~
+~
+0 0 1004
+S
+#1006
+Mud School~
+Well done indeed!!  Well now you need only learn the Three ways of moving
+through DOORS.  The first is by Typing OPEN <DIRECTION> , The second is
+using the spell 'PASS DOOR' which you wont have right now, and the third is
+find a KEY an opening it.  
+ 
+Try pressing OPEN NORTH and then moving NORTH.
+~
+0 4 0
+D0
+~
+~
+1 0 1003
+S
+#1007
+Final Test~
+If you complete this final test you will at the end find the newbie
+dungeon.  Filled with many monsters at a perfect level for you to kill and
+get great exp.  Weather you make it or not depends on you.  Good luck and
+have fun.  
+ 
+Note: Make sure you understand {Reverything{X! Once you go {REast{X you will not be able to return until you complete the school.
+~
+0 0 0
+D1
+~
+~
+0 0 1003
+D3
+~
+~
+0 0 1017
+S
+#1008
+Mud School~
+Here you will learn the ways to initiate combat.  The four most common
+ways to initiate combat are these BACKSTAB , CAST <SPELL NAME>, KILL
+<target> and last but not least if your PKING, MURDER <PLAYER NAME>.  
+ 
+Try kill avatar
+~
+0 0 0
+D2
+~
+~
+0 0 1016
+D4
+~
+~
+0 0 1003
+S
+#1009
+Town Square~
+Before you is the Town square, it leads off into many directions and and
+to the various stores to the {CW{cest{X to the {GE{gast{X is the
+dungeonmaster and to the north is for you to explore.  
+~
+0 0 0
+D0
+~
+~
+0 0 1022
+D1
+~
+~
+0 0 1010
+D2
+~
+~
+0 0 1000
+D3
+~
+~
+0 0 1011
+S
+#1010
+{g-=[{WDungeon Master{g]=-{X~
+Before you stands a tall {YG{yo{Yl{yd{Ye{yn {RD{rr{Ra{rg{Ro{rn{X, he
+looks down on you with a vulgar expression and then lifts his head and says
+do you wish something of me my young friend?  QUEST REQUEST to get a quest
+type QUEST LIST to see a list of QUEST EQUIPMENT 
+~
+0 1024 0
+D3
+~
+~
+0 0 1009
+S
+#1011
+{gMarket Place{X~
+You walk around quite a large area, looking to the North and South
+noticing Giants, Titans and Draconians walking and slithering through the on
+coming traffic, as you fell a light gust of wind you look upwards and notice
+that dragons are flying overhead.  
+~
+0 0 0
+D0
+~
+~
+0 0 1014
+D1
+~
+~
+0 0 1009
+D2
+~
+~
+0 0 1015
+D3
+~
+~
+0 0 1012
+S
+#1012
+{gMarket Place{X~
+You walk around quite a large area, looking to the North and South
+noticing Giants, Titans and Draconians walking and slithering through the on
+coming traffic, as you fell a light gust of wind you look upwards and notice
+that dragons are flying overhead.  
+~
+0 0 0
+D0
+~
+~
+0 0 1020
+D1
+~
+~
+0 0 1011
+D3
+~
+~
+0 0 1013
+S
+#1013
+{gMarket Place{X~
+You walk around quite a large area, looking to the North and South
+noticing Giants, Titans and Draconians walking and slithering through the on
+coming traffic, as you fell a light gust of wind you look upwards and notice
+that dragons are flying overhead.  
+~
+0 0 0
+D0
+~
+~
+0 0 1021
+D1
+~
+~
+0 0 1012
+S
+#1014
+{gPotion Shop{X~
+A house stands here emitting a low Golden aura around itself, a light
+{FPink{X fog also covers the grounded area around it.  You look up and see a
+sign reading, Potion Shop hanging overhead.  
+ 
+~
+0 0 0
+D2
+~
+~
+0 0 1011
+S
+#1015
+{gWeapons Master{X~
+As you walk through the brisk air you can hear the pain staking sound of
+metal being smashed togeather through some great force.  You look around and
+see the flicker of sparks coming from off a small bench when suddenly a
+Titan stands up and welcomes you in a deep voice into his shop.  
+~
+0 0 0
+D0
+~
+~
+0 0 1011
+S
+#1016
+{GT{Yr{Ga{Yi{Gn{Yi{Gn{Yg {GR{Yo{Go{Ym{X~
+Here is were the guildmaster will teach you how to use new SKILLS and
+SPELLS, you can also learn SKILLS and SPELLS you usually couldnt learn by
+typing GAIN LIST.  Through this you can learn skills in groups or alone. 
+Damage can also have diffrent affects on monsters or MOBS .  Example one
+monster could be resistant to slash meaning weapons that do slash damage
+will have a reduced affect, while on another MOB that is vulnerable to SLASH
+the damage may be much greater.  You can also learn SKILLS and SPELLS that
+you already have here ny typing PRACTICE <SKILL/SPELL>.  Note: While your
+here dont for get to TRAIN up your stats you can find out what they are
+currently at by typing SCORE.  The STATS you can TRAIN are CONSTITUTION,
+INTELAGENCE, WISDOM, STRENGTH, and DEXTERITY.  Also note you should train
+them in that order.  
+~
+0 0 0
+D0
+~
+~
+0 0 1008
+S
+#1017
+Final Test~
+Good luck on your quest young adventuerer!
+~
+0 2 0
+D1
+~
+~
+0 0 1007
+S
+#1018
+The Begining of The Newbie Dungeon~
+In this narrow dungeon you will face encounters that will be easily
+solved, that is if you completed the {RMud School{X but if not..  Well you
+in a little trouble now arnt you.  You will face a series of tests so be on
+your guard.  Also remember these last combat commands of FLEE and WIMPY if
+you type FLEE you will attempt to run from the fight however, this can fail
+so flee with plenty of hp.  WIMPY works in the same fasion you type WIMPY
+<HP> and once your character falls below that amount of Set Hp he/she will
+flee automatically 
+~
+0 4 0
+D0
+~
+~
+0 0 1019
+S
+#1019
+The First Test~
+This is your first test.  Look carefully around for your way out, and
+mind you there are no hints, and no helping aloud!  If you are caught
+getting help you will be punished.  
+~
+0 0 0
+D2
+~
+~
+0 0 1018
+S
+#1020
+{YBan{yker's Off{Yice{X~
+Here stands hte city bank...  There is only one banker and there is no
+security.  But as you look at the teller you realize there truely is no need
+for security when you have a dragon as a bank teller.  
+~
+0 0 0
+D2
+~
+~
+0 0 1012
+S
+#1021
+{bT{rh{be{r A{br{rm{bo{rr{be{rr{X~
+Before you stands yet another Titan, he uses his bare hands to forge
+plate's of metal around thin pieces of leather..  He looks down on you and
+says in a deep voice.  How may i help you?  
+~
+0 0 0
+D2
+~
+~
+0 0 1013
+S
+#1022
+The North Road~
+From this room if you continue northwards you will eventually end up on
+the road to adventure..  Take care and make sure you are prepaired.  
+~
+0 0 0
+D0
+~
+~
+0 0 1023
+D2
+~
+~
+0 0 1009
+S
+#1023
+The Northern Road~
+This is the road to adventure..  From here you will be led to the other
+areas.  And hopfully on a sage journey.  Take care and may the Gods be with
+you.  
+~
+0 0 0
+D0
+~
+~
+0 0 611
+D2
+~
+~
+0 0 1022
+S
+#0
+
+
+
+#SPECIALS
+M 1000 spec_cast_adept
+M 1003 spec_questmaster
+S
+
+
+
+#RESETS
+D 0 1003 2 1
+D 0 1006 0 1
+M 0 1000 1 1002 1
+O 0 1023 0 1002
+M 0 1007 1 1004 1
+O 0 1003 0 1005
+M 0 1002 1 1008 1
+O 0 1034 0 1009
+M 0 1003 1 1010 1
+M 0 1037 1 1010 1
+M 0 1004 1 1014 1
+G 0 1000 0
+G 0 1002 0
+G 0 1004 0
+G 0 1012 0
+G 0 1013 0
+M 0 1005 1 1015 1
+G 0 1005 0
+G 0 1006 0
+G 0 1018 0
+G 0 1008 0
+G 0 1009 0
+G 0 1010 0
+M 0 1008 1 1016 1
+O 0 1022 0 1019
+M 0 1018 1 1020 1
+M 0 1019 1 1021 1
+G 0 1019 0
+G 0 1020 0
+G 0 1021 0
+S
+
+
+
+#SHOPS
+1004 0 0 0 0 0 100 100 0 23
+1005 0 0 0 0 0 100 100 0 23
+1019 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#1003
+emote looks down on you with measured glance
+mob echo After a moment of contemplation
+say Do you wish something of me, my young friend?
+~
+#1007
+emote gets a delighted smile on his face
+say Ahh, so you wish to learn about the world of {DDe{rat{Rh R{risi{Dng{W yes?
+~
+#1008
+say Then proceed to the north young adventurer, and let your journey's begin
+~
+#0
+
+#$

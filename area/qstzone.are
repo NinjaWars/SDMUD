@@ -1,0 +1,584 @@
+#AREADATA
+Name Quest Zone~
+Builders Unlinked~
+VNUMs 50021 51000
+Credits {c[ QUEST ] Quest Zone{x~
+Security 1
+RepopMsg The sounds of fun and excitement can be heard~
+End
+
+
+
+#MOBILES
+#50021
+Roulette Ball~
+a {DRo{rulet{Dte Ball{x~
+A Roulette Ball rolls towards you.
+~
+~
+Human~
+ABF 0 CDEFGVZc CDEFGHI 0 0
+1000 1000 5002d333+262601 1000d10+85 333d3+1012 crush
+-667 -667 -667 -457
+CDFGHKO ACD 0 0
+stand stand none 1000
+AHMV ABCDEFGHIJK giant Metal
+#50022
+cheeky monkey laughing monkey~
+a {gC{bh{ye{re{mk{cy {BM{bonkey{x~
+A cheeky monkey is here, laughing it up
+~
+Don't look at it, kill it!  
+~
+Human~
+AB 0 0 0 0 0
+1 1 15d2+10 1d9+60 1d2+11 none
+9 9 9 9
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#50023
+a big ol' monkey king~
+a {WBIG OL' {BM{bonkey {YK{yi{Yn{yg{x~
+A big ol' monkey king stands here, throwing feces at you
+~
+~
+Human~
+A 0 DFZ H 0 0
+200 400 1d1+100000 0d0+0 500d10+1000 none
+-100 -100 -100 -100
+0 0 0 0
+stand stand none 6500000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#50021
+portal to somewhere~
+a portal to somewhere~
+A {DPo{rrt{Dal{x to some unknown place is here~
+unknown~
+portal 0 0
+40 0 0 50022 0
+0 0 0 P
+#50022
+Portal to somewhere~
+a portal to somewhere~
+A {DPo{rrt{Dal{x to some unknown place is here~
+unknown~
+portal 0 0
+40 0 0 50023 0
+0 0 0 P
+#50023
+monkey slayer tattoo~
+a {BM{bonke{By {RS{gl{ya{by{re{mr {WT{wattoo{x~
+A monkey slayer tattoo is on the ground here~
+unknown~
+jewelry ISY AT
+0 0 0 0 0
+1 1 0 P
+#50024
+orange karate tai~
+{YORANGE KARATE TAI{x~
+An {YORANGE KARATE TAI{x lies on the ground here~
+unknown~
+armor 0 AD
+0 0 0 0 0
+1 0 0 P
+#50025
+blue belt~
+{YBLUE BELT{x~
+A {YBLUE BELT{X lies on the ground here~
+unknown~
+armor 0 AL
+0 0 0 0 0
+0 0 0 P
+#50026
+black boots~
+{YBLACK BOOTS{X~
+A pair of {YBLACK BOOTS{X lie here~
+unknown~
+armor 0 AG
+0 0 0 0 0
+1 0 0 P
+#50027
+small leather bag~
+{YSMALL LEATHER BAG{x~
+A {YSMALL LEATHER BAG{X lies on the ground here~
+unknown~
+armor 0 AO
+0 0 0 0 0
+0 0 0 P
+#50454
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#50021
+{DD{reat{Dh Ro{rulet{Dte{x~
+This is the room where the fun starts.  Many have come to challenge their
+luck, but only a few have made it out alive.  Now the time comes for you to
+test your luck, will you survive...  Or will your luck fail you?  
+~
+0 4 0
+S
+#50022
+{DLo{Wse{Dr's {DR{Woo{Dm{x~
+This is where the gamblers go when their luck runs out.  It's filled with
+the decaying corpses of those who bet their lives and lost.  
+~
+0 8196 0
+S
+#50023
+{YW{yi{Yn{yn{Ye{yr{Y's {yR{Yo{yo{Ym{x~
+Welcome to the Winner's Circle, it would seem that your luck has gotten
+you through it...  This time, care to try again?  
+~
+0 4 0
+S
+#50024
+{DThe Deep {GJ{gu{Gn{gg{Gl{ge{x~
+{GLight barely scratches through the think canopy of this lush jungle. 
+Thousands of trees and bushes fill the area.  The buzzing sounds of insects
+and creatures unknown fill the humid, watery air.  There is no real
+discernable path through the muck, a few trails kinda lead off in all
+directions.  {x 
+~
+0 0 0
+D0
+~
+~
+0 0 50027
+D1
+~
+~
+0 0 50025
+D2
+~
+~
+0 0 50028
+D3
+~
+~
+0 0 50026
+D4
+~
+~
+0 0 50034
+D5
+~
+~
+0 0 50029
+S
+#50025
+{DThe Deep {GJ{gu{Gn{gg{Gl{ge{x~
+{GLight barely scratches through the think canopy of this lush jungle. 
+Thousands of trees and bushes fill the area.  The buzzing sounds of insects
+and creatures unknown fill the humid, watery air.  There is no real
+discernable path through the muck, a few trails kinda lead off in all
+directions.  {x 
+~
+0 8192 0
+D1
+~
+~
+0 0 50026
+D3
+~
+~
+0 0 50024
+S
+#50026
+{DThe Deep {GJ{gu{Gn{gg{Gl{ge{x~
+{GLight barely scratches through the think canopy of this lush jungle. 
+Thousands of trees and bushes fill the area.  The buzzing sounds of insects
+and creatures unknown fill the humid, watery air.  There is no real
+discernable path through the muck, a few trails kinda lead off in all
+directions.  {x 
+~
+0 8192 0
+D1
+~
+~
+0 0 50024
+D3
+~
+~
+0 0 50025
+S
+#50027
+{DThe Deep {GJ{gu{Gn{gg{Gl{ge{x~
+{GLight barely scratches through the think canopy of this lush jungle. 
+Thousands of trees and bushes fill the area.  The buzzing sounds of insects
+and creatures unknown fill the humid, watery air.  There is no real
+discernable path through the muck, a few trails kinda lead off in all
+directions.  {x 
+~
+0 8192 0
+D0
+~
+~
+0 0 50028
+D2
+~
+~
+0 0 50024
+S
+#50028
+{DThe Deep {GJ{gu{Gn{gg{Gl{ge{x~
+{GLight barely scratches through the think canopy of this lush jungle. 
+Thousands of trees and bushes fill the area.  The buzzing sounds of insects
+and creatures unknown fill the humid, watery air.  There is no real
+discernable path through the muck, a few trails kinda lead off in all
+directions.  {x 
+~
+0 8192 0
+D0
+~
+~
+0 0 50024
+D2
+~
+~
+0 0 50027
+S
+#50029
+{DThe Deep {GJ{gu{Gn{gg{Gl{ge{x~
+{GLight barely scratches through the think canopy of this lush jungle. 
+Thousands of trees and bushes fill the area.  The buzzing sounds of insects
+and creatures unknown fill the humid, watery air.  There is no real
+discernable path through the muck, a few trails kinda lead off in all
+directions.  {x 
+~
+0 8192 0
+D0
+~
+~
+0 0 50033
+D1
+~
+~
+0 0 50031
+D2
+~
+~
+0 0 50032
+D3
+~
+~
+0 0 50030
+D4
+~
+~
+0 0 50024
+D5
+~
+~
+0 0 50034
+S
+#50030
+{DThe Deep {GJ{gu{Gn{gg{Gl{ge{x~
+{GLight barely scratches through the think canopy of this lush jungle. 
+Thousands of trees and bushes fill the area.  The buzzing sounds of insects
+and creatures unknown fill the humid, watery air.  There is no real
+discernable path through the muck, a few trails kinda lead off in all
+directions.  {x 
+~
+0 8192 0
+D1
+~
+~
+0 0 50029
+D3
+~
+~
+0 0 50031
+S
+#50031
+{DThe Deep {GJ{gu{Gn{gg{Gl{ge{x~
+{GLight barely scratches through the think canopy of this lush jungle. 
+Thousands of trees and bushes fill the area.  The buzzing sounds of insects
+and creatures unknown fill the humid, watery air.  There is no real
+discernable path through the muck, a few trails kinda lead off in all
+directions.  {x 
+~
+0 8192 0
+D1
+~
+~
+0 0 50030
+D3
+~
+~
+0 0 50029
+S
+#50032
+{DThe Deep {GJ{gu{Gn{gg{Gl{ge{x~
+{GLight barely scratches through the think canopy of this lush jungle. 
+Thousands of trees and bushes fill the area.  The buzzing sounds of insects
+and creatures unknown fill the humid, watery air.  There is no real
+discernable path through the muck, a few trails kinda lead off in all
+directions.  {x 
+~
+0 8192 0
+D0
+~
+~
+0 0 50029
+D2
+~
+~
+0 0 50033
+S
+#50033
+{DThe Deep {GJ{gu{Gn{gg{Gl{ge{x~
+{GLight barely scratches through the think canopy of this lush jungle. 
+Thousands of trees and bushes fill the area.  The buzzing sounds of insects
+and creatures unknown fill the humid, watery air.  There is no real
+discernable path through the muck, a few trails kinda lead off in all
+directions.  {x 
+~
+0 8192 0
+D0
+~
+~
+0 0 50032
+D2
+~
+~
+0 0 50029
+S
+#50034
+{DThe Deep {GJ{gu{Gn{gg{Gl{ge{x~
+{GLight barely scratches through the think canopy of this lush jungle. 
+Thousands of trees and bushes fill the area.  The buzzing sounds of insects
+and creatures unknown fill the humid, watery air.  There is no real
+discernable path through the muck, a few trails kinda lead off in all
+directions.  {x 
+~
+0 8192 0
+D0
+~
+~
+0 0 50036
+D1
+~
+~
+0 0 50037
+D2
+~
+~
+0 0 50038
+D3
+~
+~
+0 0 50035
+D4
+~
+~
+0 0 50029
+D5
+~
+~
+0 0 50024
+S
+#50035
+{DThe Deep {GJ{gu{Gn{gg{Gl{ge{x~
+{GLight barely scratches through the think canopy of this lush jungle. 
+Thousands of trees and bushes fill the area.  The buzzing sounds of insects
+and creatures unknown fill the humid, watery air.  There is no real
+discernable path through the muck, a few trails kinda lead off in all
+directions.  {x 
+~
+0 8192 0
+D0
+~
+~
+0 0 50039
+D1
+~
+~
+0 0 50034
+D2
+~
+~
+0 0 50042
+S
+#50036
+{DThe Deep {GJ{gu{Gn{gg{Gl{ge{x~
+{GLight barely scratches through the think canopy of this lush jungle. 
+Thousands of trees and bushes fill the area.  The buzzing sounds of insects
+and creatures unknown fill the humid, watery air.  There is no real
+discernable path through the muck, a few trails kinda lead off in all
+directions.  {x 
+~
+0 8192 0
+D1
+~
+~
+0 0 50040
+D2
+~
+~
+0 0 50034
+D3
+~
+~
+0 0 50039
+S
+#50037
+{DThe Deep {GJ{gu{Gn{gg{Gl{ge{x~
+{GLight barely scratches through the think canopy of this lush jungle. 
+Thousands of trees and bushes fill the area.  The buzzing sounds of insects
+and creatures unknown fill the humid, watery air.  There is no real
+discernable path through the muck, a few trails kinda lead off in all
+directions.  {x 
+~
+0 8192 0
+D0
+~
+~
+0 0 50040
+D2
+~
+~
+0 0 50041
+D3
+~
+~
+0 0 50034
+S
+#50038
+{DThe Deep {GJ{gu{Gn{gg{Gl{ge{x~
+{GLight barely scratches through the think canopy of this lush jungle. 
+Thousands of trees and bushes fill the area.  The buzzing sounds of insects
+and creatures unknown fill the humid, watery air.  There is no real
+discernable path through the muck, a few trails kinda lead off in all
+directions.  {x 
+~
+0 8192 0
+D0
+~
+~
+0 0 50034
+D1
+~
+~
+0 0 50041
+D3
+~
+~
+0 0 50042
+S
+#50039
+{DThe Deep {GJ{gu{Gn{gg{Gl{ge{x~
+{GLight barely scratches through the think canopy of this lush jungle. 
+Thousands of trees and bushes fill the area.  The buzzing sounds of insects
+and creatures unknown fill the humid, watery air.  There is no real
+discernable path through the muck, a few trails kinda lead off in all
+directions.  {x 
+~
+0 8192 0
+D1
+~
+~
+0 0 50036
+D2
+~
+~
+0 0 50035
+S
+#50040
+{DThe Deep {GJ{gu{Gn{gg{Gl{ge{x~
+{GLight barely scratches through the think canopy of this lush jungle. 
+Thousands of trees and bushes fill the area.  The buzzing sounds of insects
+and creatures unknown fill the humid, watery air.  There is no real
+discernable path through the muck, a few trails kinda lead off in all
+directions.  {x 
+~
+0 8192 0
+D2
+~
+~
+0 0 50037
+D3
+~
+~
+0 0 50036
+S
+#50041
+{DThe Deep {GJ{gu{Gn{gg{Gl{ge{x~
+{GLight barely scratches through the think canopy of this lush jungle. 
+Thousands of trees and bushes fill the area.  The buzzing sounds of insects
+and creatures unknown fill the humid, watery air.  There is no real
+discernable path through the muck, a few trails kinda lead off in all
+directions.  {x 
+~
+0 8192 0
+D0
+~
+~
+0 0 50037
+D3
+~
+~
+0 0 50038
+S
+#50042
+{DThe Deep {GJ{gu{Gn{gg{Gl{ge{x~
+{GLight barely scratches through the think canopy of this lush jungle. 
+Thousands of trees and bushes fill the area.  The buzzing sounds of insects
+and creatures unknown fill the humid, watery air.  There is no real
+discernable path through the muck, a few trails kinda lead off in all
+directions.  {x 
+~
+0 8192 0
+D0
+~
+~
+0 0 50035
+D1
+~
+~
+0 0 50038
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 50021 1 50022 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#50022
+grats {*W{*a{*y {*T{*o {*G{*o {*!{*!{*!{*!{*!{*!{*!{*!{*!{*!{*!{*!{x~
+#0
+
+#$

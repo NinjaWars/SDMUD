@@ -1,0 +1,2594 @@
+#AREADATA
+Name Yoshiuki Mountains~
+Builders Kalicu~
+VNUMs 40500 40599
+Credits {Y[125-150] Yoshiyuki Mountains{x~
+Security 1
+RepopMsg The mountains seem to grow around you.~
+End
+
+
+
+#MOBILES
+#40500
+woodland ranger~
+A {yW{go{yo{gd{yl{ga{yn{gd {yR{ga{yn{gg{ye{gr{X~
+A ranger makes his way through the woodlands
+~
+A tall and noble ranger walks through these woods.  He looks into the
+woods as if looking for something, as he is about to take a step in he turns
+and looks at you...  
+~
+Elf~
+AB 0 J I 1000 0
+125 500 501d42+16407 125d15+600 32d5+151 pierce
+-143 -143 -143 -117
+I H B Z
+stand stand male 200
+AHMV ABCDEFGHIJK medium flesh
+#40501
+large ent~
+A {yL{ga{yr{gg{ye{gr{X {GE{gn{Gt{X ~
+A Large {GE{gn{Gt{X, shuffles away
+~
+A Powerful Ent bare's down on you, you consider fighting it because your
+obviously looking it over...  It is over 300 feet tall and has a hand 3
+Time's the size of you...  You better not mess with it or it could get
+bloody 
+~
+Ent~
+ABF 0 J I 1000 0
+150 150 1054d51+6061 150d11+95 51d2+115 smash
+-98 -98 -98 -67
+BCR Z B H
+stand stand male 0
+AHMV ABCDEFGHIJK huge wood
+#40503
+stone golem~
+A {DStone {Xtroll~
+A stone troll grunts around the room
+~
+A giant troll walks around the room grunting at hole's and such in and
+on the wall, he steps on a tiny swarm on spiders..  Scratchs his head grunts
+and then looks up at you 
+~
+troll~
+ABF 0 FJc CDGI -1000 0
+150 170 1194d57+6869 170d11+95 57d2+128 crush
+-112 -112 -112 -78
+D I BE HK
+stand stand none 150
+ABHMV ABCDEFGHIJKUV medium stone
+#40504
+giant spider~
+{gS{De{gi{Dk{ge{Dn{X the {gS{Dp{gi{Dd{ge{Dr{X~
+A Giant Spider glare's at you
+~
+A giant spider block's the door way glaring in your direction as it
+begin's to advance leg after leg shielding it's eyes's 
+~
+Giant~
+ABF 0 DFa I -999 0
+165 200 1404d67+10101 200d11+95 67d2+148 sting
+-134 -134 -134 -93
+CI E HI JP
+stand stand female 1000
+AHMV ABCDEFGHIJK medium flesh
+#40508
+demon shadow~
+A {Dshadow{X Demon~
+A long shadow waits here
+~
+A long shadow floats here waiting for the next who will try and pass 
+~
+Elf~
+ABF 0 DFJ G 1000 5
+170 200 1404d67+10101 200d11+95 67d2+148 none
+-134 -134 -134 -93
+C HIZ B Z
+stand stand male 400
+AHMV ABCDEFGHIJK medium shadows
+#40510
+weapons seller~
+(no short description)~
+(no long description)
+~
+~
+Human~
+ABL 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40511
+thousands baby spiders~
+{WThousands{X of {bBaby{X spiders~
+Thousands of baby spiders craw towards you.
+~
+Thousands of baby spiders craw quickly towards you, glaning at you flesh
+with all of thier eight eyes.  
+~
+Human~
+AB 0 DFa I -899 0
+130 130 914d44+3940 130d11+95 44d2+102 bite
+-84 -84 -84 -57
+C H I K
+stand stand female 400
+P KMNVX medium unknown
+F for AHMV
+F par ABCDEFGHIJ
+#40513
+zombie~
+A {RZ{ro{Rm{rb{Ri{re{X~
+A zombie moans as it smells your {Rb{rl{Ro{ro{Rd{X
+~
+A zombie moans as it catches sight of you it slowly drag's itself towards
+you and try's to bite your leg 
+~
+Human~
+ABc 0 0 0 0 0
+200 200 1404d67+10101 200d11+95 67d2+148 none
+-134 -134 -134 -93
+C H I K
+stand stand none 100
+I J medium unknown
+F for AHMV
+F par ABCDEFGHIK
+#40514
+dove white~
+A {WWhite Dove{X~
+A {WWhite Dove{X swoops down at you.
+~
+A White dove peers down at you as if to say what the hell do you think
+your doing?  
+~
+Kenku~
+A 0 FJLTa 0 1 0
+110 110 774d37+3334 110d11+95 37d2+88 bite
+-69 -69 -69 -47
+0 B I K
+stand stand none 50
+AGHMV ABCDEFGHIJKP medium flesh
+#40515
+fawn~
+A small {yfawn{X~
+A small {yfawn{X stumbles around.
+~
+A small fawn stubles around this narrow ledge she looks at you with
+terror in your eyes, but knows she cant run anywhere..  She start to give
+out a cry for help.  
+~
+Elf~
+AB 0 J 0 0 0
+130 130 914d44+3940 130d11+95 44d2+102 none
+-84 -84 -84 -57
+0 J B Z
+stand stand female 78
+AGHMV ABCDEFGHIJK small unknown
+#40516
+hairy spider~
+A {yHairy {Xspider~
+A {yhairy{x spider stands watching your every move
+~
+A large hairy spider stands blocking your adavance it lifts its front
+legs and starts to advance on you breathing out a burn mist.  
+~
+Human~
+AB 0 0 0 0 0
+150 150 1054d51+6061 150d11+95 51d2+115 none
+-98 -98 -98 -67
+C H 0 K
+stand stand none 0
+AHMPV ABCDEFGHIJK medium unknown
+#40517
+dragon great ink~
+{DThe {RG{rr{Re{ra{Rt {GD{gr{Ga{gg{Go{gn {eI{Dn{ek{X~
+The greatest of dragons lies here.
+~
+A large dragon lies before you, it is clad in ready golden sclaes, that
+are un piercable they also look like they will repel almost any element. 
+This is a enemy that is not to be under-estimated.  
+~
+unique~
+AB 0 JT D 2 0
+202 230 1614d77+13939 230d11+95 77d2+168 smash
+-155 -155 -155 -108
+CI I BEH R
+stand stand none 4000
+AH ACDEFGHIJKPQUVX huge unknown
+#40520
+vulture~
+A {DVulture{X~
+A vulture circles overtop.
+~
+A large vulture circles just over head it looks down waiting for the
+first drop of blood 
+~
+Human~
+A 0 a 0 -200 0
+130 130 914d44+3940 130d11+95 44d2+102 pierce
+-84 -84 -84 -57
+I G B F
+stand stand none 100
+P K medium unknown
+F for AHMV
+F par ABCDEFGHIJ
+#40521
+idiot troll~
+A large {gtroll{X~
+An idiot troll stummbles around.
+~
+A large troll stummbles arounf, bumping around tripping around.  Many of
+them just stare at you for a while, they turn to each other and then begin
+to grunt at one another.  
+~
+troll~
+AB 0 FJac C -1000 12
+109 109 767d37+3301 109d11+95 37d2+88 pound
+-68 -68 -68 -46
+D B BE HK
+stand stand male 204
+ABGHMV ABCDEFGHIJKUV large flesh
+#40540
+eternal realm ruler~
+The {rR{Ru{Dl{Re{rr {Ro{Rf {Rt{rh{Re {YEt{yern{Yal {RR{re{Da{rl{Rm{X~
+The {rR{Ru{Dl{Re{rr {Ro{Rf {Rt{rh{Re {YEt{yern{Yal {RR{re{Da{rl{Rm{X is here.
+~
+This...  Thing...  Can not be described in words.  
+~
+Human~
+A 0 JT DEFGI 0 0
+300 10000 1d1+999999 500d15+600 500d50+0 wrath
+-598 -598 -598 -496
+ACDEFGHIJKMNO ABEFG CD 0
+stand stand male 10000
+AHMVZ ABCDEFGHIJKPQUVX medium unknown
+#40545
+keeper of the eternal realm~
+The {yKe{Yep{yer {ROf the {YEt{yern{Yal {yR{Ye{Da{Yl{ym{X~
+The {yr{Ye{Da{Yl{ym{X keeper is spreading terror
+~
+This...cannot be...described in words... 
+ 
+~
+Goblin~
+AC 0 J CDEGI 1 0
+250 1460 1461d122+70035 365d15+600 92d5+391 slash
+-434 -434 -434 -360
+CIN C P 0
+stand stand male 6000
+AHMV ABCDEFGHIJK medium unknown
+F vul NSXY
+#40546
+guardian of realm~
+{CGu{cardi{Can {Ro{Rf {RT{rh{Re {yR{Ye{Da{Yl{ym{X~
+The {CGu{cardi{Can {Ro{Rf {RT{rh{Re {yR{Ye{Da{Yl{ym{X stands tall.
+~
+This...thing... Cannot be describe by words
+~
+Human~
+AC 0 a CDEI 1 0
+300 10000 1d1+999999 500d50+0 500d50+0 smash
+-500 -500 -500 -500
+CIN H C D
+stand stand none 6000
+AHKMV ABCDEFGHIJK medium eternal
+#40598
+stone statue~
+A {estone statue{X~
+A {estone{X statue bares down on you.
+~
+A stone statue stands up and looks down upon you, you look back at it and
+wield your weapon.  It begins to smirk and them opens its mouth revealing
+devistating fangs.  
+~
+Human~
+AB 0 a D 1000 0
+200 200 1404d67+10101 200d11+95 67d2+148 bite
+-134 -134 -134 -93
+C H B I
+stand stand none 0
+Z K medium unknown
+F for AHMV
+F par ABCDEFGHIJ
+#40599
+dark paladin~
+A {cD{Da{cr{Dk{X {DP{ea{Dl{ea{Dd{ei{Dn {X~
+An evil Paladin stands before you.
+~
+An evil paladin stands before you, he has a dark cloak and an evil
+bloodsword, he looks at you and says you have to get through me to achieve
+the power of Ink.  
+~
+Human~
+AB 0 W CDEGI 1000 0
+202 202 1418d68+10201 202d11+95 68d2+150 slash
+-135 -135 -135 -94
+CI HIR J K
+stand stand male 400
+C K medium unknown
+F for AHMV
+F par ABCDEFGHIJ
+#0
+
+
+
+#OBJECTS
+#40500
+lightning bow~
+an Elven {yL{go{yn{gg {yb{go{yw{X~
+A fine elven long bow~
+lightning~
+weapon A AN
+exotic 13 17 pierce G
+125 126 8670 P
+A
+19 11
+A
+18 11
+A
+1 2
+#40501
+wooden chest~
+a {yWo{go{yd{ge{yn {Yc{yh{Ye{yst{X~
+A Tall wooden chest lies here.~
+Wood~
+container ABM P
+1000 A 0 2 2
+1 1000 0 P
+#40502
+mythril coat~
+a {cM{Wy{ct{Wh{cr{Wi{cl {WC{Do{Wa{Dt{X~
+A gleaming {cm{Dy{ct{Dh{cr{Di{cl{X coat~
+mythril~
+armor A AD
+130 130 130 129 0
+150 151 146 P
+A
+1 1
+A
+18 12
+A
+2 -1
+#40503
+mythril leggings~
+{DM{Wy{Dt{Wh{Dr{Wi{Dl {cL{We{cg{Wg{ci{Wn{cg{Ws{X~
+A pair of gleaming mythril leggings.~
+mythril~
+armor A AF
+138 138 138 137 0
+150 161 164 P
+A
+13 140
+A
+2 2
+A
+18 4
+#40504
+fire amulet~
+a {RF{ri{Rr{re{Ry {YA{ym{Yu{yl{Ye{yt{X~
+You see a flickering fire in the distance.~
+unknown~
+armor A AK
+125 125 125 124 0
+145 146 149 P
+A
+13 50
+A
+18 30
+#40505
+chest~
+a {Dstone{X chest~
+A chest engraved with elven writting~
+stone~
+container BE AP
+1000 A 0 2 2
+1 1000 1 P
+#40506
+ring ~
+a {YG{yo{Yl{yd{Ye{yn{X ring~
+A golden ring with elven writing~
+Gold~
+jewelry BE AB
+0 0 0 0 0
+150 1 10000 P
+A
+13 200
+A
+1 -5
+A
+19 21
+#40507
+spider scales~
+{gS{De{gi{Dk{ge{Dn{gs{X {DS{gp{Di{gd{De{gr {DS{gc{Da{gl{De{gs{X ~
+A giant spiders scales lie here in webing~
+flesh~
+armor A AD
+171 171 171 170 0
+130 201 10000 P
+A
+13 190
+A
+1 1
+#40508
+plaque~
+a Small {Yp{yl{Ya{yq{Yu{ye{X reading resite this {Rs{Dc{Rr{Do{Rl{Dl{X to the {Dd{re{Dm{ro{Dn{rs{X ahead~
+A plaque~
+stone~
+scroll A A
+100 'lightning breath' 'lightning breath' 'lightning breath' 'lightning breath'
+100 1 500 P
+#40509
+shadow gauntlets~
+a pair of {DShadow {bGauntlets{X~
+A pair of {Dshadow{X filled gauntlets~
+unknown~
+armor 0 AH
+171 171 171 170 0
+140 201 204 P
+A
+2 2
+A
+13 200
+A
+1 3
+#40512
+dreamflange~
+the {CDr{cea{mmfl{can{Cge{X~
+A dream weapon lies her surrownded in an aura of pure power.~
+fire~
+weapon 0 AN
+exotic 17 16 slash E
+170 171 11320 P
+A
+5 3
+A
+19 16
+A
+18 16
+#40515
+fur boots~
+a pair of {rwarm{C {yfur{D boots{X~
+A Pair of worn boots lie here.~
+fur~
+armor B AG
+96 96 96 95 0
+110 111 106 P
+A
+2 2
+A
+3 3
+#40517
+scales of ink~
+{RR{re{Rd {YG{yo{Yl{yd{Ye{yn {Gs{gc{Ga{gl{Ge{Gs{X of {eI{Dn{ek{X~
+A pair of {RR{re{Rd {YG{yo{Yl{yd{Ye{yn {Gd{gr{Ga{gg{Go{gn{Gs{X scales lie here.~
+dragon scales~
+armor AB AD
+173 173 173 172 0
+200 203 206 P
+A
+5 -1
+A
+19 30
+A
+18 120
+A
+1 1
+A
+2 1
+#40518
+dragon ink tooth~
+{eI{Dn{ek{Ds {WTooth{X~
+A long dragons tooth lies here~
+ivory~
+weapon A AN
+dagger 20 16 pierce BEH
+200 203 12820 P
+A
+4 1
+A
+18 75
+#40519
+dark breastplate~
+a {eD{Da{er{Dk {eB{Dr{ee{Da{es{Dt{eP{Dl{ea{Dt{ee{X~
+An evil breastplate~
+pure evil~
+armor M AD
+130 130 130 129 0
+150 151 146 P
+A
+19 14
+A
+17 -300
+A
+13 -300
+A
+4 3
+A
+2 3
+A
+1 3
+#40521
+torn flesh souls~
+{gT{Do{gr{Dn {gF{Dl{ge{Ds{gh {DO{gf {DT{gh{De {gS{Do{gu{Dl{gs{X~
+Torn flesh of a troll lies here~
+flesh~
+armor C AF
+96 96 96 95 0
+110 111 106 P
+A
+2 2
+A
+5 1
+#40522
+stone club~
+a {estone {Xclub~
+A large {estone{X club.~
+stone~
+weapon C AN
+polearm 12 16 pound A
+111 112 7620 P
+A
+1 3
+A
+4 -2
+A
+5 1
+A
+19 10
+A
+18 10
+#40537
+shadow suraman~
+a piece of {DS{ru{bram{ra{Dn {Dshadow{X~
+A piece of {DS{ru{bram{ra{Dn {Dshadow{X~
+godlike~
+jewelry ABG AP
+0 0 0 0 0
+4 5 1 P
+#40538
+kalicu shadow~
+a piece of {YK{ya{Dl{Yi{yc{Du{Ys {DShadow{X~
+A piece of {YK{ya{Dl{Yi{yc{Du{Ys {DShadow{X~
+shadow~
+jewelry ABG AP
+0 0 0 0 0
+4 5 5 P
+#40540
+immquest eternal realm mail~
+{D({GImmquest{D) {YEt{yern{Yal {yR{Ye{Da{Yl{ym {DM{bai{Dl{x~
+{D({GImmquest{D) Some {YEt{yern{Yal {yR{Ye{Da{Yl{ym {DM{bai{Dl{x is here.~
+unknown~
+armor AB AK
+200 200 200 200 0
+0 221 216 P
+A
+19 100
+A
+18 100
+#40541
+immquest eternal realm boots~
+{D({GImmquest{D) Some {YEt{yern{Yal {yR{Ye{Da{Yl{ym {DB{bo{Wo{bo{Ds{x~
+{D({GImmquest{D) Some {YEt{yern{Yal {yR{Ye{Da{Yl{ym {DB{bo{Wo{bo{Ds{x are here.~
+unknown~
+armor AB AG
+200 200 200 200 0
+0 0 0 P
+A
+19 100
+A
+18 100
+#40542
+eternal leg guards~
+{D({GImmquest{D) {YEt{yern{Yal {yR{Ye{Da{Yl{ym {YLe{yggin{Ygs{X~
+{D({GImmquest{D) {YEt{yern{Yal {yR{Ye{Da{Yl{ym {YLe{yggin{Ygs{X float here.~
+eternal~
+armor AB AF
+213 213 213 212 0
+201 251 254 P
+A
+4 3
+A
+5 2
+#40543
+immquest eternal realm weapon sword blade~
+{D({GImmquest{D) {RT{rh{Re {YEt{yern{Yal {yR{Ye{Da{Yl{Ym {DS{bw{Wo{br{Dd{X~
+{D({GImmquest{D) {RThe {YEt{yern{Yal {yR{Ye{Da{Yl{ym {DS{bw{Wo{br{Dd{x is here.~
+unknown~
+weapon ABG AN
+sword 150 10 divine CEI
+1 0 0 P
+A
+13 3000
+A
+19 300
+A
+18 300
+#40544
+gauntlets of eternal realm~
+{D({GImmquest{D) {YEt{yern{Yal {bGa{Duntle{bts {Ro{rf {yR{Ye{Da{Yl{ym{X~
+{D({GImmquest{D) The {Yet{yern{Yal {bga{Duntl{bes{X lay here.~
+eternal~
+armor AB AH
+213 213 213 212 0
+201 251 254 P
+A
+13 300
+A
+12 1000
+A
+20 -3
+A
+1 1
+#40545
+immquest eternal realm orb~
+{D({GImmquest{D) {RAn {DO{br{Db {Rof the {YEt{yern{Yal {yR{Ye{Da{Yl{ym{x~
+{D({GImmquest{D) {RAn {DO{br{Db {Rof the {YEt{yern{Yal {yR{Ye{Da{Yl{ym{x is here.~
+unknown~
+jewelry ABGSY AQ
+0 0 0 0 0
+0 0 0 P
+A
+17 -2000
+A
+12 5000
+A
+13 5000
+A
+19 300
+A
+18 300
+#40546
+amulet of eternal realm~
+{D({GImmquest{D) {DAm{bul{Det {Rof {YEt{yern{Yal {YR{Ye{Da{yl{Ym{X~
+{D({GImmquest{D) {DAm{bul{Det {Rof {YEt{yern{Yal {YR{Ye{Da{yl{Ym{X floats here.~
+eternal~
+armor AB AC
+213 213 213 212 0
+201 251 254 P
+A
+19 30
+A
+18 100
+#40547
+immquest mask eternal realm~
+{D({GImmquest{D) {RAn {YEt{yern{Yal {yR{Ye{Da{Yl{ym {DM{bas{Dk{x~
+{D({GImmquest{D) {RAn {YEt{yern{Yal {yR{Ye{Da{Yl{ym {DM{bas{Dk{x is here.~
+unknown~
+armor AB AR
+200 200 200 200 0
+0 0 0 P
+A
+12 5000
+A
+13 5000
+A
+19 100
+A
+18 100
+#40548
+immquest cloak eternal realm~
+{D({GImmquest{D) {YC{yloa{Yk {Rof {YEt{yern{Yal {yR{Ye{Da{Yl{ym{X~
+{D({GImmquest{D) {YC{yloa{Yk {Rof {YEt{yern{Yal {yR{Ye{Da{Yl{ym{X lies here.~
+unknown~
+armor AB AD
+213 213 213 212 0
+0 0 0 P
+#40549
+pill eternal realm~
+a pill from the {YEt{yern{Yal {yR{Ye{Da{Yl{ym{x~
+A pill from the {YEt{yern{Yal {yR{Ye{Da{Yl{ym{x is here.~
+unknown~
+pill ABQSY A
+1 'quest pill' 'quest pill' 'quest pill' 'quest pill'
+0 0 0 P
+#40556
+proof of realm destruction~
+{YPr{yoof of {YReal{ym Destructi{Yon{X~
+{YPr{yoof of {YReal{ym Destructi{Yon{X~
+realm~
+trash ABG A
+0 0 0 0 0
+3 60 20 P
+#40572
+ninja mask~
+{YNINJA MASK{x~
+{YNINJA MASK{x~
+unknown~
+armor A AE
+5 5 5 4 0
+1 2 5 P
+#40573
+ninja belt~
+{YNINJA BELT{x~
+{YNINJA BELT{x~
+unknown~
+armor A AL
+5 5 5 4 0
+1 2 5 P
+#40574
+ninja armor~
+{YNINJA ARMOR{X~
+{YNINJA ARMOR{X~
+unknown~
+armor A AD
+5 5 5 4 0
+1 2 5 P
+#40575
+ninja sword~
+{YNINJA SWORD{X~
+{YNINJA SWORD{X~
+fire~
+weapon A AN
+sword 1 2 slash A
+1 2 120 P
+#40577
+immortal mask~
+{YIMMORTAL MASK{X~
+{YIMMORTAL MASK{X~
+unknown~
+armor A AR
+5 5 5 4 0
+1 2 5 P
+#40578
+immortal belt~
+{YIMMORTAL BELT{X~
+{YIMMORTAL BELT{X~
+unknown~
+armor 0 AL
+5 5 5 4 0
+1 2 5 P
+#40579
+immortal lance~
+{YIMMORTAL LANCE{X~
+{YIMMORTAL LANCE{X~
+fire~
+weapon A AN
+exotic 1 2 pierce G
+1 2 120 P
+#40580
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#40591
+visor of eternity~
+{D({GImmquest{D) {YV{yiso{Yr {Ro{rf {YEt{yern{Yal {yR{Ye{Da{Yl{Ym{X~
+{D({GImmquest{D) {YV{yiso{Yr {Ro{rf {YEt{yern{Yal {yR{Ye{Da{Yl{Ym{X {Yglows{X in the ground.~
+eternal~
+armor AB AER
+213 213 213 212 0
+201 251 254 P
+A
+4 2
+A
+2 4
+A
+20 -9
+A
+1 5
+#40597
+sharp branch~
+({GEn{gti{Gsh{X) A sharp {ybranch{X~
+A shap branch~
+wood~
+weapon I AN
+exotic 15 17 pierce E
+145 146 9960 P
+A
+18 14
+A
+19 14
+#40598
+troll isiot~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+108 0 0 P
+#0
+
+
+
+#ROOMS
+#40500
+At the foot of the {RY{ro{Rs{rh{Ri{ru{Rk{ri {RM{ro{Ru{rn{Rt{ra{Ri{rn{Rs{X~
+You approach a high array of mountains with clouds revolving around them,
+{G**{YH{yi{Yg{yh {YL{ye{Yv{ye{Yl{ye{Yd {YA{yr{Ye{ya{R: {rL{Re{rv{Re{rl{Rs {Y1{y2{Y5{R-{Y1{y5{Y0{G**{X
+~
+0 4 0
+D0
+~
+~
+0 0 40501
+D3
+~
+~
+0 0 9201
+S
+#40501
+The Beaten Trails of the {RY{ro{Rs{rh{Ri{ru{Rk{ri {RM{ro{Ru{rn{Rt{ra{Ri{rn{Rs{X~
+As you walk through this path you notice that it splits into many other
+directions,...  You wonder how you can and will decide which direction to
+go...  
+~
+0 0 0
+D0
+~
+~
+0 0 40503
+D1
+~
+~
+0 0 40502
+D2
+~
+~
+0 0 40500
+D3
+~
+~
+0 0 40504
+D4
+~
+~
+0 0 40505
+S
+#40502
+The Eastern Path~
+You are on a Path leading to the east, it is long and winding...  It
+isn't very dusty meaning that it is travled on often...  You look around
+your self intently to discover what might be the problem.  
+~
+0 0 0
+D0
+~
+~
+0 0 40508
+D3
+~
+~
+0 0 40501
+S
+#40503
+The Northern Path~
+As you walk through these woods you take a breath and smell....  Sea
+air...  You urge yourself to consider going north to investigate.  
+~
+0 0 0
+D0
+~
+~
+0 0 40509
+D2
+~
+~
+0 0 40501
+S
+#40504
+The Western Path~
+You begin to walk up this steep hill and then break into a run as you
+hear the howls of wolves around you, you peer into the endless darkness of
+the day...  And wonder will you ever get out.  
+~
+0 0 0
+D1
+~
+~
+0 0 40501
+D4
+~
+~
+0 0 40506
+S
+#40505
+A rope Leading upwards~
+You see a small rope there is hanging off of the mountain side,..  You
+think back and assume that it belongs to the ranger back thier that was
+entering the woods.  It looks secure enough to hall you up 
+~
+0 0 0
+D4
+~
+~
+0 0 40510
+D5
+~
+~
+0 0 40501
+S
+#40506
+A Steep Path~
+You walk up a steep slope that is very tiring you turn around to look
+behind you and notice you have barely gotten anywhere....  You better hurry
+up.  You notice some movements around you and continue on to investigate.  
+~
+0 0 0
+D3
+~
+~
+0 0 40507
+D5
+~
+~
+0 0 40504
+S
+#40507
+The Forest Path~
+You walk amongst giant Trees that almost seem to move but there is no
+wind....  You wonder if these could be those creatures of legend known as
+{GE{gn{Gt{gs{x?  
+~
+0 0 0
+D0
+~
+~
+0 0 40512
+D1
+~
+~
+0 0 40506
+S
+#40508
+The Desert Path~
+You are on a path that leads to a far off swirl of blackness in the far
+distance, you notice that there seems to be footprints in the sand so you
+follow them.  
+~
+0 0 0
+D0
+~
+~
+0 0 40511
+D2
+~
+~
+0 0 40502
+S
+#40509
+The Ocean Path~
+You look down into a seemingly endless blue sea, you see swirls of forms
+mixing about through the waves..  You smile and take in a breath of fresh
+air.  
+~
+0 0 0
+D2
+~
+~
+0 0 40503
+D4
+~
+~
+0 0 40538
+S
+#40510
+The Mountain Path~
+From here you can see the {GE{gn{Gt{X forest to the north-east, and many
+eagles dive and other thing's in the air.  
+~
+0 0 0
+D4
+~
+~
+0 0 40539
+D5
+~
+~
+0 0 40505
+S
+#40511
+{DThe {RY{ro{Rs{rh{Ri{ru{Rk{ri{X {DDesert{X~
+You are walking through a vast desert, everywhere you look is the same...
+You think to yourself whether or not you should turn back....  Its in your
+hands.  
+~
+0 0 0
+D1
+~
+~
+0 0 40513
+D2
+~
+~
+0 0 40508
+D3
+~
+~
+0 0 40511
+S
+#40512
+{DThe {GE{gn{Gt{D forest{X~
+You almost feel as if the trees are watching you as you walk through this
+part of the forest.  As you look one way and then back in the other its
+almost as if the tree's have moved...  
+~
+0 0 0
+D0
+~
+~
+0 0 40518
+D2
+~
+~
+0 0 40507
+S
+#40513
+A view~
+You notice a small city far off it seems to be in the east, so you
+continue on...  But remember the desert can play tricks...  
+~
+0 0 0
+D1
+~
+~
+0 0 40514
+D3
+~
+~
+0 0 40511
+S
+#40514
+A view~
+You notice a small city far off it seems to be in the east, so you
+continue on...  But remember the desert can play tricks...  
+~
+0 0 0
+D1
+~
+~
+0 0 40515
+D3
+~
+~
+0 0 40513
+S
+#40515
+A far off land~
+You see that it truly is a city and quiet a lovely one at that it is
+filled with desert tree's and a beautiful lake,....  Many people peer out in
+to the desert as if to look at you .  
+~
+0 0 0
+D0
+~
+~
+0 0 40516
+D3
+~
+~
+0 0 40514
+S
+#40516
+The Desert City~
+From here you have a clear view of what seemed like a giant blur miles
+back...  You see that it is actually a huge city.  You decide that you would
+like to continue, the path continues North 
+~
+0 0 0
+D0
+~
+~
+0 0 40517
+D2
+~
+~
+0 0 40515
+S
+#40517
+The Desert city if {RY{ro{Rs{rh{Ri{ru{Rk{ri{X~
+You enter the desert city of, Yoshiuki, it is filled with many beautiful
+women and animals of all kinds.  They snicker amongst each other at the
+sight of you.  
+~
+0 0 0
+D0
+~
+~
+0 0 40523
+D2
+~
+~
+0 0 40516
+S
+#40518
+{DThe {GE{gn{Gt {Dforest{X~
+You enter the part of the forest that is home to the
+{GE{gn{Gt{g'{Gs{X,you see many of them that are almost 70 feet tall guarding
+what looks like a chest made of wood.  
+~
+0 0 0
+D0
+~
+~
+0 0 40519
+D2
+~
+~
+0 0 40512
+S
+#40519
+A Clearing~
+You see a blackened forest,...  You think that this must be part of the
+forest that has been burnt down, by some firey creature or perhaps something
+worse..  You notice that the path seems to lead higher into the mountains
+where you can see a {RR{re{Rd{X splint of fire.  
+~
+0 0 0
+D2
+~
+~
+0 0 40518
+D4
+~
+~
+0 0 40520
+S
+#40520
+The Climb~
+You begin to climb up yet another hill, you look around yourself tired
+and furious...  You look around and continue climbing 
+~
+0 0 0
+D4
+~
+~
+0 0 40521
+D5
+~
+~
+0 0 40519
+S
+#40521
+Continuing the Climb~
+You are climbing a steep hill on sheer determination, as you look up you
+can clearly see that you are very close to the top.  You press yourself
+harder in hopes of reaching the top.  
+~
+0 0 0
+D4
+~
+~
+0 0 40522
+D5
+~
+~
+0 0 40520
+S
+#40522
+The Landing~
+Finally you have made it too the top, you look down and see that you
+have travled a great distance.  You know you might find some great adventure
+here 
+~
+0 0 0
+D1
+~
+~
+0 0 40540
+D5
+~
+~
+0 0 40521
+S
+#40523
+In the city~
+You are in the city of {RY{ro{Rs{rh{Ri{ru{Rk{ri{X, it is filled with
+many beautiful woman and animals of all kinds.  Just ahead you can see some
+small shops ahead 
+~
+0 0 0
+D0
+~
+~
+0 0 40524
+D2
+~
+~
+0 0 40517
+S
+#40524
+The Market Place~
+You are in a small market place that is filled with people, there is'nt
+much to look at only a few stores to the east and to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 40527
+D1
+~
+~
+0 0 40525
+D2
+~
+~
+0 0 40523
+D3
+~
+~
+0 0 40526
+S
+#40525
+The Weapons Shop~
+You enter from the west and notice another sign saying "we have no need
+for weapons".  You turn to leave and frown knowing that thier was no reason
+waiting in this city 
+~
+0 0 0
+D3
+~
+~
+0 0 40524
+S
+#40526
+The Armourer~
+Just your luck....  As you come in from the east all you can see is a
+small hut that has a sign reading evicted.  You turn to head back to the
+main road.  
+~
+0 0 0
+D1
+~
+~
+0 0 40524
+S
+#40527
+The Northern City~
+You enter the northern part of the city, people a talking about the last
+adventurer to try and venture up the mountain from the west, north, and
+uppern valleys...  They look at you with a queer smile and return to the
+activities.  
+~
+0 0 0
+D0
+~
+~
+0 0 40528
+D2
+~
+~
+0 0 40524
+S
+#40528
+The Path to the mountain~
+You are at the far northern gates of the city, you look upwards at the
+mountain regien...  And say to youself i will make it........  
+~
+0 0 0
+D0
+~
+~
+0 0 40529
+D2
+~
+~
+0 0 40527
+S
+#40529
+The Path up The Mountain~
+You are at the far northern gates of the city, you look upwards at the
+mountain regien...  And say to youself i will make it........  
+~
+0 0 0
+D2
+~
+~
+0 0 40528
+D3
+~
+~
+0 0 40530
+S
+#40530
+The Eastern Path~
+You are near the path that leads up the mountain, you look up and smile
+as you notice that the sun is shinning down on you as you continue your
+journey.  
+~
+0 0 0
+D1
+~
+~
+0 0 40529
+D4
+~
+~
+0 0 40531
+S
+#40531
+A Steep trek~
+You are climbing a steep hill covered in moss, rocks and such..  A few
+doves are in thier nest feeding thier younf a little ways up...  
+~
+0 0 0
+D4
+~
+~
+0 0 40532
+D5
+~
+~
+0 0 40530
+S
+#40532
+A Steeper Trek~
+You begin to climb a hill a realize this is a steep hike,..  You hope
+that your rope and equipment will hold out while you climb the side of this
+mountain filled area.  
+~
+0 0 0
+D4
+~
+~
+0 0 40533
+D5
+~
+~
+0 0 40531
+S
+#40533
+The Crossing of The Path's~
+You have reached an crossroad from here it is your choice to witch
+direction your destiny will take you, you might want to thin about this for
+a while.  
+~
+0 0 0
+D0
+~
+~
+0 0 40536
+D1
+~
+~
+0 0 40534
+D3
+~
+~
+0 0 40535
+D5
+~
+~
+0 0 40532
+S
+#40534
+A Dead End~
+You have reached a dead end...  Your path cannot any longer carry you
+anywhere.  Better back track and pick another path.  
+~
+0 0 0
+D3
+~
+~
+0 0 40533
+S
+#40535
+A Dead End~
+You have reached a dead end...  Your path cannot any longer carry you
+anywhere.  Better back track and pick another path.  
+~
+0 0 0
+D1
+~
+~
+0 0 40533
+D2
+~
+~
+0 0 40536
+S
+#40536
+A Dead End~
+You have reached a dead end...  Your path cannot any longer carry you
+anywhere.  Better back track and pick another path.  
+~
+0 0 0
+D0
+~
+~
+1 0 40537
+D2
+~
+~
+0 0 40533
+S
+#40537
+A small cave~
+You have entered a smal cave in the side of a blocked road...  Now that
+you know nothing is here better back track even farther....  
+~
+0 0 0
+D2
+~
+~
+1 0 40536
+S
+#40538
+The Pathway leading up~
+Heh....  After coming all that way you realize that all you have
+achieved is going no where,....  You deside to back track and test bringing
+your fate into another direction.  
+~
+0 0 0
+D5
+~
+~
+0 0 40509
+S
+#40539
+Near The Top~
+You are almost at the top of the Yoshiuki Mountains you see some Eagles,
+and other wildlife soring above you, you take a brief rest and continue your
+climb upwards 
+~
+0 0 0
+D4
+~
+~
+0 0 40540
+D5
+~
+~
+0 0 40510
+S
+#40540
+The Landing~
+Finally you have made it too the top, you look down and see that you have
+travled a great distance.  You know you might find some great adventure
+here.  
+~
+0 0 0
+D0
+~
+~
+0 0 40541
+D3
+~
+~
+0 0 40522
+D5
+~
+~
+0 0 40539
+S
+#40541
+Continuing Upwards~
+You look around and discover that you have to climb up yet another hill. 
+You look around for another route and discover that your only choice is to
+climb up.  
+~
+0 0 0
+D2
+~
+~
+0 0 40540
+D4
+~
+~
+0 0 40542
+S
+#40542
+The Final Tunnle~
+As you approach this cavern you realize that this is your only chance to
+turn back, you beging to weigh your tiding to determin weather to continue
+or not...  
+~
+0 0 0
+D0
+~
+~
+0 0 40543
+D5
+~
+~
+0 0 40541
+S
+#40543
+Entering The tunnle~
+You enter a large cave,...  Filled with a foul smell and many rats,
+spiders and such...  You muster up your courage and continue on..  In the
+north.  
+~
+0 8192 0
+D0
+~
+~
+0 0 40544
+D2
+~
+~
+0 0 40542
+S
+#40544
+In The tunnle~
+You are in a large cavern.  It reek's of death and is filled with
+spiders, rat and other foul beast's.  You think back and say to yourself "I
+came all this way to come here?"  Your path continues to the North.  
+~
+0 8192 0
+D0
+~
+~
+0 0 40545
+D2
+~
+~
+0 0 40543
+S
+#40545
+In The tunnle~
+You are in a large cavern.  It reek's of death and is filled with
+spiders, rat and other foul beast's.  You think back and say to yourself "I
+came all this way to come here?"  Your path continues to the North.  
+~
+0 8192 0
+D1
+~
+~
+0 0 40546
+D2
+~
+~
+0 0 40544
+S
+#40546
+In The tunnle~
+You are in a large cavern.  It reek's of death and is filled with
+spiders, rat and other foul beast's.  You think back and say to yourself "I
+came all this way to come here?"  Your path continues to the North.  
+~
+0 8192 0
+D0
+~
+~
+0 0 40547
+D3
+~
+~
+0 0 40545
+S
+#40547
+In The tunnle~
+You are in a large cavern.  It reek's of death and is filled with
+spiders, rats and other foul beast's.  You think back and say to yourself "I
+can all the way here.  For this?"  You path continues north.  
+~
+0 8192 0
+D0
+~
+~
+0 0 40548
+D2
+~
+~
+0 0 40546
+S
+#40548
+A Giant Web~
+You have entered a giant web filled with baby spiders that are huge!  You
+vibrate the web and they crawl towards you .  Think quickly fight or run.  
+~
+0 8192 0
+D1
+~
+~
+0 0 40549
+D2
+~
+~
+0 0 40547
+S
+#40549
+In The tunnle~
+You are in a large cavern.  It reek's of death and is filled with
+spiders, rats and other foul beast's.  You think back and say to yourself "I
+can all the way here.  For this?"  You path continues north.  
+~
+0 8192 0
+D0
+~
+~
+0 0 40550
+D1
+~
+~
+0 0 40552
+D3
+~
+~
+0 0 40548
+S
+#40550
+In The tunnle~
+You are in a large cavern.  It reek's of death and is filled with
+spiders, rats and other foul beast's.  You think back and say to yourself "I
+can all the way here.  For this?"  
+~
+0 8192 0
+D0
+~
+~
+0 0 40551
+D2
+~
+~
+0 0 40549
+S
+#40551
+A troll den~
+You enter a large stone room, it is filled with stupid ugly grunting
+trolls in all directions.  They look your way grunt, point and start to
+advance.  
+~
+0 8192 0
+D2
+~
+~
+0 0 40550
+S
+#40552
+In The tunnle~
+You are in a large cavern.  It reek's of death and is filled with
+spiders, rats and other foul beast's.  You think back and say to yourself "I
+can all the way here.  For this?"  
+~
+0 8192 0
+D1
+~
+~
+0 0 40553
+D3
+~
+~
+0 0 40549
+S
+#40553
+In The tunnle~
+You are in a large cavern.  It reek's of death and is filled with
+spiders, rats and other foul beast's.  You think back and say to yourself "I
+can all the way here.  For this?"  
+~
+0 8192 0
+D1
+~
+~
+0 0 40554
+D3
+~
+~
+0 0 40552
+S
+#40554
+In The tunnle~
+You are in a large cavern.  It reek's of death and is filled with
+spiders, rats and other foul beast's.  You think back and say to yourself "I
+can all the way here.  For this?"  
+~
+0 8192 0
+D0
+~
+~
+0 0 40555
+D3
+~
+~
+0 0 40553
+S
+#40555
+In The Tunnel~
+You are in a large cavern.  It reek's of death and is filled with
+spiders, rats and other foul beast's.  You think back and say to yourself "I
+came all the way here.  For this?"  
+~
+0 8192 0
+D0
+~
+~
+0 0 40556
+D2
+~
+~
+0 0 40554
+S
+#40556
+In The tunnle~
+You are in a large cavern.  It reek's of death and is filled with
+spiders, rats and other foul beast's.  You think back and say to yourself "I
+came all the way here.  For this?"  
+~
+0 8192 0
+D0
+~
+~
+0 0 40557
+D2
+~
+~
+0 0 40555
+S
+#40557
+In The tunnle~
+You are in a large cavern.  It reek's of death and is filled with
+spiders, rats and other foul beast's.  You think back and say to yourself "I
+came all the way here.  For this?"  
+~
+0 8192 0
+D0
+~
+~
+0 0 40558
+D2
+~
+~
+0 0 40556
+S
+#40558
+A small {YLight{X~
+As you approach the ending of the tunnle, you see a bright light just
+ahead.  You think to yourself im almost out...  Im almost out...  You look
+forward and see a small sand colour temple.  The path continues east.  
+~
+0 8192 0
+D1
+~
+~
+0 0 40559
+D2
+~
+~
+0 0 40557
+S
+#40559
+The Other Side~
+You Stand at the end of a large hallway that is guarded by a large spider
+known as {gS{De{gi{Dk{ge{Dn{X the hall is covered in light, blood and so on.
+You look to each corner and notice a neat stack on bones.  
+~
+0 8192 0
+D1
+~
+~
+0 0 40560
+D3
+~
+~
+0 0 40558
+S
+#40560
+The Long Climb~
+You have yet another long climb before you, it is much speeper then any
+of the others that you have climbed there also is hardly anywhere to get a
+grip on...  Have fun 
+~
+0 0 0
+D3
+~
+~
+0 0 40559
+D4
+~
+~
+0 0 40561
+S
+#40561
+Climbing ~
+You continue climbing up a steep cliff, you look down and realize that
+you have only asended a few feet,...  The reason must be that there is
+hardley anywhere to grip.  
+~
+0 0 0
+D4
+~
+~
+0 0 40562
+D5
+~
+~
+0 0 40560
+S
+#40562
+Climbing ~
+You continue climbing up a steep cliff, you look down and realize that
+you have only asended a few feet,...  The reason must be that there is
+hardley anywhere to grip.  
+~
+0 0 0
+D4
+~
+~
+0 0 40563
+D5
+~
+~
+0 0 40561
+S
+#40563
+Entering The Temple~
+You are walking towards a small temple that is far into the mountains. 
+You notice that the dragon must reside here because of all the symbols 
+~
+0 0 0
+D0
+~
+~
+0 0 40564
+D1
+~
+~
+0 0 40567
+D5
+~
+~
+0 0 40562
+S
+#40564
+Inside The Temple~
+Yoy enter a large temple composed of statues, stones, armor, swords and
+shields,....  As you look around you notice a small plaque that stands out
+from the rest of the rubble.  
+~
+0 0 0
+D0
+~
+~
+0 0 40565
+D2
+~
+~
+0 0 40563
+S
+#40565
+A Demons Lair~
+You enter a dark room, you notice that the shadows almost seem to be
+jumping and moving around the room on thier own.  To the north you can see
+something emitting darkness through the light.  
+~
+0 8192 0
+D0
+~
+~
+0 0 40566
+D2
+~
+~
+0 0 40564
+S
+#40566
+Shadow Chamber~
+You are in a room filled with light, except in the middle, you notice
+that something is emitting an aura of pure {Ddarkness{X....  
+~
+0 1 0
+D2
+~
+~
+0 0 40565
+S
+#40567
+Continuing the Climb~
+You have yet another long climb before you, it is much steeper then any
+of the other's that you have climbed before.  Also there is hardley anywhere
+to get a grip on....  Have fun 
+~
+0 0 0
+D3
+~
+~
+0 0 40563
+D4
+~
+~
+0 0 40568
+S
+#40568
+Climbing~
+You have yet another long climb before you, it is much steeper then any
+of the other's that you have climbed before.  When you reach a small landing
+on your way up you look down and notice that you are thousands of feet in
+the maountains.  
+~
+0 0 0
+D4
+~
+~
+0 0 40569
+D5
+~
+~
+0 0 40567
+S
+#40569
+A Landing~
+You have reached a small landing in the mountain tops,..  You hope to
+yourself that that was the last climb.  You begin to wonder if it was worth
+travling all the way here 
+~
+0 0 0
+D0
+~
+~
+0 0 40570
+D5
+~
+~
+0 0 40568
+S
+#40570
+A Mountain Lake~
+You have arrived at a mountain valley that is kept alive a mystic lake
+known as warriors honour, it is said that the spirits of the most valiant
+Knights come here in thier next life to watch over the regions and protect
+it from danger 
+~
+0 0 0
+D0
+~
+~
+0 0 40571
+D2
+~
+~
+0 0 40569
+S
+#40571
+A spirit ground~
+You have come forth into a mystic land that is protected my ancient
+spirits that protected thier home cities and countries from doom.  Some look
+at you with a friendly smile on there face and other's snicker amoungst each
+other.  
+~
+0 0 0
+D0
+~
+~
+0 0 40572
+D2
+~
+~
+0 0 40570
+S
+#40572
+Crossing The Lake~
+You are on a huge lake in the mountains, You look around for a way
+across, but realize that the only way will be to get a boat or learn to fly.
+~
+0 0 9
+D0
+~
+~
+0 0 40573
+D2
+~
+~
+0 0 40571
+S
+#40573
+Across the Lake~
+You did it!  You made it across the lake now your that one step closer to
+finding the dragon that hunt's Inklar.  
+~
+0 0 0
+D0
+~
+~
+0 0 40574
+D2
+~
+~
+0 0 40572
+S
+#40574
+Continuing the Climb~
+You are climbing another huge cliff, it is much higher then any of the
+others..  There are birds of all sorts making nests on this part of the
+mountain.  You look down and notice you have only ascended a few feet.  
+~
+0 0 0
+D2
+~
+~
+0 0 40573
+D4
+~
+~
+0 0 40575
+S
+#40575
+Climbing~
+You have yet another long climb before you, it is much steeper then any
+of the other's that you have climbed before.  When you reach a small landing
+on your way up you look down and notice that you are thousands of feet in on
+your way up you look down and notice that you are thousands of feet in the
+maountains.  
+~
+0 0 0
+D4
+~
+~
+0 0 40576
+D5
+~
+~
+0 0 40574
+S
+#40576
+Climbing~
+You have yet another long climb before you, it is much steeper then any
+of the other's that you have climbed before.  When you reach a small landing
+on your way up you look down and notice that you are thousands of feet in on
+your way up you look down and notice that you are thousands of feet in the
+mountains.  
+~
+0 0 0
+D4
+~
+~
+0 0 40577
+D5
+~
+~
+0 0 40575
+S
+#40577
+Near The Top~
+After all of that climbing you finally almost at the top of the mountain
+you bested all of your foes and are close to the top..  Keep going.  
+~
+0 0 0
+D4
+~
+~
+0 0 40578
+D5
+~
+~
+0 0 40576
+S
+#40578
+Near The Top~
+After all of that climbing you finally almost at the top of the mountain
+you bested all of your foes and are close to the top..  Keep going.  
+~
+0 0 0
+D4
+~
+~
+0 0 40579
+D5
+~
+~
+0 0 40577
+S
+#40579
+Near The Top~
+You are at the finally climb of the mountain, you look up and smiling and think to yourself thank "Kalicu" im almost at the top.
+~
+0 0 0
+D4
+~
+~
+0 0 40580
+D5
+~
+~
+0 0 40578
+S
+#40580
+The Landing~
+You are in the midst of a small temple that leads into a cavern that most
+obviously lead to the great dragon {eI{Dn{ek{X.  You muster up your courge
+knowing the only way to get back to your home is to back track....  The path
+leads north 
+~
+0 8192 0
+D0
+~
+~
+0 0 40581
+D5
+~
+~
+0 0 40579
+S
+#40581
+The Temple Doors~
+You are at the doors of a small temple in the mountains, you assume that
+this must be the dragons temple because of all of the markings and such on
+and around the doors.  
+~
+0 0 0
+D0
+~
+~
+0 0 40582
+D2
+~
+~
+0 0 40580
+S
+#40582
+In the Temple~
+You are inside a small temple, it seems almost to lead into a cavern and
+then out into a sacred battlefield.  You look around and notice that there
+are many of the same starnge symbols as there are on the doors.  
+~
+0 0 0
+D0
+~
+~
+0 0 40583
+D1
+~
+~
+0 0 40583
+D2
+~
+~
+0 0 40581
+S
+#40583
+Continuing~
+You continue making your way down these dark and dreery halls, you still
+notice that the strange symbols are here but even more so then before.  
+~
+0 0 0
+D0
+~
+~
+0 0 40584
+D2
+~
+~
+0 0 40582
+D3
+~
+~
+0 0 40582
+S
+#40584
+Continuing~
+You continue making your way down these dark and dreery halls, you still
+notice that the strange symbols are here but even more so then before.  Your
+path continues upwards.  
+~
+0 0 0
+D2
+~
+~
+0 0 40583
+D4
+~
+~
+0 0 40585
+S
+#40585
+The Cavern~
+You enter a cavern that is covered in darkness, no lite can even
+penatrate the evil that is emitting from the walls.  You look around and try
+and continue in the same direction.  
+~
+0 0 0
+D0
+~
+~
+0 0 40586
+D5
+~
+~
+0 0 40584
+S
+#40586
+In The Cavern~
+You enter a cavern that is covered in darkness, no lite can even
+penatrate the evil that is emitting from the walls.  You look around and try
+and continue in the same direction.  
+~
+0 0 0
+D0
+~
+~
+0 0 40587
+D2
+~
+~
+0 0 40585
+S
+#40587
+The Caverns~
+You enter a cavern that is covered in darkness, no lite can even
+penatrate the evil that is emitting from the walls.  You look around and try
+and continue in the same direction.  
+~
+0 0 0
+D0
+~
+~
+0 0 40588
+D2
+~
+~
+0 0 40586
+S
+#40588
+Exiting The Caverns~
+You have reached the end of the caverns, you smell the fresh air.  You
+look across a vast battlefield and notice a large golden dragon.  You smirk
+and say i've come....  
+~
+0 0 0
+D1
+~
+~
+0 0 40589
+D2
+~
+~
+0 0 40587
+S
+#40589
+The Other Side~
+You are on the other side of these dead caticomes...  Thier are dead
+bodies, blood and swords and armor you see one sword that stands out more
+then the others 
+~
+0 0 0
+D1
+~
+~
+0 0 40590
+D3
+~
+~
+0 0 40588
+S
+#40590
+A giant Battlefield~
+You are walking through a huge battlefield that is covered in dead
+bodies, and blood, it almost seems as if some of the dead bodies are coming
+to life before your eyes.  
+~
+0 0 0
+D1
+~
+~
+0 0 40591
+D3
+~
+~
+0 0 40589
+S
+#40591
+The Battlefield~
+You are walking through a huge battlefield that is covered in dead
+bodies, and blood, it almost seems as if some of the dead bodies are coming
+to life before your eyes.  
+~
+0 0 0
+D0
+~
+~
+0 0 40592
+D3
+~
+~
+0 0 40590
+S
+#40592
+The Battlefield~
+You are walking through a huge battlefield that is covered in dead
+bodies, and blood, it almost seems as if some of the dead bodies are coming
+to life before your eyes.  
+~
+0 0 0
+D0
+~
+~
+0 0 40593
+D2
+~
+~
+0 0 40591
+S
+#40593
+The Battlefield~
+You are walking through a huge battlefield that is covered in dead
+bodies, and blood, it almost seems as if some of the dead bodies are coming
+to life before your eyes.  
+~
+0 0 0
+D1
+~
+~
+0 0 40594
+D2
+~
+~
+0 0 40592
+S
+#40594
+The Battlefield~
+You are walking through a huge battlefield that is covered in dead
+bodies, and blood, it almost seems as if some of the dead bodies are coming
+to life before your eyes.  
+~
+0 0 0
+D0
+~
+~
+0 0 40595
+D3
+~
+~
+0 0 40593
+S
+#40595
+Near The Dragon~
+You are in front of a large alter, you see a redish golden aura
+surrownding a large object with scales.  You thin to yourself i wonder if i
+can sneak up on her....  The path continues north 
+~
+0 0 0
+D0
+~
+~
+0 0 40596
+D2
+~
+~
+0 0 40594
+S
+#40596
+Near The Dragon~
+You can now clearly see the dragon, she is about 70 feet long and around
+30 feet tall she has wings that are capable of creating a whirl wind without
+even an effort.  You think to yourself is it worth it?  
+~
+0 0 0
+D0
+~
+~
+0 0 40597
+D2
+~
+~
+0 0 40595
+S
+#40597
+Near The Dragon~
+You can now clearly see the dragon, she is about 70 feet long and around
+30 feet tall she has wings that are capable of creating a whirl wind without
+even an effort.  You think to yourself is it worth it?  
+~
+0 0 0
+D0
+~
+~
+0 0 40598
+D2
+~
+~
+0 0 40596
+S
+#40598
+Near The Dragon~
+You can now clearly see the dragon, she is about 70 feet long and around
+30 feet tall she has wings that are capable of creating a whirl wind without
+even an effort.  You think to yourself is it worth it?  
+~
+0 0 0
+D1
+~
+~
+0 0 40599
+D2
+~
+~
+0 0 40597
+S
+#40599
+The Dragons Alter~
+You are at a giant alter, it seems to glow with a golden aura..  From the
+dragons scales.  She lifts here head and flares her nostrals at you.  
+~
+0 8192 0
+D3
+~
+~
+0 0 40598
+S
+#0
+
+
+
+#SPECIALS
+M 40503 spec_breath_acid
+M 40504 spec_breath_gas
+M 40511 spec_breath_gas
+M 40516 spec_breath_gas
+M 40517 spec_breath_lightning
+S
+
+
+
+#RESETS
+D 0 40536 0 1
+D 0 40537 2 1
+M 0 40500 7 40501 1
+M 0 40500 7 40501 2
+M 0 40500 7 40501 3
+M 0 40500 7 40501 4
+M 0 40500 7 40501 5
+M 0 40500 7 40501 6
+M 0 40500 7 40501 7
+E 0 40500 0 16
+P 0 40506 1 40505 1
+M 0 40546 1 40504 1
+M 0 40514 10 40505 1
+M 0 40514 10 40505 2
+M 0 40514 10 40505 3
+M 0 40514 10 40505 4
+M 0 40514 10 40505 5
+M 0 40514 10 40505 6
+M 0 40514 10 40505 7
+M 0 40514 10 40505 8
+M 0 40514 10 40505 9
+M 0 40514 10 40505 10
+M 0 40546 1 40506 1
+M 0 40546 1 40510 1
+E 0 40544 0 9
+M 0 40501 5 40512 1
+M 0 40501 5 40512 2
+E 0 40597 0 16
+M 0 40501 5 40518 3
+M 0 40501 5 40518 4
+E 0 40597 0 16
+M 0 40501 5 40518 5
+O 0 40501 0 40518
+P 0 40502 1 40501 1
+P 0 40503 1 40501 1
+O 0 40504 0 40519
+O 0 40505 0 40537
+P 0 40506 1 40505 1
+M 0 40515 1 40540 1
+E 0 40515 0 8
+M 0 40516 15 40543 1
+M 0 40516 15 40543 2
+M 0 40516 15 40545 3
+M 0 40516 15 40545 4
+M 0 40511 10 40548 1
+M 0 40511 10 40548 2
+M 0 40511 10 40548 3
+M 0 40511 10 40548 4
+M 0 40511 10 40548 5
+M 0 40511 10 40548 6
+M 0 40511 10 40548 7
+M 0 40511 10 40548 8
+M 0 40511 10 40548 9
+M 0 40511 10 40548 1
+M 0 40516 15 40549 5
+M 0 40516 15 40549 6
+M 0 40521 12 40551 1
+M 0 40521 12 40551 2
+M 0 40521 12 40551 3
+M 0 40521 12 40551 4
+M 0 40521 12 40551 5
+M 0 40521 12 40551 6
+M 0 40521 12 40551 7
+M 0 40521 12 40551 8
+M 0 40521 12 40551 9
+E 0 40521 0 7
+M 0 40521 12 40553 10
+M 0 40521 12 40553 11
+M 0 40521 12 40553 12
+E 0 40522 0 16
+M 0 40516 15 40554 7
+M 0 40516 15 40554 8
+M 0 40516 15 40556 9
+M 0 40516 15 40556 10
+M 0 40503 1 40558 1
+M 0 40516 15 40558 11
+M 0 40516 15 40558 12
+M 0 40504 1 40559 1
+E 0 40507 0 5
+M 0 40516 15 40559 13
+M 0 40516 15 40559 14
+M 0 40516 15 40559 15
+O 0 40508 0 40564
+M 0 40508 5 40565 2
+M 0 40508 5 40565 1
+M 0 40508 5 40565 3
+M 0 40508 5 40565 4
+M 0 40508 5 40565 5
+O 0 40509 0 40566
+M 0 40598 20 40581 1
+M 0 40598 20 40581 2
+M 0 40598 20 40581 3
+M 0 40598 20 40582 4
+M 0 40598 20 40582 5
+M 0 40598 20 40582 6
+M 0 40598 20 40583 7
+M 0 40598 20 40583 8
+M 0 40598 20 40583 9
+M 0 40598 20 40585 10
+M 0 40598 20 40585 11
+M 0 40598 20 40585 12
+M 0 40598 20 40585 13
+M 0 40598 20 40587 14
+M 0 40598 20 40587 15
+M 0 40598 20 40587 16
+M 0 40598 20 40587 17
+M 0 40598 20 40587 18
+M 0 40598 20 40587 19
+M 0 40598 20 40587 20
+O 0 40512 0 40589
+M 0 40513 10 40590 1
+M 0 40513 10 40590 2
+M 0 40513 10 40590 3
+M 0 40513 10 40590 4
+M 0 40513 10 40590 5
+M 0 40513 10 40590 6
+M 0 40513 10 40590 7
+M 0 40513 10 40590 8
+M 0 40513 10 40590 9
+M 0 40513 10 40590 10
+M 0 40513 10 40591 1
+M 0 40513 10 40591 2
+M 0 40513 10 40591 3
+M 0 40513 10 40591 4
+M 0 40513 10 40591 5
+M 0 40513 10 40591 6
+M 0 40513 10 40591 7
+M 0 40513 10 40591 8
+M 0 40513 10 40591 9
+M 0 40513 10 40591 10
+M 0 40513 10 40591 1
+M 0 40513 10 40591 2
+M 0 40513 10 40591 3
+M 0 40513 10 40591 4
+M 0 40513 10 40591 5
+M 0 40513 10 40591 6
+M 0 40513 10 40591 7
+M 0 40513 10 40591 8
+M 0 40513 10 40591 9
+M 0 40513 10 40591 10
+M 0 40520 10 40592 1
+M 0 40520 10 40592 2
+O 0 11751 0 40594
+O 0 9221 0 40594
+M 0 40520 10 40594 3
+M 0 40520 10 40594 4
+M 0 40599 1 40596 1
+E 0 40519 0 5
+M 0 40520 10 40597 7
+M 0 40520 10 40597 8
+M 0 40520 10 40597 9
+M 0 40520 10 40597 10
+M 0 40520 10 40598 5
+M 0 40520 10 40598 6
+M 0 40517 1 40599 1
+E 0 40517 0 5
+E 0 40518 0 16
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#40513
+say We shall protect the Holy Blade...
+bleed
+~
+#0
+
+#$

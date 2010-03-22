@@ -1,0 +1,1047 @@
+#AREADATA
+Name <Black Mountain Castle>~
+Builders Furan Roland~
+VNUMs 40700 40799
+Credits [  U-C  ] Furan Unknown~
+Security 9
+RepopMsg Darkness envelopes the castle inside and out thicker than before...~
+End
+
+
+
+#MOBILES
+#40700
+Demon Suit~
+A demon~
+A demon possessed suit of armor stands unmoving before you
+~
+Tall polished armor with a violet or dark black glow almost unnoticeable
+is surrounding it.  It looks like the owner of this castle had taken good
+care of the armor of his guards.  But where are the guards????  
+~
+Demon~
+ABF 0 CDEFGJLZc ABCDEFGHI -1000 0
+190 310 1552d103+25049 310d10+85 103d3+322 none
+-200 -200 -200 -135
+BCEFGINO CHXZ D INSY
+stand stand none 670
+AHMV ABCGHIJK huge unknown
+F aff Va
+#40701
+Perrin~
+Perrin's~
+Perrin muscular and bound with power of both evil and good this armour works smoothly.
+~
+Arms wrought with power gently polish the armor in the shop.  Such a
+young face on this young man to have that much experience must be unnatural.
+~
+Human~
+AB B CDEFGJZc ACDEFGHINO 0 0
+211 211 1057d70+12787 211d10+85 70d3+223 none
+-133 -133 -133 -89
+0 BC D X
+stand stand male 0
+CV 0 medium unknown
+F for AHM
+F par ABCDEFGHIJK
+#40796
+bel'tine~
+{ML{mo{Mv{me {YG{Bo{Yd{Bd{Ye{Bs{Ys {CB{Me{Cl{x'{MT{Ci{Mn{Ce{x~
+{ML{mo{Mv{me {YG{Bo{Yd{Bd{Ye{Bs{Ys {CB{Me{Cl{x'{MT{Ci{Mn{Ce{x stands before you
+~
+The {ML{mo{Mv{me {YG{Bo{Yd{Bd{Ye{Bs{Ys {CB{Me{Cl{x'{MT{Ci{Mn{Ce{x
+represents for all love and compasion in the world but should one make her
+angry by taking advantage of anothers love may the other gods have mercy on
+them.  
+~
+Human~
+AFc 0 CDEFGJLPQTVZc ABCDEFGHINO 1000 0
+310 310 1552d103+25049 310d10+85 103d3+322 none
+-200 -200 -200 -135
+BCDEFHIJKNO ABFGHIKMNST CDKLQ P
+stand stand female 900
+AHMV ABCDEFGHIJK medium flesh
+#40797
+Rand~
+Rand 'al Thor~
+Rand 'al Thor The {GD{Rr{Ga{Rg{Go{Rn {bR{ye{bb{yo{br{yn{x, {YS{yu{Yn {xof The {YM{Ro{Yr{Rn{Yi{Rn{Yg{x, {8B{6r{8e{6a{8k{6e{8r {xof The {GW{Bo{Gr{Bl{Gd{x
+~
+Rand 'al Thor The {GD{Rr{Ga{Rg{Go{Rn {bR{ye{bb{yo{br{yn{x, {YS{yu{Yn {xof
+The {YM{Ro{Yr{Rn{Yi{Rn{Yg{x, {8B{6r{8e{6a{8k{6e{8r {xof The
+{GW{Bo{Gr{Bl{Gd{x Born on a Mountain top by a Maiden of the Spear destined
+to rebreak the World agian.  
+~
+Elf~
+AFc 0 CDEFGJLPQTVZc ABCDEFGHINO 0 0
+310 310 1552d103+25049 310d10+85 103d3+322 none
+-200 -200 -200 -135
+BCDEFHIJKNO ABEFHJLNPQS BCDGIKO Z
+stand stand male 900
+AHMV ABCDEFGHIJK medium flesh
+#40798
+cain~
+{8Cain {YF{ya{Yt{yh{Ye{yr {xof all {RV{ra{Rm{rp{Ri{rr{Re{rs{x~
+{8Cain {YF{ya{Yt{yh{Ye{yr {xof all {RV{ra{Rm{rp{Ri{rr{Re{rs{x
+~
+After being cast out of the world bye the gods Cain now has come back to
+serve the darker gods in their quest for domination.  
+~
+Avian~
+AFc 0 CDEFGJLPQTVZac ABCDEFGHINO -1000 0
+310 310 1552d103+25049 310d10+85 103d3+322 none
+-200 -200 -200 -135
+BCEFIJKN ABEGHIPQ CDFJ HNS
+stand stand male 900
+AHIMV ABCDEFGHIJKPV medium flesh
+F vul LQ
+#0
+
+
+
+#OBJECTS
+#40700
+stone dagger~
+a stone dagger~
+A Stone Dagger is burried to the hilt in the ground here~
+stone~
+weapon 0 AN
+dagger 20 30 thrust AEG
+60 61 3750 P
+#40701
+Cane~
+{8Furan's {YGolden {mPimp {gCane{x~
+{8Furan's {YGolden {mPimp {gCane{x~
+unknown~
+weapon ABCEFGU AN
+mace 60 60 crush ABCEGH
+203 0 5000 P
+#40702
+Furan's Secret Chest~
+.Furan's Secret Chest~
+Furan's Secret Chest~
+wood~
+container F 0
+5000 ACD 0 100 5
+203 5000 0 P
+#40703
+Plate Mail~
+{8S{xp{8i{xk{8e{xd {8S{6i{8l{6v{8e{6r {yP{bl{ya{bt{ye {MM{ma{Mi{ml{x~
+{8S{xp{8i{xk{8e{xd {8S{6i{8l{6v{8e{6r {yP{bl{ya{bt{ye {MM{ma{Mi{ml{x~
+silver~
+armor ABCJLY AD
+-250 -275 -400 -200 0
+201 80 2000 P
+#40704
+Helm~
+{8S{xp{8i{xk{8e{xd {8S{6i{8l{6v{8e{6r {8H{be{8l{bm{x~
+{8S{xp{8i{xk{8e{xd {8S{6i{8l{6v{8e{6r {8H{be{8l{bm{x~
+silver~
+armor ABCJLY AE
+-250 -275 -400 -200 0
+201 25 2000 P
+#40760
+Mystical Portal~
+{8B{6l{8a{6c{8k {rB{Rl{ro{Ro{rd{Ry {gT{Gho{gr{Gn {yP{Yo{yr{Yt{ya{Yl{x ~
+{8B{6l{8a{6c{8k {rB{Rl{ro{Ro{rd{Ry {gT{Gho{gr{Gn {yP{Yo{yr{Yt{ya{Yl{x ~
+silver~
+portal ABCEFGINSYa A
+2147483647 A A 40795 0
+203 5 50000 P
+#40761
+axe~
+{6C{8a{6i{8n{6'{8s {YG{yr{Ye{ya{Yt {BA{bx{Be{x~
+{6C{8a{6i{8n{6'{8s {YG{yr{Ye{ya{Yt {BA{bx{Be{x~
+Silver~
+weapon ABCEFGIY AN
+axe 45 45 cleave ABEGH
+203 5 1300 P
+#40762
+sword~
+{YC{ya{Yl {x'{Ya{yn{x' {Yd{yo{Yr{x~
+{YC{ya{Yl {x'{Ya{yn{x' {Yd{yo{Yr{x~
+crystal~
+weapon ABCEFGIY AN
+sword 50 50 slash ABEGH
+203 5 1300 P
+#40763
+hlem~
+{RR{ru{Rb{ry {MH{me{Ma{mr{Mt {YN{ye{Yc{yk{Yl{ya{Yc{ye{x~
+{RR{ru{Rb{ry {MH{me{Ma{mr{Mt {YN{ye{Yc{yk{Yl{ya{Yc{ye{x~
+unknown~
+armor ABFGIKL C
+-1250 -1250 -1250 -1250 0
+203 2 500 P
+#40764
+bow~
+{CC{Mu{Cp{Mi{Cd{x'{Ms {RR{ru{Rb{ry {BB{bo{Bw{x~
+{CC{Mu{Cp{Mi{Cd{x'{Ms {RR{ru{Rb{ry {BB{bo{Bw{x~
+ruby~
+weapon ABFGIKL N
+exotic 21 17 crush 0
+207 208 13870 P
+A
+19 19
+A
+18 19
+A
+19 19
+A
+18 19
+A
+19 19
+A
+18 19
+A
+19 11
+A
+18 11
+A
+19 11
+A
+18 11
+A
+19 19
+A
+18 19
+#40790
+rapier~
+{8R{Ra{8p{Ri{8e{Rr {xof {8D{6e{8a{6t{8h{x~
+{8R{Ra{8p{Ri{8e{Rr {xof {8D{6e{8a{6t{8h{x~
+unknown~
+weapon ABCEFGI AN
+sword 70 70 pierce ABEGH
+203 7 600 P
+#40791
+rug~
+{RR{yu{Rg {xof {BE{Ct{Be{Cr{Bn{Ca{Bl {YB{Bl{Ye{Bs{Ys{Bi{Yn{Bg{Ys{x~
+{RR{yu{Rg {xof {BE{Ct{Be{Cr{Bn{Ca{Bl {YB{Bl{Ye{Bs{Ys{Bi{Yn{Bg{Ys{x~
+cotton~
+furniture 0 0
+999 99999 EHK 100000 100000
+1 5000 50000 P
+#40792
+mat~
+{YM{ya{Yt {xof {YH{xo{Yn{xo{Yr {x& {YP{xr{Ya{xi{Ys{xe{x~
+{YM{ya{Yt {xof {YH{xo{Yn{xo{Yr {x& {YP{xr{Ya{xi{Ys{xe{x~
+pearl~
+furniture 0 0
+999 99999 EH 200 200
+1 5000 50000 P
+#40793
+mat~
+{rL{yi{rv{yi{rn{yg {YM{ya{Yt {xof {8T{ww{8i{ws{8t{we{8d {rF{yl{re{ys{rh{x~
+{rL{yi{rv{yi{rn{yg {YM{ya{Yt {xof {8T{ww{8i{ws{8t{we{8d {rF{yl{re{ys{rh{x~
+flesh~
+furniture 0 0
+999 99999 EH -115 -100000
+1 5000 50000 P
+#40795
+bed~
+{6F{8u{6r{8a{6n{8'{6s {8Grey {xand {MMagenta {mSilk {cBed{x~
+{6F{8u{6r{8a{6n{8'{6s {8Grey {xand {MMagenta {mSilk {cBed{x~
+unknown~
+furniture ABGI 0
+2 50000 EHL 67000 8900
+203 5000 50000 P
+#40796
+throne~
+{YThrone {xof {CP{ce{Cr{cf{Ce{cc{Ct {ML{mo{Mv{me{x~
+{YThrone {xof {CP{ce{Cr{cf{Ce{cc{Ct {ML{mo{Mv{me{x~
+unknown~
+furniture ABGI 0
+1 50000 F 500 500
+203 5000 50000 P
+#40797
+throne~
+{YThrone {8of {xS{8p{xo{8t{xl{8e{xs{8s {xPearl~
+{YThrone {8of {xS{8p{xo{8t{xl{8e{xs{8s {xPearl~
+unknown~
+furniture ABGI 0
+1 50000 F 500 500
+203 5000 50000 P
+#40798
+throne~
+{YThrone {xof {rM{yo{rr{yt{ra{yl {rF{yl{re{ys{rh{x~
+{YThrone {xof {rM{yo{rr{yt{ra{yl {rF{yl{re{ys{rh{x is composed of the following mortals and then some:~
+flesh~
+furniture ABEG 0
+1 50000 F 500 500
+203 5000 50000 P
+#0
+
+
+
+#ROOMS
+#40700
+<Grand Entrance to Black Mountain Castle>~
+The gleeming silver entrance covered with black marble enlayed with
+silver.  The gates are open, and the rooms inside are as black as can be
+except for a few fragments of light from the torches placed down the halls. 
+The whole place just echos silence!  
+~
+0 1028 5
+D0
+~
+~
+0 0 40701
+S
+#40701
+<Grand Hallway>~
+A dark lightly illuminated hallway with torches hanging along the walls
+every few yards.  The light seems to be loosing the fight agianst the
+darkness.  Foot steps echo down the hallway, yet nothing can be seen.  
+~
+0 8 0
+D0
+~
+~
+0 0 40702
+D2
+~
+~
+0 0 40700
+S
+#40702
+<Grand Hallway>~
+A dark lightly illuminated hallway with torches hanging along the walls
+every few yards.  The light seems to be loosing the fight agianst the
+darkness.  Foot steps echo down the hallway, yet nothing can be seen.  
+~
+0 8 0
+D0
+~
+~
+0 0 40703
+D2
+~
+~
+0 0 40701
+S
+#40703
+<Grand Hallway>~
+A dark lightly illuminated hallway with torches hanging along the walls every few yards split two ways with a door infront of you.  The light seems to be loosing the fight agianst the darkness.  Foot steps echo down the hallway, yet nothing can be seen.
+~
+0 8 0
+D0
+~
+~
+1 0 40705
+D1
+~
+~
+0 0 40706
+D2
+~
+~
+0 0 40702
+D3
+~
+~
+0 0 40704
+S
+#40704
+<Grand Hallway>~
+A dark lightly illuminated hallway with torches hanging along the walls
+every few yards split two ways with a door infront of you.  The light seems
+to be loosing the fight agianst the drakness.  Foot steps echo down the
+hallway, yet nothing can be seen.  
+~
+0 8 0
+D1
+~
+~
+0 0 40703
+D3
+~
+~
+0 0 40734
+S
+#40705
+~
+~
+0 0 0
+D2
+~
+~
+1 0 40703
+S
+#40706
+<Grand Hallway>~
+A dark lightly illuminated hallway with torches hanging along the walls
+every few yards.  The light seems to be loosing the fight agianst the
+darkness.  Foot steps echo down the hallway, yet nothing can be seen.  
+~
+0 8 0
+D1
+~
+~
+0 0 40707
+D3
+~
+~
+0 0 40703
+S
+#40707
+<Grand Hallway>~
+A dark lightly illuminated hallway with torches hanging along the walls
+every few yards.  The light seems to be loosing the fight agianst the
+darkness.  Foot steps echo down the hallway, yet nothing can be seen.  
+~
+0 8 0
+D1
+~
+~
+0 0 40708
+D3
+~
+~
+0 0 40706
+S
+#40708
+<Grand Hallway>~
+A dark lightly illuminated hallway with torches hanging along the walls
+every few yards.  The light seems to be loosing the fight agianst the
+darkness.  Foot steps echo down the hallway, yet nothing can be seen.  
+~
+0 8 0
+D1
+~
+~
+0 0 40709
+D3
+~
+~
+0 0 40707
+S
+#40709
+<Grand Hallway>~
+A dark lightly illuminated hallway with torches hanging along the walls
+every few yards.  The light seems to be loosing the fight agianst the
+darkness.  Foot steps echo down the hallway, yet nothing can be seen.  
+~
+0 8 0
+D1
+~
+~
+0 0 40710
+D2
+~
+~
+1 0 40711
+D3
+~
+~
+0 0 40708
+S
+#40710
+<Grand Hallway>~
+A dark lightly illuminated hallway with torches hanging along the walls
+every few yards.  The light seems to be loosing the fight agianst the
+darkness.  Foot steps echo down the hallway, yet nothing can be seen.  
+~
+0 0 0
+D0
+~
+~
+0 0 40711
+D3
+~
+~
+0 0 40709
+S
+#40711
+<Grand Hallway>~
+A dark lightly illuminated hallway with torches hanging along the walls
+every few yards.  The light seems to be loosing the fight agianst the
+darkness.  Foot steps echo down the hallway, yet nothing can be seen.  
+~
+0 8 0
+D0
+~
+~
+0 0 40712
+D2
+~
+~
+0 0 40710
+S
+#40712
+<Grand Hallway>~
+A dark lightly illuminated hallway with torches hanging along the walls
+every few yards.  The light seems to be loosing the fight agianst the
+darkness.  Foot steps echo down the hallway, yet nothing can be seen.  
+~
+0 8 0
+D0
+~
+~
+0 0 40713
+D2
+~
+~
+0 0 40711
+S
+#40713
+<Grand Hallway>~
+A dark lightly illuminated hallway with torches hanging along the walls
+every few yards.  The light seems to be loosing the fight agianst the
+darkness.  Foot steps echo down the hallway, yet nothing can be seen.  
+~
+0 8 0
+D0
+~
+~
+0 0 40714
+D2
+~
+~
+0 0 40712
+D3
+~
+~
+0 0 40736
+S
+#40714
+<Grand Hallway>~
+A dark lightly illuminated hallway with torches hanging along the walls
+every few yards.  The light seems to be loosing the fight agianst the
+darkness.  Foot steps echo down the hallway, yet nothing can be seen.  
+~
+0 8 0
+D0
+~
+~
+0 0 40715
+D2
+~
+~
+0 0 40713
+S
+#40715
+<Grand Hallway>~
+A dark lightly illuminated hallway with torches hanging along the walls
+every few yards.  The light seems to be loosing the fight agianst the
+darkness.  Foot steps echo down the hallway, yet nothing can be seen.  
+~
+0 8 0
+D2
+~
+~
+0 0 40714
+D3
+~
+~
+0 0 40716
+S
+#40716
+<Grand Hallway>~
+A dark lightly illuminated hallway with torches hanging along the walls
+every few yards.  The light seems to be loosing the fight agianst the
+darkness.  Foot steps echo down the hallway, yet nothing can be seen.  
+~
+0 8 0
+D1
+~
+~
+0 0 40715
+D3
+~
+~
+0 0 40717
+S
+#40717
+<Grand Hallway>~
+A dark lightly illuminated hallway with torches hanging along the walls
+every few yards.  The light seems to be loosing the fight agianst the
+darkness.  Foot steps echo down the hallway, yet nothing can be seen.  
+~
+0 8 0
+D1
+~
+~
+0 0 40716
+D3
+~
+~
+0 0 40718
+S
+#40718
+<Grand Hallway>~
+A dark lightly illuminated hallway with tourches hanging along the walls
+every few yards.  The light seems to be loosing the fight agianst the
+darkness.  Foot steps echo down the hallway, yet nothing can be seen.  
+~
+0 8 0
+D1
+~
+~
+0 0 40717
+D3
+~
+~
+0 0 40719
+S
+#40719
+<Grand Hallway>~
+A dark lightly illuminated hallway with torches hanging along the walls
+every few yards.  The light seems to be loosing the fight agianst the
+darkness.  Foot steps echo down the hallway, yet nothing can be seen.  
+~
+0 8 0
+D1
+~
+~
+0 0 40718
+D3
+~
+~
+0 0 40720
+S
+#40720
+<Grand Hallway>~
+A dark lightly illuminated hallway with torches hanging along the walls
+every few yards.  The light seems to be loosing the fight agianst the
+darkness.  Foot steps echo down the hallway, yet nothing can be seen.  
+~
+0 8 0
+D0
+~
+~
+1 0 40750
+D1
+~
+~
+0 0 40719
+D2
+~
+~
+1 0 40735
+D3
+~
+~
+0 0 40721
+S
+#40721
+<Grand Hallway>~
+A dark lightly illuminated hallway with torches hanging along the walls
+every few yards.  The light seems to be loosing the fight agianst the
+darkness.  Foot steps echo down the hallway, yet nothing can be seen.  
+~
+0 0 0
+D1
+~
+~
+0 0 40720
+D3
+~
+~
+0 0 40722
+S
+#40722
+<Grand Hallway>~
+A dark lightly illuminated hallway with torches hanging along the walls
+every few yards.  The light seems to be loosing the fight agianst the
+darkness.  Foot steps echo down the hallway, yet nothing can be seen.  
+~
+0 8 0
+D1
+~
+~
+0 0 40721
+D3
+~
+~
+0 0 40723
+S
+#40723
+<Grand Hallway>~
+A dark lightly illuminated hallway with torches hanging along the walls
+every few yards.  The light seems to be loosing the fight agianst the
+darkness.  Foot steps echo down the hallway, yet nothing can be seen.  
+~
+0 8 0
+D1
+~
+~
+0 0 40722
+D3
+~
+~
+0 0 40724
+S
+#40724
+<Grand Hallway>~
+A dark lightly illuminated hallway with torches hanging along the walls
+every few yards.  The light seems to be loosing the fight agianst the
+darkness.  Foot steps echo down the hallway, yet nothing can be seen.  
+~
+0 8 0
+D1
+~
+~
+0 0 40723
+D3
+~
+~
+0 0 40725
+S
+#40725
+<Grand Hallway>~
+A dark lightly illuminated hallway with torches hanging along the walls
+every few yards.  The light seems to be loosing the fight agianst the
+darkness.  Foot steps echo down the hallway, yet nothing can be seen.  
+~
+0 0 0
+D1
+~
+~
+0 0 40724
+D3
+~
+~
+0 0 40726
+S
+#40726
+<Grand Hallway>~
+A dark lightly illuminated hallway with torches hanging along the walls
+every few yards.  The light seems to be loosing the fight agianst the
+darkness.  Foot steps echo down the hallway, yet nothing can be seen.  
+~
+0 0 0
+D1
+~
+~
+0 0 40725
+D2
+~
+~
+0 0 40727
+S
+#40727
+<Grand Hallway>~
+A dark lightly illuminated hallway with torches hanging along the walls
+every few yards.  The light seems to be loosing the fight agianst the
+darkness.  Foot steps echo down the hallway, yet nothing can be seen.  
+~
+0 0 0
+D0
+~
+~
+0 0 40726
+D2
+~
+~
+0 0 40728
+S
+#40728
+<Grand Hallway>~
+A dark lightly illuminated hallway with torches hanging along the walls
+every few yards.  The light seems to be loosing the fight agianst the
+darkness.  Foot steps echo down the hallway, yet nothing can be seen.  
+~
+0 0 0
+D0
+~
+~
+0 0 40727
+D2
+~
+~
+0 0 40729
+S
+#40729
+<Grand Hallway>~
+A dark lightly illuminated hallway with torches hanging along the walls
+every few yards.  The light seems to be loosing the fight agianst the
+darkness.  Foot steps echo down the hallway, yet nothing can be seen.  
+~
+0 0 0
+D0
+~
+~
+0 0 40728
+D2
+~
+~
+0 0 40730
+S
+#40730
+<Grand Hallway>~
+A dark lightly illuminated hallway with torches hanging along the walls
+every few yards split two ways with a door infront of you.  The light seems
+to be loosing the fight agianst the drakness.  Foot steps echo down the
+hallway, yet nothing can be seen.  
+~
+0 8 0
+D0
+~
+~
+0 0 40729
+D2
+~
+~
+0 0 40731
+S
+#40731
+<Grand Hallway>~
+A dark lightly illuminated hallway with torches hanging along the walls
+every few yards split two ways with a door infront of you.  The light seems
+to be loosing the fight agianst the drakness.  Foot steps echo down the
+hallway, yet nothing can be seen.  
+~
+0 8 0
+D0
+~
+~
+0 0 40730
+D1
+~
+~
+0 0 40732
+S
+#40732
+<Grand Hallway>~
+A dark lightly illuminated hallway with torches hanging along the walls
+every few yards split two ways with a door infront of you.  The light seems
+to be loosing the fight agianst the drakness.  Foot steps echo down the
+hallway, yet nothing can be seen.  
+~
+0 8 0
+D1
+~
+~
+0 0 40733
+D3
+~
+~
+0 0 40731
+S
+#40733
+<Grand Hallway>~
+A dark lightly illuminated hallway with torches hanging along the walls
+every few yards split two ways with a door infront of you.  The light seems
+to be loosing the fight agianst the drakness.  Foot steps echo down the
+hallway, yet nothing can be seen.  
+~
+0 8 0
+D1
+~
+~
+0 0 40734
+D3
+~
+~
+0 0 40732
+S
+#40734
+<Grand Hallway>~
+A dark lightly illuminated hallway with torches hanging along the walls
+every few yards split two ways with a door infront of you.  The light seems
+to be loosing the fight agianst the drakness.  Foot steps echo down the
+hallway, yet nothing can be seen.  
+~
+0 8 0
+D1
+~
+~
+0 0 40704
+D3
+~
+~
+0 0 40733
+S
+#40735
+~
+~
+0 0 0
+D0
+~
+~
+1 0 40720
+S
+#40736
+<Armorer of Black Mountain Castle>~
+A dark vast room which oozes out evil.  Silent scream coming from every
+direction.  One what looks to be a man in the room appears to be buffing
+some dark looking armor.  
+~
+0 0 0
+D1
+~
+~
+0 0 40713
+S
+#40750
+<Secret Closet>~
+~
+0 0 0
+D2
+~
+~
+1 0 40720
+S
+#40792
+mat~
+~
+0 4 0
+S
+#40795
+<{8Furan's {mBed {cChamber{x>~
+A room full of {8g{6r{8i{6e{8v{6a{8n{6c{8e{6s {xfor a {Rlost {Mlove{x. 
+{RD{8o{Ro{8m{Re{8d {xto live life alone Furan sleeps unrestfully with
+nightmares for all to {8fear{x.  
+~
+0 34304 0
+D2
+~
+~
+1 0 40797
+S
+#40796
+<{8Furan's {cThrone {rRoom{x>~
+A bunch of {RRed Roses {xwith no {gthorns {xsit along the aisle toward
+the {YThrone {xin {CCyan {xcolored porcelean vases.  The Throne has what
+looks to be a loving and perfect {Mheart {xabove it's owners head.  
+~
+0 9732 0
+D3
+~
+~
+0 0 40797
+S
+#40797
+<{8Furan's {cThrone {rRoom{x>~
+A room brightly filled with light and white peaceful doves sitting on
+golden perches.  Peace and beauty suround the {YSpotless {xPearl {YThrone. 
+{x 
+~
+0 9740 0
+D0
+~
+~
+1 0 40795
+D1
+~
+~
+0 0 40796
+D2
+~
+~
+0 0 40799
+D3
+~
+~
+0 0 40798
+S
+#40798
+<{8Furan's {cThrone {rRoom{x>~
+A {8Dark and Gloomy Chamber {xwith a Throne made of {rm{yo{rr{yt{ra{yl
+{rf{yl{re{ys{rh{x.  The torment those bodies had to go through must be
+unbearable or is it possible the throne is truely alive{Y?????  {x 
+~
+0 9733 0
+D1
+~
+~
+0 0 40797
+S
+#40799
+<{YEntrance {xto {8Furan's {cThrone {rRoom{x>~
+Death oozes out of the entrance.  Loud Screams of something or someone
+being tortured is coming from with in.  Fear fills the room with a thickness
+almost able to cut into but never through.  
+~
+0 9741 0
+D0
+~
+~
+0 0 40797
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 40703 0 1
+D 0 40705 2 1
+D 0 40709 2 1
+D 0 40720 0 2
+D 0 40720 2 2
+D 0 40735 0 2
+D 0 40750 2 2
+D 0 40795 2 2
+D 0 40797 0 2
+M 0 40700 40 40700 1
+E 0 40700 0 16
+M 0 40700 40 40703 1
+E 0 40700 0 16
+M 0 40700 40 40710 1
+E 0 40700 0 16
+M 0 40700 40 40713 1
+E 0 40700 0 16
+M 0 40700 40 40715 1
+E 0 40700 0 16
+M 0 40700 1 40720 1
+M 0 40700 40 40721 1
+E 0 40700 0 16
+M 0 40700 40 40726 1
+E 0 40700 0 16
+M 0 40700 40 40728 1
+E 0 40700 0 16
+M 0 40700 40 40731 1
+E 0 40700 0 16
+M 0 40701 1 40736 1
+E 0 40703 0 5
+E 0 40704 0 6
+O 0 40702 0 40750
+P 0 40790 1 40702 1
+O 0 40761 0 40792
+O 0 40795 0 40795
+M 0 40798 2 40795 1
+E 0 40761 0 16
+E 0 40704 0 6
+E 0 40703 0 5
+M 0 40797 2 40795 1
+E 0 40704 0 6
+E 0 40703 0 5
+E 0 40762 0 16
+M 0 40796 2 40795 1
+E 0 40763 0 3
+E 0 40763 0 4
+E 0 40764 0 16
+O 0 40791 0 40796
+O 0 40796 0 40796
+M 0 40796 2 40796 1
+E 0 40764 0 16
+E 0 40763 0 4
+E 0 40763 0 3
+O 0 40792 0 40797
+O 0 40797 0 40797
+M 0 40797 2 40797 1
+E 0 40762 0 16
+E 0 40703 0 5
+E 0 40704 0 6
+O 0 40793 0 40798
+O 0 40798 0 40798
+M 0 40798 2 40798 1
+E 0 40761 0 16
+E 0 40703 0 5
+E 0 40704 0 6
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

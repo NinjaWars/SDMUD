@@ -1,0 +1,687 @@
+#AREADATA
+Name Castle of the Damned~
+Builders Kurvaak~
+VNUMs 1800 1880
+Credits [  U-C  ] Loki Castle of The Damned~
+Security 9
+RepopMsg (null)~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#1801
+{wA long {Whallway{x~
+You stand at the begining of what looks like a long hallway.  The odor
+which you smelt at the entrance has grown even stronger now.  As you watch
+you notice shadows moving in the light, but you see no bodies.  
+~
+0 0 0
+D1
+~
+~
+0 0 1802
+D3
+~
+~
+0 0 1880
+S
+#1802
+{wA bend in the {Whallway{x~
+You have come to a bend in the hallway, and again the odor has gotten
+stronger.  And again you see shadows moving in the light, but yet again
+there are no bodies.  You are begining to get the feeling that it isn't
+actually shadows.  
+~
+0 0 0
+D2
+~
+~
+0 0 1803
+D3
+~
+~
+0 0 1801
+S
+#1803
+{wA long {Whallway{x~
+The odor has grown stronger again, and seems to be leading you to the
+south now, but still you do not recognize it.  To the east you see a small
+wooden door.  
+~
+0 0 0
+D0
+~
+~
+0 0 1802
+D1
+~
+~
+0 0 1804
+D2
+~
+~
+0 0 1810
+S
+#1804
+{wEntrance to the Barracks{x~
+You stand at the entrance to the castle barracks, you see a pair of bunk
+beds in all directions.  Back to the west you see the hallway you just came
+from.  
+~
+0 0 0
+D0
+~
+~
+0 0 1805
+D1
+~
+~
+0 0 1807
+D2
+~
+~
+0 0 1809
+D3
+~
+~
+0 0 1803
+S
+#1805
+{wAt a set of bunk beds{x~
+You stand at a very plain set of bunk beds.  To the east you see another
+pair of bunk beds, and to the south you see the entrance to the barracks.  
+~
+0 0 0
+D1
+~
+~
+0 0 1806
+D2
+~
+~
+0 0 1804
+S
+#1806
+{wAt a set of bunk beds{x~
+You stand at a very plain set of bunk beds.  To the west and south you
+see another set of bunk beds.  
+~
+0 0 0
+D2
+~
+~
+0 0 1807
+D3
+~
+~
+0 0 1805
+S
+#1807
+{wAt a set of bunk beds{x~
+You stand at a very plain set of bunk beds.  To the south you see another
+set of bunk beds, and to the west is the entrance.  
+~
+0 0 0
+D0
+~
+~
+0 0 1806
+D2
+~
+~
+0 0 1808
+D3
+~
+~
+0 0 1804
+S
+#1808
+{wAt a set of bunk beds{x~
+You stand at a very plain set of bunk beds. To the north and west you see another set of bunk beds.
+~
+0 0 0
+D0
+~
+~
+0 0 1807
+D3
+~
+~
+0 0 1809
+S
+#1809
+{wAt a set of bunk beds{x~
+You stand at a very plain set of bunk beds.  To the north is the
+entrance, to the east is another set of bunk beds.  
+~
+0 0 0
+D0
+~
+~
+0 0 1804
+D1
+~
+~
+0 0 1808
+S
+#1810
+{wA long {Whallway{x~
+You stand in a long hallway, the odor continues to draw you to the south,
+yet there is a dining room and kitchen to the west...  
+~
+0 0 0
+D0
+~
+~
+0 0 1803
+D2
+~
+~
+0 0 1814
+D3
+~
+~
+0 0 1811
+S
+#1811
+{wA dining room{x~
+You stand in the center of a small dining room, to the west you a rather
+large kitchen, and to the east is the hallway.  
+~
+0 0 0
+D1
+~
+~
+0 0 1810
+D3
+~
+~
+0 0 1812
+S
+#1812
+{wIn the kitchen{x~
+You stand in a rather large kitchen which continues to the north, all
+around you strange shadows are moving, and then suddenly you see a clever
+FLYING towards your head....  Or is it...  
+~
+0 0 0
+D0
+~
+~
+0 0 1813
+D1
+~
+~
+0 0 1811
+S
+#1813
+{wThe end of the kitchen{x~
+This is the end of the kitchen, you see more shadows moving still, a
+strange feeling falls over you as a shadow moves past.  
+~
+0 0 0
+D2
+~
+~
+0 0 1812
+S
+#1814
+{wA long hallway continues{x~
+The hallway continues to both the north and south, and its so dark you
+can't tell how far it was continues to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 1810
+D2
+~
+~
+0 0 1815
+S
+#1815
+{wThe end of a long hallway{x~
+You have come to the end of the hallway there are stairwells leading both
+up and down, and back north the hallway continues.  
+~
+0 0 0
+D0
+~
+~
+0 0 1814
+D4
+~
+~
+0 0 1816
+D5
+~
+~
+0 0 1825
+S
+#1816
+{wOn a Spiril staircase{x~
+You stand on the begining of a large spiril staircase.  Down is the end
+of a long hallway, and east the staircase continues.  
+~
+0 0 0
+D1
+~
+~
+0 0 1817
+D5
+~
+~
+0 0 1815
+S
+#1817
+{wOn a spiral staircase~
+The staircase continues both to the west and up.  
+~
+0 0 0
+D3
+~
+~
+0 0 1816
+D4
+~
+~
+0 0 1818
+S
+#1818
+{wOn a spiral staircase~
+The staircase continues both to the west and down.  
+~
+0 0 0
+D3
+~
+~
+0 0 1819
+D5
+~
+~
+0 0 1817
+S
+#1819
+{wOn a spiral staircase~
+The staircase continues both to the up and east.
+~
+0 0 0
+D1
+~
+~
+0 0 1818
+D4
+~
+~
+0 0 1820
+S
+#1820
+{wEnd of the spiral staircase~
+You stand at the end of the spiral staircase, to the north is the king's
+private chambers, and to the south is the queen's private chambers.  You
+begin to wonder if the king and queen still even exist.  
+~
+0 0 0
+D0
+~
+~
+0 0 1821
+D2
+~
+~
+0 0 1823
+D5
+~
+~
+0 0 1819
+S
+#1821
+{wThe King's private chambers~
+You stand in the king's private chambers, you can see the spiral
+staircase to the south, and to the north you see a large balcony.  In this
+room you see a large canopy bed and a large cabinet in the corner.  
+~
+0 0 0
+D0
+~
+~
+0 0 1822
+D2
+~
+~
+0 0 1820
+S
+#1822
+{wThe King's Balcony~
+You stand on the king's balcony, from it you can see the forests, lakes,
+and rivers of all the land, but you have this strange feeling that YOUR the
+one being watched.  To the south is the king's private chambers.  
+~
+0 0 0
+D2
+~
+~
+0 0 1821
+S
+#1823
+{wQueen's private chambers~
+The room is almost an exact replica of the king's chambers, only the canopy bed here is a grand red velvet, and the cabinet is a magnifisent piece of art.
+To the north is the spiral staircase, and to the south is the queen's balcony.
+~
+0 0 0
+D0
+~
+~
+0 0 1820
+D2
+~
+~
+0 0 1824
+S
+#1824
+{wQueen's balcony~
+You stand on a large balcony, it is the same as the king's only below you you can see the training grounds of the long forgotten warriors of the Kithsoom.
+To the north is the queen's private chambers.
+~
+0 0 0
+D0
+~
+~
+0 0 1823
+S
+#1825
+{wA long staircase into the ground~
+You are at the begining of what appears to be a long staircase downwards.
+From what you can see here the staircase seems to continue hundreds of feet
+into the ground.  Up is the end of a long hallway, and down the stair way
+continues.  
+~
+0 0 0
+D4
+~
+~
+0 0 1815
+D5
+~
+~
+0 0 1826
+S
+#1826
+{WFarther down into the earth{x~
+As you continue down into the earth it begins to cool down, but there is
+also a strange feeling that seems to go straight into your spine.  The
+stairwell continues down and up.  
+~
+0 0 0
+D4
+~
+~
+0 0 1825
+D5
+~
+~
+0 0 1827
+S
+#1827
+{WFurther down into the earth{x~
+As you continue down into the earth it begins to cool down, but there is
+also a strange feeling that seems to go straight into your spine.  The
+stairwell continues down and up.  
+~
+0 0 0
+D4
+~
+~
+0 0 1826
+D5
+~
+~
+0 0 1828
+S
+#1828
+{WFurther down into the earth{x~
+The feeling seems to feel your body again, but this time it seems to
+pierce you to your very soul.  There is also a strange dampness about.  The
+stairwell continues up and down.  
+~
+0 0 0
+D4
+~
+~
+0 0 1827
+D5
+~
+~
+0 0 1829
+S
+#1829
+{WNear the end of the stairwell{x~
+You suddenly realize what the strange dampness was, it was
+{Rb{rl{Ro{ro{Rd{x draining down the walls.  And again a strange feeling
+seems to pierce your soul.  
+~
+0 0 0
+D4
+~
+~
+0 0 1828
+D5
+~
+~
+0 0 1830
+S
+#1830
+{WEnd of the Stairwell{x~
+You have finally reached the end of the stairwell, and you let out a
+sudden sound of relief, but as soon as you do the feeling pierces your soul
+again.  You can't believe that even into the depths of the earth that the
+feeling has followed you.  You see exits in all directions all leading into
+strange dark tunnels.  Could they be traps or could the be passage ways out?
+~
+0 0 0
+D0
+~
+~
+0 0 1832
+D1
+~
+~
+0 0 1833
+D2
+~
+~
+0 0 1834
+D3
+~
+~
+0 0 1831
+D4
+~
+~
+0 0 1829
+S
+#1831
+{DA wrong turn{x~
+Well it looks like you have made a wrong turn there is only 1 escape, and
+you know what that is.  
+~
+0 8196 0
+S
+#1832
+{DA wrong turn{x~
+Well it looks like you have made a wrong turn there is only 1 escape, and
+you know what that is.  
+~
+0 8196 0
+S
+#1833
+{DStairwell to the courtyard{x~
+You seem to have found the stairwell to the courtyard, at least you
+didn't make a wrong turn.  
+~
+0 0 0
+D3
+~
+~
+0 0 1830
+S
+#1834
+{DDead {rMan's {DPath{x~
+You stand at the begining of a dark hallway.  A strange stench seems to
+be coming from the end of it.  As you walk you begin to think....  What on
+earth could this hallway lead to....  
+~
+0 0 0
+D0
+~
+~
+0 0 1830
+D2
+~
+~
+0 0 1835
+S
+#1835
+{DAlong Dead {rMan's {DPath{x~
+As you walk further into {Ddead {rman's {Dpath{x a strange feeling of
+despair seems to fall over you.  As you peer around you, your eyes begin to
+adjust to the extreme darkness, and suddenly you realize, this hallway is
+made out of {Wbone{x.  The stench coming from the end of the hallway seems
+even stronger now, and again you wonder, where on earth could such a hallway
+lead.  
+~
+0 0 0
+D0
+~
+~
+0 0 1834
+D2
+~
+~
+0 0 1836
+S
+#1836
+{DFurther along Dead {rMan's {DPath{x~
+The stench now is almost unbearable, and as you get a better whiff of it,
+you realize exactally what it is.  It is the smell of rotting {yflesh{x. 
+You beging to wonder what your getting yourself into, and again the same
+strange feeling you got from being on the stairs fills your body again.  
+~
+0 0 0
+D0
+~
+~
+0 0 1835
+D2
+~
+~
+0 0 1837
+S
+#1837
+{DEnd of Dead {rMan's{D Path{x~
+You stand at the end of dead man's path, to the south is the dungeon of
+the damned.  To the north of you is the path of a dead man.  A strange scent
+seems to flow from the south, its the smell of rotting flesh.  
+~
+0 0 0
+D0
+~
+~
+0 0 1836
+D2
+~
+~
+0 0 1838
+S
+#1838
+{DBeggining of the {rDungeon{D of the {rDamned{x~
+You stand at the begginging of the dungeon of the damned, the smell of
+rotting flesh is very strong here.  To the north of you is dead man's path,
+and to the south of you is a checkpoint in the dungeon of the damned.  
+~
+0 0 0
+D0
+~
+~
+0 0 1837
+D2
+~
+~
+0 0 1839
+S
+#1839
+{DCheckpoint in the {rDungeon{D of the {rDamned{x~
+You stand at the checkpoint in the dungeon of the damned, a small wooden
+table and chair are in the room, and in the chair is the skeleton of a
+dungeon guard.  To the north of you is the begging ing of the dungeon of the
+damned and to the south of you is the cell blocks.  
+~
+0 0 0
+D0
+~
+~
+0 0 1838
+D2
+~
+~
+0 0 1840
+S
+#1840
+{DBegging of the {rDungeon{D cell block{x~
+You stand at the begging of the dungeon cell block.  To the east and west
+are cells and to the south contiunes the cell block.  
+~
+0 0 0
+D0
+~
+~
+0 0 1839
+S
+#1880
+{WEntrance{w to the {BC{ca{Bs{ct{Bl{ce{w of the {DD{wa{Dm{wn{De{wd{x~
+You stand at the entrance to a very large castle, a hallway seems to lead
+in one direction and only 1 direction.  A strange feeling comes over you,
+its as if a spirit has just entered the room, or maybe it has entered you. 
+As you sniff the air, you catch the odor of a very strange scent.  
+~
+0 0 0
+D1
+~
+~
+0 0 1801
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

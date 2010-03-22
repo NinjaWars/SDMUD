@@ -1,0 +1,479 @@
+#AREADATA
+Name Crystal City~
+Builders Kyrith~
+VNUMs 41000 41100
+Credits [  U-C  ] Kyrith Crystal City~
+Security 9
+RepopMsg (null)~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#41000
+The Entrance to Crystal City~
+Walking along the crystal path, a wall of crystal catches your eye.  The
+wall is covered from base to top with precious gems, including diamonds,
+rubies, emeralds, and sapphires, as well as gems unidentifiable to you. 
+You realize that this wall must be one of the walls of the famous Crystal
+city.  Set into the middle of the wall is a large gate, completely covered
+in diamonds.  The gate is closed, but not locked.  The path leads north
+into the city, or east, back to the main road. 
+ 
+~
+0 0 0
+D0
+~
+~
+0 0 41001
+S
+#41001
+the Main Street of Crystal City~
+Entering the city, the first thing you notice is the road upon which you
+walk.  It is paved with crystal, gold, and precious gems.  The road leads
+north from here.  To the south is the city gate. 
+~
+0 0 0
+D0
+~
+~
+0 0 41012
+D2
+~
+~
+0 0 41000
+S
+#41002
+The Main Street of Crystal City~
+As you walk along the main street, an intersection of two roads can be
+seen up ahead.  A cluster of people can be seen mingling and talking to
+one another, and gathering around a large structure made of gold.  From
+this distance, it is not possible to clearly see exactly what the
+structure is, but you have the urge to take a closer look.  You can travel
+north along the main street towards the intersection, or south back the
+way you came. 
+~
+0 0 0
+D0
+~
+~
+0 0 41003
+D2
+~
+~
+0 0 41012
+S
+#41003
+The Crystal City Square~
+As you walk further down the crystal road, you come upon the crystal
+square.  Two crystal roads intersect each other here, the road on which
+you were walking, and a smaller street that leads east and west of here.
+Throughout the square, you see the citizens of this fine city, talking and
+mingling about.  the most predominant feature of the square is a large
+fountain made entirely of gold.  Crystal clear water spouts from the
+fountain, spraying into the air with a cool mist, and landing back down
+into the fountain again.  Roads lead in all directions from here.  North, the
+road continues, the city gates are visible to the south, and  east and 
+west a smaller road leads to the residential section of the city.
+~
+0 0 0
+D0
+~
+~
+0 0 41004
+D2
+~
+~
+0 0 41002
+S
+#41004
+The Main Street of Crystal City~
+Walking along the road, two buildings can be seen up ahead, on either
+sides of the street.  The eastern building is made entirely of emeralds,
+while the western building is made entirely of sapphires.  A sign over the
+door of the eastern building reads: Emerald Magic shop.  The sign over the
+door of the western building reads: Sapphire Weapon Shop.  The road
+continues to the north, where more buildings lie ahead.  
+~
+0 0 0
+D0
+~
+~
+0 0 41005
+D1
+~
+~
+0 0 41009
+D2
+~
+~
+0 0 41003
+D3
+~
+~
+0 0 41008
+S
+#41005
+The Main Street of Crystal City~
+Walking further down the crystal road, two more buildings can be seen
+ahead.  The western building is made entirely of rubies, and the eastern
+building is made entirely of diamonds.  The sign over the western door
+reads: Ruby Armor Shop.  The sign over the door to the eastern building
+reads: Diamond Inn and pub.  The road continues north, where the north gates
+of the city are barely visible.  The road also goes back south, from where
+you came.  
+~
+0 0 0
+D0
+~
+~
+0 0 41006
+D1
+~
+~
+0 0 41011
+D2
+~
+~
+0 0 41004
+D3
+~
+~
+0 0 41010
+S
+#41006
+The Main Street of Crystal City~
+Travelling along the main street, two more buildings can be seen to the east
+and west of here.  The eastern building is made entirely of amethyst.  There
+is a sign over the door that reads: Amethyst Bakery.  The western building
+is made entirely of topaz.  The sign over the door reads: Topaz General
+Store.  The city gates are visible to the north.  You can head along north
+towards the city gates, or back south, toward the heart of the city.  
+~
+0 0 0
+D0
+~
+~
+0 0 41007
+D2
+~
+~
+0 0 41005
+S
+#41007
+The Northern Gates of Crystal City~
+Travelling closer to the gate, the most predominant feature here is that the
+gate is completely covered in crystal, gold, and many different gems.  It
+looks quite similar to the southern gate of the city.  The gates are
+closed, but not locked.  The only exit is
+ south, back into the heart of the city.
+~
+0 0 0
+D2
+~
+~
+0 0 41006
+S
+#41008
+Sapphire Weapon Shop~
+Entering the weapon shop, the first thing that immediately catches your
+attention is the large sword hanging over the door.  The sword is covered
+from blade to hilt with sapphires.  The walls are covered from floor to
+ceiling with racks, upon which hang a variety of weapons, from large,
+impressive swords that only a master warrior could handle, to small daggers,
+for the beginner in combat.  A large counter, entirely made from sapphires,
+dominates the back half of the room.  
+~
+0 0 0
+D1
+~
+~
+0 0 41004
+S
+#41009
+The Emerald Magic Shop~
+Entering' the magic shop, the most predominant feature is a large, golden
+cauldron with a large quantity of liquid bubbling and boiling in it.  Along
+all four walls of the shop are shelves made from gold and crystal.  On the
+shelves are rows and rows of flasks and beakers, with strange, inocuous
+potions in them.  A large counter made entirely from emeralds sits in the
+back of the room.  
+~
+0 0 0
+D3
+~
+~
+0 0 41004
+S
+#41010
+Ruby Armor Shop~
+Upon entering the armor shop, you catch your breath at all the beautiful
+armors decoratively displayed on shelves, hanging from racks, and one
+especially impressive set of armor hanging from a hook in the ceiling. 
+Along the back wall is a counter made entirely of rubies.  Through a door
+next to the counter you can hear the unmistakable sounds of someone making
+new armor to be sold.  The only exit is back the way you came.  
+~
+0 0 0
+D1
+~
+~
+0 0 41005
+S
+#41011
+Diamond Inn and Pub~
+Stepping inside the pub, a sense of peace and security overwhelms you. 
+This is a place where the citizens of Crystal City come to relax and have a
+pint or two.  A cheery fireplace warms the room.  Several people are
+gathered around the fire listening to an aged bard tell tales of his
+adventures throughout the realm.  In one corner are three tables for people
+to sit at and have a nice private conversation away from the hustle and
+bustle of the pub.  Across from the set of tables is an ornately decorated
+bar, made almost entirely of diamonds.  To the north of here is a set of
+stairs that goes up to the second floor of the inn.  
+~
+0 0 0
+D0
+~
+~
+0 0 41013
+D3
+~
+~
+0 0 41005
+S
+#41012
+The Main Street of Crystal City~
+Walking along the main street, you still look down occasionally in wonder
+to see the street completely paved with gold, crystal, and various types of
+gems.  Most prevalent in this section of the street are amethyst, diamonds,
+and sapphires.  The street continues north, or you can go back south towards
+the southern city gate.  
+~
+0 0 0
+D0
+~
+~
+0 0 41002
+D2
+~
+~
+0 0 41001
+S
+#41013
+The Diamond Stairway~
+Walking away from the hustle and bustle of the pub, you enter into a
+small alcove.  The most predominant feature in this room is the large,
+crystal stairway that winds its way up to the second floor of the inn.  To
+the right of the stairway sits a small desk, made entirely of diamonds. 
+Behind the desk sits a wizened old man, selling keys to the rooms above.  
+~
+0 0 0
+D2
+~
+~
+0 0 41011
+D4
+~
+~
+0 0 41014
+S
+#41014
+A Hallway in the Diamond Inn~
+Ascending' the crystal stairway, the sense of peace that was felt
+downstairs is doubly overwhelming on this floor.  A long hallway stretches
+to the north, with doors on either side of the hallway.  The doors are made
+of diamonds, and the walls are made from crystal and inlaid with diamonds. 
+The carpet is a rich burgundy color, and walking along it, you realize how
+plush it feels underfoot.  The hallway stretches for quite a distance, and
+doors are evenly spaced throughout the hall.  Exits lead back downstairs or
+north further along the hallway.  
+~
+0 0 0
+D0
+~
+~
+0 0 41015
+D1
+~
+~
+0 0 41019
+D3
+~
+~
+0 0 41018
+D5
+~
+~
+0 0 41013
+S
+#41015
+A Hallway in the Diamond Inn~
+Walking along the hallway, the doors on either side look more and more
+ornate with each step you take.  The hallway continues to the north, there
+are doors to the east and west of here, and it is possible to go back south
+towards the top of the stairway.  
+~
+0 0 0
+D0
+~
+~
+0 0 41016
+D1
+~
+~
+0 0 41021
+D2
+~
+~
+0 0 41014
+D3
+~
+~
+0 0 41020
+S
+#41016
+The End of the Hallway~
+Reaching the end of the hallway, the most predominant feature here is the
+door immediately in front of you.  It is made entirely of diamonds, but it
+is also inlaid with several other types of gems.  Emeralds, rubies,
+sapphires, and other types of gems can be seen glittering in the light. 
+There are two doors on either side of the hallway, but they pale in
+comparison to the door immediately to the north.  Beholding this marvelous
+sight, you realize that someone very important or very powerful must reside
+here.  
+~
+0 0 0
+D0
+~
+~
+0 0 41017
+D1
+~
+~
+0 0 41023
+D2
+~
+~
+0 0 41015
+D3
+~
+~
+0 0 41022
+S
+#41017
+The Diamond Suite~
+Entering the diamond suite, you gaze in awe at the marvelous sight; and
+what a marvelous sight to behold.  The carpet is rich, plush, and luxuriant.
+The walls are completely made from diamonds.  In one corner of the room is a
+large bed, luxuriously' made up in crimson satin pillows, a crimson quilt,
+and crimson satin sheets.  On either side of the bed are two large oak night
+tables.  On either of the tables are a set of candles, all of which are lit,
+providing a very romantic atmosphere.  Across from the bed is a closet, its
+doors ornately adorned with gems of all types.  Inside the closet are
+several richly made gowns, suits, and finely decorated formal wear.  The
+only exit is back out to the hall.  
+~
+0 0 0
+D2
+~
+~
+0 0 41016
+S
+#41018
+A Guest Room in the Diamond Inn~
+Upon entering the room, your feet sink into plush, navy blue carpeting. 
+Finely made tapestries, paintings, and wall hangings of all types adorn the
+walls.  The tapestries and wall hangings are inlaid with gold and diamonds,
+as well as a few other types of gems, including amethyst and emerald.  In
+the center of the room stands a medium-sized bed, made up in a navy blue
+quilt, with navy blue pillows at the head of the bed.  Under the quilt you
+can just barely see white satin sheets.  On the right side of the bed sits a
+night table with a small oil lamp atop the table.  Across from the bbed is a
+small closet, in which guests may put their belongings if they wish.  The
+only exit is back the way you came.  
+~
+0 0 0
+D1
+~
+~
+0 0 41014
+S
+#41019
+~
+~
+0 0 0
+D3
+~
+~
+0 0 41014
+S
+#41020
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41015
+S
+#41021
+~
+~
+0 0 0
+D3
+~
+~
+0 0 41015
+S
+#41022
+~
+~
+0 0 0
+D1
+~
+~
+0 0 41016
+S
+#41023
+~
+~
+0 0 0
+D3
+~
+~
+0 0 41016
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

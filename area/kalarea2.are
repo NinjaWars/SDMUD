@@ -1,0 +1,760 @@
+#AREADATA
+Name The Avatar Region~
+Builders Kalicu~
+VNUMs 40600 40699
+Credits [  U-C  ] Kalicu The Avatar Dungeons~
+Security 1
+RepopMsg The smell of orc's surrounds you.~
+End
+
+
+
+#MOBILES
+#40600
+giant goblin~
+A Giant {gg{Go{gb{Gl{gi{Gn{X~
+A giant goblin reacking of poison.
+~
+A giant goblin stands here wielding a double sided dagger.  It stares
+into the darkness surrownded by a purple cloud.  
+~
+Goblin~
+ABF 0 Ja G -100 0
+100 100 704d34+3031 100d11+95 34d2+82 wrath
+-62 -62 -62 -42
+CI B P NSXY
+stand stand male 100
+AMV ABCDEFGHIJK medium unknown
+F for H
+#40601
+shopkeeper~
+A {gGoblin {Xshopkeeper~
+A {ggreen{X shopkeeper lingers in the {Dcorner{X.
+~
+A greenish coloured shopkeeper is muttering to himself and lingering in a
+large corner.  You see the glint of a short blade and then realize that he
+is poisoning it.  
+~
+Goblin~
+ABHN 0 J 0 1 0
+100 400 401d34+12121 100d15+600 26d5+126 pierce
+-112 -112 -112 -92
+CI A P NSXY
+stand stand male 5000
+AHKMV ABCDEFGHIJK medium flesh
+#40699
+divine guardian~
+A {YD{yi{Yv{yi{Yn{ye {CG{cu{Ca{cr{Cd{ci{Ca{cn{X~
+A {YD{yi{Yv{yi{Yn{ye{X {CG{cu{Ca{cr{Cd{ci{Ca{cn{X Stands here {CG{cu{Ca{cr{Cd{ci{Cn{cg{X The {YR{ye{Ya{yl{Ym{X from {RE{rv{Ri{rl{X
+~
+An extremly strong guard stands here protecting Kalicus Realm 
+~
+Human~
+AB 0 a 0 1000 0
+201 400 401d34+12121 100d15+600 26d5+126 divine
+-112 -112 -112 -92
+C CDHIJ 0 0
+stand stand none 1
+AHMV ABCDEFGHIJK huge unknown
+#0
+
+
+
+#OBJECTS
+#40600
+portal dungeon~
+a {eD{Du{en{Dg{ee{Do{en{X {YP{yo{Yr{yt{Ya{yl{X~
+A {ed{Du{en{Dg{ee{Do{en {Yp{yo{Yr{yt{Ya{yl{X rest here.~
+mystic~
+portal BHM P
+2147483647 0 0 40607 0
+1 10000 3 P
+#40601
+key~
+a {Dheavy{X key~
+A {Dheavy{X Key~
+metal~
+key M P
+0 0 0 0 0
+1 20000 1000 P
+#40602
+sign~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#40603
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#40604
+dagger~
+a {WBone {Xdagger~
+A dagger made of human {Wbone{X.~
+mat bone~
+weapon J AN
+dagger 11 16 pierce FH
+100 101 6980 P
+A
+4 -1
+A
+1 2
+A
+18 9
+A
+19 9
+E
+sign~
+Please do not feed the orcs, Goblins or ogres..  Thank you Avatar
+Fortress.  
+~
+E
+sign~
+~
+#40606
+crimson bone helm~
+a {rCrimson {WB{eo{Wn{ee {Dhelm{X~
+A Crimson helm made of bone decays here.~
+crimson~
+armor J AE
+96 96 96 95 0
+110 111 106 P
+A
+5 1
+A
+1 2
+A
+17 -12
+#40607
+crimson tattoo~
+a {RC{rr{Ri{rm{Rs{ro{Rn {WTattoo{X~
+A {Wtattoo made of {yflesh{X.~
+crimson~
+armor B AQT
+98 98 98 97 0
+112 113 116 R
+A
+1 1
+A
+4 2
+A
+20 3
+#40608
+key~
+a {yrusted {ekey{X~
+A {yrusted {ekey{X~
+rust~
+key B A
+0 0 0 0 0
+1 12 1 P
+#40613
+misty portal~
+a {DM{ei{Ds{et{Dy {Xportal~
+A {eM{Di{es{Dt{ey{X portal floats here.~
+mist~
+portal M P
+0 0 0 40613 0
+2 10000 12 P
+#40667
+portal to mangans lair~
+{rA {Dp{Go{Dr{Gt{Da{Gl{X to {DM{Ga{Dn{Gg{Da{Gn{Ds {DL{Ra{Di{rr{X~
+{rA {Dp{Go{Dr{Gt{Da{Gl{X to {DM{Ga{Dn{Gg{Da{Gn{Ds {DL{Ra{Di{rr{X~
+unknown~
+portal AB P
+1002000200 0 0 41055 0
+202 -31072 1 P
+#40687
+kalicus revenge~
+{YK{ya{Dl{yi{Yc{Du{ys {YR{De{yv{Ye{Dn{yg{Ye{X~
+{YK{ya{Dl{yi{Yc{Du{ys {YR{De{yv{Ye{Dn{yg{Ye{X~
+unknown~
+trash B A
+0 0 0 0 0
+1 20 100 P
+#40688
+kalicus apocolyps~
+{yK{Ya{Dl{yi{Yc{Du{y'{Ys {DA{yp{Yo{yc{Do{yl{Yy{Dp{ys{X~
+{yK{Ya{Dl{yi{Yc{Du{y'{Ys {DA{yp{Yo{yc{Do{yl{Yy{Dp{ys{X~
+unknown~
+weapon A A
+sword 0 0 slash A
+1 20 500 P
+#40698
+bed realm~
+{DK{Ya{yl{Di{Yc{yu{D'{ys {YR{De{Ya{yl{Dm{X~
+A piece of {DK{Ya{yl{Di{Yc{yu{D'{Ys {yR{De{Ya{yl{Dm{X~
+unknown~
+furniture ABCGM P
+4 2998 H 114030 114030
+1 29948 13200 P
+#40699
+portal from kalicu realm~
+{DK{Ya{yl{Di{Yc{yu{D'{ys {DR{Ye{ya{Dl{ym{X~
+A portal leading from {DK{Ya{yl{Yi{yc{Yu{D'{ys {DR{ye{Ya{yl{Dm{X~
+mystic~
+portal ABCGM A
+10000000 0 0 40299 0
+1 12 1 P
+#0
+
+
+
+#ROOMS
+#40600
+The Avatar Dungeons {e({RAvatar{e){X~
+{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{X
+{y*{Y*{y* {RW{ra{Rr{rn{Ri{rn{Rg{r! {GH{gi{Gg{gh {Gl{ge{Gv{ge{Gl{ge{Gd {ga{Gr{ge{Ga {ge{Gn{gt{Ge{gr {Ga{gt {Gy{go{Gu {go{Gw{gn {Gp{ge{Gr{gi{Gl{Y*{y*{Y*{X 
+{y*{Y*{y*{Y*{y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{Y*{y*{y*{Y*{y*{X
+Please don't feed the orcs we hate to clean up after you. 
+~
+0 0 0
+D0
+~
+~
+0 0 40601
+S
+#40601
+The Avatar Dungeons {e({RAvatar{e){X~
+~
+0 0 0
+D0
+~
+~
+0 0 40602
+D2
+~
+~
+0 0 40600
+S
+#40602
+Eastern Path {e({RAvatar{e){X~
+~
+0 0 0
+D1
+~
+~
+0 0 40603
+D2
+~
+~
+0 0 40601
+D3
+~
+~
+0 0 40608
+S
+#40603
+Guard Tower {e({RAvatar{e){X~
+~
+0 0 0
+D3
+~
+~
+0 0 40602
+D4
+~
+~
+0 0 40604
+S
+#40604
+Climbing {e({RAvatar{e){X~
+~
+0 0 0
+D4
+~
+~
+0 0 40605
+D5
+~
+~
+0 0 40603
+S
+#40605
+The Tower Top {e({RAvatar{e){X~
+~
+0 0 0
+D0
+~
+~
+0 0 40607
+D1
+~
+~
+1 0 40606
+D5
+~
+~
+0 0 40604
+S
+#40606
+The Main Room {e({RAvatar{e){X~
+~
+0 0 0
+D3
+~
+~
+0 40601 40607
+S
+#40607
+The lookout {e({RAvatar{e){X~
+~
+0 0 0
+D1
+~
+~
+1 0 40606
+D2
+~
+~
+0 0 40605
+S
+#40608
+To The Dungeon Keep {e({RAvatar{e){X~
+~
+0 0 0
+D1
+~
+~
+0 0 40602
+D5
+~
+~
+0 0 40609
+S
+#40609
+Entering The Dungeon {e({RAvatar{e){X~
+~
+0 0 0
+D0
+~
+~
+0 0 40611
+D1
+~
+~
+0 0 40610
+D4
+~
+~
+0 0 40608
+S
+#40610
+Guard Room {e({RAvatar{e){X~
+~
+0 0 0
+D3
+~
+~
+0 0 40609
+S
+#40611
+A Cell Filled Corridor {e({RAvatar{e){X~
+~
+0 0 0
+D0
+~
+~
+0 0 40612
+D1
+~
+~
+1 0 40613
+D2
+~
+~
+0 0 40609
+S
+#40612
+A Cell Filled Corrido~
+This is a dead end, you see a giant crack in the ground that seems to
+have been created by some riot.  You see the bloody foot prints of ogres and
+goblins on the ground, you feel it is now your duty to do what you can here 
+~
+0 0 0
+D2
+~
+~
+0 0 40611
+S
+#40613
+Across The Charm {e({RAvatar{e){X~
+~
+0 0 0
+D0
+~
+~
+0 0 40614
+D3
+~
+~
+1 0 40611
+S
+#40614
+A Long Tunnle {e({RAvatar{e){X~
+~
+0 0 0
+D0
+~
+~
+0 0 40615
+D2
+~
+~
+0 0 40613
+S
+#40615
+A Long Tunnle {e({RAvatar{e){X~
+~
+0 0 0
+D0
+~
+~
+0 0 40616
+D2
+~
+~
+0 0 40614
+S
+#40616
+Crossroads {e({RAvatar{e){X~
+~
+0 0 0
+D1
+~
+~
+0 0 40620
+D2
+~
+~
+0 0 40615
+D3
+~
+~
+0 0 40619
+S
+#40617
+Eastern Tunnle~
+~
+0 0 0
+D0
+~
+~
+0 0 40618
+D3
+~
+~
+0 0 40616
+S
+#40618
+Northern Tunnle~
+~
+0 0 0
+D2
+~
+~
+0 0 40617
+S
+#40619
+Western hallway {e({RAvatar{e){X~
+~
+0 0 0
+D1
+~
+~
+0 0 40616
+D3
+~
+~
+0 0 40627
+S
+#40620
+Eastern hallway {e({RAvatar{e){X~
+~
+0 0 0
+D1
+~
+~
+0 0 40621
+D3
+~
+~
+0 0 40616
+S
+#40621
+A small shop {e({RAvatar{e){X~
+A small goblin lingers in a corner to the side eye's glowing yellow.  It
+looks up at you and begins to slowly advance.  It doesnt look very strong
+and will probably flee.  But who knows..  If you spare it's life maybe it
+will help you.  
+~
+0 0 0
+D0
+~
+~
+0 0 40622
+D3
+~
+~
+0 0 40620
+S
+#40622
+A cell filled coridor {e({RAvatar{e){X~
+~
+0 0 0
+D0
+~
+~
+0 0 40624
+D1
+~
+~
+0 0 40623
+D2
+~
+~
+0 0 40621
+S
+#40623
+A Large Cell {e({RAvatar{e){X~
+~
+0 0 0
+D3
+~
+~
+0 0 40622
+S
+#40624
+A cell filled coridor {e({RAvatar{e){X~
+~
+0 0 0
+D2
+~
+~
+0 0 40622
+D3
+~
+~
+0 0 40625
+S
+#40625
+Eastern Corridor {e({RAvatar{e){X~
+~
+0 0 0
+D1
+~
+~
+0 0 40624
+D3
+~
+~
+0 0 40626
+S
+#40626
+Crossroad {e({RAvatar{e){X~
+~
+0 0 0
+D0
+~
+~
+0 0 40629
+D1
+~
+~
+0 0 40625
+D3
+~
+~
+0 0 40628
+S
+#40627
+Ogre Chamber {e({RAvatar{e){X~
+~
+0 0 0
+D0
+~
+~
+0 0 40628
+D1
+~
+~
+0 0 40619
+S
+#40628
+Northern Hall {e({RAvatar{e){X~
+~
+0 0 0
+D1
+~
+~
+0 0 40626
+D2
+~
+~
+0 0 40627
+S
+#40629
+Long Hallway {e({RAvatar{e){X~
+~
+0 0 0
+D1
+~
+~
+0 40608 40630
+D2
+~
+~
+0 0 40626
+D4
+~
+~
+0 0 40631
+S
+#40630
+Adminastation Office {e({RAvatar{e){X~
+~
+0 0 0
+D3
+~
+~
+0 0 40629
+S
+#40631
+Upto The City {e({RAvatar{e){X~
+~
+0 0 0
+D4
+~
+~
+0 0 40632
+D5
+~
+~
+0 0 40629
+S
+#40632
+Approaching the City {e{RAvatar{e){X~
+~
+0 0 0
+D4
+~
+~
+0 0 40633
+D5
+~
+~
+0 0 40631
+S
+#40633
+City Entrance {e({RAvatar{e){X~
+~
+0 0 0
+D0
+~
+~
+0 0 40634
+D5
+~
+~
+0 0 40632
+S
+#40634
+The Abandon city, Avatar~
+Upon entering this what used to be thriving city, now all that remains
+are pieces of broken glass and some glowing enbers of the recent raid upon
+it.  To the north you can see a few fir's that may still hold some survivers
+to the city, that are willing to help you on your quest.  
+~
+0 0 0
+D0
+~
+~
+0 0 40635
+D2
+~
+~
+0 0 40633
+O Kalicu~
+S
+#40635
+The Abandon city, Avatar~
+~
+0 0 0
+D2
+~
+~
+0 0 40634
+S
+#40699
+{DK{Ya{yl{Di{Yc{yu{D'{ys {DR{Ye{ya{Dl{ym{X~
+You look around after regaining consiousness and notice that you are
+floating in a formless void, a faint light seems to be flickering in the
+distance but grows brighter as you float over to it.  As you get nearer you
+notice that this is a being of overwhelming power.  It looks up and you and
+says this is my {DR{Ye{ya{Dl{ym{X and why are you here?  
+~
+0 8196 0
+S
+#0
+
+
+
+#SPECIALS
+M 40600 spec_breath_gas
+S
+
+
+
+#RESETS
+M 0 40600 1 40608 1
+G 0 40608 0
+O 0 40613 0 40612
+M 0 40600 1 40613 1
+E 0 40604 0 16
+G 0 40608 0
+M 0 40516 30 40614 1
+M 0 40516 30 40614 2
+M 0 40516 30 40614 3
+M 0 40516 30 40614 4
+M 0 40516 30 40614 5
+M 0 40516 30 40614 6
+M 0 40516 30 40614 7
+M 0 40516 30 40614 8
+M 0 40516 30 40614 9
+M 0 40516 30 40614 10
+M 0 40516 30 40615 11
+M 0 40516 30 40615 12
+M 0 40516 30 40615 13
+M 0 40516 30 40615 14
+M 0 40516 30 40615 15
+M 0 40516 30 40615 16
+M 0 40516 30 40615 17
+M 0 40516 30 40615 18
+M 0 40516 30 40615 19
+M 0 40516 30 40615 20
+M 0 40601 1 40621 1
+G 0 40606 0
+G 0 40607 0
+O 0 40699 0 40699
+O 0 40698 0 40699
+M 0 40699 1 40699 1
+O 0 40667 0 40699
+S
+
+
+
+#SHOPS
+40601 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

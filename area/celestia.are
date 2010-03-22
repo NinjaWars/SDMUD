@@ -1,0 +1,2274 @@
+#AREADATA
+Name The Celestial Temple~
+Builders Roland~
+VNUMs 40300 40399
+Credits {R[201-ANC] The Celestial Temple{x~
+Security 1
+RepopMsg A tinge of magic electrifies the air~
+End
+
+
+
+#MOBILES
+#40300
+spirit guardian~
+{WThe {cS{wp{Wir{wi{ct {WGu{cardi{Wan{x~
+A long dead guardian for the temple stands here, watching the gate
+~
+Standing at least ten feet tall, clad in gleaming steel armor.  The
+Guardian is a site to behold.  He looks very very strong.  
+~
+modron~
+AB 0 DFJVZ CDEHI 0 0
+250 200 1404d67+10101 200d11+95 67d2+148 slash
+-134 -134 -134 -93
+CJQR BHKMNPQ DEHIK 0
+stand stand male 100000
+H ABCGHJK medium unknown
+M GIVE 40301 421~
+M GREET 40300 30~
+#40301
+goblin marauder~
+a {RG{ro{Rb{rl{Ri{rn {DMarauder{x~
+A powerful looking goblin snarls at you, it is enraged
+~
+~
+Goblin~
+ABF 0 DFJVZ DEH -300 0
+203 804 600d50+19000 201d15+600 51d5+227 bite
+-235 -235 -235 -194
+CEJQR BMNPQ CDHKP CINSXY
+stand stand either 234567
+AHMV ABCDEFGHIJK small unknown
+M GRALL 40302 40~
+#40302
+goblin commander~
+a {RG{ro{Rb{rl{Ri{rn {DCommander{x~
+A gruesome looking goblin commander snarls at you
+~
+~
+Goblin~
+ABF 0 DFJVZ DEH -500 0
+201 804 1d1+46251 201d15+600 51d5+227 bite
+-235 -235 -235 -194
+CEFGJKN 0 CDP CNSXY
+stand stand male 234567
+AHMV ABCDEFGHIJK medium unknown
+#40303
+the academy master~
+The {WAcademy Master{x~
+The {WAcademy Master{x floats here
+~
+The translucent visage of this powerful academy master appears quite the
+powerful foe.  
+~
+Human~
+AB 0 DFVZ H 0 0
+200 800 1d1+43267 200d15+600 40d4+190 none
+-234 -234 -234 -193
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 40303 100~
+M SPEECH 40304 path of the sun~
+M SPEECH 40305 path of the moon~
+#40304
+razot~
+{bR{Da{bz{Do{bt{x~
+Razot, the frost beast stands here
+~
+An indescribable beast of awesome power 
+~
+unique~
+AB 0 JTV CH -1000 0
+210 700 1d1+76040 1d1+32432 100d9+750 frbite
+-100 -100 -100 -50
+C I DH FHI
+stand stand male 500000
+AHZ ACDEFGHIJKPQUVX medium unknown
+#40305
+lazertus acid fiend~
+{gL{Da{gz{De{gr{Dt{gu{Dz{x~
+Lazertus the acid fiend stands here grinning
+~
+An indescribable beast of awesome power 
+~
+unique~
+AB 0 JTV H -1000 0
+210 700 1d1+76434 1d1+23466 100d9+750 acbite
+-100 -100 -100 -70
+CDK K BEGH FIX
+stand stand male 45000
+AHZ ACDEFGHIJKPQUVX medium unknown
+#40306
+cocytus~
+{cC{Do{cc{Dy{ct{Du{cs{x~
+Cocytus the lightning fiend stands here grinning
+~
+An indescribable beast of awesome power 
+~
+unique~
+AB 0 JT EH -1000 0
+210 700 1d1+76335 1d1+23456 100d9+763 shbite
+-100 -100 -100 -100
+CK J BE CFHI
+stand stand male 55000
+AHZ ACDEFGHIJKPQUVX medium unknown
+#40307
+dragos~
+{rD{Dr{ra{Dg{ro{Ds{x~
+Dragos the fire fiend stands here cackling
+~
+An indescribable beast of awesome power 
+~
+unique~
+AB 0 JTV DH -1000 0
+210 700 1d1+74556 1d1+21343 100d9+756 none
+-100 -100 -100 -100
+CK H BEH FI
+stand stand male 45000
+AHZ ACDEFGHIJKPQUVX medium unknown
+#40308
+drakoth~
+{DDrakoth{x~
+Drakoth stands here, he appears a beaten and bloody man
+~
+A wretched creature made only to suffer at Chaos' hands 
+~
+Human~
+AB 0 V H -1000 0
+201 700 1d1+64589 0d0+0 90d9+500 wrath
+-100 -100 -100 -100
+CK A 0 C
+stand stand male 50000
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 40308 100~
+#40309
+chaos~
+{WC {D*{W H {D*{W A {D*{W O {D*{W S{x~
+A menacing, unbelievable force throbs here, CHAOS...
+~
+~
+Human~
+ABMN 0 V CDEH 0 0
+201 700 1d1+89346 1d1+2343443 100d9+700 wrath
+-100 -100 -100 -150
+CK HIJ 0 CD
+stand stand none 70000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40310
+lost soul~
+{DLost Soul{x~
+A lost soul stands here weeping
+~
+~
+Goblin~
+AB 0 J H 0 0
+210 600 1d1+72345 200d15+600 100d9+670 none
+-234 -234 -234 -193
+0 H P NSXY
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#40311
+dungeon keeper~
+{DThe Dungeon Keeper{x~
+The dungeon keeper stands here, quite the intimidating sight
+~
+~
+Human~
+AB 0 V H 0 0
+210 300 805d68+30451 201d15+600 51d5+227 smash
+-235 -235 -235 -194
+CFK 0 H D
+stand stand male 45000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40312
+goblin raider~
+{RG{roblin {DR{raider{x~
+A goblin raider stands here looking mean
+~
+~
+Goblin~
+A 0 J 0 -500 0
+201 250 805d68+30451 201d15+600 51d5+227 bite
+-235 -235 -235 -194
+0 0 P NSXY
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#40313
+goblin raider~
+{RG{roblin {DR{raider{x~
+A goblin raider stands here drooling
+~
+~
+Goblin~
+A 0 JV 0 0 0
+210 700 1d1+65683 0d0+0 100d8+600 bite
+-100 -100 -100 -100
+CF 0 P NSXY
+stand stand none 65000
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#40300
+dusty sign~
+a dusty sign~
+A dusty, worn sign hangs on the wall here~
+unknown~
+furniture AB 0
+0 0 0 0 0
+200 1 0 P
+E
+dusty sign~
+{B*----------------------------*
+{B|                            |
+{B|                            |
+{B|    {WNew Arrivals{B            |
+{B|                            |
+{B|       {WPlease Go West{B       |
+{B|                            |
+{B|                            |
+{B|                            |
+{B*----------------------------*
+{x
+~
+#40301
+a mythril scimitar~
+a {DM{wy{Dt{wh{Dr{wi{Dl {GS{gc{Gi{gm{Gi{gt{Ga{gr{x~
+A long, metallic scimitar lies here~
+Mythril~
+weapon AIM AN
+sword 21 17 slash CDH
+201 202 13750 P
+A
+13 400
+A
+19 50
+A
+18 50
+#40302
+the altar~
+{wThe {DAltar{x~
+The {DAltar{x is here, gleaming in the available light~
+unknown~
+furniture ABO 0
+0 0 0 0 0
+0 10000 0 P
+#40303
+skeleton grinning macabre figure clenched skeletal fist~
+a clenched {Ws{wk{We{wl{We{wt{Wa{wl {bfist{x~
+A skeleton lies on the ground here, grinning for all eternity~
+unknown~
+container 0 0
+10000 0 0 1 0
+0 2000 0 P
+#40304
+the sun pendant~
+{wThe {YS{yu{Yn {WPendant{x~
+A glowing yellow pendant lies on the ground here~
+unknown~
+jewelry ABIUY AC
+0 0 0 0 0
+204 10 145000 P
+A
+3 5
+#40305
+spiked platinum bracer~
+a {DS{wp{Di{wk{De{wd {WPlatinum {RB{rr{Ra{rc{Re{rr{x~
+A metallic bracer lies on the ground here~
+platinum~
+armor AB AM
+173 173 173 172 0
+201 55 32000 P
+A
+24 -3
+A
+13 450
+A
+19 45
+A
+18 45
+#40306
+student mage corpse~
+the corpse of a student mage~
+A decaying corpse lies on the ground here~
+unknown~
+npc_corpse 0 0
+0 0 0 0 0
+0 400 0 P
+#40307
+staff of healing~
+{YS{yt{Ya{yf{Yf {WO{wf {WH{yea{Yl{yin{Wg{x~
+A staff of healing lies here~
+unknown~
+staff A AO
+201 15 15 'master healing' 0
+201 50 5000 P
+#40308
+rotting masters corpse~
+a {gr{ro{gtt{ri{gn{rg{x {Wmasters corpse{x~
+The long dead corpse of an academy master lies rotting here~
+unknown~
+npc_corpse 0 0
+0 0 0 0 0
+0 5000 0 P
+#40309
+the moon pendant~
+the {WM{wo{Wo{wn {yPe{Ynda{ynt{x~
+The pendant of the moon lies on the ground here~
+unknown~
+jewelry ABIUY AC
+0 0 0 0 0
+201 30 0 P
+A
+4 5
+#40310
+red feather earring~
+{RR{re{Rd {RF{De{Rath{De{rr {WE{warring{x~
+A long, red feather earring lies on the ground here~
+feathers metal~
+armor AI AV
+172 172 172 171 0
+201 70 5000 P
+A
+2 3
+A
+19 35
+A
+18 35
+A
+13 300
+#40311
+spiked steel ring~
+{wS{D*{wp{D*{wi{D*{wk{D*{we{D*{wd {DSteel{R R{ying{x~
+A spiked steel ring lies on the ground here~
+unknown~
+armor AI AB
+172 172 172 171 0
+201 45 50000 P
+A
+5 3
+A
+13 340
+A
+19 37
+A
+18 37
+#40312
+razots permafrost anklet~
+{bR{Da{bz{Do{bt{D'{bs {CP{ce{br{Bm{Waf{Br{bo{cs{Ct{W A{wnklet{x~
+A glowing, glacial anklet lies on the ground here~
+ice~
+armor AI AS
+172 172 172 171 0
+201 100 45000 P
+A
+18 40
+A
+19 40
+A
+13 400
+A
+1 2
+#40313
+p-item glowing green orb of acid~
+a {YG{yl{Yo{yw{Yi{yn{Yg {GG{gr{Ge{ge{Gn {DOrb {WO{wf {GA{yc{Gi{yd{x~
+A glowing green ball of acid floats gently here~
+unknown~
+armor AI AQ
+172 172 172 171 0
+201 0 56000 P
+A
+18 20
+A
+19 30
+A
+13 200
+F
+R 0 0 K
+#40314
+elemental mask of power~
+{YE{yl{Ye{Ym{ye{Yn{yt{Ya{yl {WM{wask Of {RP{ro{Rw{re{Rr{x~
+A strange, glowing mask lies on the ground here~
+unknown~
+armor AI AR
+172 172 172 171 0
+201 100 40000 P
+A
+12 650
+A
+19 45
+A
+18 45
+#40315
+nova's illumination bright light~
+{WN{Yo{Wv{Ya{W'{Ys {y-={WIllu{wmina{Wtion{y=-{x~
+An extremely bright light lies on the ground here~
+unknown~
+light ABI A
+0 0 999 0 0
+201 150 0 P
+A
+1 5
+A
+13 500
+A
+19 55
+A
+18 55
+#40316
+chaos magic~
+{rC{Rh{Da{Ro{rs {YM{ma{Yg{mi{Yc{x~
+A throbbing chaotic force lies here~
+unknown~
+weapon AB AN
+exotic 25 20 magic ABDGH
+201 202 13750 P
+A
+4 4
+A
+12 700
+A
+19 60
+A
+18 60
+#40317
+chaos aura p-item~
+{WC {D*{W H {D*{W A {D*{W O {D*{W S{x {wA{Du{wr{Da{x~
+A glittering black and white aura lies on the ground here~
+unknown~
+armor AI AU
+172 172 172 171 0
+201 0 0 P
+A
+18 70
+A
+19 70
+A
+13 670
+A
+1 5
+#40318
+pitch black dagger~
+{DPitch Black {rDa{Rg{Dg{Re{rr{x~
+A pitch black dagger lies on the ground here~
+unknown~
+weapon 0 AN
+exotic 22 19 pierce ADG
+201 202 13750 P
+A
+19 55
+A
+18 55
+A
+13 540
+A
+2 3
+#40319
+black key~
+{DBlack Key{x~
+A black key lies on the ground here~
+unknown~
+key A A
+0 0 0 0 0
+0 1 0 P
+#40320
+pitchblack breastplate~
+{DPitchBlack B{br{De{ba{Ds{bt{Dp{bl{Da{bt{De{x~
+A black breastplate lies on the ground here~
+unknown~
+armor A AD
+172 172 172 171 0
+201 160 50000 P
+A
+1 4
+A
+13 700
+A
+19 65
+A
+18 65
+#40321
+tattered cape~
+a {DT{wa{Dt{wt{De{wr{De{wd {RC{rape{x~
+A tattered cape lies on the ground here~
+unknown~
+armor AI AC
+172 172 172 171 0
+201 110 45000 P
+A
+18 65
+A
+19 65
+A
+13 550
+A
+5 2
+#40322
+astral shroud~
+{DA{rs{Dt{rr{Da{rl {DSh{Wro{wud{x~
+A black shroud lies on the ground here~
+unknown~
+armor AI AK
+172 172 172 171 0
+201 160 50000 P
+A
+13 500
+A
+18 65
+A
+19 65
+A
+4 5
+#40323
+worn black boots~
+{WW{wo{Wr{wn {DBlack {bB{Do{bo{Dt{bs{x~
+A pair of dusty, worn black boots lie here~
+unknown~
+armor AI AG
+172 172 172 171 0
+201 170 50000 P
+A
+13 550
+A
+18 65
+A
+19 65
+A
+2 2
+#0
+
+
+
+#ROOMS
+#40300
+{WEntrance To The C{wel{cest{wia{Wl Temple{x~
+A gigantic awe inspiring temple stands here.  Large stone pillars, almost
+thirty feet high support the massive roof.  Gleaming marble steps, nearly
+three dozen lead up into the main temple.  The building goes on for what
+seems like ever, it must of took decades to complete.  This temple was a
+sacred place for study of the arcane arts.  It turned out thousands of
+students expertly skilled in spellcraft.  Over time it was infested with
+monsters seeking such powers, it is now a very dangerous place, yet still
+holds many wonders within.  North leads to the temple steps.  
+~
+0 4 0
+D0
+~
+~
+0 0 40301
+D2
+~
+~
+0 0 40383
+S
+#40301
+{WClimbing The Stairs{x~
+Large steps lead up to the temple gates.  The steps are made from giant
+slabs of marble.  They are gleaming brightly, by hand or by magic they have
+an incredible polish on them.  North leads to the temple gate.  
+~
+0 4 0
+D0
+~
+~
+0 0 40302
+D2
+~
+~
+0 0 40300
+S
+#40302
+{WTemple Gates{x~
+The giant pillars visible from the entrance are now on either side of the
+gleaming temple gate.  Arcane symbols have been painstakingly inscribed upon
+the pillars.  They are almost illegible due to the toll time, wind, and rain
+have taken on this hallowed ground.  The gates, however, still shine
+brightly.  They are closed tight, barring any further entrance into the
+temple.  North leads inside, south back down the steps.  
+~
+0 263180 0
+D0
+~
+gate~
+4 0 40303
+D2
+~
+~
+0 0 40301
+S
+#40303
+{WInside The Temple{x~
+The floor is made entirely of highly polished black marble.  Stark white
+pillars jut out of the floor and rise twenty-five feet into the air to meet
+with the ceiling.  The ceiling itself is constructed from criss crossing
+beams of solid rock.  The center contains a large glass dome with
+intricately detailed glass panels that give a kaliedoscoped view of the
+sprawling sky.  A radiant glow is eminating from places unknown.  The
+luminous glow wraps around the pillars and walls.  North leads to the center
+of the temple.  A small room is to the west.  There is no way out of here at
+the moment.  
+~
+0 8204 0
+D0
+~
+~
+0 0 40305
+D2
+~
+~
+4 0 40302
+D3
+~
+~
+0 0 40304
+S
+#40304
+{WReception Area{x~
+A stuffy reception room for new pupils to sign up and get started with
+their learning.  A rather large stone desk sits at the back of the room.  A
+few dusty scraps of paper are scattered about it.  The school kept
+impeccable, accurate, up-to-date records of every mage that passed through
+their doors.  Behind the desk can be seen another, smaller room.  East leads
+back into the main entryway.  
+~
+0 8204 0
+D1
+~
+~
+0 0 40303
+S
+#40305
+{WApproaching The Altar{x~
+A luxurious silver and blue carpet sprawls out to the north.  At the end
+of it, standing on a platform raised above the marble floor is a gleaming
+black altar.  There are hallways exiting to the east and west to other parts
+of the magic academy.  The altar is north.  
+~
+0 8204 0
+D0
+~
+~
+0 0 40306
+D1
+~
+~
+0 0 40333
+D2
+~
+~
+0 0 40303
+D3
+~
+~
+0 0 40307
+S
+#40306
+{WThe Altar{x~
+The altar is bigger than it appeared just a few moments ago.  It rests on
+a gold base that fits over the bottom snugly while keeping it from touching
+the floor.  The altar itself is a large slab of unidentifiable black stone. 
+Thousands of runic and arcane symbols are carved into its surface.  Some of
+the edges are worn, a corner looks to have been blasted off by lightning or
+some other magic.  The altar has been the focus of many bloody battles, it
+is believed to contain great power.  The air around it tinges with energy. 
+A raw unrelenting force buzzes across its surface.  South leads back to the
+main temple.  
+~
+0 8204 0
+D2
+~
+~
+0 0 40305
+S
+#40307
+{WMusty Corridor{x~
+A decorative silver and blue carpet runs the legnth of this well lit
+corridor.  Well lit because of the magic powered lamps that hang from the
+walls.  Spouting off trickling blue flames, they are made to last for quite
+a long time.  There are no decorative features here, it is merely a legnth
+of hall with classrooms on either side.  The main temple is back east, the
+academy begins further to the west.  
+~
+0 8204 0
+D1
+~
+~
+0 0 40305
+D3
+~
+~
+0 0 40308
+S
+#40308
+{WMusty Corridor{x~
+A decorative silver and blue carpet runs the legnth of this well lit
+corridor.  Well lit because of the magic powered lamps that hang from the
+walls.  Spouting off trickling blue flames, they are made to last for quite
+a long time.  There are no decorative features here, it is merely a legnth
+of hallway leading to classrooms of study.  Rooms lie to the north and
+south, behind rather stylish oak doors.  The hallway continues east and
+west, the main temple is a ways east.  
+~
+0 12 0
+D0
+~
+~
+3 0 40309
+D1
+~
+~
+0 0 40307
+D2
+~
+~
+3 0 40310
+D3
+~
+~
+0 0 40312
+S
+#40309
+{WAbandoned Classroom{x~
+Parchment and scrolls are scattered about this dusty room.  A few tables
+are still upright, their thick surfaces scratched and worn by hundreds of
+successful and failed attempts at spellcraft.  A large marble desk sits at
+the front of the class.  The room has been thoroughly ransacked by the
+monsters, looking for any clue to the temples power.  As evidence of this, a
+few blood stains burn brightly on the westernmost wall.  South leads back to
+the corridor.  
+~
+0 8205 0
+D2
+~
+~
+3 0 40308
+S
+#40310
+{WAbandoned Classroom{x~
+Parchment and scrolls are scattered about this dusty room.  A few tables
+are still upright, their thick surfaces scratched and worn by hundreds of
+successful and failed attempts at spellcraft.  A large marble desk sits at
+the front of the class.  The room has been thoroughly ransacked by monsters,
+looking for any clue to the temples power.  A large crystalline globe lies
+broken and shattered on the floor, light glints off a few of the shards and
+illuminates the floor.  Upon further inspection, a long crease runs a few
+feet across the wooden floorboards, a secret perhaps?  North leads back to
+the corridor.  
+~
+0 8204 0
+D0
+~
+~
+3 0 40308
+D5
+~
+trapdoor~
+3 0 40311
+S
+#40311
+{DHidden Room{x~
+Designed merely for storage purposes, this small, cramped musky room
+carved out of dirt beneath the temple was used for just that, storage.  All
+sorts of magical wares can be seen strewn about the available space.  A
+grinning skeleton lies propped up against the far wall.  A now decrepit
+silver and blue robe, once of the highest quality, wraps the macabre figure.
+A small pendant can be seen, clutched in its skeletal fist.  Apparently,
+this instructor crept in here when wounded by the attackers, he died a short
+while after and was never found.  A small rope ladder leads back up into the
+classroom.  
+~
+0 8201 0
+D4
+~
+~
+3 0 40310
+S
+#40312
+{WSpiral Staircase{x~
+An ancient spiral staircase leads down into the bottom floors of the
+temple.  The rusty iron metal of the rail is practically crumbling to dust. 
+Malicious odors waft up from the darkness, dried blood, smoke, and fear. 
+Odd scratches appear on the walls surrounding the staircase.  The temple
+must of been most visciously attacked indeed.  The staircase leads down into
+the lower levels.  The corridor and classrooms are back east, the main
+temple further east still.  
+~
+0 8200 0
+D1
+~
+~
+0 0 40308
+D5
+~
+~
+0 0 40313
+S
+#40313
+{WSpiral Staircase{x~
+A decrepit, rusted, iron staircase winds it way up to the ground level of
+the temple and academy.  A long black corridor is to the east, leading to
+the student dormitory's.  The darkness seems alive with sound and movement. 
+Though it has been many years Drakoth's minions still roam the temple,
+forever searching for the power that lies hidden within.  The staircase
+leads back up the ground floor, east leads to the dormitory's.  
+~
+0 8201 0
+D1
+~
+~
+0 0 40314
+D4
+~
+~
+0 0 40312
+S
+#40314
+{WDormitory Row{x~
+A long stone hallway runs underneath the temple, containing the sleeping
+quarters of all the students who attended this academy.  It runs all the way
+to the east and west.  There are doors to the north and south, containing
+bedrooms.  
+~
+0 8201 0
+D0
+~
+~
+3 0 40315
+D1
+~
+~
+0 0 40317
+D2
+~
+~
+3 0 40316
+D3
+~
+~
+0 0 40313
+S
+#40315
+{WRavaged Room{x~
+Two upturned beds lie on the floor slashed and cut open.  Various other
+pieces of furniture lie upturned or destroyed.  Blood stains are evident on
+the floor and walls.  A nasty stench fills the room.  South leads back to
+the hallway.  
+~
+0 8201 0
+D2
+~
+~
+3 0 40314
+S
+#40316
+{WRavaged Room{x~
+Two upturned beds lie on the floor slashed and cut open.  Various other
+pieces of furniture lie upturned or destroyed.  Blood stains are evident on
+the floor and walls.  A nasty stench fills the room.  North leads back to
+the hallway.  
+~
+0 8201 0
+D0
+~
+~
+3 0 40314
+S
+#40317
+{WDormitory Row{x~
+A long stone hallway runs underneath the temple, containing the sleeping
+quarters of all the students who attended this academy.  It runs all the way
+to the east and west.  There are doors to the north and south, containing
+bedrooms.  
+~
+0 8201 0
+D0
+~
+~
+3 0 40318
+D1
+~
+~
+0 0 40320
+D2
+~
+~
+3 0 40319
+D3
+~
+~
+0 0 40314
+S
+#40318
+{WRavaged Room{x~
+Two upturned beds lie on the floor slashed and cut open.  Various other
+pieces of furniture lie upturned or destroyed.  Blood stains are evident on
+the floor and walls.  A nasty stench fills the room.  South leads back to
+the hallway.  
+~
+0 8201 0
+D2
+~
+~
+3 0 40317
+S
+#40319
+{WRavaged Room{x~
+Two upturned beds lie on the floor slashed and cut open.  Various other
+pieces of furniture lie upturned or destroyed.  Blood stains are evident on
+the floor and walls.  A nasty stench fills the room.  North leads back to
+the hallway.  
+~
+0 8201 0
+D0
+~
+~
+3 0 40317
+S
+#40320
+{WDormitory Row{x~
+A long stone hallway runs underneath the temple, containing the sleeping
+quarters of all the students who attended this academy.  It runs all the way
+to the east and west.  There are doors to the north and south, containing
+bedrooms.  
+~
+0 8201 0
+D0
+~
+~
+3 0 40325
+D1
+~
+~
+0 0 40321
+D2
+~
+~
+3 0 40326
+D3
+~
+~
+0 0 40317
+S
+#40321
+{WDormitory Row{x~
+A long stone hallway runs underneath the temple, containing the sleeping
+quarters of all the students who attended this academy.  It runs all the way
+to the east and west.  There are doors to the north and south, containing
+bedrooms.  
+~
+0 8201 0
+D0
+~
+~
+3 0 40327
+D1
+~
+~
+0 0 40322
+D2
+~
+~
+3 0 40328
+D3
+~
+~
+0 0 40320
+S
+#40322
+{WDormitory Row{x~
+A long stone hallway runs underneath the temple, containing the sleeping
+quarters of all the students who attended this academy.  It runs all the way
+to the east and west.  There are doors to the north and south, containing
+bedrooms.  
+~
+0 8201 0
+D0
+~
+~
+3 0 40329
+D1
+~
+~
+0 0 40323
+D2
+~
+~
+3 0 40330
+D3
+~
+~
+0 0 40321
+S
+#40323
+{WDormitory Row{x~
+A long stone hallway runs underneath the temple, containing the sleeping
+quarters of all the students who attended this academy.  It runs all the way
+to the east and west.  There are doors to the north and south, containing
+bedrooms.  
+~
+0 8201 0
+D0
+~
+~
+3 0 40331
+D1
+~
+~
+0 0 40324
+D2
+~
+~
+3 0 40332
+D3
+~
+~
+0 0 40322
+S
+#40324
+{WSpiral Staircase{x~
+A decrepit, rusted, iron staircase winds it way up to the ground level of
+the temple and academy.  A long black corridor is to the west, leading to
+the student dormitory's.  The darkness seems alive with sound and movement. 
+Though it has been many years Drakoth's minions still roam the temple,
+forever searching for the power that lies hidden within.  The staircase
+leads back up the ground floor, west leads to the dormitory's.  
+~
+0 8201 0
+D3
+~
+~
+0 0 40323
+D4
+~
+~
+0 0 40339
+S
+#40325
+{WRavaged Room{x~
+Two upturned beds lie on the floor slashed and cut open.  Various other
+pieces of furniture lie upturned or destroyed.  Blood stains are evident on
+the floor and walls.  A nasty stench fills the room.  South leads back to
+the hallway.  
+~
+0 8201 0
+D2
+~
+~
+3 0 40320
+S
+#40326
+{WRavaged Room{x~
+Two upturned beds lie on the floor slashed and cut open.  Various other
+pieces of furniture lie upturned or destroyed.  Blood stains are evident on
+the floor and walls.  A nasty stench fills the room.  South leads back to
+the hallway.  
+~
+0 8201 0
+D0
+~
+~
+3 0 40320
+S
+#40327
+{WRavaged Room{x~
+Two upturned beds lie on the floor slashed and cut open.  Various other
+pieces of furniture lie upturned or destroyed.  Blood stains are evident on
+the floor and walls.  A nasty stench fills the room.  South leads back to
+the hallway.  
+~
+0 8201 0
+D2
+~
+~
+3 0 40321
+S
+#40328
+{WRavaged Room{x~
+Two upturned beds lie on the floor slashed and cut open.  Various other
+pieces of furniture lie upturned or destroyed.  Blood stains are evident on
+the floor and walls.  A nasty stench fills the room.  South leads back to
+the hallway.  
+~
+0 8201 0
+D0
+~
+~
+3 0 40321
+S
+#40329
+{WRavaged Room{x~
+Two upturned beds lie on the floor slashed and cut open.  Various other
+pieces of furniture lie upturned or destroyed.  Blood stains are evident on
+the floor and walls.  A nasty stench fills the room.  South leads back to
+the hallway.  
+~
+0 8201 0
+D2
+~
+~
+3 0 40322
+S
+#40330
+{WRavaged Room{x~
+Two upturned beds lie on the floor slashed and cut open.  Various other
+pieces of furniture lie upturned or destroyed.  Blood stains are evident on
+the floor and walls.  A nasty stench fills the room.  South leads back to
+the hallway.  
+~
+0 8201 0
+D0
+~
+~
+3 0 40322
+S
+#40331
+{WRavaged Room{x~
+Two upturned beds lie on the floor slashed and cut open.  Various other
+pieces of furniture lie upturned or destroyed.  Blood stains are evident on
+the floor and walls.  A nasty stench fills the room.  South leads back to
+the hallway.  
+~
+0 8201 0
+D2
+~
+~
+3 0 40323
+S
+#40332
+{WRavaged Room{x~
+Two upturned beds lie on the floor slashed and cut open.  Various other
+pieces of furniture lie upturned or destroyed.  Blood stains are evident on
+the floor and walls.  A nasty stench fills the room.  South leads back to
+the hallway.  
+~
+0 8193 0
+D0
+~
+~
+3 0 40323
+S
+#40333
+{WMusty Corridor{x~
+A long, musty corridor runs the entire legnth of the academy.  Nothing
+too exciting here, a few paintings and such.  The air is stale and dry.  A
+few faerie fire lanterns burn brightly on the walls.  To the north is a
+masters chambers, the hallway continues east and west.  
+~
+0 8201 0
+D0
+~
+~
+3 0 40334
+D1
+~
+~
+0 0 40335
+D3
+~
+~
+0 0 40305
+S
+#40334
+{WMasters Chambers{x~
+Decorated in bright silver and blue colors, this room serves as the
+private chambers for one of the many masters who taught and mentored the
+young mages who learned here.  A large wood desk is in the center of the
+room, covered from end to end in scrolls and exotic colored inks.  Many
+faerie fire torches are alight on the walls.  South leads back to the
+hallway.  
+~
+0 9225 0
+D2
+~
+~
+3 0 40333
+S
+#40335
+{WMusty Corridor{x~
+A long, musty corridor runs the entire legnth of the academy.  Nothing
+too exciting here, a few paintings and such.  The air is stale and dry.  A
+few faerie fire lanterns burn brightly on the walls.  To the south is a
+masters chambers, the hallway continues east and west.  
+~
+0 8201 0
+D1
+~
+~
+0 0 40337
+D2
+~
+~
+3 0 40336
+D3
+~
+~
+0 0 40333
+S
+#40336
+{WMasters Chambers{x~
+Decorated in bright silver and blue colors, this room serves as the
+private chambers for one of the many masters who taught and mentored the
+young mages who learned here.  A large wood desk is in the center of the
+room, covered from end to end in scrolls and exotic colored inks.  Many
+faerie fire torches are alight on the walls.  North leads back to the
+hallway.  
+~
+0 8201 0
+D0
+~
+~
+3 0 40335
+S
+#40337
+{WMusty Corridor{x~
+A long, musty corridor runs the entire legnth of the academy.  Nothing
+too exciting here, a few paintings and such.  The air is stale and dry.  A
+few faerie fire lanterns burn brightly on the walls.  To the north is a
+masters chambers, the hallway continues east and west.  
+~
+0 8201 0
+D0
+~
+~
+3 0 40338
+D1
+~
+~
+0 0 40339
+D3
+~
+~
+0 0 40335
+S
+#40338
+{WMasters Chambers{x~
+Decorated in bright silver and blue colors, this room serves as the
+private chambers for one of the many masters who taught and mentored the
+young mages who learned here.  A large wood desk is in the center of the
+room, covered from end to end in scrolls and exotic colored inks.  Many
+faerie fire torches are alight on the walls.  South leads back to the
+hallway.  
+~
+0 8201 0
+D2
+~
+~
+3 0 40337
+S
+#40339
+{WSpiral Staircase{x~
+An ancient spiral staircase leads down into the bottom floors of the
+temple.  The rusty iron metal of the rail is practically crumbling to dust. 
+Malicious odors waft up from the darkness, dried blood, smoke, and fear. 
+Odd scratches appear on the walls surrounding the staircase.  The temple
+must of been most visciously attacked indeed.  The staircase leads down into
+the lower levels.  The corridor and master chambers are back west, the main
+temple further west still.  A large staircase is bocked by many fallen
+stones, it led to the second floor, but appears quite impassable now.  
+~
+0 8201 0
+D3
+~
+~
+0 0 40337
+D5
+~
+~
+0 0 40324
+S
+#40340
+{WHidden R{wu{ci{wn{Ws{x~
+Hundreds of carved stone pillars are toppled to the ground.  Pieces of
+stone walls still stand, but nowhere near their former glory.  The sky above
+is a swirling maelstrom of red and black clouds, and piercing white
+thunderbolts.  A fierce wind carries the scent of death, hard, and putrid
+into the dry air.  The scorched horizon looks very unfamiliar.  This is the
+secret of the Celestial Temple, a magical gateway, existing in two
+dimensions at once, and holding within the strongest magic in the realms.  A
+small scorched trail leads to the north.  
+~
+0 8193 0
+D0
+~
+~
+0 0 40341
+S
+#40341
+{rSc{Dorch{red {WP{wa{Wt{wh{Ww{wa{Wy{x~
+Thick plumes of black smoke hang motionless in the air.  The creeping
+stench of death is a heavy, almost tangible presence in this forsaken place.
+A burned and tattered path continues on to the north.  Nothing can be seen
+for miles around, just this path.  
+~
+0 8193 0
+D0
+~
+~
+0 0 40342
+D2
+~
+~
+0 0 40340
+S
+#40342
+{rSc{Dorch{red {WP{wa{Wt{wh{Ww{wa{Wy{x~
+Thick plumes of black smoke hang motionless in the air.  The creeping
+stench of death is a heavy, almost tangible presence in this forsaken place.
+A burned and tattered path continues on to the north.  Nothing can be seen
+for miles around, just this path.  
+~
+0 8193 0
+D0
+~
+~
+0 0 40343
+D2
+~
+~
+0 0 40341
+S
+#40343
+{rCr{Dossroa{rds{x~
+The large path is intersected by a smaller path running east to west. 
+Glowing lights eminate from the east and west.  The main path continues
+further to the north.  To the east and west lie the domains of a few
+creatures that dwell in this dimension.  
+~
+0 8193 0
+D0
+~
+~
+0 0 40352
+D1
+~
+~
+0 0 40348
+D2
+~
+~
+0 0 40342
+D3
+~
+~
+0 0 40344
+S
+#40344
+{bR{Da{bz{Do{bt{D'{bs {DRealm{x~
+The temperature grows deadly cold.  The path is iced over with ancient
+permafrost.  Beneath the ice can be seen hundreds of bodies and skeletons,
+the eternal graves of those who tried to take down the great Razot.  Dozens
+of trees overhang the path, crystalized by Razot's breath.  The path
+continues to the west.  
+~
+0 8193 0
+D1
+~
+~
+0 0 40343
+D3
+~
+~
+0 0 40345
+S
+#40345
+{bR{Da{bz{Do{bt{D'{bs {DRealm{x~
+The temperature grows deadly cold.  The path is iced over with ancient
+permafrost.  Beneath the ice can be seen hundreds of bodies and skeletons,
+the eternal graves of those who tried to take down the great Razot.  Dozens
+of trees overhang the path, crystalized by Razot's breath.  The path
+continues to the west.  
+~
+0 8193 0
+D1
+~
+~
+0 0 40344
+D3
+~
+~
+0 0 40346
+S
+#40346
+{bR{Da{bz{Do{bt{D'{bs {DRealm{x~
+The temperature grows deadly cold.  The path is iced over with ancient
+permafrost.  Beneath the ice can be seen hundreds of bodies and skeletons,
+the eternal graves of those who tried to take down the great Razot.  Dozens
+of trees overhang the path, crystalized by Razot's breath.  The path
+continues to the west, where Razot himself is waiting.  
+~
+0 8193 0
+D1
+~
+~
+0 0 40345
+D3
+~
+~
+0 0 40347
+S
+#40347
+{bR{Da{bz{Do{bt{D'{bs {DRealm{x~
+The chill grows tangible in this tundra environment.  The land itself is
+warm and barren, but Razots realm will forever be a frozen wasteland.  The
+freezing gusts of wind wrap icy fingers around ones heart, threatening to
+stop it cold.  Razot himself does not like magic, he prefers his frosty
+breath, therefore the barrier imposed by the Celestial Temple academy has
+been banished, and you are free to recall here.  East leads back to the
+crossroads.  
+~
+0 1 0
+D1
+~
+~
+0 0 40346
+S
+#40348
+{gL{Da{gz{De{gr{Dt{gu{Dz{g'{Ds {DLair{x~
+An acrid odor wafts through this tiny area.  Bubbling pools and puddles
+of green acid blanket the place.  Armor eroded beyond use lies on the
+ground, the occupants of that armor, however, were devoured by the foul acid
+fiend Lazertus.  His lair continues to the east.  
+~
+0 8193 0
+D1
+~
+~
+0 0 40349
+D3
+~
+~
+0 0 40343
+S
+#40349
+{gL{Da{gz{De{gr{Dt{gu{Dz{g'{Ds {DLair{x~
+An acrid odor wafts through this tiny area.  Bubbling pools and puddles
+of green acid blanket the place.  Armor eroded beyond use lies on the
+ground, the occupants of that armor, however, were devoured by the foul acid
+fiend Lazertus.  His lair continues to the east.  
+~
+0 8193 0
+D1
+~
+~
+0 0 40350
+D3
+~
+~
+0 0 40348
+S
+#40350
+{gL{Da{gz{De{gr{Dt{gu{Dz{g'{Ds {DLair{x~
+An acrid odor wafts through this tiny area.  Bubbling pools and puddles
+of green acid blanket the place.  Armor eroded beyond use lies on the
+ground, the occupants of that armor, however, were devoured by the foul acid
+fiend Lazertus.  The acidic pathway continues to the east, where the beast
+itself awaits you.  
+~
+0 8193 0
+D1
+~
+~
+0 0 40351
+D3
+~
+~
+0 0 40349
+S
+#40351
+{gL{Da{gz{De{gr{Dt{gu{Dz{g'{Ds {DLair{x~
+A large moat of glowing green acid surrounds the area.  Smoke fills the
+air.  A slight hissing sound of acid devouring various things like armor and
+bones, can be heard.  Lazertus uses his foul breath to melt any foe.  The
+acid itself is so strong, it has eroded the magical barrier over this place,
+you may recall here.  West leads back to the crossroads.  
+~
+0 1 0
+D3
+~
+~
+0 0 40350
+S
+#40352
+{rSc{Dorch{red {WP{wa{Wt{wh{Ww{wa{Wy{x~
+Thick plumes of black smoke hang motionless in the air.  The creeping stench of death is a heavy, almost tangible presence in this forsaken place. A burned and tattered path continues on to the north.  Nothing can be seen for miles around, just this path.
+~
+0 8193 0
+D0
+~
+~
+0 0 40353
+D2
+~
+~
+0 0 40343
+S
+#40353
+{rSc{Dorch{red {WP{wa{Wt{wh{Ww{wa{Wy{x~
+Thick plumes of black smoke hang motionless in the air.  The creeping
+stench of death is a heavy, almost tangible presence in this forsaken place.
+A burned and tattered path continues on to the north.  Nothing can be seen
+for miles around, just this path.  
+~
+0 8193 0
+D0
+~
+~
+0 0 40354
+D2
+~
+~
+0 0 40352
+S
+#40354
+{rSc{Dorch{red {WP{wa{Wt{wh{Ww{wa{Wy{x~
+Thick plumes of black smoke hang motionless in the air.  The creeping
+stench of death is a heavy, almost tangible presence in this forsaken place.
+A burned and tattered path continues on to the north.  Nothing can be seen
+for miles around, just this path.  
+~
+0 0 0
+D0
+~
+~
+0 0 40355
+D2
+~
+~
+0 0 40353
+S
+#40355
+{rCr{Dossroa{rds{x~
+The large path is intersected by a smaller path running east to west. 
+Glowing lights eminate from the east and west.  The main path continues
+further to the north.  To the east and west lie the domains of a few
+creatures that dwell in this dimension.  
+~
+0 8193 0
+D0
+~
+~
+0 0 40364
+D1
+~
+~
+0 0 40360
+D2
+~
+~
+0 0 40354
+D3
+~
+~
+0 0 40356
+S
+#40356
+{cC{Do{cc{Dy{ct{Du{cs{D'{cs {DCave{x~
+The charred and mangled cave of the lightning fiend Cocytus.  It is
+extremely dark, only illuminated once in a while by the thunderous bolts of
+lightning that bounce from the walls and crumble more of the cave walls. 
+Given enough time the foul beast might collapse it onto himself.  The cave
+continues to the west, the main path is back east.  
+~
+0 8193 0
+D1
+~
+~
+0 0 40355
+D3
+~
+~
+0 0 40357
+S
+#40357
+{cC{Do{cc{Dy{ct{Du{cs{D'{cs {DCave{x~
+The charred and mangled cave of the lightning fiend Cocytus.  It is
+extremely dark, only illuminated once in a while by the thunderous bolts of
+lightning that bounce from the walls and crumble more of the cave walls. 
+Given enough time the foul beast might collapse it onto himself.  The cave
+continues to the west, the main path is back east.  
+~
+0 8193 0
+D1
+~
+~
+0 0 40356
+D3
+~
+~
+0 0 40358
+S
+#40358
+{cC{Do{cc{Dy{ct{Du{cs{D'{cs {DCave{x~
+The charred and mangled cave of the lightning fiend Cocytus.  It is
+extremely dark, only illuminated once in a while by the thunderous bolts of
+lightning that bounce from the walls and crumble more of the cave walls. 
+Given enough time the foul beast might collapse it onto himself.  The cave
+continues to the west, the main path is back east.  
+~
+0 8193 0
+D1
+~
+~
+0 0 40357
+D3
+~
+~
+0 0 40359
+S
+#40359
+{cC{Do{cc{Dy{ct{Du{cs{D'{cs {DCave{x~
+The air is electrified in this small circular chamber.  The walls are
+chipped and burned, eroded by the millions of bolts Cocytus has lobbed at
+them.  There is a glowing blue orb set at the back of the cave.  Dozens of
+tiny electric bolts swath over its surface.  You may recall from here, the
+crossroads are back east.  
+~
+0 1 0
+D1
+~
+~
+0 0 40358
+S
+#40360
+{rD{Dr{ra{Dg{ro{Ds{r'{Ds Dwelling{x~
+Blinding, choking smoke wafts all through this area.  The heat is almost
+unbearable.  Dragos the fire fiend wouldn't have it any other way.  A few
+streams of molent lava course along the floor, melting anything in their
+way.  East leads further into the chamber, the crossroads are back west.  
+~
+0 8193 0
+D1
+~
+~
+0 0 40361
+D3
+~
+~
+0 0 40355
+S
+#40361
+{rD{Dr{ra{Dg{ro{Ds{r'{Ds Dwelling{x~
+Blinding, choking smoke wafts all through this area.  The heat is almost
+unbearable.  Dragos the fire fiend wouldn't have it any other way.  A few
+streams of molent lava course along the floor, melting anything in their
+way.  East leads further into the chamber, the crossroads are back west.  
+~
+0 8193 0
+D1
+~
+~
+0 0 40362
+D3
+~
+~
+0 0 40360
+S
+#40362
+{rD{Dr{ra{Dg{ro{Ds{r'{Ds Dwelling{x~
+Blinding, choking smoke wafts all through this area.  The heat is almost
+unbearable.  Dragos the fire fiend wouldn't have it any other way.  A few
+streams of molent lava course along the floor, melting anything in their
+way.  East leads further into the chamber, where Dragos himself awaits, the
+crossroads are back west.  
+~
+0 8193 0
+D1
+~
+~
+0 0 40363
+D3
+~
+~
+0 0 40361
+S
+#40363
+{rD{Dr{ra{Dg{ro{Ds{r'{Ds Dwelling{x~
+The stifling heat is almost deadly in this small, smokey chamber.  A
+gigantic river of lava flows from the center to places unknown, boring holes
+in the walls of the chamber and flowing as it pleases.  Small sections have
+flared up into flames, crackling and burning brightly.  West leads back to
+the crossroads, you may recall here.  
+~
+0 1 0
+D3
+~
+~
+0 0 40362
+S
+#40364
+{wC{Dh{wa{Do{ws {bLa{Bb{Dyri{Bn{bth{x~
+A menacing force flows through the chambers.  This is the residence of
+Chaos the strongest form in the realms.  Some of his minions may also lie in
+wait in this labyrinth, tread carefully.  Exits lead in all directions.  
+~
+0 8192 0
+D0
+~
+~
+0 0 40365
+D1
+~
+~
+0 0 40369
+D2
+~
+~
+0 0 40355
+S
+#40365
+{wC{Dh{wa{Do{ws {bLa{Bb{Dyri{Bn{bth{x~
+A menacing force flows through the chambers.  This is the residence of
+Chaos the strongest form in the realms.  Some of his minions may also lie in
+wait in this labyrinth, tread carefully.  Exits lead in several directions. 
+~
+0 8192 0
+D1
+~
+~
+0 0 40366
+D2
+~
+~
+0 0 40364
+D3
+~
+~
+0 0 40367
+S
+#40366
+{wC{Dh{wa{Do{ws {bLa{Bb{Dyri{Bn{bth{x~
+A menacing force flows through the chambers.  This is the residence of
+Chaos the strongest form in the realms.  Some of his minions may also lie in
+wait in this labyrinth, tread carefully.  Exits lead in several directions. 
+~
+0 8192 0
+D1
+~
+~
+0 0 40368
+D3
+~
+~
+0 0 40365
+S
+#40367
+{wC{Dh{wa{Do{ws {bLa{Bb{Dyri{Bn{bth{x~
+A menacing force flows through the chambers.  This is the residence of
+Chaos the strongest form in the realms.  Some of his minions may also lie in
+wait in this labyrinth, tread carefully.  Exits lead in several directions. 
+~
+0 8192 0
+D0
+~
+~
+0 0 40369
+D1
+~
+~
+0 0 40365
+D3
+~
+~
+0 0 40368
+D4
+~
+~
+0 0 40369
+S
+#40368
+{wC{Dh{wa{Do{ws {bLa{Bb{Dyri{Bn{bth{x~
+A menacing force flows through the chambers.  This is the residence of
+Chaos the strongest form in the realms.  Some of his minions may also lie in
+wait in this labyrinth, tread carefully.  Exits lead in several directions. 
+~
+0 8192 0
+D0
+~
+~
+0 0 40369
+D1
+~
+~
+0 0 40367
+D2
+~
+~
+0 0 40375
+D3
+~
+~
+0 0 40366
+S
+#40369
+{wC{Dh{wa{Do{ws {bLa{Bb{Dyri{Bn{bth{x~
+A menacing force flows through the chambers.  This is the residence of
+Chaos the strongest form in the realms.  Some of his minions may also lie in
+wait in this labyrinth, tread carefully.  Exits lead in several directions. 
+~
+0 0 0
+D0
+~
+~
+0 0 40370
+D1
+~
+~
+0 0 40377
+D2
+~
+~
+0 0 40367
+D3
+~
+~
+0 0 40364
+D5
+~
+~
+0 0 40367
+S
+#40370
+{DDark Corridor{x~
+{D A plain stone corridor.  Its extremely dark.  The power in the air
+tingles and buzzes, it flows through the air like water.  This is the domain
+chaos.  It continues north.  {x 
+~
+0 8193 0
+D0
+~
+~
+0 0 40371
+D2
+~
+~
+0 0 40369
+S
+#40371
+{DDark Corridor{x~
+{D A plain stone corridor.  Its extremely dark.  The power in the air
+tingles and buzzes, it flows through the air like water.  This is the domain
+chaos.  It continues north.  {x 
+~
+0 8193 0
+D0
+~
+~
+0 0 40372
+D2
+~
+~
+0 0 40370
+S
+#40372
+{DDark Corridor{x~
+{D A plain stone corridor.  Its extremely dark.  The power in the air
+tingles and buzzes, it flows through the air like water.  This is the domain
+chaos.  It continues north.  {x {DThere is a small chamber to the east, the
+labyrinth is back south, Chaos is north...  
+~
+0 0 0
+D0
+~
+~
+0 0 40374
+D1
+~
+~
+0 0 40373
+D2
+~
+~
+0 0 40371
+S
+#40373
+{DDrakoth's Torture{x~
+This is where it all began, and this is where Chaos keeps Drakoth in
+eternal torture.  Chained to the wall and tortured in ways ones mind cannot
+even begin to imagine he spends his days suffering.  West leads back to the
+chamber.  
+~
+0 0 0
+D3
+~
+~
+0 0 40372
+S
+#40374
+{WC {D*{W  H {D*{W  A {D*{W  O {D*{W  S{x~
+The realm of Chaos.  The strongest force in this entire dimension.  A
+swirling red and black vortex is in the center of the chamber, light and
+darkness swirl through it, collide with each other, and explode into dust. 
+The magic in this room threatens to tear one apart at the seams it is that
+dense.  The cacophony of sound droning through the chamber can crumble
+mountains, the brilliance of the light flowing through can blind an army,
+the magic that electrifies the air could cut down a stout man.  South leads
+out of the chaotic chamber.  
+~
+0 8201 0
+D2
+~
+~
+0 0 40372
+S
+#40375
+{BS{bmall {BC{borridor{x~
+A small corridor off of the main labyrinth.  It seems to lead to a dead
+end south.  North leads back into the labyrinth.  
+~
+0 8201 0
+D0
+~
+~
+0 0 40368
+D2
+~
+~
+0 0 40376
+S
+#40376
+{BS{bmall {BC{bhamber{x~
+A small dimly lit chamber.  North leads back to the chaos labyrinth.  
+~
+0 8201 0
+D0
+~
+~
+0 0 40375
+S
+#40377
+{DEntrance to the Dungeons{x~
+A small, nondescript stairway leads to the labyrinth dungeons.  Where
+Chaos has captured and imprisoned any that have invaded his realm.  Down
+leads to the dungeon.  
+~
+0 8193 0
+D3
+~
+~
+0 0 40369
+D5
+~
+~
+0 0 40378
+S
+#40378
+{DChaos Dungeon{x~
+Four doors are to the north, south, east and west.  All are locked tight.
+Held within the most insane prisoners of the realms.  Up leads back to the
+labyrinth.  
+~
+0 8193 0
+D0
+~
+~
+4 40319 40380
+D1
+~
+~
+4 40319 40381
+D2
+~
+~
+4 40319 40382
+D3
+~
+~
+4 40319 40379
+D4
+~
+~
+0 0 40377
+S
+#40379
+{DCell{x~
+A dirty decrepit cell, one would hate to spend more time here than one
+has to, east leads back out.  
+~
+0 8201 0
+D1
+~
+~
+4 40319 40378
+S
+#40380
+{DCell{x~
+A dirty decrepit cell, one would hate to spend more time here than one
+has to, east leads back out.  
+~
+0 9 0
+D2
+~
+~
+4 40319 40378
+S
+#40381
+{DCell{x~
+A dirty decrepit cell, one would hate to spend more time here than one
+has to, east leads back out.  
+~
+0 8193 0
+D3
+~
+~
+4 40319 40378
+S
+#40382
+{DCell{x~
+A dirty decrepit cell, one would hate to spend more time here than one
+has to, east leads back out.  
+~
+0 0 0
+D0
+~
+~
+4 40319 40378
+S
+#40383
+{GF{gorest {GT{grail{x~
+A light forest trail.  To the north a temple can be seen in the distance.
+The forest is back west.  
+~
+0 0 0
+D0
+~
+~
+0 0 40300
+D3
+~
+~
+0 0 40384
+S
+#40384
+{GF{gorest {GT{grail{x~
+Another of the numerous trails in this gigantic forest.  No telling where
+this one leads.  Gaalstrom can be seen far back to the southwest, this trail
+continues east.  
+~
+0 0 0
+D1
+~
+~
+0 0 40383
+D2
+~
+~
+0 0 6506
+S
+#0
+
+
+
+#SPECIALS
+M 40304 spec_breath_frost
+M 40305 spec_breath_acid
+M 40306 spec_breath_lightning
+M 40309 spec_breath_any
+S
+
+
+
+#RESETS
+D 0 40302 0 2
+D 0 40303 2 2
+D 0 40308 0 1
+D 0 40308 2 1
+D 0 40309 2 1
+D 0 40310 0 1
+D 0 40310 5 1
+D 0 40311 4 1
+D 0 40314 0 1
+D 0 40314 2 1
+D 0 40315 2 1
+D 0 40316 0 1
+D 0 40317 0 1
+D 0 40317 2 1
+D 0 40318 2 1
+D 0 40319 0 1
+D 0 40320 0 1
+D 0 40320 2 1
+D 0 40321 0 1
+D 0 40321 2 1
+D 0 40322 0 1
+D 0 40322 2 1
+D 0 40323 0 1
+D 0 40323 2 1
+D 0 40325 2 1
+D 0 40326 0 1
+D 0 40327 2 1
+D 0 40328 0 1
+D 0 40329 2 1
+D 0 40330 0 1
+D 0 40331 2 1
+D 0 40332 0 1
+D 0 40333 0 1
+D 0 40334 2 1
+D 0 40335 2 1
+D 0 40336 0 1
+D 0 40337 0 1
+D 0 40338 2 1
+D 0 40378 0 2
+D 0 40378 1 2
+D 0 40378 2 2
+D 0 40378 3 2
+D 0 40379 1 2
+D 0 40380 2 2
+D 0 40381 3 2
+D 0 40382 0 2
+M 0 40300 1 40302 1
+O 0 40300 0 40303
+M 0 40301 100 40304 1
+G 0 40301 0
+O 0 40302 0 40306
+M 0 40313 2 40308 1
+E 0 40309 0 3
+M 0 40302 100 40309 1
+E 0 40305 0 14
+M 0 40301 100 40310 1
+G 0 40301 0
+O 0 40303 0 40311
+M 0 40312 100 40312 5
+M 0 40312 100 40313 5
+O 0 40306 0 40315
+O 0 40306 0 40316
+O 0 40306 0 40318
+M 0 40312 100 40321 5
+M 0 40301 10 40325 1
+E 0 40311 0 1
+O 0 40306 0 40330
+P 0 40307 1 40306 1
+M 0 40312 100 40333 5
+M 0 40303 1 40334 1
+M 0 40302 1 40336 1
+O 0 40308 0 40336
+M 0 40301 10 40338 1
+G 0 40301 0
+E 0 40310 0 25
+M 0 40313 2 40339 1
+E 0 40304 0 3
+M 0 40304 1 40347 1
+E 0 40312 0 21
+M 0 40305 1 40351 1
+E 0 40313 0 18
+M 0 40306 1 40359 1
+E 0 40314 0 20
+M 0 40307 1 40363 1
+E 0 40315 0 0
+M 0 40310 100 40364 4
+M 0 40310 100 40366 4
+M 0 40310 100 40367 4
+M 0 40310 100 40368 4
+M 0 40310 100 40369 4
+M 0 40308 1 40373 1
+E 0 40316 0 16
+M 0 40309 1 40374 1
+E 0 40317 0 24
+M 0 40310 100 40376 1
+E 0 40318 0 16
+M 0 40311 1 40378 1
+G 0 40319 0
+M 0 40310 100 40379 1
+E 0 40320 0 5
+M 0 40310 100 40380 1
+E 0 40321 0 3
+M 0 40310 100 40381 1
+E 0 40322 0 12
+M 0 40310 100 40382 1
+E 0 40323 0 8
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#40300
+say Greetings $n...
+emote thinks deeply for a moment
+say It has been a while since i've seen anyone.
+say The Celestial Temple fell to evil many years ago.
+say Drakoth wanted the power deep inside the temple. He thought we were hiding it from him, when in fact it never existed!
+say Such a fool! So many aspiring mages and spellcrafters slain in his greedy wake!
+emote sighs deeply with regret
+say I couldn't stop him and his minions, but i can stop anyone else from suffering the same fate!
+say I bar your entrance to the temple, tis true, but i will let you in if you prove your strength to me.
+say In the shadows of Tenilwyn Forest there lies a tower, in the tower resides a lich, and he holds a ring.
+say Retrieve for me the Ring of the Nightwalker, give it to me and i shall let you pass.
+say Good luck $n.
+~
+#40301
+emote lets out a long desperate sigh...
+say So, the greed has turned your heart black?!
+say You wish to seek the power from within?
+say  Yes you completed my task, but let it be known, it will be the death of you!
+say Now, behold the Celestial Temple, and be damned to ruination!!
+say Your fate has been decided $n, there is no escape for those who do not heed my warning!
+mob transfer $n 40303
+mob trash 421
+~
+#40302
+emote hears you approach, with impressive quickness it reaches for its blade
+wear scimitar
+growl
+~
+#40303
+say Greetings, brave adventurer
+say By now, you have realized there is no escape from our fair temple.
+say Before we were wiped out by the forces of evil, we banded together to curse this place, to ensure it would stay trapped forever...
+say I can sense deep power within you... i offer you a choice.
+say Within this temple are two pendants.
+say The Pendant of the Moon
+say and the Pendant of the Sun
+say Both different, yet the same. They are devices i need to cast a powerful teleportation spell.
+say If you possess either of these simply speak these words and choose your path...
+say To leave the temple say [i choose the path of the sun]
+say To journey forward to danger say [i choose the path of the moon]
+say Choose wisely....
+~
+#40304
+if carries $n 40304
+say A wise decision, $n. More wise than you could ever know
+emote begins chanting deeply. A blue light eminates from his center, pulsing deeply and rapidly. It grows ever brighter as he continues the spell. The walls of the of the room begin to melt to a bluish color. With a final wave of his hand the spell is complete!
+mob remove $n 40304
+mob trash 40304
+mob echo The {YS{yu{Yn {WPendant{x shivers violently and explodes!
+mob trans $n 3014
+else
+say You do no possess the Sun pendant... seek it in this temple somewhere.
+endif
+~
+#40305
+if carries $n 40309
+say Very well $n...
+emote begins chanting a spell. A red light burns brightly inside his translucent image. The red light flickers, a sinking feeling of dread decends upon the room. The walls of the chamber begin melting into a muddled red hue. With a final wave of his hand, the spell is complete!
+mob remove $n 40309
+mob trash 40309
+mob echo The {WM{wo{Wo{wn {yPe{Ynda{ynt{x shivers violently and explodes!
+mob trans $n 40340
+else
+say You do not possess the Moon Pendant, seek it in this temple...
+endif
+~
+#40308
+emote raises his head from its usual stoop
+emote spots you and a gleam of hope sparks in his eyes
+say You!! You will kill me and end my suffering!!!
+cackle
+say Meet your fate oh brave adventurer!
+kill $n
+~
+#0
+
+#$

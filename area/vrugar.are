@@ -1,0 +1,1523 @@
+#AREADATA
+Name Vrugar~
+Builders Roland~
+VNUMs 1400 1499
+Credits {W[  ALL  ] Town of Vrugar{x~
+Security 9
+RepopMsg A slight dripping sound can be heard through the caverns~
+End
+
+
+
+#MOBILES
+#1400
+mutant healer~
+{wThe {GMu{gtan{Gt {WHealer{x~
+{wThe {GMu{gtan{Gt {WHealer{x stands here casting spells
+~
+~
+Mutant~
+ABa 0 0 0 0 0
+210 840 841d71+31816 210d15+600 53d5+236 none
+-246 -246 -246 -203
+0 0 G P
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#1401
+goblin cleric~
+A {YG{yo{Yb{yl{Yi{yn {WCleric{x~
+A {YG{yo{Yb{yl{Yi{yn {WCleric{x stands here offering healing
+~
+~
+Goblin~
+ABa 0 J 0 0 0
+210 840 841d71+31816 210d15+600 53d5+236 none
+-246 -246 -246 -203
+0 0 P NSXY
+stand stand female 0
+AHMV ABCDEFGHIJK medium unknown
+#1402
+an orc cleric~
+An {GO{gr{Gc {WCleric{x~
+An {GO{gr{Gc {WCleric{x stands here casting spells
+~
+~
+Orc~
+ABa 0 a 0 0 0
+210 840 841d71+31816 210d15+600 53d5+236 none
+-246 -246 -246 -203
+CO 0 CD P
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#1403
+gnoll cleric~
+A {YG{yn{Yo{yl{Yl {WCleric{x~
+A {YG{yn{Yo{yl{Yl {WCleric{x stands here chanting
+~
+~
+Gnoll~
+ABa 0 FZ 0 0 0
+210 840 841d71+31816 210d15+600 53d5+236 none
+-246 -246 -246 -203
+0 0 0 Y
+stand stand none 0
+AHMV ABCDEFGHIJKUV medium unknown
+#1404
+orish merchant~
+an {gOrcish {DMerchant{x~
+An {gOrcish {DMerchant{w stands here, selling weapons
+~
+~
+Orc~
+AB A a 0 0 0
+210 840 841d71+31816 210d15+600 53d5+236 none
+-246 -246 -246 -203
+CO 0 CD P
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+#1405
+a goblin merchant~
+a {RG{ro{Rb{rl{Ri{rn {WMerchant{x~
+A {RG{ro{Rb{rl{Ri{rn {WMerchant{x stands here selling armor
+~
+~
+Goblin~
+AB 0 J 0 0 0
+210 840 841d71+31816 210d15+600 53d5+236 none
+-246 -246 -246 -203
+0 0 P NSXY
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+#1406
+gnoll potion-brewer~
+a {yGnoll {GP{go{Gt{gi{Go{gn{w-{gbrewer{x~
+A {yGnoll {GP{go{Gt{gi{Go{gn{w-{gbrewer{x stands here mixing chemicals
+~
+~
+Gnoll~
+AB 0 FZ 0 0 0
+210 840 841d71+31816 210d15+600 53d5+236 none
+-246 -246 -246 -203
+0 0 0 Y
+stand stand none 10000
+AHMV ABCDEFGHIJKUV medium unknown
+#1407
+goblin jewel crafter~
+a {yG{Yobli{yn {MJ{me{Mw{me{Ml{w-{mcrafter{x~
+A {yG{Yobli{yn {MJ{me{Mw{me{Ml{w-{mcrafter{x stands here examining a ruby
+~
+~
+Goblin~
+AB 0 J 0 0 0
+210 840 841d71+31816 210d15+600 53d5+236 none
+-246 -246 -246 -203
+0 0 P NSXY
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#1408
+gnoll wizard~
+a {YG{ynoll {WW{Dizard{X~
+A {YG{ynoll {WW{Dizard{x stands here enhanting a staff
+~
+~
+Gnoll~
+AB 0 FZ 0 0 0
+210 840 841d71+31816 210d15+600 53d5+236 none
+-246 -246 -246 -203
+0 0 0 Y
+stand stand male 10000
+AHMV ABCDEFGHIJKUV medium unknown
+#1409
+questmaster~
+The {YQ{yu{Ye{ys{Yt{ym{Ya{ys{Yt{ye{Yr{x~
+The {YQ{yu{Ye{ys{Yt{ym{Ya{ys{Yt{ye{Yr{x stands here, pondering your existance
+~
+~
+Human~
+AB 0 0 0 0 0
+210 840 841d71+31816 210d15+600 53d5+236 none
+-246 -246 -246 -203
+0 0 0 0
+stand stand none 100000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1410
+the banker~
+The {CB{Danker{x~
+The {CB{Danker{x stands here counting a pile of platinum coins
+~
+~
+Human~
+AB C 0 0 0 0
+210 840 841d71+31816 210d15+600 53d5+236 none
+-246 -246 -246 -203
+0 0 0 0
+stand stand none 100000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1411
+vrugar trainer~
+The {DV{rr{Du{rg{Da{rr {DTrainer{x~
+The {DV{rr{Du{rg{Da{rr {DTrainer{x stands here at the ready
+~
+~
+Ogre~
+ABJKb 0 a 0 0 0
+210 840 841d71+31816 210d15+600 53d5+236 none
+-246 -246 -246 -203
+0 0 CD P
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#1412
+a bartender~
+a {DBartender{x~
+A {DBartender{x stands here mixing drinks
+~
+~
+Ogre~
+AB B a 0 0 0
+210 840 841d71+31816 210d15+600 53d5+236 none
+-246 -246 -246 -203
+0 0 CD P
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#1413
+food merchant~
+{WFood Merchant{x~
+The {WFood Merchant{x stands here, stacking bags of grain
+~
+~
+Orc~
+AB 0 a 0 0 0
+210 840 841d71+31816 210d15+600 53d5+236 none
+-246 -246 -246 -203
+CO 0 CD P
+stand stand none 10000
+AHMV ABCDEFGHIJK medium unknown
+#1414
+a citizen of vrugar~
+a citizen of vrugar~
+A citizen of vrugar is standing here
+~
+~
+Human~
+A 0 0 0 0 0
+5 5 55d2+46 5d9+60 1d5+15 none
+6 6 6 7
+0 0 0 0
+stand stand none 5
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#1400
+a bubbling green pool~
+a {WB{wu{Wbb{wl{Wi{wn{Wg {GGr{gee{gn {DPool{x~
+A large {WB{wu{Wbb{wl{Wi{wn{Wg {GGr{geen {DPool{x is here to treat your wounds~
+unknown~
+furniture A 0
+10 10000 FIL 1000 1000
+0 100 0 P
+#1401
+bubbling pool of water~
+a {WB{wu{Wbb{Wl{wi{Wn{wg{x {bP{Boo{bl{x~
+A {WB{wu{Wbb{Wl{wi{Wn{wg{x {bP{Boo{bl{x sits here waiting to heal~
+unknown~
+furniture A 0
+10 10000 FIL 1000 1000
+0 100 0 P
+#1402
+steel dagger~
+a {DS{wt{De{we{Dl {yDagger{x~
+A plain steel dagger is stuck into the ground here~
+steel~
+weapon AB AN
+dagger 2 7 pierce D
+10 11 550 P
+A
+18 2
+A
+19 2
+#1403
+steel sword~
+a {DSteel {rS{Dw{ro{Dr{rd{x~
+A gleaming steel sword lies on the ground here~
+steel~
+weapon A AN
+sword 2 8 slash 0
+10 11 560 P
+A
+18 3
+A
+19 2
+#1404
+a large axe~
+a {WLarge {DA{rx{De{x~
+A rather large axe lies on the ground here~
+steel~
+weapon A AN
+axe 2 7 chop 0
+10 11 725 P
+A
+18 4
+A
+19 3
+#1405
+sharp spear~
+a {WS{wh{Wa{wr{Wp {DS{bp{De{ba{Dr{x~
+A long, sharp spear is standing against the wall~
+unknown~
+weapon A AN
+staff 2 9 pierce 0
+10 11 875 P
+A
+18 2
+A
+19 2
+#1406
+a sturdy polearm~
+a {WSturdy {RP{ro{Rl{re{Ra{rr{Rm{x~
+A sturdy looking polearm is leaning against the wall here~
+steel~
+weapon A AN
+polearm 2 9 slice 0
+10 11 875 P
+A
+18 4
+A
+19 3
+#1407
+a braided whip~
+a {DBraided {cW{Dh{ci{Dp{x~
+A braided whip lies coiled on the ground here~
+leather~
+weapon A AN
+whip 2 8 whip D
+10 11 600 P
+A
+18 3
+A
+19 3
+#1408
+a spiked mace~
+a {WSpiked {CM{ca{Cc{ce{x~
+A large spiked mace lies on the ground here~
+unknown~
+weapon A AN
+mace 2 7 pound 0
+10 11 725 P
+A
+18 3
+A
+19 3
+#1409
+a steel flail~
+a {DSteel F{yl{Da{yi{Dl{x~
+(no description)~
+steel~
+weapon A AN
+flail 2 8 crush 0
+10 11 600 P
+A
+18 3
+A
+19 3
+#1410
+leather tunic~
+a {YL{ye{Ya{yt{Yh{ye{Yr {yTunic{x~
+A leather tunic lies on the ground here~
+leather~
+armor 0 AD
+13 13 13 12 0
+10 11 55 P
+A
+13 10
+#1411
+leather cap~
+a {YL{ye{Ya{yt{Yh{ye{Yr {yCap{x~
+A leather cap lies on the ground here~
+leather~
+armor 0 AE
+13 13 13 12 0
+10 11 35 P
+A
+13 5
+#1412
+steel leg plates~
+{DSteel {WL{we{Wg Plates{x~
+Some steel leg plates lie on the ground here~
+steel~
+armor B AF
+13 13 13 12 0
+10 11 35 P
+A
+13 10
+A
+18 2
+#1413
+soft leather boots~
+a pair of {ysoft leather boots{x~
+A pair of soft leather boots are on the ground~
+leather~
+armor B AG
+13 13 13 12 0
+10 11 35 P
+A
+13 10
+A
+14 15
+#1414
+chainmail gloves~
+a pair of {Dc{Wh{wainmail {Dg{Wl{woves{x~
+A pair of chainmail gloves lie on the ground~
+chainmail~
+armor A AH
+13 13 13 12 0
+10 11 45 P
+A
+13 10
+A
+1 1
+#1415
+steel arm bands~
+{DSteel {WA{wr{Wm Bands{x~
+Some steel arm bands lie on the ground here~
+steel~
+armor A AI
+13 13 13 12 0
+10 11 40 P
+A
+13 10
+A
+19 3
+#1416
+large steel shield~
+{DLarge Steel {WS{wh{Wi{we{Wl{wd{x~
+A large steel shield lies on the ground here~
+steel~
+armor B AJ
+13 13 13 12 0
+10 11 55 P
+A
+13 10
+A
+17 -4
+#1417
+a black cloak~
+a {DBlack Cloak{x~
+A black cloak is crumpled into a ball on the floor here~
+cloth~
+armor A AK
+13 13 13 12 0
+10 11 30 P
+A
+14 10
+A
+2 2
+#1418
+leather belt~
+a {Yleather {ybelt{x~
+A leather belt lies on the ground~
+leather~
+armor 0 AL
+13 13 13 12 0
+10 11 35 P
+A
+13 10
+A
+5 2
+#1419
+steel bracer~
+a {DS{Wt{De{We{Dl {YB{yrace{Yr{x~
+A steel bracer is on the ground here~
+steel~
+armor 0 AM
+13 13 13 12 0
+10 11 45 P
+A
+18 2
+A
+19 2
+#1420
+cyan potion of sanctuary~
+a {Wp{wo{Wt{wi{Wo{wn of {WS{wan{cctu{war{Wy{x~
+A small cyan potion lies on the ground here~
+glass~
+potion A AO
+35 'sanctuary' 'reserved' 'reserved' 'reserved'
+25 1 1000 P
+#1421
+potion of cure light~
+a {Wp{wo{Wt{wi{Wo{wn of {rcure light{x~
+A {Wp{wo{Wt{wi{Wo{wn of {rcure light{x is on the ground here~
+glass~
+potion A AO
+10 'cure light' 'reserved' 'reserved' 'reserved'
+5 1 100 P
+#1422
+potion of cure serious~
+a {Wp{wo{Wt{wi{Wo{wn of {bcure serious{x~
+A {Wp{wo{Wt{wi{Wo{wn of {bcure serious{x is on the ground here~
+glass~
+potion A AO
+25 'cure serious' 'reserved' 'reserved' 'reserved'
+15 1 450 P
+#1423
+potion of healing~
+a {Wp{wo{Wt{wi{Wo{wn of {YHealing{x~
+A {Wp{wo{Wt{wi{Wo{wn of {YHealing{x is on the ground here~
+glass~
+potion A AO
+50 'heal' 'reserved' 'reserved' 'reserved'
+30 1 1000 P
+#1424
+potion of cure blindness~
+a {Wp{wo{Wt{wi{Wo{wn of {Dcure blindness{x~
+A {Wp{wo{Wt{wi{Wo{wn of {Dcure blindness{x~
+glass~
+potion A AO
+210 'cure blindness' 'reserved' 'reserved' 'reserved'
+1 1 200 P
+#1425
+potion of antidote~
+a {Wp{wo{Wt{wi{Wo{wn of {gA{Gn{gt{Gi{gd{Go{gt{Ge{x~
+A {Wp{wo{Wt{wi{Wo{wn of {gA{Gn{gt{Gi{gd{Go{gt{Ge{x lies on the ground here~
+glass~
+potion A AO
+210 'cure poison' 'cure disease' 'reserved' 'reserved'
+1 1 350 P
+#1426
+potion of minor protection~
+a {Wp{wo{Wt{wi{Wo{wn of {BMinor Protection{x~
+A {Wp{wo{Wt{wi{Wo{wn of {BMinor Protection{x is on the ground here~
+glass~
+potion A AO
+50 'armor' 'shield' 'stone skin' 'reserved'
+25 1 1200 P
+#1427
+potion of divine blessing~
+a {Wp{wo{Wt{wi{Wo{wn of {YDi{wvi{Yne {CB{cl{Ce{cs{Cs{ci{Cn{cg{x~
+A {Wp{wo{Wt{wi{Wo{wn of {YDi{wvi{Yne {CB{cl{Ce{cs{Cs{ci{Cn{cg{x is lying on the ground here~
+glass~
+potion A AO
+200 'bless' 'protection evil' 'ruby skin' 'stone skin'
+200 1 2000 P
+#1428
+a gold ring~
+a {YG{yo{Yl{yd {YR{ying{x~
+A gold ring lies on the ground here~
+gold~
+jewelry AI AB
+0 0 0 0 0
+10 1 1000 P
+A
+4 2
+A
+12 20
+#1429
+gold hoop earring~
+a {YG{yo{Yl{yd {WHoop Earring{x~
+A small gold hoop earring lies on the ground here~
+gold~
+jewelry A AV
+0 0 0 0 0
+10 1 900 P
+A
+13 25
+A
+5 2
+#1430
+emerald anklet~
+an {GE{gm{Ge{gr{Ga{gl{Gd {WAnklet{x~
+A string of emeralds lies on the ground here~
+emerald~
+jewelry AI AS
+0 0 0 0 0
+10 1 1150 P
+A
+13 30
+A
+1 2
+#1431
+wand of flamestrike~
+{WWand {WO{wf {RF{rla{yme{Rst{rrike{x~
+A long wooden wand lays on the ground here~
+wood~
+wand A AO
+20 10 10 'flamestrike' 0
+10 1 750 P
+#1432
+wand of lightning bolt~
+{WWand {WOf {YLi{yght{Yning {BB{yo{Bl{yt{x~
+A long wooden wand lies on the ground here~
+wooden~
+wand A AO
+20 10 10 'lightning bolt' 0
+15 1 750 P
+#1433
+scroll of charm~
+a {WS{wcroll of {MC{ch{Ma{cr{Mm{x~
+A rolled up scroll is here on the ground~
+parchment~
+scroll A AO
+55 'charm person' 'reserved' 'reserved' 'reserved'
+45 1 1550 P
+#1434
+scroll of faerie fire~
+a {WS{wcroll of {MF{ma{re{mr{Mi{re {RF{mi{Mr{re{x~
+A rolled up scroll is lying on the ground here~
+parchment~
+scroll A AO
+50 'faerie fire' 'reserved' 'reserved' 'reserved'
+30 1 750 P
+#1435
+scroll of faerie fog~
+{WS{wcroll of {MF{yaerie {MF{mog{x~
+A rolled up scroll lies on the ground here~
+parchment~
+scroll A AO
+110 'faerie fog' 'reserved' 'reserved' 'reserved'
+100 1 900 P
+#1436
+staff of inner strength~
+{WS{wtaff {WO{wf {YI{ynner {RStrength{x~
+A long wooden staff lies on the ground here~
+wood~
+staff A AO
+200 20 20 'gods armor' 0
+200 1 4000 P
+#1437
+shot of whisky~
+a shot of whisky~
+A shot glass lies on the ground here~
+glass~
+drink 0 AO
+1 1 'whisky' 0 0
+1 1 45 P
+#1438
+pint of ale~
+a pint of ale~
+A glass or mug of sorts lies on the ground here~
+glass~
+drink 0 AO
+5 5 'ale' 0 0
+1 2 55 P
+#1439
+a barrel of ale~
+a barrel of ale~
+A large wooden barrel lies on the ground here~
+wood~
+drink 0 AO
+15 15 'ale' 0 0
+1 1 200 P
+#1440
+a mug of widows brew~
+a mug of widows brew~
+A large mug stained black lies on the ground here~
+glass~
+drink 0 AO
+5 5 'absinthe' 0 0
+1 1 150 P
+#1441
+a large slot machine~
+a {WLarge {RS{Bl{GO{YT {*Machine{x~
+A {WLarge {RS{BL{GO{YT {*Machine{x stands in the corner~
+metal~
+slot_machine A 0
+40 150000 3 20 100000
+1 500 10000 P
+#1442
+loaf of bread~
+{yloaf of bread{x~
+A {yloaf of bread{x lies on the ground here~
+dough~
+food 0 A
+4 4 0 0 0
+1 1 25 P
+#1443
+a steak~
+a {rsteak{x~
+A steak lies on the ground here~
+meat~
+food 0 A
+5 5 0 0 0
+1 1 40 P
+#1444
+a meat pie~
+a {Ymeat {rpie{x~
+A meat pie lies on the ground here~
+meat~
+food 0 A
+10 10 0 0 0
+1 1 100 P
+#0
+
+
+
+#ROOMS
+#1400
+{DCenter of {rV{Dr{ru{Dg{ra{Dr{X~
+This part of the cavern is lit very well.  Lots of torches hang about
+illuminating each and every dank crevice of this gloomy place.  Alot of
+orcs, gnolls, and others who call this place home are milling about, talking
+gruffly to each other.  This is the main hub of Vrugar.  To the north down a
+long cavern is where the mutant's call home.  To the east, the goblins.  To
+the south, the gnolls.  To the west, the orcs.  There is a small stairway
+carved into the earth going up to the guildmaster, quester, and other
+places.  The stairway also leads down deeper into the caves where some
+residents have set up shops.  
+~
+0 13 0
+D0
+~
+~
+0 0 1401
+D1
+~
+~
+0 0 1407
+D2
+~
+~
+0 0 1419
+D3
+~
+~
+0 0 1413
+D4
+~
+~
+0 0 1433
+D5
+~
+~
+0 0 1425
+S
+#1401
+{DM{gu{Dt{ga{Dn{gt{D Homes{x~
+A strange black slime covers the walls.  A foul stench permeates the
+caverns.  Light is scarce here.  The center of Vrugar is south, the caverns
+continue north.  
+~
+0 9 0
+D0
+~
+~
+0 0 1402
+D2
+~
+~
+0 0 1400
+S
+#1402
+{DM{gu{Dt{ga{Dn{gt{D Homes{x~
+A strange black slime covers the walls.  A foul stench permeates the
+caverns.  Light is scarce here.  The center of Vrugar is south, the caverns
+continues north and south.  
+~
+0 9 0
+D0
+~
+~
+0 0 1403
+D2
+~
+~
+0 0 1401
+S
+#1403
+{DM{gu{Dt{ga{Dn{gt{D Homes{x~
+A strange black slime covers the walls.  A foul stench permeates the
+caverns.  Light is scarce here.  The center of Vrugar is south, the caverns
+continues north and south.  
+~
+0 9 0
+D0
+~
+~
+0 0 1404
+D2
+~
+~
+0 0 1402
+S
+#1404
+{DM{gu{Dt{ga{Dn{gt{D Homes{x~
+A strange black slime covers the walls.  A foul stench permeates the
+caverns.  Light is scarce here.  The center of Vrugar is south.  To the west
+is a temple of sorts to heal up in, a small donation room is to the east.  
+~
+0 9 0
+D2
+~
+~
+0 0 1403
+D3
+~
+~
+0 0 1405
+S
+#1405
+{DT{ge{Dm{gp{Dl{ge{x~
+A small reception area of the temple for travellers to recall too.  The
+ever present black slime is intensified here tenfold.  The dankess and
+darkness is almost overwhelming, but somehow...  Comforting.  To the west is
+a small place to heal your wounds.  East leads to the cavernous Mutant
+Homes.  
+~
+0 9 0
+D1
+~
+~
+0 0 1404
+D3
+~
+~
+0 0 1406
+S
+#1406
+{GP{gl{Ga{gg{Gu{ge {DTemple{x~
+Worshippers of the plague.  The hideous mutants pray to their idol god to
+give them the strength to kill those who have shunned them to a life below
+the surface.  There is a rather comfortable looking pool of greenish water. 
+A healer stands by to dish out treatment.  East leads back into the caverns.
+~
+0 1033 0
+D1
+~
+~
+0 0 1405
+S
+#1407
+{DSmall C{ya{Dv{ye{Dr{yn{x~
+A rather small cavern compared to the rest of the network of caves,
+serves as the goblin section of Vrugar.  The tunnel is well lit to the point
+of almost blinding.  It continues on east.  The center of Vrugar is west.  
+~
+0 9 0
+D1
+~
+~
+0 0 1408
+D3
+~
+~
+0 0 1400
+S
+#1408
+{DSmall C{ya{Dv{ye{Dr{yn{x~
+A rather small cavern compared to the rest of the network of caves,
+serves as the goblin section of Vrugar.  The tunnel is well lit to the point
+of almost blinding.  It continues east and west.  
+~
+0 9 0
+D1
+~
+~
+0 0 1409
+D3
+~
+~
+0 0 1407
+S
+#1409
+{DSmall C{ya{Dv{ye{Dr{yn{x~
+A rather small cavern compared to the rest of the network of caves,
+serves as the goblin section of Vrugar.  The tunnel is well lit to the point
+of almost blinding.  It continues east and west.  
+~
+0 9 0
+D1
+~
+~
+0 0 1410
+D3
+~
+~
+0 0 1408
+S
+#1410
+{DSmall C{ya{Dv{ye{Dr{yn{x~
+A rather small cavern compared to the rest of the network of caves,
+serves as the goblin section of Vrugar.  The tunnel is well lit to the point
+of blinding.  A small chamber is to the north.  West leads to the center of
+Vrugar.  
+~
+0 9 0
+D0
+~
+~
+0 0 1411
+D3
+~
+~
+0 0 1409
+S
+#1411
+{DReception C{yh{Da{ym{Db{ye{Dr{x~
+This is a small niche for travelling goblins to recall too.  To the north
+is a small room to heal safely.  To the south, is a cavern leading to the
+center of Vrugar.  
+~
+0 9 0
+D0
+~
+~
+0 0 1412
+D2
+~
+~
+0 0 1410
+S
+#1412
+{DHealing {YC{yh{Ya{ym{Yb{ye{Yr{x~
+A small, plain room carved into the living earth.  Lots of torches burn
+merrily.  A large bubbling pool sits in the center of the room, it looks
+quite relaxing.  South leads back to the caverns.  
+~
+0 1032 0
+D2
+~
+~
+0 0 1411
+S
+#1413
+{DAlliance Headquarters{x~
+The homes and base of the Orcish and Ogre alliance.  Hundreds of
+dangerous weapons are strewn about the corridor.  Bright burning torches
+send gleaming flashes off of the steel blades.  This is a rather untidy
+place, but it serves the Orcs and Ogres evil needs.  East leads back to the
+Vrugar center.  
+~
+0 9 0
+D1
+~
+~
+0 0 1400
+D3
+~
+~
+0 0 1414
+S
+#1414
+{DAlliance Hall{x~
+The homes and base of the Orcish and Ogre alliance.  Hundreds of
+dangerous weapons are strewn about the corridor.  Bright burning torches
+send gleaming flashes off of the steel blades.  This is a rather untidy
+place, but it serves the Orcs and Ogres evil The hall continues east and
+west.  
+~
+0 9 0
+D1
+~
+~
+0 0 1413
+D3
+~
+~
+0 0 1418
+S
+#1415
+{DAlliance Hall{x~
+The homes and base of the Orcish and Ogre alliance.  Hundreds of
+dangerous weapons are strewn about the corridor.  Bright burning torches
+send gleaming flashes off of the steel blades.  This is a rather untidy
+place, but it serves the Orcs and Ogres evil To the south is the alliance
+war chapel.  East leads back to the center of Vrugar.  
+~
+0 9 0
+D1
+~
+~
+0 0 1418
+D2
+~
+~
+0 0 1416
+S
+#1416
+{DWar Chapel{x~
+A dark room for Ogres and Orcs to recall too.  A large statue of an idol
+war god stands in the center, brandishing a large axe.  South leads to a
+healing chamber, north to the alliance hall and back to Vrugar center.  
+~
+0 9 0
+D0
+~
+~
+0 0 1415
+D2
+~
+~
+0 0 1417
+S
+#1417
+{DHealing Chamber{x~
+A large quiet chamber used to healing the wounds of the battle hardened
+warriors of the alliance.  North leads to the war chapel.  A large tub is in
+the middle of the room to speed the recovery process.  
+~
+0 1033 0
+D0
+~
+~
+0 0 1416
+S
+#1418
+{DAlliance Hall{x~
+The homes and base of the Orcish and Ogre alliance.  Hundreds of
+dangerous weapons are strewn about the corridor.  Bright burning torches
+send gleaming flashes off of the steel blades.  This is a rather untidy
+place, but it serves the Orcs and Ogres evil needs.  The hall continues east
+and west.  
+~
+0 9 0
+D1
+~
+~
+0 0 1414
+D3
+~
+~
+0 0 1415
+S
+#1419
+{DSnug {YC{ya{Yv{ye{Yr{yn{x~
+A rather snug cavern carved into the living rock.  Orbs of faerie fire
+hang on the walls illuminating the cave in a purplish hue.  The cave
+continues south.  The center of Vrugar is to the north.  
+~
+0 9 0
+D0
+~
+~
+0 0 1400
+D2
+~
+~
+0 0 1420
+S
+#1420
+{DSnug {YC{ya{Yv{ye{Yr{yn{x~
+A rather snug cavern carved into the living rock.  Orbs of faerie fire
+hang on the walls illuminating the cave in a purplish hue.  The cave
+continues to the south and north.  
+~
+0 9 0
+D0
+~
+~
+0 0 1419
+D2
+~
+~
+0 0 1421
+S
+#1421
+{DSnug {YC{ya{Yv{ye{Yr{yn{x~
+A rather snug cavern carved into the living rock.  Orbs of faerie fire
+hang on the walls illuminating the cave in a purplish hue.  The cave
+continues to the south and north.  
+~
+0 9 0
+D0
+~
+~
+0 0 1420
+D2
+~
+~
+0 0 1422
+S
+#1422
+{DSnug {YC{ya{Yv{ye{Yr{yn{x~
+A rather snug cavern carved into the living rock.  Orbs of faerie fire
+hang on the walls illuminating the cave in a purplish hue.  A small shrine
+is to the east.  A small cavern heads north to the center of Vrugar.  
+~
+0 9 0
+D0
+~
+~
+0 0 1421
+D1
+~
+~
+0 0 1423
+S
+#1423
+{DBlack Shrine{x~
+Two large obelisks made of black marble stand in the center of the room. 
+This is a sacred place for the gnolls to recall too after adventuring.  East
+leads to a healing chamber, west to a cavern, and then to the Vrugar center.
+~
+0 0 0
+D1
+~
+~
+0 0 1424
+D3
+~
+~
+0 0 1422
+S
+#1424
+{DHealing Chamber{x~
+A rather drab, small healing chamber reserved for the gnolls.  A large
+bubbling pool sits in the center of the room.  The faerie fire lighting is
+concentrated deeply here to focus the healing effects.  West leads back into
+the corridor.  
+~
+0 1033 0
+D3
+~
+~
+0 0 1423
+S
+#1425
+{DEntrance To Market Row{x~
+A few residents have taken it upon themselves to open a few shops,
+selling basic necessities to those who would venture to the surface for
+adventure.  Up leads back to the center, market row and its shops are west. 
+~
+0 9 0
+D3
+~
+~
+0 0 1426
+D4
+~
+~
+0 0 1400
+S
+#1426
+{DMarket Row{x~
+Activity has increased severely in this dark place.  Ogres, Orcs, Gnolls,
+everyone is running about selling wares to each other, trying to acquire the
+best deal.  The Market Row continues west, the stairway is back east.  To
+the north, lies a weapon shop.  To the south is an armor shop.  
+~
+0 1 0
+D0
+~
+~
+0 0 1427
+D1
+~
+~
+0 0 1425
+D2
+~
+~
+0 0 1428
+D3
+~
+~
+0 0 1429
+S
+#1427
+{rWe{Rap{ron {DShop{x~
+A large hole in the wall basically sums up this shop.  Though its
+appearance is drab, the wares are sharp and indeed worth ones attention. 
+Many blades hang from the walls, axes, swords, daggers, scimitars, a
+varitable armory of finely crafted implements of death.  This especially
+skilled merchant also doubles as a smith, to enchant your weapons with
+various attributes (type FORGE).  South leads back to the Market Row.  
+~
+0 1033 0
+D2
+~
+~
+0 0 1426
+S
+#1428
+{bAr{Bm{bor{D Shop{x~
+A small hole carved into the living rock.  Large suits of armor of all
+types are hung everywhere, mostly different types of lower quality leather
+armor.  North leads back into the Market Row.  
+~
+0 1033 0
+D0
+~
+~
+0 0 1426
+S
+#1429
+{DMarket Row{x~
+Activity has increased severely in this dark place.  Ogres, Orcs, Gnolls,
+everyone is running about selling wares to each other, trying to acquire the
+best deal.  The Market Row continues west, the stairway is back east.  A
+potion shop lies to the north, a jewelry shop to the south.  
+~
+0 9 0
+D0
+~
+~
+0 0 1430
+D1
+~
+~
+0 0 1426
+D2
+~
+~
+0 0 1431
+D3
+~
+~
+0 0 1432
+S
+#1430
+{gPo{Gti{gon{D Shop{x~
+Toxic aromas waft around this tiny shop.  Glass containers are filled
+with liquids in every hue, red, blue, green, some of them bubbling in a
+disdainful manner.  South leads back to the Market Row.  
+~
+0 1033 0
+D2
+~
+~
+0 0 1429
+S
+#1431
+{mJe{Mwel{mry{D Shop{x~
+Glittering gem stones, rings, necklaces and other types of precious
+stones and metals are on the shelves.  The room is brightly lit to
+illuminate the products.  Some of the inventory has been enchanted with
+magical incantations to make them especially useful.  North leads back to
+Market Row.  
+~
+0 1033 0
+D0
+~
+~
+0 0 1429
+S
+#1432
+{BM{ba{Bg{bi{Bc {DShop{x~
+Tons of scrolls and staves line the walls of this tiny shop.  A tinge of
+magic is in the air.  East leads back into the Market Row.  
+~
+0 1033 0
+D1
+~
+~
+0 0 1429
+S
+#1433
+{DDark Stairwell{x~
+A small hole in the wall east leads to the Vrugar guild hall, where a
+questmaster, banker, guildmaster and other places lie.  Up leads to a cave
+that will take you out of this dark underground city, down leads back to the
+center of Vrugar.  
+~
+0 9 0
+D1
+~
+~
+0 0 1434
+D4
+~
+~
+0 0 1441
+D5
+~
+~
+0 0 1400
+S
+#1434
+{DVrugar Guildhall{x~
+This is a sort of adminitration area of the small city.  To the north
+lies a questmasters chamber, to the south, a banker.  East leads further
+into the guildhall.  
+~
+0 9 0
+D0
+~
+~
+0 0 1435
+D1
+~
+~
+0 0 1437
+D2
+~
+~
+0 0 1436
+D3
+~
+~
+0 0 1433
+S
+#1435
+{YQ{yu{Ye{ys{Yt{ym{Ya{ys{Yt{ye{Yr's {DChamber{x~
+Maps, treasure, artifacts, and other strange objects are strewn about
+this place.  It is dimly lit, a lone lantern swings above a well used wooden
+table.  A few adventurers are sitting around, waiting for their turn at
+another journey.  South leads back to the main guildhall.  
+~
+0 1033 0
+D2
+~
+~
+0 0 1434
+S
+#1436
+{DV{rr{Du{rg{Da{rr {DBank{x~
+Two big ogre guards flank either side of the entrance to this bank.  A
+large wall of rock has been put up between the waiting area and the vault. 
+This is a safe place to store your money, and also trade shares for
+lucrative profit.  North leads back to the main guildhall.  
+~
+0 1033 0
+D0
+~
+~
+0 0 1434
+S
+#1437
+{DVrugar Guildhall{x~
+This is a sort of adminitration area of the small city.  To the north is
+a practice hall for training your skills, to the south a bar to get some ale
+and hear a story.  
+~
+0 9 0
+D0
+~
+~
+0 0 1438
+D1
+~
+~
+0 0 1440
+D2
+~
+~
+0 0 1439
+D3
+~
+~
+0 0 1434
+S
+#1438
+{RP{rr{Ra{rc{Rt{ri{Rc{re {DHall{x~
+Rows and rows of practice weapons hang from the walls, used by
+adventurers to hone their skills.  A few practice dummies hang from the
+ceiling, battered and abused from the countless people attacking them. 
+South leads back to the guildhall.  
+~
+0 1033 0
+D2
+~
+~
+0 0 1437
+S
+#1439
+{DThe Black Widow Pub{x~
+Named for the danger one could find himself in here, The Black Widow Pub
+opened shortly after this city sprung up and has been the local haunt of
+many a resident and traveller.  The ale is good, but the specialty, Widow's
+Brew, has quite the kick.  North leads back into the guild hall.  
+~
+0 9 0
+D0
+~
+~
+0 0 1437
+S
+#1440
+{DVrugar Livery{x~
+This is where all the food for the caves is kept.  You can get a nibble,
+at a price of course.  West leads back to the guild hall.  
+~
+0 9 0
+D3
+~
+~
+0 0 1437
+S
+#1441
+{DApproaching Daylight{x~
+A faint pinhole of bright light to the distant north marks the outside
+world.  A small stairwell leads into the depths of Vrugar, the outside is
+north.  
+~
+0 9 0
+D0
+~
+~
+0 0 1442
+D5
+~
+~
+0 0 1433
+S
+#1442
+{DApproaching Daylight{x~
+The light that marks the end of this mustly cavern grows ever close.  A
+strong refreshing breeze can be felt here, the cave continues north.  
+~
+0 9 0
+D0
+~
+~
+0 0 1443
+D2
+~
+~
+0 0 1441
+S
+#1443
+{DApproaching Daylight{x~
+The light that marks the end of this mustly cavern grows ever close.  A
+strong refreshing breeze can be felt here, the cave continues north.  
+~
+0 9 0
+D0
+~
+~
+0 0 1445
+D2
+~
+~
+0 0 1442
+S
+#1445
+{DThe Mouth Of The Cave{x~
+The last shades of darkness gradually pull away from the light.  The air
+is fresh and clean.  The musty smell that pervades throughout the caves
+below vanishes with each breeze.  The outside is north.  Vrugar is back to
+the south.  
+~
+0 13 0
+D0
+~
+~
+0 0 632
+D2
+~
+~
+0 0 1443
+S
+#0
+
+
+
+#SPECIALS
+M 1400 spec_cast_adept
+M 1401 spec_cast_adept
+M 1402 spec_cast_adept
+M 1403 spec_cast_adept
+M 1409 spec_questmaster
+S
+
+
+
+#RESETS
+M 0 1414 100 1400 3
+M 0 1414 2 1400 2
+M 0 1414 100 1404 3
+M 0 1414 2 1404 2
+O 0 1400 0 1406
+M 0 1400 1 1406 1
+M 0 1414 100 1410 3
+M 0 1414 2 1410 2
+O 0 1401 0 1412
+M 0 1401 1 1412 1
+M 0 1414 2 1415 2
+O 0 1401 0 1417
+M 0 1402 1 1417 1
+M 0 1414 100 1418 3
+M 0 40546 1 1418 1
+E 0 40543 0 16
+M 0 1414 100 1422 3
+M 0 1414 2 1422 2
+O 0 1401 0 1424
+M 0 1403 1 1424 1
+M 0 1414 2 1425 2
+M 0 1414 100 1426 3
+M 0 1404 1 1427 1
+G 0 1402 0
+G 0 1403 0
+G 0 1404 0
+G 0 1405 0
+G 0 1406 0
+G 0 1407 0
+G 0 1408 0
+G 0 1409 0
+M 0 1405 1 1428 1
+G 0 1419 0
+G 0 1418 0
+G 0 1417 0
+G 0 1416 0
+G 0 1415 0
+G 0 1414 0
+G 0 1413 0
+G 0 1412 0
+G 0 1411 0
+G 0 1410 0
+M 0 1414 2 1429 2
+M 0 1406 1 1430 1
+G 0 1427 0
+G 0 1426 0
+G 0 1425 0
+G 0 1424 0
+G 0 1423 0
+G 0 1422 0
+G 0 1421 0
+G 0 1420 0
+M 0 1407 1 1431 1
+G 0 1430 0
+G 0 1429 0
+G 0 1428 0
+M 0 1408 1 1432 1
+G 0 1436 0
+G 0 1435 0
+G 0 1434 0
+G 0 1433 0
+G 0 1432 0
+G 0 1431 0
+M 0 1414 2 1432 2
+M 0 1409 1 1435 1
+M 0 1410 1 1436 1
+M 0 1414 2 1437 2
+M 0 1411 1 1438 1
+M 0 1412 1 1439 1
+G 0 1440 0
+G 0 1439 0
+G 0 1438 0
+G 0 1437 0
+O 0 1441 0 1439
+M 0 1414 100 1440 3
+M 0 1413 1 1440 1
+G 0 1444 0
+G 0 1443 0
+G 0 1442 0
+M 0 1414 2 1440 2
+M 0 1414 100 1442 3
+S
+
+
+
+#SHOPS
+1404 5 0 0 0 0 100 100 0 23
+1405 9 0 0 0 0 100 100 0 23
+1406 10 0 0 0 0 100 100 0 23
+1407 33 0 0 0 0 100 100 0 23
+1408 4 2 3 0 0 100 100 0 23
+1412 17 0 0 0 0 100 100 0 23
+1413 19 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

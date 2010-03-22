@@ -1,0 +1,2156 @@
+#AREADATA
+Name High Elven Fortress~
+Builders Giliath~
+VNUMs 40200 40299
+Credits {Y[120-150] High Elven Fortress{x~
+Security 1
+RepopMsg A pale {WLight{x swirles around you as the servants of the Gods return to the land...~
+End
+
+
+
+#MOBILES
+#40200
+icy cold~
+The {CI{cc{Cy {cC{Co{cl{Cd {xof Space~
+The {CI{cc{Cy {xcold of space swirles arround you...
+~
+The great cold of space surronding you...
+~
+Human~
+A 0 0 C 0 5
+202 125 2000d100+5000 125d11+95 300d50+500 wrath
+-500 -500 -500 -500
+DFH C D 0
+stand stand none 0
+L 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 40200 100~
+#40203
+academy master~
+{WAcademy Master{x~
+The spirit of a long dead {WAcademy Master{x floats gently here
+~
+The translucent visage of this magical master appears quite strong 
+~
+Human~
+A 0 0 0 0 0
+201 300 804d30+10000 201d15+600 51d5+227 none
+-235 -235 -235 -194
+0 0 0 CK
+stand stand none 5000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40205
+high guard~
+A {YH{yi{Yg{yh {xElven {CG{cu{Ca{cr{Cd{x~
+An elven {Cg{cu{Ca{cr{Cd{x stands here, as still as a statue
+~
+A tall guard that stands motionless as you approach, his hand by his
+sword hilt at all times...  
+~
+Elf~
+AB 0 JVc HN 1000 0
+120 480 481d41+15757 120d15+600 31d5+146 slash
+-137 -137 -137 -112
+0 A BC IZ
+stand stand male 150
+HV 0 large unknown
+F for AM
+F par ABCDEFGHIJK
+#40206
+elven soldier~
+a {WM{Bi{Wg{Bh{Wt{By {xElven Soldier~
+An {We{Bl{Wv{Be{Wn {xsoldier stands tall before you...
+~
+One of the many soldiers of this fortress, he is tall and powerful, his
+eyes are set like steel as he looks down at you.  
+~
+Elf~
+AB 0 JVa 0 1000 0
+110 440 441d37+13333 110d15+600 30d8+14000 smash
+-124 -124 -124 -102
+FIK 0 BN CZ
+stand stand male 100
+HV GJ large unknown
+F for AM
+F par ABCDEFHIK
+#40207
+elven soldier~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0 0
+105 420 421d36+12721 105d15+600 30d8+150 smash
+-118 -118 -118 -97
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40208
+elven ranger~
+an {CE{cl{Cv{ce{Cn {gR{Ga{gn{Gg{ge{Gr{x~
+An elven {gr{Ga{gn{Gg{ge{Gr{x moves as lightly as a shadow as he passes...
+~
+One of the many scouts of the high fortress.  These rangers are spread
+throughout the wilderness beyond the castle, watching all things that move
+across the land.  
+~
+Elf~
+ACG 0 JP 0 1000 0
+120 480 481d41+15757 120d15+600 31d5+146 pierce
+-137 -137 -137 -112
+FIK 0 B Z
+stand stand male 100
+H BIJ medium unknown
+F for AMV
+F par ACDEFGHK
+#40209
+mage~
+a Junior {CM{ca{Cg{ce{x~
+A young {Cm{ca{Cg{ce{x mage stands here, surrounded by a magical aura
+~
+A young elf training to be a powerful mage, he stands here surronded by a
+magical aura, showing off his new skills 
+~
+Elf~
+AB 0 J EN 1000 0
+110 440 441d37+13333 110d15+600 28d5+136 blast
+-124 -124 -124 -102
+F 0 BC DZ
+stand stand none 100
+H BGJ medium unknown
+F for AMV
+F par ACDEFHIK
+#40211
+elven king~
+The {WE{cl{Wv{ce{Wn {x{YK{yi{Yn{yg{X~
+The great {We{cl{Wv{ce{Wn{x king sits here upon his throne...
+~
+The ancient high elven king, he has ruled fairly over these lands for
+many years.  He has lived for many human lifetimes but he is as fit in body
+as mind as he was in the prime of his life.  
+~
+Elf~
+AB 0 JVa CDEH 1000 0
+150 600 801d61+22000 200d20+800 50d10+250 thrust
+-173 -173 -173 -142
+FK 0 BCD LZ
+stand stand male 200
+HV ABCDEFGHIJK medium unknown
+F for AM
+#40250
+hall guard~
+A Hall {CG{cu{Ca{cr{Cd{x~
+A hall {Cg{cu{Ca{cr{Cd{x stands here, watching you go past...
+~
+He is well armed and, like most of the elven guards, stands as still as
+if he were carved from stone.  
+~
+Elf~
+AB 0 J 0 1000 0
+115 460 461d39+13933 115d15+600 29d5+141 pierce
+-130 -130 -130 -107
+FK 0 BE CZ
+stand stand male 0
+HV BJ medium unknown
+F for AM
+F par ACDEFGHIK
+#40251
+priest~
+The {CK{ce{Ce{cp{Ce{cr {xof the {YO{yr{Yb{x~
+An elven {cp{Cr{ci{Ce{cs{Ct{x peers into the glowing orb...
+~
+He peers deep within the orb, searching perhaps for some ancient
+knowledge or wisdom.  Sweat pours off his face as he peers into it, giving
+all his power to his task 
+~
+Elf~
+AB 0 JTVa DH 1000 0
+120 480 481d41+15757 140d20+650 31d5+146 charge
+-137 -137 -137 -112
+FIK 0 BC F
+stand stand male 500
+HV AG large unknown
+F vul Z
+F for AM
+F par BCDEFHIJK
+M ACT 40251 gets~
+#40252
+beast of shadow and flame~
+the Creature {RF{ri{Rr{Re{x and {BS{Dh{Ba{Dd{Bo{Dw{x~
+A mighty beast of {Rf{ri{Rr{re{x and {Dd{Ba{Dr{Bk{Dn{Be{Ds{Bs{x looms before you, filling you with fear...
+~
+Fire and darkness mixing and swirling around a centre figure or shape.  
+~
+Demon~
+ACF 0 Va D -1000 0
+135 540 600d60+17750 200d20+700 50d10+200 wrath
+-155 -155 -155 -127
+ABIJO DH 0 CIN
+stand stand none 0
+CH G huge unknown
+F vul SY
+F for AMV
+F par ABCHIJK
+#40253
+dungeon guard~
+The {DD{Bu{Dn{Bg{De{Bo{Dn{x Guard~
+A guard stands in the middle of the dungeon keeping watch over the prisoners...
+~
+A normal guard of the fortress, stuck with the worst job possible,
+standing here in the damp and dark watching over the sleepless prisoners.  
+~
+Elf~
+AB 0 JV HN 1000 0
+130 520 521d44+17070 130d15+600 33d5+156 thrust
+-149 -149 -149 -122
+FIK 0 BD F
+stand stand male 0
+HV GJ large unknown
+F vul Z
+F for AM
+F par ABCDEFHIK
+#40255
+helpless orc~
+a {Bhelpless{x orc~
+A {Bhelpless{x orc lies here crawling towards you arms spread out towards you...
+~
+A helpless diseased orc prisoner...  Crawling out toward you...  Trying
+to say something...  
+~
+Orc~
+AB 0 AJYad 0 1000 0
+100 100 20d3+500 100d9+60 5d2+50 claw
+-10 -10 -10 0
+CO 0 CDQ CEIPS
+stand stand none 0
+V BGJ small unknown
+F for AHM
+F par ACDEFHIK
+#40257
+elven armourer~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40259
+elite guard~
+An {CE{cl{Ci{ct{Ce{x Guard~
+An elite {Wg{bu{Wa{br{Wd{x blocks your path and draws his weapon...
+~
+A menacing guard, he stands taller than any other guard in the fortress
+and his face is utterly emotionless as he draws his weapon and leaps forward
+to block your path.  
+~
+Elf~
+ABF 0 DFJTV CE 1000 0
+150 600 601d51+19696 150d15+600 38d5+176 crush
+-173 -173 -173 -142
+0 0 BD C
+stand stand male 50
+HV GJ large unknown
+F vul Z
+F for AM
+F par ABCDEFHIK
+#40261
+ecthelion throne guard~
+{CE{cc{Ct{ch{Ce{cl{Ci{co{Cn{x, The Guard of {WG{bi{Wl{bi{Wa{bt{Wh{x~
+{CE{cc{Ct{ch{Ce{cl{Ci{co{Cn{x, The Guard of {WG{bi{Wl{bi{Wa{bt{Wh{x, eyeing you...
+~
+The Guard of Gondolin, who slew Gothmog, Lord of Balrogs...  
+~
+Elf~
+AB 0 DFJTVa CDEH 1000 0
+202 1000 809d68+30601 202d15+600 51d5+228 crush
+-236 -236 -236 -195
+BEFHIK BD C 0
+stand stand male 0
+AHMV J large unknown
+F res B
+F vul Z
+F par ABCDEFGHIK
+#40262
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40266
+master mage~
+The High {CM{ca{Cg{ce{x~
+The {Ym{ya{Ys{yt{Ye{yr{x mage and sorcerer stands here...looking at his young apprentices with approval.
+~
+An elven mage of great power and respect, almost a god of magic some say
+but he is no immortal...  
+~
+Elf~
+AB 0 JT CE 1000 0
+150 600 601d51+19696 150d15+600 38d5+176 blast
+-173 -173 -173 -142
+0 0 BC DZ
+stand stand none 100
+AHMV BG medium unknown
+F par ACDEFHIJK
+#0
+
+
+
+#OBJECTS
+#40200
+clouded portal~
+a {CC{cl{Co{cu{Cd{ce{Cd {xPortal~
+A {Cc{cl{Co{cu{Cd{ce{Cd {xportal floats here...~
+unknown~
+portal 0 0
+0 0 0 40200 0
+1 0 0 P
+#40201
+glittering portal~
+a {yG{Wl{yi{Wt{yt{We{yr{Wi{yn{Wg{x Portal~
+A {yg{Wl{yi{Wt{yt{We{yr{Wi{yn{Wg{x portal floats here...~
+unknown~
+portal 0 0
+0 0 0 40290 0
+0 0 0 P
+#40202
+light portal~
+a {WL{bi{Wg{bh{Wt {xPortal~
+A {Wl{bi{Wg{bh{Wt {xportal floats here...~
+unknown~
+portal 0 0
+0 0 0 40280 0
+0 0 0 P
+#40203
+flaming portal~
+a {RF{Yl{Ra{Ym{Ri{Yn{Rg {xPortal~
+A {Rf{Yl{Ra{Ym{Ri{Yn{Rg {xportal floats here...~
+unknown~
+portal 0 0
+0 0 0 40549 0
+0 0 0 P
+#40205
+guard fire~
+a {RG{Yu{Ra{Yr{Rd {YF{Ri{Yr{Re{x~
+A warming {Rg{Yu{Ra{Yr{Rd {Yf{Ri{Yr{Re{x glows here~
+flame~
+trash 0 0
+0 0 0 0 0
+1 0 0 P
+#40206
+message~
+an {CE{cn{Cg{cr{Ca{cv{Ce{cd {xStone~
+A mysterious {Ce{cn{Cg{cr{Ca{cv{Ce{cd {xstone sits before the portals...~
+stone~
+trash 0 0
+0 0 0 0 0
+1 0 0 P
+E
+engraved~
+{RBe {rWarned {RTraveller{x, oh wanderer from distant lands of the choice
+that is laid before you.  In this room there are 4 portals, chose carefully
+for a hasty decision gone wrong will land you in deep trouble.  One of these
+gateways will lead you forward, to the great Throne Room of the fortress,
+one will send you back to the beginning to work your way back here again. 
+The other 2 are not so kind, one will abandon you without hope of rescue far
+from your land, one will put you in mortal peril so walk carefully
+traveller!  However here are some clues which may save you friend, as you
+pace, troubled, before this final guard.  Of the cloudy portal i will say
+this- 'clouded is your future if you are ever looking back, and rarely is
+there smoke without a fire...  ' Of the glittering portal pay heed to this-
+'the light of the stars glitters above you, shining bright to cast a light
+upon your path, so sad that there is darkness in between.  ' Of the flaming
+gateway you need not fear, 'death does not linger on the otherside, fire is
+our friend in the wilderness.  ' Of light i will say this- 'Not all light is
+wholesome, there is the pleasent light of the summer days, and the bitter
+cold light that shines through the prison bars...  ' 
+~
+E
+desc~
+{RBe {rWarned {RTraveller{x, oh wanderer from distant lands of the choice
+that is laid before you.  In this room there are 4 portals, chose carefully
+for a hasty decision gone wrong will land you in deep trouble.  One of these
+gateways will lead you forward, to the great Throne Room of the fortress,
+one will send you back to the beginning to work your way back here again. 
+The other 2 are not so kind, one will abandon you without hope of rescue far
+from your land, one will put you in mortal peril so walk carefully
+traveller!  However here are some clues which may save you friend, as you
+pace, troubled, before this final guard.  Of the cloudy portal i will say
+this- 'clouded is your future if you are ever looking back, and rarely is
+there smoke without a fire...  ' Of the glittering portal pay heed to this-
+'the light of the stars glitters above you, shining bright to cast a light
+upon your path, so sad that there is darkness in between.  ' Of the flaming
+gateway you need not fear, 'death does not linger on the otherside, fire is
+our friend in the wilderness.  ' Of light i will say this- 'Not all light is
+wholesome, there is the pleasent light of the summer days, and the bitter
+cold light that shines through the prison bars...  ' 
+~
+#40210
+elven blade~
+an {CE{cl{Cv{ce{Cn{x {cB{bl{ca{bd{ce{x~
+A {Ys{yh{Yi{ym{Ym{ye{Yr{yi{Yn{yg{x blade lies here...~
+iron~
+weapon K AN
+sword 12 17 slash AE
+115 116 8025 P
+A
+2 2
+A
+19 5
+A
+18 5
+#40211
+king cloak~
+the {CK{ci{Cn{cg{C's{x Elven {GC{gl{Go{ga{Gk{x~
+A {Cr{co{Cy{ca{Cl{x cloak lies here...~
+cloth~
+armor 0 AC
+150 150 150 140 0
+148 149 144 P
+#40250
+giliath's throne~
+{CG{ci{Cl{ci{Ca{ct{Ch{c's {YT{yh{Yr{yo{Yn{ye{x~
+The {YT{yh{Yr{yo{Yn{ye {xof {CG{ci{Cl{ci{Ca{ct{Ch{x glowes before you...~
+unknown~
+furniture A 0
+1 0 E 0 0
+1 1 0 P
+#40251
+orb p-item~
+{CO{cr{Cb {xof the {ySetting {YSun{x~
+A brightly {yg{Yl{yo{Yw{yi{Yn{yg{x orb floats in the middle of the room...~
+unknown~
+armor ABK AQ
+80 80 80 80 0
+110 111 106 P
+A
+4 2
+A
+3 1
+A
+18 2
+#40252
+dungeon key~
+the {DD{Bu{Dn{Bg{De{Bo{Dn {xKey~
+A large metal key lies here in the dust...~
+unknown~
+key Y AO
+0 0 0 0 0
+1 1 0 P
+#40254
+corpse~
+the {DC{Bo{Dr{Bp{Ds{Be{x~
+A shrivled {Dc{Bo{Dr{Bp{Ds{De{x lies here, eyes half open...~
+unknown~
+npc_corpse 0 0
+0 0 0 0 0
+1 1 0 P
+#40255
+prisoner cloak~
+a {DP{Br{Di{Bs{Do{Bn{De{Br{D's{x Cloak~
+A tattered cloak is rolled in a ball here~
+unknown~
+armor 0 AC
+90 90 90 90 0
+100 1 96 P
+A
+12 200
+A
+13 200
+#40256
+pool~
+the {CW{ba{Ct{be{Cr{x~
+A smooth pool of {Cw{ba{Ct{be{Cr{x glitters in the sun...~
+unknown~
+portal 0 0
+0 0 0 40294 0
+1 1 0 P
+#40257
+cabinet~
+an {CA{cn{Cc{ci{Ce{cn{Ct{x Cabinet~
+A {Cb{ce{Ca{cu{Ct{ci{Cf{cu{Cl{cl{Cy{x carved cabinet rests upon the marbel alter...~
+unknown~
+container AG 0
+5 ABCD 40258 100 50
+1 0 0 P
+#40258
+silver key~
+a {WS{Di{Wl{Dv{We{Dr{x Key~
+A small {Ws{Di{Wl{Dv{We{Dr{x key lies here...~
+unknown~
+key ABGK AO
+0 0 0 0 0
+1 1 0 P
+#40259
+ainlor mighty spear p-item~
+{WA{bi{Wn{bl{Wo{br{W's{X Mighty Spear~
+An ancient {Ws{bp{We{ba{Wr{x is glowing and trembling with power...~
+unknown~
+weapon AGIKY AN
+staff 25 25 thrust B
+150 151 10080 P
+A
+19 250
+A
+18 250
+A
+1 2
+A
+2 4
+#40260
+zkfltr~
+an Important {WNote{x~
+An important note lies here, read it!~
+paper~
+trash 0 AO
+0 0 0 0 0
+1 1 0 P
+E
+note~
+Well traveller, oh wanderer from distant lands, i am impressed.  You have
+come here to this place through many dangerous paths.  You fought through
+the dungeons, you crawled through the tunnel, you realized the pool was a
+portal, you fought the high guards, and you had the courage to open the
+cabinet.  You have proved you worth to me.  I am Giliath, The Left hand of
+Darkness.  The spear that you have found is a mighty item indeed, i needed
+to get permission to make such a thing.  Now it may be useless to you if you
+have been mighty enough to gain the Blade of the Ancients, yet if so think
+of someone who is in need of such a weapon as this, someone who will use it,
+for good.  Wanderer, if you choose to keep this weapon, and use it i have a
+few things to ask of you, and to tell you.  When you take this spear from
+it's cabinet tell me as soon as you can for i will have a task to do.  Also,
+you will not be able to hold this weapon if you spill the blood of the Gods'
+true servents.  Use it for the slaying of evil, and the protection of good. 
+Wanderer i salute you, for you have done well to come here.  
+~
+#40278
+woven rest mat~
+(no short description)~
+(no description)~
+unknown~
+furniture 0 0
+2 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#40200
+The Gates Inward~
+{RArea {YIntended {RFor {YLevel {R100-{Y125{x A large set of open gates
+are before you.  Strange runes are ingraved on both the silver of the doors
+and the marble stone on either side.  Standing infront of the gates are two
+elven guards.  They are tall, their eyes glitter as they look at you, they
+are clad in mithril armor that shines through under their grey cloaks. 
+Their long silver hair catches the last rays of the sun as it sets and
+shines out like fire behind their noble faces.  
+~
+0 0 0
+D0
+~
+~
+0 0 40201
+S
+#40201
+The Inner Hallway~
+Here, beyond the gates you have entered into the mighty fortress of the
+high elves.  The walls are clean, the air is fresh and there is a feeling of
+safety and comfort here.  A few elves pass by and your weary body feels
+refreshed in their presence.  You feel inferior compared to these beings of
+powerful magic and might.  
+~
+0 0 0
+D1
+~
+~
+0 0 40204
+D2
+~
+~
+0 0 40200
+D3
+~
+~
+0 0 40202
+S
+#40202
+A Marble Hallway~
+A hallway made of marble, beautifully engraved with the history of this
+castle, runes of protection and anti-evil, and the names of mighty warriors
+that dwelt within this castle 
+~
+0 0 0
+D0
+~
+~
+0 0 40206
+D1
+~
+~
+0 0 40201
+D3
+~
+~
+0 0 40203
+S
+#40203
+A Guard Room~
+A small room filled with a company of armed guards, ready to rush to the
+gates if there is an emergency.  One is sharpening and enchanting his silver
+sword in the corner, the other two are engaging in a mock sword fight, the
+clash of their weapons fills the room and you get the feeling that they are
+not to be underestimated.  
+~
+0 0 0
+D1
+~
+~
+0 0 40202
+S
+#40204
+A Marble Hallway~
+A short hallway leading east, west, and north.  The walls are made of
+marble, as are most of the passageways in this fortress.  The walls also
+seem to be reinforced with magic.  This must be an ancient castle, the
+writing on the wall seems very old, you doubt that there are many alive able
+to understand it.  
+~
+0 0 0
+D0
+~
+~
+0 0 40219
+D1
+~
+~
+0 0 40205
+D3
+~
+~
+0 0 40201
+S
+#40205
+A Guard Room~
+A small room filled with a company of armed guards, ready to rush to the
+gates if there is an emergency.  One is sharpening and enchanting his silver
+sword in the corner, the other two are engaging in a mock sword fight, the
+clash of their weapons fills the room and you get the feeling that they are
+not to be underestimated.  
+~
+0 0 0
+D3
+~
+~
+0 0 40204
+S
+#40206
+A Wide Hallway~
+A hallway made of marble, beautifully engraved with the history of this
+castle, runes of protection and anti-evil, and the names of mighty warriors
+that dwelt within this castle 
+~
+0 0 0
+D0
+~
+~
+0 0 40207
+D2
+~
+~
+0 0 40202
+S
+#40207
+A Turning~
+Here the castle's hallway takes a turning to the west.  Elves walk past
+looking curiously at you, no doubt wondering what the hell you are doing in
+their fortress.  On one of the floor stones is written in an ancient elven
+alphabet are the words "Here walked Gilrion, Lord of the High Elves"
+'Gil-who?  ' you think to yourself and walk on..  
+~
+0 0 0
+D2
+~
+~
+0 0 40206
+D3
+~
+~
+0 0 40208
+S
+#40208
+A Marble Hallway~
+You continue down one of the many hallways of the elven fortress.  Guards
+watch you closely as you pass, in these evil times even the hospitality of
+the elves has been diminished.  In times of peace their generosity and
+kindness was known throughout the land.  A testimony to the impact of these
+dark times, once this race and no need for weapons or castles such as this,
+now they are needed to keep a constant guard against the oncoming tides of
+evil.  What a sad world this is becoming.  
+~
+0 0 0
+D1
+~
+~
+0 0 40207
+D3
+~
+~
+0 0 40209
+S
+#40209
+A Marble Hallway~
+You continue down one of the many hallways of the elven fortress. 
+Guards watch you closely as you pass, in these evil times even the
+hospitality of the elves has been diminished.  In times of peace their
+generosity and kindness was known throughout the land.  A testimony to the
+impact of these dark times, once this race and no need for weapons or
+castles such as this, now they are needed to keep a constant guard against
+the oncoming tides of evil.  What a sad world this is becoming.  
+~
+0 0 0
+D0
+~
+~
+0 0 40211
+D1
+~
+~
+0 0 40208
+D2
+~
+~
+0 0 40210
+S
+#40210
+A Training Room~
+Here a pair of warrior trainees are leaping around the room, a furious
+mock sword fight has taken place between them and the cold clash of their
+weapons spreads throughout the halls.  One is clearly superior to the other,
+as he disarms him with a quick counter, sending his weapon flying against
+the far wall.  Suddenly the disarmed trainee disappears and reappears next
+to his weapon.  "Hey!  No Teleporting!"  Bellows his opponet.  
+~
+0 0 0
+D0
+~
+~
+0 0 40209
+S
+#40211
+A Turning~
+On the floor here, where the hallway turns westward, is engraved in a
+stone- "Valandur, mighty elf and companion".  There seems to be many such
+engravings throughout this castle, maybe you should read more of them, could
+be useful..  F On the floor here, where the hallway turns westward, is
+engraved in a stone- "Valandur, mighty elf and loyal companion".  There
+seems to be many such engravings throughout this castle, maybe you should
+read more of them, could be useful.  You wonder who these people are, and
+what they did to earn this honour.  
+~
+0 0 0
+D2
+~
+~
+0 0 40209
+D3
+~
+~
+0 0 40213
+S
+#40213
+A Marble Hallway~
+You continue down one of the many hallways of the elven fortress. 
+Guards watch you closely as you pass, in these evil times even the
+hospitality of the elves has been diminished.  In times of peace their
+generosity and kindness was known throughout the land.  A testimony to the
+impact of these dark times, once this race and no need for weapons or
+castles such as this, now they are needed to keep a constant guard against
+the oncoming tides of evil.  What a sad world this is becoming.  
+~
+0 0 0
+D1
+~
+~
+0 0 40211
+D3
+~
+~
+0 0 40214
+S
+#40214
+The Hallway to the Tower~
+This long hallway leads west to the tower that already loomed before you
+as you approached the fortress from afar.  A cold wind rushes through the
+hallway suddenly causing you to shiver.  Ad you tremble a tall elf touches
+you on the shoulder and you feel warmth flooding through you again.  
+~
+0 0 0
+D1
+~
+~
+0 0 40213
+D3
+~
+~
+0 0 40215
+S
+#40215
+Base of the SouthWest Tower~
+A long flight of stairs leads upwards, climbing what seems to be a guard
+tower.  You remember seeing many such towers as you approached.  This must
+be the base of South West tower, this is as far as you can go westward, the
+only choices are climbing the tower and returning east 
+~
+0 0 0
+D1
+~
+~
+0 0 40214
+D4
+~
+~
+0 0 40216
+S
+#40216
+The SouthWest Tower~
+You climb the stairs slowly, your feet echoing through the tower.  You
+hear quiet voices just up above you, they seem to belong to elves, they are
+speaking in their own language, you can make out what they are saying, but
+their voices are casual, nothing to be concerned about.  
+~
+0 0 0
+D4
+~
+~
+0 0 40217
+D5
+~
+~
+0 0 40215
+S
+#40217
+The Archery Slits~
+A company of the elves best archers stand here, gazing out the narrow
+windows through which they can pour out their arrows in times of war.  Their
+eyes are keen and bright, they carry very long bows of some strange wood,
+both the bows and arrows are glowing softly, enchanted you would guess.  
+~
+0 0 0
+D4
+~
+~
+0 0 40218
+D5
+~
+~
+0 0 40216
+S
+#40218
+Top of the Tower~
+Here the tall Guard Tower reaches it's peak, the wind is powerful and you
+can see for many leagues in all directions.  You look out over the great
+fortress of the elves, and you realize for the first time how massive it
+truely is.  Tower upon tower, battlement upon battlement, it stands out,
+silver white, against the dark future that is prepared for it.  The sky over
+clouds over, and the once refresing wind turns cold and dark.  "The black
+wind begins to blow..."  Says a mysterious voice...  But there is no one
+here.  
+~
+0 0 0
+D5
+~
+~
+0 0 40217
+S
+#40219
+The Main Passage~
+This seems to be the beginning of the Main Hallway through the castle. 
+It leads south towards the gates and north deep into the fortress.  Another
+stone is engraved with a message here "Lars- Chief of the White Council". 
+Another name unknown to you...  Surely it must have some meaning.  
+~
+0 0 0
+D0
+~
+~
+0 0 40220
+D2
+~
+~
+0 0 40204
+S
+#40220
+The Main Passage~
+The Main Passage continues here, ands as you walk along you see yet
+another message at your feet "Kharas- Mortal man yet Honourable Warrior of
+the White Council".  A non-elf?  Honoured in the High Elven Fortress... 
+Strange.  Maybe there are many more poeple of different races remembered
+like this...  You doubt it, elves have fierce pride.  
+~
+0 0 0
+D0
+~
+~
+0 0 40221
+D2
+~
+~
+0 0 40219
+S
+#40221
+Crossing Hallways~
+Here several hallways cross and on the center stone is engraved "Ageku-
+Lord of Battle".  More elves pass by, not even glancing at the engraving
+below.  You however are very interested by the many engravings that can be
+found throughout this castle.  Maybe they have some purpose, or are just
+there for decoration.  
+~
+0 0 0
+D0
+~
+~
+0 0 40230
+D1
+~
+~
+0 0 40222
+D2
+~
+~
+0 0 40220
+S
+#40222
+A Hallway with Many Windows~
+Windows line this hallway to the west and east, light streams through
+from the outside world adding a new look to the now familiar white walls,
+floors, and ceilings.  The air is fresh as it flows through the open
+windows.  
+~
+0 0 0
+D1
+~
+~
+0 0 40223
+D3
+~
+~
+0 0 40221
+S
+#40223
+A Hallway with Many Windows~
+Windows line this hallway to the west and east, light streams through
+from the outside world adding a new look to the now familiar white walls,
+floors, and ceilings.  The air is fresh as it flows through the open
+windows.  
+~
+0 0 0
+D1
+~
+~
+0 0 40224
+D3
+~
+~
+0 0 40222
+S
+#40224
+A Marble Hallway~
+A hallway made of marble, beautifully engraved with the history of this
+castle, runes of protection and anti-evil, and the names of mighty warriors
+that dwelt within this castle 
+~
+0 0 0
+D1
+~
+~
+0 0 40225
+D3
+~
+~
+0 0 40223
+S
+#40225
+Hallway to the SouthEast Tower~
+> This long hallway leads west to the tower that already loomed before
+you as yo u approached the fortress from afar.  A cold wind rushes through
+the hallway sudd enly causing you to shiver.  Ad you tremble a tall elf
+touches you on the shoulde r and you feel warmth flooding through you again.
+~
+0 0 0
+D1
+~
+~
+0 0 40226
+D3
+~
+~
+0 0 40224
+S
+#40226
+Base of the SouthEast Tower~
+A long flight of stairs leads upwards, climbing what seems to be a guard
+tower.  You remember seeing many such towers as you approached.  This must
+be the base of South East tower, this is as far as you can go eastward, the
+only choices are climbing the tower or returning west.  
+~
+0 0 0
+D3
+~
+~
+0 0 40225
+D4
+~
+~
+0 0 40227
+S
+#40227
+The SouthEast Tower~
+You climb the stairs slowly, your feet echoing through the tower.  You
+hear quiet voices just up above you, they seem to belong to elves, they are
+speaking in their own language, you can make out what they are saying, but
+their voices are casual, nothing to be concerned about.  
+~
+0 0 0
+D4
+~
+~
+0 0 40228
+D5
+~
+~
+0 0 40226
+S
+#40228
+Archery Slits~
+A company of the elves best archers stand here, gazing out the narrow
+windows through which they can pour out their arrows in times of war.  Their
+eyes are keen and bright, they carry very long bows of some strange wood,
+both the bows and arrows are glowing softly, enchanted you would guess.  
+~
+0 0 0
+D4
+~
+~
+0 0 40229
+D5
+~
+~
+0 0 40227
+S
+#40229
+Top of the Tower~
+Here the tall Guard Tower reaches it's peak, the wind is powerful and you
+can see for many leagues in all directions.  You look out over the great
+fortress of the elves, and you realize for the first time how massive it
+truely is.  Tower upon tower, battlement upon battlement, it stands out,
+silver white, against the dark future that is prepared for it.  The sky over
+clouds over, and the once refresing wind turns cold and dark.  "The black
+wind begins to blow..."  Says a mysterious voice...  But there is no one
+here.  
+~
+0 0 0
+D5
+~
+~
+0 0 40228
+S
+#40230
+A Long Hallway~
+You are beginning to feel lost or overwhelmed by the size of this
+fortress and the similar rooms that confuse you into thinking you have been
+going around in circles when you have not, or have you?  You think of asking
+directions but your dignity and pride keeps you from making a fool of
+yourself infront of these elves.  
+~
+0 0 0
+D0
+~
+~
+0 0 40231
+D2
+~
+~
+0 0 40221
+S
+#40231
+A Long Hallway~
+~
+0 0 0
+D1
+~
+~
+0 0 40232
+D2
+~
+~
+0 0 40230
+D3
+~
+~
+0 0 40234
+S
+#40232
+A Gleaming Hallway~
+This hallway is {Cglowing {xsoftly.  There is a sense of magic in the air
+and mysterious sounds to the south catch your attention.  {YGolden{x light
+is streaming through the windows above.  
+~
+0 0 0
+D2
+~
+~
+0 0 40233
+D3
+~
+~
+0 0 40231
+S
+#40233
+The Magic Training Room~
+Two elves are facing each other at opposite ends of this long room, they
+are sweating and panting...  Their clothing is singed and the walls behind
+them are cracked and burnt.  Suddenly they tense and both scream at the same
+time, a magical aura surounds them and they launch a flurry of magical
+attacks at each other.  The air is filled with white fire an bright light as
+tehy pour out their power.  They cease, the smoke clears.  You shudder to
+think that these are only trainees.  
+~
+0 0 0
+D0
+~
+~
+0 0 40232
+S
+#40234
+A Long Hallway~
+~
+0 0 0
+D0
+~
+~
+0 0 40235
+D1
+~
+~
+0 0 40231
+S
+#40235
+A Hallway Northward~
+~
+0 0 0
+D0
+~
+~
+0 0 40236
+D2
+~
+~
+0 0 40234
+S
+#40236
+A Hallway Northward~
+~
+0 0 0
+D2
+~
+~
+0 0 40235
+D3
+~
+~
+0 0 40237
+S
+#40237
+A Short Hallway~
+As you tavel down the short hallway you look through the windows, which
+spill light through their panes and into the hallway in a delicate, yet
+beautiful manner.  You see ahead of you another hallway and think silently
+to yourself about a many things.  The hallway has several tables with
+flowers upon them, giving the entire room the smell of hyacinth.  
+~
+0 0 0
+D1
+~
+~
+0 0 40236
+D3
+~
+~
+0 0 40238
+S
+#40238
+~
+~
+0 0 0
+D0
+~
+~
+0 0 40239
+D1
+~
+~
+0 0 40237
+S
+#40239
+~
+~
+0 0 0
+D2
+~
+~
+0 0 40238
+D3
+~
+~
+0 0 40240
+S
+#40240
+~
+~
+0 0 0
+D0
+~
+~
+0 0 40241
+D1
+~
+~
+0 0 40239
+S
+#40241
+~
+~
+0 0 0
+D0
+~
+~
+0 0 40242
+D2
+~
+~
+0 0 40240
+S
+#40242
+~
+~
+0 0 0
+D0
+~
+~
+0 0 40243
+D2
+~
+~
+0 0 40241
+S
+#40243
+~
+~
+0 0 0
+D1
+~
+~
+0 0 40244
+D2
+~
+~
+0 0 40242
+S
+#40244
+~
+~
+0 0 0
+D1
+~
+~
+0 0 40245
+D3
+~
+~
+0 0 40243
+S
+#40245
+~
+~
+0 0 0
+D0
+~
+~
+0 0 40246
+D3
+~
+~
+0 0 40244
+S
+#40246
+~
+~
+0 0 0
+D0
+~
+~
+0 0 40247
+D2
+~
+~
+0 0 40245
+S
+#40247
+~
+~
+0 0 0
+D0
+~
+~
+0 0 40248
+D2
+~
+~
+0 0 40246
+S
+#40248
+Crossroads to the Towers~
+~
+0 0 0
+D0
+~
+~
+0 0 40259
+D1
+~
+~
+0 0 40254
+D2
+~
+~
+0 0 40247
+D3
+~
+~
+0 0 40249
+S
+#40249
+Passage to the Tower~
+~
+0 0 0
+D1
+~
+~
+0 0 40248
+D3
+~
+~
+0 0 40250
+S
+#40250
+Passage to the Tower~
+~
+0 0 0
+D1
+~
+~
+0 0 40249
+D3
+~
+~
+0 0 40251
+S
+#40251
+Base of the Tower~
+~
+0 0 0
+D1
+~
+~
+0 0 40250
+D4
+~
+~
+0 0 40252
+S
+#40252
+The Tower of the Rising Sun~
+~
+0 0 0
+D4
+~
+~
+0 0 40253
+D5
+~
+~
+0 0 40251
+S
+#40253
+The Tower of the Rising Sun~
+~
+0 0 0
+D5
+~
+~
+0 0 40252
+S
+#40254
+Passage to the Tower~
+~
+0 0 0
+D1
+~
+~
+0 0 40255
+D3
+~
+~
+0 0 40248
+S
+#40255
+Passage to the Tower~
+~
+0 0 0
+D1
+~
+~
+0 0 40256
+D3
+~
+~
+0 0 40254
+S
+#40256
+Base of the Tower~
+~
+0 0 0
+D3
+~
+~
+0 0 40255
+D4
+~
+~
+0 0 40257
+S
+#40257
+Tower of the Stars~
+~
+0 0 0
+D4
+~
+~
+0 0 40258
+D5
+~
+~
+0 0 40256
+S
+#40258
+Tower of the Stars~
+~
+0 0 0
+D5
+~
+~
+0 0 40257
+S
+#40259
+Guarded Hallway~
+Two tall elven guards, clad in silver armor, stand on either side of the
+hallway, they do not move so much as a hair, they seemed to be made of stone
+if it wasn't for their breath.  You think that they must have muscles like
+stone...  
+~
+0 0 0
+D0
+~
+~
+0 0 40260
+D2
+~
+~
+0 0 40248
+S
+#40260
+~
+~
+0 0 0
+D0
+~
+~
+0 0 40261
+D2
+~
+~
+0 0 40259
+D3
+~
+~
+0 0 40273
+S
+#40261
+Armoury~
+The walls are covered with armor of all type and sizes. Shields, gauntlets, helms, chest mail, leg plates, every kind of armor you can think of is hung upon the walls, gleaming in the light that is shining through the windows.
+An elf is sitting on a thick, ornamental, mat.
+~
+0 0 0
+D0
+~
+~
+0 0 40262
+D2
+~
+~
+0 0 40260
+S
+#40262
+Crossroads to the Towers~
+A room with open archways leading in all directions.  A strange light
+comes from the north but normal hallways lead west and east, apparently
+towards to the northern towers.  To the south is a hallway leading back to
+the heart of the fortess.  
+~
+0 0 0
+D0
+~
+~
+0 0 40279
+D1
+~
+~
+0 0 40268
+D2
+~
+~
+0 0 40261
+D3
+~
+~
+0 0 40263
+S
+#40263
+Passage to the Tower~
+A pillared passage, to the east it leads to the main fortress, to the
+west it leads to a mighty tower that you saw through a window from the
+southern part of the castle.  From a window in the wall beside you a
+beautiful view of the mountainside against which the northern quarter of the
+castle is set.  
+~
+0 0 0
+D1
+~
+~
+0 0 40262
+D3
+~
+~
+0 0 40264
+S
+#40264
+Passage to the Tower~
+A pillared passage, to the east it leads to the main fortress, to the
+west it leads to a mighty tower that you saw through a window from the
+southern part of the castle.  From a window in the wall beside you a
+beautiful view of the mountainside against which the northern quarter of the
+castle is set.  
+~
+0 0 0
+D1
+~
+~
+0 0 40263
+D3
+~
+~
+0 0 40265
+S
+#40265
+Base of the Tower~
+The very bottom of one of the great towers, the Tower of the Setting Sun.
+At the top there is supposed to be a great high priest at the top of this
+tower.  
+~
+0 0 0
+D1
+~
+~
+0 0 40264
+D4
+~
+~
+0 0 40266
+S
+#40266
+The Tower of the Setting Sun~
+The long circular shaft of the tower is above you leading to the top,
+where there is a strange golden light floating down from above, illuminating
+the walls.  In the pale golden light a figure is revealed...  It seems to be
+floating, arms turned upwards to the light.  You cannot see the face in the
+light of the sun, but a feeling of power eminates from it's entire body... 
+Suddenly it floats upwards again, back up into the light, as you watch the
+golden streams of light become painfully bright and you stagger.  
+~
+0 0 0
+D4
+~
+~
+0 0 40267
+D5
+~
+~
+0 0 40265
+S
+#40267
+The Tower of the Setting Sun~
+The top of the tower, looking out north, south, east, and west out onto
+the world.  Strange inscriptions are on the chairs that look out in these 4
+directions.  In the middle of the room is a floating orb, the dieing rays of
+the sun have been caught in it and it now shines out, filling the room with
+golden light.  The mysterious person you followed up here is standing with
+it's- his hands on the ball of light.  He is staring deep within it, as if
+he sees something you cannot.  
+~
+0 0 0
+D5
+~
+~
+0 0 40266
+S
+#40268
+Passage to the Tower~
+A simple hallway, but unlike most of them this passage seems to be little
+used.  Your feet seems to echo through the stone and you have the
+unconfortable feeling that anyone could here you coming, long before you saw
+them 
+~
+0 0 0
+D1
+~
+~
+0 0 40269
+D3
+~
+~
+0 0 40262
+S
+#40269
+Passage to the Tower~
+A simple hallway, but unlike most of them this passage seems to be little
+used.  Your feet seems to echo through the stone and you have the
+unconfortable feeling that anyone could here you coming, long before you saw
+them 
+~
+0 0 0
+D1
+~
+~
+0 0 40270
+D3
+~
+~
+0 0 40268
+S
+#40270
+Base of the Tower~
+You are at the end of the hallway, in the middle of a chamber, a long
+winding staircase leads up, while the passageway leads back westwards.  On a
+stone in the floor is engraved- 'To light a candle is to cast a shadow. 
+There can never be good without evil, never light without dark, in the same
+way that there can never be night without morning to follow, or the black
+letters on a page without the white background.  Evil needs good as good
+needs evil, one cannot survive without the other.  There is no purpose in
+live for either unless there is the struggle against the other.  So even as
+the exist of the other is the bane of ones existance, so also it is the
+foundation of their lives.  The driving force of their achevements.  ' 
+~
+0 0 0
+D3
+~
+~
+0 0 40269
+D4
+~
+~
+0 0 40271
+S
+#40271
+The Tower of the Moon~
+An eeire light fills this part of the tower, in eminates from far above,
+in some kind of high chamber that is just visable from you position on the
+curving stairs and that lead up to the unknown and down back to the base of
+the tower.  You look out a small window beside you and see many far off
+lands stretching out before you, gray or misty in the distance.  
+~
+0 0 0
+D4
+~
+~
+0 0 40272
+D5
+~
+~
+0 0 40270
+S
+#40272
+The Tower of the Moon~
+A pale light fills the top room of the Tower of the Moon.  It originated
+from a small floating orb in the middle of the room.  There the light of the
+moon seems to have been caught and used to light up the tower.  Then in that
+strange light you see a small out line of a tall man looking down at you,
+his eyes are glowing with the moons light.  The Priest of the Moon.  
+~
+0 0 0
+D5
+~
+~
+0 0 40271
+S
+#40273
+Above the Dungeons~
+Here there is an odd smell in the air, like mold or dirt.  It is so
+different from the rest of the castle that you have seen.  Then as you move
+around the room you see that the smell is eminating from beneath a stairwell
+that leads down into darkness, so that you cannot see the bottom.  A cold
+draft sweeps up, sending a shiver through your body.  
+~
+0 0 0
+D1
+~
+~
+0 0 40260
+D5
+~
+~
+0 0 40274
+S
+#40274
+The Main Dungeon~
+This area of the fortress is shockingly different from the rest, the
+walls are damp and dirty, there is only a little light and that comes from
+torches on the wall.  There are locked rooms on all sides.  A guard stands
+in the center of the room, keys at his belt.  The door to the south of you
+however is different, it is larger and seems to lead into a large room.  And
+inside there is a darkness, like a cloud but also a strange red light, like
+fire.  
+~
+0 0 0
+D0
+~
+~
+4 40252 40277
+D1
+~
+~
+4 40252 40276
+D2
+~
+~
+4 40252 40278
+D3
+~
+~
+4 40252 40275
+D4
+~
+~
+0 0 40273
+S
+#40275
+The West Dungeon~
+Thankfully this cell is empty, and apparently has been for some time,
+then you see the reason for it, a large hole/tunnel leading out of the side
+of it, a way of escape for a former prisoner no doubt.  You wonder where it
+leads to, and you peer inside to see.  It is too dark to make anything out,
+and the light can only reach so far as the tunnel slopes upwards out of view
+~
+0 0 0
+D1
+~
+~
+4 0 40274
+D3
+~
+~
+0 0 40292
+S
+#40276
+The East Dungeon~
+As you stand in this room your eyes are straining to see in the dark. 
+Holding up your light you see, sprawled at your feet, the body of an orc.  A
+former prisoner no doubt, that simply refused to continue living.  It's skin
+is stretched tightly over it's fragile bones, suggesting perhaps death by
+starvation.  You wonder whether you could bring yourself to hold on to life
+in a place like this.  
+~
+0 0 0
+D3
+~
+~
+4 0 40274
+S
+#40277
+Northern Dungeon~
+As you enter this room you cry out, seeing what you take at first to be a
+body, but then as your eyes adjust to the dark you see that this thing is
+still alive.  It is barely recognizable yet you see that it was once an Orc,
+and no doubt one of the lowest goblins ever spawned.  What this creature
+looked like when it w as in it's prime you cannot tell, it is so mutilated
+by hunger and cold that it has shrunken and withered to a lowly empty being.
+No mind, no force of will, jus t an empty shell clinging to life by pure
+instinct not by any desire to live on and endure the pain it suffers.  
+~
+0 0 0
+D2
+~
+~
+4 0 40274
+S
+#40278
+The South Dungeon~
+As you enter the room a massive shape rears up before you.  It is an
+massive being of fire and darkness.  It blocks the feeble light of the
+torches with it's cloudy form so the only light is the dancing flicker of
+it's {Rfire.  {xIt bellows and charges straight towards you meaning to slay
+you and escape out into the world 
+~
+0 0 0
+D0
+~
+~
+4 0 40274
+S
+#40279
+The Portal Room~
+Four portals float before you as you enter the room.  A soft humming
+fills the room, giving out an eerie sense of heavy magic.  You look
+uncertainly from portal to portal pondering which one will bring you to the
+throne room.  A message is engraved on a large stone in the middle of the
+room, maybe you should take a look?  
+~
+0 0 0
+D2
+~
+~
+0 0 40262
+S
+#40280
+Royal Section~
+This room marks the beginning of the long hallway that leads north to the
+thro ne room where the Elven King, Fingrion rules over his kingdom.  The
+high guards of the castle guard the passage northwards and a long black and
+silver carpet ,embroidered with the royal symbol of the many-rayed star,
+covers the floor to the Throne.  
+~
+0 0 0
+D0
+~
+~
+0 0 40281
+S
+#40281
+Passage to the Throne~
+The hallway is lined with torches and guards.  Royal banners cover the
+walls and the great doors to the the throne room lie at the end of the long
+hall.  The guards watch you as you slowly make your way up the hall.  
+~
+0 0 0
+D0
+~
+~
+0 0 40282
+D2
+~
+~
+0 0 40280
+S
+#40282
+Passage to the Throne~
+The hallway is lined with torches and guards.  Royal banners cover the
+walls and the great doors to the the throne room lie at the end of the long
+hall.  The guards watch you as you slowly make your way up the hall.  
+~
+0 0 0
+D0
+~
+~
+0 0 40283
+D2
+~
+~
+0 0 40281
+S
+#40283
+The throne room~
+Here stands the elven king.  He is tall and proud even for an elf.  His
+silver armor gleams in a ray of the sun that streams through a window far
+above in the ceiling of this great hall.  The throne behind him is made of
+white stone, covered in a thick white and black cloth containing the symbol
+of the high elven royality, a silver many-rayed star.  
+~
+0 0 0
+D1
+~
+~
+0 0 40285
+D2
+~
+~
+0 0 40282
+D3
+~
+~
+0 0 40284
+S
+#40284
+High Guard Room~
+Here besides the Throne room is a guard room for the High Guards and The
+Royal Guards.  Most of them are on duty almost 24 hours a day.  With the
+elves stamina they can last for 5 days straight, more is needed.  The walls
+are made of marble and there is a single window, looking out over a
+flourishing forest.  
+~
+0 0 0
+D1
+~
+~
+0 0 40283
+D3
+~
+~
+0 0 40283
+S
+#40285
+A High Guard Room~
+Here besides the Throne room is a guard room for the High Guards and The
+Royal Guards.  Most of them are on duty almost 24 hours a day.  With the
+elves stamina they can last for 5 days straight, more is needed.  The walls
+are made of marble and there is a single window, looking out over a
+flourishing forest.  
+~
+0 0 0
+D3
+~
+~
+0 0 40283
+S
+#40290
+The Bitter Void of Space~
+Stars surrond you...  You feel very relaxed and happy for a second...  A
+fleeting second until you realize that there is no air here, and you are
+being torn apart by many forces...  Your mouth gasps for air and you slowly
+slide into oblivion...  
+~
+0 4 0
+S
+#40292
+Dark tunnel~
+The dirt and rock of the tunnel's sides brush against your clothing as
+you crawl through, it is dry luckily, and you can see a point of light
+ahead.  As you crawl towards it you feel a slight wind blow down through the
+tunnel, cooling the sweat on your face.  You feel the need to be out in the
+sun again.  
+~
+0 0 0
+D1
+~
+~
+0 0 40275
+D4
+~
+~
+0 0 40293
+S
+#40293
+Climbing Out~
+You crawl you into the brilliant light of the sun, and feel the cool
+breeze against your face.  The thick green grass feels good on your hands as
+you lie there for a second longer before forcing yourself to stand.  You see
+before you a clear pool, and even in this wind there is no ripple on it's
+surface, the sun glimmers of it, the very picture of beauty and calm.  As
+you peer into the pool you catch a glimpse of somethinf strange, for an
+instant the water was showing a reflection of something you cannot see.  A
+different place.  
+~
+0 0 0
+D5
+~
+~
+0 0 40292
+S
+#40294
+A Brightly Lit Hall~
+It is hard to believe that something some beautiful can be made by mortal
+hands.  The stones that make up this hall reflect all light in different
+colours, so that your eyes are confused, and you mind cannot think of any
+name to descripe such hues and colours.  The pillars the support the mighty
+roof are tall and wide with ancient elven letters engraved on the sides. 
+The alphabet is so old you doubt that any person living could know the
+language.  As you wrench your eyes away from the beautiful stone you see
+that the hall leads throught to a chamber filled with white light.  
+~
+0 0 0
+D0
+~
+~
+0 0 40295
+S
+#40295
+The Chamber of Ainlor~
+You are in a circular room, along the edge of the circle there are 9
+brightly glowing balls of light.  In the center there is a marble alter, and
+upon it is a wooden cabinet, it is richly carved, and the wood that it is
+made of is of a kind you have never before seen.  It appears to be a
+red/brown colour when you first look at it, but gradually it brightens to a
+pure white, then to silver, and finally to gold.  What is kept within those
+ornamental doors?  You hand is trembling with the need to know...  
+~
+0 0 0
+D2
+~
+~
+0 0 40294
+S
+#40299
+Giliath's Throne Room~
+A many-pillared hall stretches out before you, at the end of the hallway,
+where there is a long flight of marble stairs leading up to an elevated
+platform, a great throne sits.  Behind it stands 2 great silver statues... 
+Statues of 2 mighty elves.  You approach the stairs and begin to accend
+towards the throne.  You see that the statues have plaques at their feet,
+magically illuminated they are easily read.  On the left- 'Fingolfin,
+Ancient King of the Noldor, slain by The Black Foe of the World" on the
+right- 'Fingon, Son of Fingolfin, wearer of the {WWhite Helm{x, slain by the
+foul creature Gothmog.  "The Throne itself is made of white stone that
+{Yglowes {xslightly as you look at it...  Suddenly a shape appears on it... 
+{CG{ci{Cl{ci{Ca{ct{Ch{x.  
+~
+0 9220 0
+S
+#0
+
+
+
+#SPECIALS
+M 40200 spec_breath_frost
+M 40205 spec_breath_lightning
+M 40209 spec_breath_fire
+M 40211 spec_breath_frost
+M 40251 spec_breath_lightning
+M 40252 spec_breath_fire
+M 40259 spec_breath_lightning
+M 40266 spec_breath_any
+S
+
+
+
+#RESETS
+D 0 40274 0 2
+D 0 40274 1 2
+D 0 40274 2 2
+D 0 40274 3 2
+D 0 40275 1 2
+D 0 40276 3 2
+D 0 40277 2 2
+D 0 40278 0 2
+O 0 40205 0 40200
+M 0 40206 15 40200 2
+M 0 40206 15 40200 2
+M 0 40208 5 40201 5
+M 0 40208 5 40201 5
+M 0 40208 5 40201 5
+M 0 40250 15 40202 1
+M 0 40250 15 40207 1
+M 0 40208 5 40207 5
+M 0 40208 5 40211 5
+M 0 40250 15 40221 1
+M 0 40211 1 40221 15
+M 0 40250 15 40232 1
+M 0 40250 1 40232 15
+M 0 40209 3 40233 3
+M 0 40209 3 40233 3
+M 0 40209 3 40233 3
+M 0 40266 1 40233 1
+M 0 40250 15 40259 1
+M 0 40250 15 40262 1
+M 0 40250 15 40264 1
+O 0 40251 0 40267
+M 0 40251 1 40267 1
+M 0 40253 1 40274 1
+E 0 40252 0 13
+O 0 40254 0 40276
+P 0 40255 1 40254 1
+M 0 40252 1 40278 1
+O 0 40200 0 40279
+O 0 40201 0 40279
+O 0 40202 0 40279
+O 0 40203 0 40279
+O 0 40206 0 40279
+M 0 40205 8 40280 2
+M 0 40205 8 40280 2
+M 0 40205 8 40281 2
+M 0 40205 8 40281 2
+E 0 40210 0 16
+M 0 40211 1 40283 1
+E 0 40211 0 3
+M 0 40205 8 40284 2
+M 0 40205 8 40284 2
+E 0 40210 0 16
+M 0 40205 8 40285 2
+E 0 40210 0 16
+M 0 40205 8 40285 2
+M 0 40205 8 40285 2
+M 0 40205 8 40285 2
+E 0 40210 0 16
+M 0 40200 1 40290 1
+O 0 40256 0 40293
+M 0 40259 2 40294 2
+M 0 40259 2 40294 2
+E 0 40258 0 9
+O 0 40257 0 40295
+P 0 40259 1 40257 1
+O 0 40260 0 40295
+O 0 40250 0 40299
+M 0 40261 1 40299 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#40200
+Cackle
+say It's time for you to die $n!!!!
+mob transfer $n 3100
+~
+#40251
+say No! The Orb is not for you $n!!
+mob kill $n
+~
+#0
+
+#$

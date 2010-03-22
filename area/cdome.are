@@ -1,0 +1,373 @@
+#AREADATA
+Name Chaos Dome~
+Builders Roland~
+VNUMs 50000 50020
+Credits {W[  ALL  ] Chaos Dome{x~
+Security 9
+RepopMsg (null)~
+End
+
+
+
+#MOBILES
+#50000
+a cheeky monkey~
+A {rCheeky Monkey!{x~
+A cheeky monkey is here, laughing it up
+~
+Don't look at it, kill it!  
+~
+Human~
+AB 0 0 0 0 0
+1 1 1d1+10 1d9+60 1d2+11 none
+9 9 9 9
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#50000
+Monkey Token~
+a {RM{bo{gn{mk{ce{yy {WT{yoke{Wn{x~
+A monkey token is on the ground, don't touch!~
+unknown~
+trash AB A
+0 0 0 0 0
+0 1 1 P
+#0
+
+
+
+#ROOMS
+#50000
+{RChaos Dome{x~
+{DThis is the center of the gigantic Chaos Dome.  People can be heard in
+all directions, cheering and screaming for blood.  The arena itself is
+basically a giant dirt battleground enclosed by rows and rows of stone
+seating for the bloodthirsty crowds.  Stay focused, be quicker and stronger
+than your opponent, and you just might get out of this alive.  {x {DExits
+lead off in most directions.  {x 
+~
+0 16785412 0
+D0
+~
+~
+0 0 50001
+D1
+~
+~
+0 0 50003
+D2
+~
+~
+0 0 50004
+D3
+~
+~
+0 0 50002
+S
+#50001
+{RChaos Dome{x~
+{DThis is the northern side of the arena.  A large stone wall towers high
+on the north side, blocking any chance of escape besides death.  You can
+hear the crowds cheering and jeering more now, nasty comments, cries for
+blood, they are practically animals.  The northern wall continues west and
+east, the center of the arena is back south.  {x 
+~
+0 16785412 0
+D1
+~
+~
+0 0 50007
+D2
+~
+~
+0 0 50000
+D3
+~
+~
+0 0 50006
+S
+#50002
+{RChaos Dome{x~
+{DThis is the western side of the arena.  A large stone wall towers high
+on the west side, blocking any chance of escape besides death.  You can hear
+the crowds cheering and jeering more now, nasty comments, cries for blood,
+they are practically animals.  The western wall of the arena continues north
+and south, east leads back to the center.  {x {DA small, well hidden
+stairway leads down into the underbelly of the arena.  {x 
+~
+0 16785412 0
+D0
+~
+~
+0 0 50006
+D1
+~
+~
+0 0 50000
+D2
+~
+~
+0 0 50005
+D5
+~
+~
+0 0 50011
+S
+#50003
+{RChaos Dome{x~
+{DThis is the eastern side of the arena.  A large stone wall towers high
+on the east side, blocking any chance of escape besides death.  You can hear
+the crowds cheering and jeering more now, nasty comments, cries for blood,
+they are practically animals.  The eastern wall of the arena continues north
+and south, west leads back to the center of the arena.  {x {DA small set of
+well hidden stairs leads to the underbelly of the arena.  {x 
+~
+0 16785408 0
+D0
+~
+~
+0 0 50007
+D2
+~
+~
+0 0 50008
+D3
+~
+~
+0 0 50000
+D5
+~
+~
+0 0 50009
+S
+#50004
+{RChaos Dome{x~
+{DThis is the southern side of the arena.  A large stone wall towers high
+on the south side, blocking any chance of escape besides death.  You can
+hear the crowds cheering and jeering more now, nasty comments, cries for
+blood, they are practically animals.  The southern wall of the arena
+continues west and east, north leads back to the center.  {x 
+~
+0 16785408 0
+D0
+~
+~
+0 0 50000
+D1
+~
+~
+0 0 50008
+D3
+~
+~
+0 0 50005
+S
+#50005
+{RSouthwest Corner{x~
+{DThe southwest corner of the Chaos Dome arena.  The western wall and
+southern wall come together here.  As the crowds buzzing drone for bloodlust
+bombards your senses, you grow ever more aggressive, they want death, and
+you want to give it to them.  The western wall is north, the southern wall
+is east.  {x 
+~
+0 16785408 0
+D0
+~
+~
+0 0 50002
+D1
+~
+~
+0 0 50004
+S
+#50006
+{RNorthwest Corner{x~
+{DThe northwest corner of the Chaos Dome arena.  The western wall and
+northern wall come together here.  As the crowds buzzing drone for bloodlust
+bombards your senses, you grow ever more aggressive, they want death, and
+you want to give it to them.  The western wall is south, the north wall is
+east.  {x 
+~
+0 16785408 0
+D1
+~
+~
+0 0 50001
+D2
+~
+~
+0 0 50002
+S
+#50007
+{RNortheast Corner{x~
+{DThe northeast corner of the Chaos Dome arena.  The eastern wall and
+northern wall come together here.  As the crowds buzzing drone for bloodlust
+bombards your senses, you grow ever more aggressive, they want death, and
+you want to give it to them.  The eastern wall continues south, the northern
+wall continues west.  {x 
+~
+0 16785408 0
+D2
+~
+~
+0 0 50003
+D3
+~
+~
+0 0 50001
+S
+#50008
+{RSoutheast Corner{x~
+{DThe southeast corner of the Chaos Dome arena.  The eastern wall and
+southern wall come together here.  As the crowds buzzing drone for bloodlust
+bombards your senses, you grow ever more aggressive, they want death, and
+you want to give it to them.  The eastern wall continues north, the southern
+continues west.  {x 
+~
+0 16785408 0
+D0
+~
+~
+0 0 50003
+D3
+~
+~
+0 0 50004
+S
+#50009
+{DUnder The Arena{x~
+{BA long black hallway leads to the west.  There is basically no light in
+this part of the arena at all.  Your opponent could strike from any
+direction, this is not the safest place to be.  West leads further under the
+arena, up goes back outside.  {x 
+~
+0 16785416 0
+D3
+~
+~
+0 0 50010
+D4
+~
+~
+0 0 50003
+S
+#50010
+{DUnder The Arena{x~
+{BYou can hear the crowds sounds of dissaproval at not seeing action for
+a few minutes, it might be best to surface before it gets uglier.  Small
+rooms lie to the north and south.  The hallway continues east and west.  {x 
+~
+0 16785416 0
+D0
+~
+~
+0 0 50012
+D1
+~
+~
+0 0 50009
+D2
+~
+~
+0 0 50013
+D3
+~
+~
+0 0 50011
+S
+#50011
+{DUnder The Arena{x~
+{BA long black hallway leads to the east.  There is basically no light in
+this part of the arena at all.  Your opponent could strike from any
+direction, this is not the safest place to be.  East leads further under the
+arena, up goes back outside.  {x 
+~
+0 16785416 0
+D1
+~
+~
+0 0 50010
+D4
+~
+~
+0 0 50002
+S
+#50012
+{DA Small Dark Chamber{x~
+{BGod knows what this rather cell-like chamber is used for.  It is very
+cramped, very small, and very damp.  South leads back to the arena
+underground hallway.  {x 
+~
+0 16785416 0
+D2
+~
+~
+0 0 50010
+S
+#50013
+{DA Small Dark Chamber{x~
+{BGod knows what this rather cell-like chamber is used for.  It is very
+cramped, very small, and very damp.  North leads back to the arena
+underground hallway.  {x 
+~
+0 16785416 0
+D0
+~
+~
+0 0 50010
+S
+#50014
+{YT{yh{Ye {YW{yi{Yn{yn{Ye{yr{Ys {YC{yi{Yr{yc{Yl{ye{x~
+Hundreds of people are cheering and chanting your name, flower petals and
+roses shower down upon you, a few lift you up onto their shoulders, this is
+a glorious celebration, you feel so loved.  North leads back to Gaalstrom. 
+{x 
+~
+0 1024 0
+D0
+~
+~
+0 0 3014
+S
+#50015
+{bLosers Exit{x~
+There is nobody around.  This is a shameful place to end up.  A few
+children hurl rocks at you as you meet their gaze, there is no compassion
+for the loser.  North leads back to Gaalstrom.  
+~
+0 1024 0
+D0
+~
+~
+0 0 3014
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

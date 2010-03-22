@@ -1,0 +1,1828 @@
+#AREADATA
+Name Ethoria~
+Builders Muska~
+VNUMs 3800 3950
+Credits [  U-C  ] Muska  Ethoria~
+Security 9
+RepopMsg (null)~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#3800
+{GEthoria{x~
+Over the grassy fields you see a town with lush green plants everywhere. 
+Surprising enough, this is one of the elite training centers which warriors
+from around the world seek special training.  It is said that the King of
+Ethoria holds a special tactic from long ago when wars were quite common
+amongst the people.  He would only teach it to the warriors with the purest
+of heart, but times have changed, and so has the King.  He has grown old and
+weak, and would give his empire away just to save his life.  
+~
+0 4 0
+D2
+~
+~
+0 0 3801
+S
+#3801
+{GEthorian Walk{x~
+Ethorian Walk is one of the busiest roads in Ethoria.  It holds a path to
+just about every part of Ethoria.  From here you can travel to the city, the
+royal roads, the combat fields and many other places.  To your east you will
+find the city and the royal roads, to your west you will find the combat
+fields and other paths which have been long forgotten about.  
+~
+0 0 0
+D0
+~
+~
+0 0 3800
+D1
+~
+~
+0 0 3860
+D3
+~
+~
+0 0 3829
+S
+#3802
+{GPath to the City{x~
+~
+0 0 0
+D2
+~
+~
+0 0 3803
+D3
+~
+~
+0 0 3862
+S
+#3803
+{GPath to the City{x~
+~
+0 0 0
+D0
+~
+~
+0 0 3802
+D2
+~
+~
+0 0 3804
+S
+#3804
+{GPath to the City{x~
+~
+0 0 0
+D0
+~
+~
+0 0 3803
+D2
+~
+~
+0 0 3805
+S
+#3805
+{GFork in the Road{x~
+~
+0 0 0
+D0
+~
+~
+0 0 3804
+D1
+~
+~
+0 0 3806
+D2
+~
+~
+0 0 3822
+S
+#3806
+{GMerchant Path{x~
+~
+0 0 0
+D0
+~
+~
+0 0 3820
+D1
+~
+~
+0 0 3807
+D2
+~
+~
+0 0 3821
+D3
+~
+~
+0 0 3805
+S
+#3807
+{GMerchant Path{x~
+~
+0 0 0
+D0
+~
+~
+0 0 3818
+D1
+~
+~
+0 0 3808
+D2
+~
+~
+0 0 3819
+D3
+~
+~
+0 0 3806
+S
+#3808
+{GMerchant Path{x~
+~
+0 0 0
+D0
+~
+~
+0 0 3816
+D1
+~
+~
+0 0 3809
+D2
+~
+~
+0 0 3817
+D3
+~
+~
+0 0 3807
+S
+#3809
+{GMerchant Path{x~
+~
+0 0 0
+D0
+~
+~
+0 0 3814
+D1
+~
+~
+0 0 3810
+D2
+~
+~
+0 0 3815
+D3
+~
+~
+0 0 3808
+S
+#3810
+{GMerchant Path{x~
+~
+0 0 0
+D0
+~
+~
+0 0 3812
+D1
+~
+~
+0 0 3811
+D2
+~
+~
+0 0 3813
+D3
+~
+~
+0 0 3809
+S
+#3811
+~
+~
+0 0 0
+D3
+~
+~
+0 0 3810
+S
+#3812
+~
+~
+0 0 0
+D2
+~
+~
+0 0 3810
+S
+#3813
+~
+~
+0 0 0
+D0
+~
+~
+0 0 3810
+S
+#3814
+~
+~
+0 0 0
+D2
+~
+~
+0 0 3809
+S
+#3815
+~
+~
+0 0 0
+D0
+~
+~
+0 0 3809
+S
+#3816
+~
+~
+0 0 0
+D2
+~
+~
+0 0 3808
+S
+#3817
+~
+~
+0 0 0
+D0
+~
+~
+0 0 3808
+S
+#3818
+~
+~
+0 0 0
+D2
+~
+~
+0 0 3807
+S
+#3819
+~
+~
+0 0 0
+D0
+~
+~
+0 0 3807
+S
+#3820
+~
+~
+0 0 0
+D2
+~
+~
+0 0 3806
+S
+#3821
+~
+~
+0 0 0
+D0
+~
+~
+0 0 3806
+S
+#3822
+{GRoyal Road{x~
+~
+0 0 0
+D0
+~
+~
+0 0 3805
+D2
+~
+~
+0 0 3823
+S
+#3823
+{GRoyal Road{x~
+~
+0 0 0
+D0
+~
+~
+0 0 3822
+D2
+~
+~
+0 0 3824
+S
+#3824
+{GRoyal Road{x~
+~
+0 0 0
+D0
+~
+~
+0 0 3823
+D2
+~
+~
+0 0 3825
+S
+#3825
+{GRoyal Road{x~
+~
+0 0 0
+D0
+~
+~
+0 0 3824
+D1
+~
+~
+0 0 3826
+S
+#3826
+{GThe Kings Land{x~
+~
+0 0 0
+D1
+~
+~
+0 0 3827
+D3
+~
+~
+0 0 3825
+S
+#3827
+{GThe Kings Land{x~
+~
+0 0 0
+D1
+~
+~
+1 0 3828
+D3
+~
+~
+0 0 3826
+S
+#3828
+{GThe Kings secret Throne Room{x~
+~
+0 0 0
+D3
+~
+~
+1 0 3827
+S
+#3829
+{GEthorian Walk{x~
+~
+0 4 0
+D1
+~
+~
+0 0 3801
+D2
+~
+~
+0 0 3830
+S
+#3830
+{GEthorian Walk{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3829
+D2
+~
+~
+0 0 3831
+S
+#3831
+{GEthorian Walk{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3830
+D2
+~
+~
+0 0 3840
+D3
+~
+~
+0 0 3832
+S
+#3832
+{GWalkway to the combat fields{x~
+~
+0 4 0
+D1
+~
+~
+0 0 3831
+D3
+~
+~
+0 0 3833
+S
+#3833
+{GWalkway to the combat fields{x~
+~
+0 4 0
+D1
+~
+~
+0 0 3832
+D3
+~
+~
+0 0 3834
+S
+#3834
+{GFork in the Road{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3842
+D1
+~
+~
+0 0 3833
+D2
+~
+~
+0 0 3835
+S
+#3835
+{GBefore a Tower{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3834
+D2
+~
+~
+1 0 3836
+S
+#3836
+{GIn The Tower{x~
+~
+0 4 0
+D0
+~
+~
+1 0 3835
+D1
+~
+~
+1 0 3837
+S
+#3837
+{GBefore a Tower{x~
+~
+0 4 0
+D1
+~
+~
+0 0 3838
+D3
+~
+~
+1 0 3836
+S
+#3838
+{GOff the Road{x~
+~
+0 4 0
+D1
+~
+~
+0 0 3839
+D3
+~
+~
+0 0 3837
+S
+#3839
+{GEthorian Walk{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3840
+D2
+~
+~
+0 0 3855
+D3
+~
+~
+0 0 3838
+S
+#3840
+{GEthorian Walk{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3831
+D2
+~
+~
+0 0 3839
+S
+#3841
+~
+~
+0 4 0
+S
+#3842
+{GWalkway to the combat fields{x~
+~
+0 4 0
+D0
+~
+~
+1 0 3843
+D2
+~
+~
+0 0 3834
+S
+#3843
+{GCombat Fields{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3850
+D1
+~
+~
+0 0 3844
+D2
+~
+~
+1 0 3842
+S
+#3844
+{GCombat Fields{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3849
+D1
+~
+~
+0 0 3845
+D3
+~
+~
+0 0 3843
+S
+#3845
+{GCombat Fields{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3848
+D1
+~
+~
+0 0 3846
+D3
+~
+~
+0 0 3844
+S
+#3846
+{GCombat Fields{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3847
+D3
+~
+~
+0 0 3845
+S
+#3847
+{GCombat Fields{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3854
+D2
+~
+~
+0 0 3846
+D3
+~
+~
+0 0 3848
+S
+#3848
+{GCombat Fields{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3853
+D1
+~
+~
+0 0 3847
+D2
+~
+~
+0 0 3845
+D3
+~
+~
+0 0 3849
+S
+#3849
+{GCombat Fields{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3852
+D1
+~
+~
+0 0 3848
+D2
+~
+~
+0 0 3844
+D3
+~
+~
+0 0 3850
+S
+#3850
+{GCombat Fields{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3851
+D1
+~
+~
+0 0 3849
+D2
+~
+~
+0 0 3843
+S
+#3851
+{GCombat Fields{x~
+~
+0 4 0
+D1
+~
+~
+0 0 3852
+D2
+~
+~
+0 0 3850
+S
+#3852
+{GCombat Fields{x~
+~
+0 4 0
+D1
+~
+~
+0 0 3853
+D2
+~
+~
+0 0 3849
+D3
+~
+~
+0 0 3851
+S
+#3853
+{GCombat Fields{x~
+~
+0 4 0
+D1
+~
+~
+0 0 3854
+D2
+~
+~
+0 0 3848
+D3
+~
+~
+0 0 3852
+S
+#3854
+{GCombat Fields{x~
+~
+0 4 0
+D2
+~
+~
+0 0 3847
+D3
+~
+~
+0 0 3853
+S
+#3855
+{GEthorian Walk{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3839
+D2
+~
+~
+0 0 3856
+S
+#3856
+{GEthorian Walk{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3855
+D2
+~
+~
+0 0 3857
+D3
+~
+~
+0 0 3910
+S
+#3857
+{GEthorian Walk{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3856
+D1
+~
+~
+0 0 3858
+S
+#3858
+{GEthorian Walk{x~
+~
+0 4 0
+D1
+~
+~
+0 0 3859
+D3
+~
+~
+0 0 3857
+D5
+~
+~
+1 0 3867
+S
+#3859
+{GEthorian Walk{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3866
+D3
+~
+~
+0 0 3858
+S
+#3860
+{GEthorian Walk{x~
+~
+0 4 0
+D2
+~
+~
+0 0 3861
+D3
+~
+~
+0 0 3801
+S
+#3861
+{GEthorian Walk{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3860
+D2
+~
+~
+0 0 3862
+S
+#3862
+{GEthorian Walk{x~
+You are standing on one of the most commonly used paths in Ethoria.  The
+path goes in one big rectangle.  With branches leading off to different
+parts of the town.  To the east is the branch off to the shopping area and
+then the royal roads.  
+~
+0 4 0
+D0
+~
+~
+0 0 3861
+D1
+~
+~
+0 0 3802
+D2
+~
+~
+0 0 3863
+S
+#3863
+{GEthorian Walk{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3862
+D2
+~
+~
+0 0 3864
+S
+#3864
+{GEthorian Walk{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3863
+D2
+~
+~
+0 0 3865
+S
+#3865
+{GEthorian Walk{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3864
+D2
+~
+~
+0 0 3866
+S
+#3866
+{GEthorian Walk{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3865
+D2
+~
+~
+0 0 3859
+S
+#3867
+{GUnderground Tunnel{x~
+~
+0 4 0
+D3
+~
+~
+0 0 3868
+D4
+~
+~
+1 0 3858
+S
+#3868
+{GUnderground Tunnel{x~
+~
+0 4 0
+D1
+~
+~
+0 0 3867
+D3
+~
+~
+0 0 3869
+S
+#3869
+{GUnderground Tunnel{x~
+~
+0 4 0
+D1
+~
+~
+0 0 3868
+D3
+~
+~
+0 0 3870
+S
+#3870
+{GUnderground Tunnel{x~
+~
+0 4 0
+D1
+~
+~
+0 0 3869
+D2
+~
+~
+0 0 3871
+S
+#3871
+{GBefore the ancient maze{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3870
+D2
+~
+~
+0 0 3872
+S
+#3872
+{GLost in the Maze{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3874
+D1
+~
+~
+0 0 3872
+D2
+~
+~
+0 0 3873
+D3
+~
+~
+0 0 3872
+S
+#3873
+{GLost in the Maze{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3872
+D1
+~
+~
+0 0 3872
+D2
+~
+~
+0 0 3872
+S
+#3874
+{GLost in the Maze{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3872
+D1
+~
+~
+0 0 3872
+D2
+~
+~
+0 0 3872
+D3
+~
+~
+0 0 3875
+S
+#3875
+{GLost in the Maze{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3872
+D1
+~
+~
+0 0 3874
+D2
+~
+~
+0 0 3876
+D3
+~
+~
+0 0 3872
+S
+#3876
+{GLost in the Maze{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3875
+D1
+~
+~
+0 0 3872
+D2
+~
+~
+0 0 3877
+D3
+~
+~
+0 0 3872
+S
+#3877
+{GLost in the Maze{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3876
+D1
+~
+~
+0 0 3878
+D2
+~
+~
+0 0 3872
+D3
+~
+~
+0 0 3872
+S
+#3878
+{GLost in the Maze{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3872
+D1
+~
+~
+0 0 3879
+D2
+~
+~
+0 0 3872
+D3
+~
+~
+0 0 3877
+S
+#3879
+{GLost in the Maze{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3872
+D1
+~
+~
+0 0 3872
+D2
+~
+~
+0 0 3880
+D3
+~
+~
+0 0 3878
+S
+#3880
+{GLost in the Maze{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3879
+D1
+~
+~
+0 0 3872
+D2
+~
+~
+0 0 3881
+D3
+~
+~
+0 0 3872
+S
+#3881
+{GLost in the Maze{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3880
+D1
+~
+~
+0 0 3872
+D2
+~
+~
+0 0 3882
+D3
+~
+~
+0 0 3872
+S
+#3882
+{GThe Exit!!{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3881
+D2
+~
+~
+0 0 3883
+S
+#3883
+{GA well traveled path{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3882
+D1
+~
+~
+0 0 3884
+S
+#3884
+{GA well traveled path{x~
+~
+0 4 0
+D1
+~
+~
+0 0 3885
+D3
+~
+~
+0 0 3883
+S
+#3885
+{GA well traveled path{x~
+~
+0 4 0
+D1
+~
+~
+0 0 3886
+D3
+~
+~
+0 0 3884
+S
+#3886
+{GA well traveled path{x~
+~
+0 4 0
+D1
+~
+~
+0 0 3887
+D3
+~
+~
+0 0 3885
+S
+#3887
+{GA well traveled path{x~
+~
+0 4 0
+D2
+~
+~
+0 0 3889
+D3
+~
+~
+0 0 3886
+S
+#3888
+~
+~
+0 4 0
+S
+#3889
+{GBefore the elite combat field{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3887
+D2
+~
+~
+1 0 3890
+S
+#3890
+{GThe Elite Combat Field{x~
+~
+0 4 0
+D0
+~
+~
+1 0 3889
+D1
+~
+~
+0 0 3891
+D2
+~
+~
+0 0 3897
+D3
+~
+~
+0 0 3893
+S
+#3891
+{GThe Elite Combat Field{x~
+~
+0 4 0
+D1
+~
+~
+0 0 3892
+D2
+~
+~
+0 0 3898
+D3
+~
+~
+0 0 3890
+S
+#3892
+{GThe Elite Combat Field{x~
+~
+0 4 0
+D2
+~
+~
+0 0 3899
+D3
+~
+~
+0 0 3891
+S
+#3893
+{GThe Elite Combat Field{x~
+~
+0 4 0
+D1
+~
+~
+0 0 3890
+D2
+~
+~
+0 0 3896
+D3
+~
+~
+0 0 3894
+S
+#3894
+{GThe Elite Combat Field{x~
+~
+0 4 0
+D1
+~
+~
+0 0 3893
+D2
+~
+~
+0 0 3895
+S
+#3895
+{GThe Elite Combat Field{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3894
+D1
+~
+~
+0 0 3896
+D2
+~
+~
+0 0 3904
+S
+#3896
+{GThe Elite Combat Field{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3893
+D1
+~
+~
+0 0 3897
+D2
+~
+~
+0 0 3903
+D3
+~
+~
+0 0 3895
+S
+#3897
+{GThe Elite Combat Field{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3890
+D1
+~
+~
+0 0 3898
+D2
+~
+~
+0 0 3902
+D3
+~
+~
+0 0 3896
+S
+#3898
+{GThe Elite Combat Field{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3891
+D1
+~
+~
+0 0 3899
+D2
+~
+~
+0 0 3901
+D3
+~
+~
+0 0 3897
+S
+#3899
+{GThe Elite Combat Field{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3892
+D2
+~
+~
+0 0 3900
+D3
+~
+~
+0 0 3898
+S
+#3900
+{GThe Elite Combat Field{x~
+~
+0 4 0
+D0
+~
+~
+0 0 3899
+D2
+~
+~
+0 0 3909
+D3
+~
+~
+0 0 3901
+S
+#3901
+{GThe Elite Combat Field{x~
+~
+0 0 0
+D0
+~
+~
+0 0 3898
+D1
+~
+~
+0 0 3900
+D2
+~
+~
+0 0 3908
+D3
+~
+~
+0 0 3902
+S
+#3902
+{GThe Elite Combat Field{x~
+~
+0 0 0
+D0
+~
+~
+0 0 3897
+D1
+~
+~
+0 0 3901
+D2
+~
+~
+0 0 3907
+D3
+~
+~
+0 0 3903
+S
+#3903
+{GThe Elite Combat Field{x~
+~
+0 0 0
+D0
+~
+~
+0 0 3896
+D1
+~
+~
+0 0 3902
+D2
+~
+~
+0 0 3906
+D3
+~
+~
+0 0 3904
+S
+#3904
+{GThe Elite Combat Field{x~
+~
+0 0 0
+D0
+~
+~
+0 0 3895
+D1
+~
+~
+0 0 3903
+D2
+~
+~
+0 0 3905
+S
+#3905
+{GThe Elite Combat Field{x~
+~
+0 0 0
+D0
+~
+~
+0 0 3904
+D1
+~
+~
+0 0 3906
+S
+#3906
+{GThe Elite Combat Field{x~
+~
+0 0 0
+D0
+~
+~
+0 0 3903
+D1
+~
+~
+0 0 3907
+D3
+~
+~
+0 0 3905
+S
+#3907
+{GThe Elite Combat Field{x~
+~
+0 0 0
+D0
+~
+~
+0 0 3902
+D1
+~
+~
+0 0 3908
+D3
+~
+~
+0 0 3906
+S
+#3908
+{GThe Elite Combat Field{x~
+~
+0 0 0
+D0
+~
+~
+0 0 3901
+D1
+~
+~
+0 0 3909
+D3
+~
+~
+0 0 3907
+S
+#3909
+{GThe Elite Combat Field{x~
+~
+0 0 0
+D0
+~
+~
+0 0 3900
+D3
+~
+~
+0 0 3908
+S
+#3910
+{GOff the Road{x~
+~
+0 0 0
+D1
+~
+~
+0 0 3856
+D3
+~
+~
+0 0 3911
+S
+#3911
+{GOff the Road{x~
+~
+0 0 0
+D1
+~
+~
+0 0 3910
+D3
+~
+~
+0 0 3912
+S
+#3912
+{GOff the Road{x~
+~
+0 0 0
+D1
+~
+~
+0 0 3911
+D2
+~
+~
+0 0 3913
+S
+#3913
+{GOff the Road{x~
+~
+0 0 0
+D0
+~
+~
+0 0 3912
+D3
+~
+~
+0 0 3914
+S
+#3914
+{GOff the Road{x~
+~
+0 0 0
+D1
+~
+~
+0 0 3913
+D2
+~
+~
+0 0 3915
+S
+#3915
+{GOff the Road{x~
+~
+0 0 0
+D0
+~
+~
+0 0 3914
+D3
+~
+~
+0 0 3916
+S
+#3916
+{GOff the Road{x~
+~
+0 0 0
+D1
+~
+~
+0 0 3915
+D2
+~
+~
+0 0 3917
+S
+#3917
+{GOff the Road{x~
+~
+0 0 0
+D0
+~
+~
+0 0 3916
+D5
+~
+~
+0 0 3918
+S
+#3918
+{Ga HUGE pit{x~
+~
+0 4 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 3827 1 1
+D 0 3828 3 1
+D 0 3835 2 2
+D 0 3836 0 2
+D 0 3836 1 2
+D 0 3837 3 2
+D 0 3842 0 1
+D 0 3843 2 1
+D 0 3858 5 1
+D 0 3867 4 1
+D 0 3889 2 1
+D 0 3890 0 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

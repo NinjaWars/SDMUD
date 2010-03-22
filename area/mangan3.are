@@ -1,0 +1,493 @@
+#AREADATA
+Name Field of Souls~
+Builders Mangan~
+VNUMs 41060 41110
+Credits [  U-C  ] Mangan Field of Souls~
+Security 1
+RepopMsg The ground shakes as the warriors come rushing out of the castles.~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#41060
+{CW{chat {DQ{Wuest {GI{gs {RA{rbout{x~
+You are above a battlefield.  The battlefield is designed for this
+immquest.  You will be trying to collect black and white souls.  All awards
+are decided by me (unless I give you the option to choose a prize) so
+otherwise don't ask...  Most likely will be IQPs.  
+ 
+-{DM{Ga{Dn{Gg{Da{Gn{x
+~
+0 4 0
+D5
+~
+~
+4 0 41061
+S
+#41061
+The Center of the {yBattlefield {r({DI{Rm{Dm{Rq{Du{Re{Ds{Rt{r){x~
+Your in the center of the battlefield.  The evil king is in the castle to
+the north, while the good king is in the southern castle.  
+~
+0 0 4
+D0
+~
+~
+0 0 41064
+D1
+~
+~
+0 0 41062
+D2
+~
+~
+0 0 41068
+D3
+~
+~
+0 0 41066
+D5
+~
+~
+0 0 41105
+S
+#41062
+In the Large {yBattlefield{x {r({DI{Rm{Dm{Rq{Du{Re{Ds{Rt{r){x~
+Your in the large battlefield between two kingdoms.  The nearby kingdoms
+are at war with each other...  Choose a side and join the battle!  
+~
+0 0 4
+D0
+~
+~
+0 0 41063
+D1
+~
+~
+0 0 41071
+D2
+~
+~
+0 0 41069
+D3
+~
+~
+0 0 41061
+S
+#41063
+In the Large {yBattlefield{x {r({DI{Rm{Dm{Rq{Du{Re{Ds{Rt{r){x~
+Your in the large battlefield between two kingdoms.  The nearby kingdoms
+are at war with each other...  Choose a side and join the battle!  
+~
+0 0 4
+D1
+~
+~
+0 0 41072
+D2
+~
+~
+0 0 41062
+D3
+~
+~
+0 0 41064
+D5
+~
+~
+0 0 41106
+S
+#41064
+In the Large {yBattlefield{x {r({DI{Rm{Dm{Rq{Du{Re{Ds{Rt{r){x~
+Your in the large battlefield between two kingdoms.  The nearby kingdoms
+are at war with each other...  Choose a side and join the battle!  
+~
+0 0 4
+D1
+~
+~
+0 0 41063
+D2
+~
+~
+0 0 41061
+D3
+~
+~
+0 0 41065
+S
+#41065
+In the Large {yBattlefield{x {r({DI{Rm{Dm{Rq{Du{Re{Ds{Rt{r){x~
+Your in the large battlefield between two kingdoms.  The nearby kingdoms
+are at war with each other...  Choose a side and join the battle!  
+~
+0 0 4
+D0
+~
+~
+0 0 41076
+D1
+~
+~
+0 0 41064
+D2
+~
+~
+0 0 41066
+D3
+~
+~
+0 0 41073
+D5
+~
+~
+0 0 41107
+S
+#41066
+In the Large {yBattlefield{x {r({DI{Rm{Dm{Rq{Du{Re{Ds{Rt{r){x~
+Your in the large battlefield between two kingdoms.  The nearby kingdoms
+are at war with each other...  Choose a side and join the battle!  
+~
+0 0 4
+D0
+~
+~
+0 0 41065
+D1
+~
+~
+0 0 41061
+D2
+~
+~
+0 0 41067
+D3
+~
+~
+0 0 41074
+S
+#41067
+In the Large {yBattlefield{x {r({DI{Rm{Dm{Rq{Du{Re{Ds{Rt{r){x~
+Your in the large battlefield between two kingdoms.  The nearby kingdoms
+are at war with each other...  Choose a side and join the battle!  
+~
+0 0 4
+D0
+~
+~
+0 0 41066
+D1
+~
+~
+0 0 41068
+D3
+~
+~
+0 0 41075
+D5
+~
+~
+0 0 41108
+S
+#41068
+In the Large {yBattlefield{x {r({DI{Rm{Dm{Rq{Du{Re{Ds{Rt{r){x~
+Your in the large battlefield between two kingdoms.  The nearby kingdoms
+are at war with each other...  Choose a side and join the battle!  
+~
+0 0 4
+D0
+~
+~
+0 0 41061
+D1
+~
+~
+0 0 41069
+D3
+~
+~
+0 0 41067
+S
+#41069
+In the Large {yBattlefield{x {r({DI{Rm{Dm{Rq{Du{Re{Ds{Rt{r){x~
+Your in the large battlefield between two kingdoms.  The nearby kingdoms
+are at war with each other...  Choose a side and join the battle!  
+~
+0 0 4
+D0
+~
+~
+0 0 41062
+D1
+~
+~
+0 0 41070
+D3
+~
+~
+0 0 41068
+D5
+~
+~
+0 0 41109
+S
+#41070
+Against the Eastern Cliff {r({DI{Rm{Dm{Rq{Du{Re{Ds{Rt{r){x~
+You try and escape the madness, but the cliffs here are to steep to
+climb.  You realize this is a true fight to the death.  
+~
+0 0 4
+D0
+~
+~
+0 0 41071
+D3
+~
+~
+0 0 41069
+S
+#41071
+Against the Eastern Cliffs {r({DI{Rm{Dm{Rq{Du{Re{Ds{Rt{r){x~
+A small cave is before you.  It just might be a way out of this terror!
+~
+0 0 0
+D0
+~
+~
+0 0 41072
+D1
+~
+~
+0 0 41102
+D2
+~
+~
+0 0 41070
+D3
+~
+~
+0 0 41062
+S
+#41072
+Against the Eastern Cliff {r({DI{Rm{Dm{Rq{Du{Re{Ds{Rt{r){x~
+You try and escape the madness, but the cliffs here are to steep to
+climb.  You realize this is a true fight to the death.  
+~
+0 0 0
+D2
+~
+~
+0 0 41071
+D3
+~
+~
+0 0 41063
+S
+#41073
+Against the Western Cliff {r({DI{Rm{Dm{Rq{Du{Re{Ds{Rt{r){x~
+You try and escape the madness, but the cliffs here are to steep to
+climb.  You realize this is a true fight to the death.  
+~
+0 0 4
+D1
+~
+~
+0 0 41065
+D2
+~
+~
+0 0 41074
+S
+#41074
+Against the Western Cliff {r({DI{Rm{Dm{Rq{Du{Re{Ds{Rt{r){x~
+A small cave is before you.  It just might be a way out of this terror!  
+~
+0 0 4
+D0
+~
+~
+0 0 41073
+D1
+~
+~
+0 0 41066
+D2
+~
+~
+0 0 41075
+D3
+~
+~
+0 0 41101
+S
+#41075
+Against the Western Cliff {r({DI{Rm{Dm{Rq{Du{Re{Ds{Rt{r){x~
+You try and escape the madness, but the cliffs here are to steep to
+climb.  You realize this is a true fight to the death.  
+~
+0 0 4
+D0
+~
+~
+0 0 41074
+D1
+~
+~
+0 0 41067
+S
+#41076
+~
+~
+0 0 0
+D2
+~
+~
+0 0 41065
+S
+#41101
+A Small {rCave {r({DI{Rm{Dm{Rq{Du{Re{Ds{Rt{r){x~
+You're in a small cave.  There is a small puddle of water here to drink
+from.  You feel strange as you notice your body healing a lot faster the
+normal...  Deeper in the cave you hear a river flowing.  Listening better,
+it sounds as if it were right beneath you.  
+~
+0 0 4
+D1
+~
+~
+0 0 41074
+D3
+~
+~
+0 0 41103
+S
+#41102
+A Small {rCave {r({DI{Rm{Dm{Rq{Du{Re{Ds{Rt{r){x~
+You're in a small cave.  There is a small puddle of water here to drink
+from.  You feel strange as you notice your body healing a lot faster the
+normal...  Deeper in the cave you hear a river flowing.  Listening better,
+it sounds as if it were right beneath you.  
+~
+0 0 4
+D1
+~
+~
+0 0 41103
+D3
+~
+~
+0 0 41071
+S
+#41103
+The Way Out {r({DI{Rm{Dm{Rq{Du{Re{Ds{Rt{r){x~
+The river is flowing north of here.  You can see a small bank ahead.  If
+your quick you can grab on to the bank east or west of here and climb out.  
+~
+0 0 0
+D0
+~
+~
+0 0 41103
+D1
+~
+~
+0 0 41101
+D2
+~
+~
+0 0 41103
+D3
+~
+~
+0 0 41102
+S
+#41105
+A Hole in the {yBattlefield {r({DI{Rm{Dm{Rq{Du{Re{Ds{Rt{r){x~
+You slip and fall into this hole.  The scent of warriors that have met
+their doom is fresh here.  The only way out is back up to the battlefield.  
+~
+0 0 4
+D4
+~
+~
+0 0 41061
+S
+#41106
+A Hole in the {yBattlefield {r({DI{Rm{Dm{Rq{Du{Re{Ds{Rt{r){x~
+You slip and fall into this hole.  The scent of warriors that have met
+their doom is fresh here.  The only way out is back up to the battlefield.  
+~
+0 0 4
+D4
+~
+~
+0 0 41063
+S
+#41107
+A Hole in the {yBattlefield {r({DI{Rm{Dm{Rq{Du{Re{Ds{Rt{r){x~
+You slip and fall into this hole.  The scent of warriors that have met
+their doom is fresh here.  The only way out is back up to the battlefield.  
+~
+0 0 4
+D4
+~
+~
+0 0 41065
+S
+#41108
+A Hole in the {yBattlefield {r({DI{Rm{Dm{Rq{Du{Re{Ds{Rt{r){x~
+You slip and fall into this hole.  The scent of warriors that have met
+their doom is fresh here.  The only way out is back up to the battlefield.  
+~
+0 0 4
+D4
+~
+~
+0 0 41067
+S
+#41109
+A Hole in the {yBattlefield {r({DI{Rm{Dm{Rq{Du{Re{Ds{Rt{r){x~
+You slip and fall into this hole.  The scent of warriors that have met
+their doom is fresh here.  The only way out is back up to the battlefield.  
+~
+0 0 4
+D4
+~
+~
+0 0 41069
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 41060 5 2
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

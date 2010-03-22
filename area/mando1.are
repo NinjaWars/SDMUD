@@ -1,0 +1,1839 @@
+#AREADATA
+Name Mando Area~
+Builders Mandorallen~
+VNUMs 40800 40999
+Credits [  U-C  ] Mandorallen Unknown~
+Security 9
+RepopMsg (null)~
+End
+
+
+
+#MOBILES
+#40800
+Philosopher's Spirit~
+{cA Philosopher's Spirit{x~
+{cA spirit of a long dead philosopher floats here.{x
+~
+~
+Human~
+ABHOY 0 F C 0 0
+150 0 10d10+10000 0d0+0 8d8+20 none
+-30 -30 -30 -30
+0 I C H
+stand stand male 2000
+IL AH medium unknown
+F for AHMV
+F par BCDEFGIJK
+#40801
+demon hulking maelbolg demon~
+{DM{rael{Dbol{rg {DD{remo{Dn{x~
+{DA dark hulking demon stands here.{x
+~
+~
+Demon~
+ABY 0 Va D 0 0
+150 150 752d50+6061 150d10+85 50d3+162 none
+-91 -91 -91 -60
+0 0 0 INSY
+stand stand male 3000
+AHMV ABCGHIJK medium unknown
+F imm H
+#40802
+Moloch the guardian demon~
+{RM{ro{wlo{rc{Rh{x~
+{RM{ro{wlo{rc{Rh{w the guardian demon stands before the gates.{x
+~
+~
+Demon~
+ABF 0 DFTVa DH -1000 0
+215 860 861d72+32566 215d15+600 54d5+241 wrath
+-252 -252 -252 -208
+0 H 0 INSY
+stand stand none 20000
+AHMV ABCGHIJK medium unknown
+#40803
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40804
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40805
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40806
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40807
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40808
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40809
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40810
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40811
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40812
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40813
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40814
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40815
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40816
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40817
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40818
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40819
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40820
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40821
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40822
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40823
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40824
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40825
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40826
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40828
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40829
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40830
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40899
+Prince of Darkness~
+{DThe {DP{rr{Rin{Rc{De{D of {DD{wa{Drk{Dn{we{Dss{x~
+{DThe prince of darkness and source of all evil floats in the center of the pit.{x
+~
+~
+Human~
+ABF 0 DFTVa CDH -1000 0
+300 300 1502d100+24241 300d10+85 100d3+312 slash
+-193 -193 -193 -130
+DEFHKMO 0 CDH NY
+stand stand male 500000
+E ABDPQUW giant unknown
+F for AHMV
+F par CEFGHIJK
+#0
+
+
+
+#OBJECTS
+#40800
+dark key black~
+{DA Dark Key{x~
+{DA key with a demon's head lies here.~
+unknown~
+key ABY AO
+0 0 0 0 0
+0 3 0 P
+#40801
+Divine vengeance sword ~
+{YD{wi{yvi{wn{Ye {wV{yen{wge{yanc{we{x~
+{yA winged sword withe the name "{wV{yean{wg{yanc{we{y" lies here.{x~
+silver~
+weapon ABGIMV AN
+sword 20 20 divine E
+200 10 0 P
+A
+23 -100
+A
+19 50
+A
+18 50
+A
+12 125
+A
+13 200
+#0
+
+
+
+#ROOMS
+#40800
+Abandoned Path~
+Okay this room is large and has a naked picture of Rashan in it.
+~
+0 4 0
+D0
+~
+~
+0 0 40801
+S
+#40801
+Abandoned Path~
+~
+0 0 0
+D0
+~
+~
+0 0 40802
+D2
+~
+~
+0 0 40800
+S
+#40802
+Before a Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 40803
+D2
+~
+~
+0 0 40801
+S
+#40803
+Inside the Cave~
+~
+0 0 0
+D0
+~
+~
+0 0 40804
+D2
+~
+~
+0 0 40802
+S
+#40804
+The Blackened Gates~
+~
+0 0 0
+D0
+~
+~
+0 0 40805
+D2
+~
+~
+0 0 40803
+S
+#40805
+Vestibule of the Damned~
+~
+0 0 0
+D1
+~
+~
+0 0 40807
+D2
+~
+~
+0 0 40804
+D3
+~
+~
+0 0 40806
+S
+#40806
+Vestibule of the Damned~
+~
+0 0 0
+D1
+~
+~
+0 0 40805
+D3
+~
+~
+0 0 40808
+S
+#40807
+Vestibule of the Damned~
+~
+0 0 0
+D1
+~
+~
+0 0 40812
+D3
+~
+~
+0 0 40805
+S
+#40808
+Before A Temple~
+~
+0 0 0
+D1
+~
+~
+0 0 40806
+D3
+~
+~
+0 0 40809
+S
+#40809
+Temple of Mist~
+~
+0 0 0
+D0
+~
+~
+0 0 40811
+D1
+~
+~
+0 0 40808
+D2
+~
+~
+0 0 40810
+S
+#40810
+Temple of Mist~
+~
+0 0 0
+D0
+~
+~
+0 0 40809
+S
+#40811
+Temple of Mist~
+~
+0 0 0
+D0
+~
+~
+0 0 40813
+D2
+~
+~
+0 0 40809
+S
+#40812
+Vestibule of the Damned~
+~
+0 0 0
+D1
+~
+~
+0 0 40814
+D3
+~
+~
+0 0 40807
+S
+#40813
+Temple Altar~
+~
+0 0 0
+D2
+~
+~
+0 0 40811
+S
+#40814
+Vestibule of the Damned~
+~
+0 0 0
+D0
+~
+~
+0 0 40815
+D3
+~
+~
+0 0 40812
+S
+#40815
+Vestibule of the Damned~
+~
+0 0 0
+D2
+~
+~
+0 0 40814
+D5
+~
+~
+0 0 40816
+S
+#40816
+Down the Cliff~
+~
+0 0 0
+D4
+~
+~
+0 0 40815
+D5
+~
+~
+0 0 40817
+S
+#40817
+Wind Torn Plains~
+~
+0 0 0
+D0
+~
+~
+0 0 40818
+D4
+~
+~
+0 0 40816
+S
+#40818
+Wind Torn Plains~
+~
+0 0 0
+D0
+~
+~
+0 0 40819
+D2
+~
+~
+0 0 40817
+S
+#40819
+Wind Torn Plains~
+~
+0 0 0
+D0
+~
+~
+0 0 40824
+D1
+~
+~
+0 0 40821
+D2
+~
+~
+0 0 40818
+D3
+~
+~
+0 0 40820
+S
+#40820
+Wind Torn Plains~
+~
+0 0 0
+D1
+~
+~
+0 0 40819
+S
+#40821
+Wind Torn Plains~
+~
+0 0 0
+D0
+~
+~
+0 0 40822
+D3
+~
+~
+0 0 40819
+S
+#40822
+Wind Torn Plains~
+~
+0 0 0
+D0
+~
+~
+0 0 40825
+D2
+~
+~
+0 0 40821
+D3
+~
+~
+0 0 40823
+S
+#40823
+Wind Torn Plains~
+~
+0 0 0
+D1
+~
+~
+0 0 40822
+D2
+~
+~
+0 0 40824
+S
+#40824
+Wind Torn Plains~
+~
+0 0 0
+D0
+~
+~
+0 0 40823
+D2
+~
+~
+0 0 40819
+S
+#40825
+Wind Torn Plains~
+~
+0 0 0
+D0
+~
+~
+0 0 40826
+D2
+~
+~
+0 0 40822
+S
+#40826
+Wind Torn Plains~
+~
+0 0 0
+D0
+~
+~
+0 0 40829
+D2
+~
+~
+0 0 40825
+D3
+~
+~
+0 0 40827
+S
+#40827
+Wind Torn Plains~
+~
+0 0 0
+D1
+~
+~
+0 0 40826
+D3
+~
+~
+0 0 40828
+S
+#40828
+The Throne of Minos~
+~
+0 0 0
+D1
+~
+~
+0 0 40827
+D5
+~
+~
+0 0 40832
+S
+#40829
+A Massive Hurricane~
+~
+0 0 0
+D2
+~
+~
+0 0 40826
+D4
+~
+~
+0 0 40830
+S
+#40830
+Inside the Hurricane~
+~
+0 0 0
+D4
+~
+~
+0 0 40831
+D5
+~
+~
+0 0 40829
+S
+#40831
+Top of the Hurricane~
+~
+0 0 0
+D5
+~
+~
+0 0 40830
+S
+#40832
+Down the Rockslide~
+~
+0 0 0
+D4
+~
+~
+0 0 40828
+D5
+~
+~
+0 0 40833
+S
+#40833
+Bottom of a Rockslide~
+~
+0 0 0
+D3
+~
+~
+0 0 40834
+D4
+~
+~
+0 0 40832
+S
+#40834
+The Swamp of the Wrathful~
+~
+0 0 0
+D1
+~
+~
+0 0 40833
+D3
+~
+~
+0 0 40835
+S
+#40835
+The Swamp of the Wrathful~
+~
+0 0 0
+D0
+~
+~
+0 0 40836
+D1
+~
+~
+0 0 40834
+S
+#40836
+The Swamp of the Wrathful~
+~
+0 0 0
+D0
+~
+~
+0 0 40837
+D2
+~
+~
+0 0 40835
+S
+#40837
+The Swamp of the Wrathful~
+~
+0 0 0
+D0
+~
+~
+0 0 40838
+D2
+~
+~
+0 0 40836
+S
+#40838
+The Swamp of the Wrathful~
+~
+0 0 0
+D0
+~
+~
+0 0 40839
+D2
+~
+~
+0 0 40837
+S
+#40839
+The Swamp of the Wrathful~
+~
+0 0 0
+D0
+~
+~
+0 0 40841
+D2
+~
+~
+0 0 40838
+D5
+~
+~
+1 0 40840
+S
+#40840
+Sunken in Mire~
+~
+0 0 0
+D4
+~
+~
+1 0 40839
+S
+#40841
+Swamp of the Wrathful~
+~
+0 0 0
+D0
+~
+~
+0 0 40842
+D2
+~
+~
+0 0 40839
+S
+#40842
+The Swamp of the Wrathful~
+~
+0 0 0
+D0
+~
+~
+1 0 40845
+D2
+~
+~
+0 0 40841
+D3
+~
+~
+0 0 40843
+S
+#40843
+The Swamp of the Wrathful~
+~
+0 0 0
+D1
+~
+~
+0 0 40842
+D3
+~
+~
+0 0 40844
+S
+#40844
+Before a Keep~
+~
+0 0 0
+D1
+~
+~
+0 0 40843
+D2
+~
+~
+1 0 40842
+S
+#40845
+Firmer Ground~
+~
+0 0 0
+D0
+~
+~
+0 0 40846
+D2
+~
+~
+0 0 40842
+S
+#40846
+Stairway Down~
+~
+0 0 0
+D2
+~
+~
+0 0 40845
+D5
+~
+~
+0 0 40847
+S
+#40847
+A Path Down~
+~
+0 0 0
+D4
+~
+~
+0 0 40846
+D5
+~
+~
+0 0 40848
+S
+#40848
+Under Acid Rains~
+~
+0 0 0
+D0
+~
+~
+0 0 40849
+D4
+~
+~
+0 0 40847
+S
+#40849
+Under Acid Rains~
+~
+0 0 0
+D1
+~
+~
+0 0 40851
+D2
+~
+~
+0 0 40848
+D3
+~
+~
+0 0 40850
+S
+#40850
+Under Acid Rains~
+~
+0 0 0
+D0
+~
+~
+0 0 40852
+D1
+~
+~
+0 0 40849
+S
+#40851
+Under Acid Rains~
+~
+0 0 0
+D3
+~
+~
+0 0 40849
+S
+#40852
+Under Acid Rains~
+~
+0 0 0
+D0
+~
+~
+0 0 40853
+D2
+~
+~
+0 0 40850
+S
+#40853
+Under Acid Rains~
+~
+0 0 0
+D0
+~
+~
+0 0 40854
+D2
+~
+~
+0 0 40852
+S
+#40854
+Under Acid Rains~
+~
+0 0 0
+D2
+~
+~
+0 0 40853
+D3
+~
+~
+0 0 40855
+S
+#40855
+Under Acid Rains~
+~
+0 0 0
+D0
+~
+~
+0 0 40856
+D1
+~
+~
+0 0 40854
+S
+#40856
+Mudslide~
+~
+0 0 0
+D2
+~
+~
+0 0 40855
+D5
+~
+~
+0 0 40857
+S
+#40857
+Mudslide Down~
+~
+0 0 0
+D4
+~
+~
+0 0 40856
+D5
+~
+~
+0 0 40858
+S
+#40858
+Bottom of a Mudslide~
+~
+0 0 0
+D0
+~
+~
+0 0 40859
+D4
+~
+~
+0 0 40857
+S
+#40859
+Blackened Forest~
+~
+0 0 0
+D0
+~
+~
+0 0 40860
+D2
+~
+~
+0 0 40858
+S
+#40860
+Blackened Forest~
+~
+0 0 0
+D0
+~
+~
+0 0 40861
+D2
+~
+~
+0 0 40859
+S
+#40861
+Blackened Forest~
+~
+0 0 0
+D0
+~
+~
+0 0 40862
+D2
+~
+~
+0 0 40860
+S
+#40862
+Blackened Forest~
+~
+0 0 0
+D2
+~
+~
+0 0 40861
+D3
+~
+~
+0 0 40863
+S
+#40863
+Blackened Forest~
+~
+0 0 0
+D0
+~
+~
+0 0 40864
+D1
+~
+~
+0 0 40862
+S
+#40864
+Blackened Forest~
+~
+0 0 0
+D0
+~
+~
+0 0 40865
+D2
+~
+~
+0 0 40863
+S
+#40865
+Blackened Forest~
+~
+0 0 0
+D0
+~
+~
+0 0 40866
+D2
+~
+~
+0 0 40864
+S
+#40866
+Blackened Forest~
+~
+0 0 0
+D2
+~
+~
+0 0 40865
+D3
+~
+~
+0 0 40867
+S
+#40867
+Forest of the Suicides~
+~
+0 0 0
+D0
+~
+~
+0 0 40868
+D1
+~
+~
+0 0 40866
+S
+#40868
+Forest of the Suicides~
+~
+0 0 0
+D0
+~
+~
+0 0 40869
+D2
+~
+~
+0 0 40867
+S
+#40869
+Forest of the Suicides~
+~
+0 0 0
+D0
+~
+~
+0 0 40879
+D2
+~
+~
+0 0 40868
+S
+#40870
+Forest of the Suicides~
+~
+0 0 0
+D0
+~
+~
+0 0 40871
+D1
+~
+~
+0 0 40879
+D2
+~
+~
+0 0 40879
+S
+#40871
+Forest of the Suicides~
+~
+0 0 0
+D2
+~
+~
+0 0 40870
+D5
+~
+~
+0 0 40872
+S
+#40872
+Firey Desert~
+~
+0 0 0
+D0
+~
+~
+0 0 40873
+D4
+~
+~
+0 0 40871
+S
+#40873
+Firey Desert~
+~
+0 0 0
+D0
+~
+~
+0 0 40874
+D2
+~
+~
+0 0 40872
+S
+#40874
+Firey Desert~
+~
+0 0 0
+D2
+~
+~
+0 0 40873
+D3
+~
+~
+0 0 40875
+S
+#40875
+Under Rains of Lava~
+~
+0 0 0
+D1
+~
+~
+0 0 40874
+D3
+~
+~
+0 0 40876
+S
+#40876
+Under Rains of Lava~
+~
+0 0 0
+D1
+~
+~
+0 0 40875
+D3
+~
+~
+0 0 40877
+S
+#40877
+Under Rains of Lava~
+~
+0 0 0
+D1
+~
+~
+0 0 40876
+D2
+~
+~
+0 0 40878
+S
+#40878
+Under Rains of Lava~
+~
+0 0 0
+D0
+~
+~
+0 0 40877
+D2
+~
+~
+0 0 40880
+S
+#40879
+Forest of the Suicides~
+~
+0 0 0
+D0
+~
+~
+0 0 40870
+D2
+~
+~
+0 0 40869
+D3
+~
+~
+0 0 40870
+S
+#40880
+Under Rains of Lava~
+~
+0 0 0
+D0
+~
+~
+0 0 40878
+D5
+~
+~
+0 0 40881
+S
+#40881
+A Sloping Hill~
+~
+0 0 0
+D3
+~
+~
+0 0 40882
+D4
+~
+~
+0 0 40880
+S
+#40882
+Black Desert~
+~
+0 0 0
+D0
+~
+~
+0 0 40883
+D1
+~
+~
+0 0 40881
+S
+#40883
+Black Desert~
+~
+0 0 0
+D0
+~
+~
+0 0 40884
+D2
+~
+~
+0 0 40882
+S
+#40884
+Black Desert~
+~
+0 0 0
+D2
+~
+~
+0 0 40883
+D3
+~
+~
+0 0 40885
+S
+#40885
+Black Desert~
+~
+0 0 0
+D1
+~
+~
+0 0 40884
+D3
+~
+~
+0 0 40886
+S
+#40886
+Black Desert~
+~
+0 0 0
+D0
+~
+~
+0 0 40887
+D1
+~
+~
+0 0 40885
+S
+#40887
+A Boiling River of Blood~
+~
+0 0 6
+D2
+~
+~
+0 0 40886
+D3
+~
+~
+0 0 40888
+S
+#40888
+A Boiling River of Blood~
+~
+0 0 6
+D1
+~
+~
+0 0 40887
+D3
+~
+~
+0 0 40889
+S
+#40889
+A Boiling River of Blood~
+~
+0 0 6
+D1
+~
+~
+0 0 40888
+D3
+~
+~
+0 0 40890
+S
+#40890
+A Boiling River of Blood~
+~
+0 0 6
+D1
+~
+~
+0 0 40889
+D3
+~
+~
+0 0 40891
+S
+#40891
+A Boiling River of Blood~
+~
+0 0 6
+D0
+~
+~
+0 0 40892
+D1
+~
+~
+0 0 40890
+S
+#40892
+Dry Land~
+~
+0 0 0
+D0
+~
+~
+0 0 40893
+D2
+~
+~
+0 0 40891
+S
+#40893
+Burnt Ground~
+~
+0 0 0
+D0
+~
+~
+0 0 40894
+D2
+~
+~
+0 0 40892
+S
+#40894
+Burnt Ground~
+~
+0 0 0
+D0
+~
+~
+0 0 40895
+D2
+~
+~
+0 0 40893
+S
+#40895
+Pathway to the City of Sin~
+~
+0 0 0
+D0
+~
+~
+0 0 40896
+D2
+~
+~
+0 0 40894
+S
+#40896
+Pathway to the City of Sin~
+~
+0 0 0
+D0
+~
+~
+0 0 40897
+D2
+~
+~
+0 0 40895
+S
+#40897
+Gates of the City~
+~
+0 0 0
+D0
+~
+~
+3 40800 40898
+D2
+~
+~
+0 0 40896
+S
+#40898
+~
+~
+0 0 0
+D2
+~
+~
+3 0 40897
+S
+#0
+
+
+
+#SPECIALS
+M 40802 spec_nasty
+M 40899 spec_breath_frost
+S
+
+
+
+#RESETS
+D 0 40842 0 1
+D 0 40844 2 1
+D 0 40897 0 2
+D 0 40898 2 2
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

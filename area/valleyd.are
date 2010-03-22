@@ -1,0 +1,3738 @@
+#AREADATA
+Name Valley of Death~
+Builders Kurvaak~
+VNUMs 20000 20200
+Credits {C[  IMM  ] Valley of Death{x~
+Security 8
+RepopMsg {RREPOP{x~
+End
+
+
+
+#MOBILES
+#20000
+big fat slug~
+A big fat Slug~
+A big fat slug is here
+~
+~
+pig~
+A 0 DFJVa 0 1000 0
+200 211 1481d71+10656 211d11+95 71d2+156 none
+-142 -142 -142 -99
+CEIK ABP CDEGHIKS 0
+stand stand female 500
+AGVb ACDEFHJK small unknown
+#20001
+huge fish~
+A huge fish~
+A huge fish is swimming here.
+~
+~
+Imp~
+A 0 T 0 0 0
+600 600 3002d200+96961 600d10+85 200d3+612 acbite
+-396 -396 -396 -270
+0 R P NSXY
+stand stand male 100
+AHMV ABCDEFGHIJK large unknown
+#0
+
+
+
+#OBJECTS
+#20000
+Throgg Bracer~
+{xA {gThr{yo{ggg {xBracer~
+A small metal bracer lies here.~
+metal~
+armor B AM
+37 37 37 22 0
+75 2 4000 P
+A
+18 10
+A
+19 10
+#20001
+throgg helm~
+{xA {gThr{yo{ggg {xHelm~
+A small metal helm lies here~
+metal~
+armor B AE
+37 37 37 22 0
+75 5 3000 P
+A
+17 -10
+#20002
+throgg arm plate~
+{xA {gThr{yo{ggg {xArm Plate{x~
+A small pair of metal arm plates lie here.~
+unknown~
+armor B AI
+37 37 37 22 0
+75 3 2000 P
+A
+18 22
+#20003
+throgg leg plate~
+{xA {gThr{yo{ggg {xLeg Plate~
+A pair of small leg plates lie here.~
+metal~
+armor B AF
+37 37 37 22 0
+75 5 2000 P
+A
+13 120
+#20004
+throgg chainmail~
+{xA Sheet of {gThr{yo{ggg{x Chainmail~
+A small sheet of chainmail lies here.~
+metal~
+armor B AD
+37 37 37 22 0
+75 10 3000 P
+A
+19 22
+#20005
+throgg boots~
+{xA pair of {gThr{yo{ggg{x Boots~
+A pair of {ggreen{x boots are here.~
+metal~
+armor B AG
+37 37 37 22 0
+75 3 3500 P
+A
+19 3
+A
+18 2
+A
+2 2
+#20006
+Throgg Punch Dagger~
+{xA small {gThr{yo{ggg {xPunch Dagger~
+A small dagger is lying here.~
+metal~
+weapon B AN
+dagger 7 15 punch DH
+75 76 4620 P
+A
+19 6
+A
+18 6
+#20007
+Orc Throgg Slamer Mace 1~
+{xThe {gO{yr{gc {xSlamer Mace~
+A large mace is lying here.~
+unknown~
+weapon B AN
+mace 2 62 smash H
+75 4 9000 P
+A
+19 15
+A
+18 15
+#20008
+Rainbow Fish Scales Scale~
+{xA {RR{Ba{Yi{Mn{Rb{Yo{Bw{x Suit of Fish Scales ~
+A small {Rr{Ba{Yi{Mn{Rb{Yo{Bw{x is lying here.~
+unknown~
+armor A AK
+41 41 41 23 0
+85 4 100000 P
+A
+13 130
+#20009
+Fish Fins~
+{xA {CF{cis{Ch{x Fin~
+A small fin is lying here.~
+metal~
+weapon 0 AN
+exotic 4 32 thwack DE
+85 6 12000 P
+A
+19 5
+A
+18 5
+#20010
+Fish Tail Fin ~
+{xA {CF{cish'{Cs {xTail Fin~
+A large fin is lying here.~
+unknown~
+armor B AF
+41 41 41 23 0
+85 4 40000 P
+A
+13 130
+#20011
+Small Circle Fish Scales Scale~
+{xA Small Circle of {CF{cis{Ch{x Scales~
+A small amount of fish scales lies here.~
+unknown~
+armor B AM
+41 41 41 23 0
+85 2 30000 P
+#20012
+Fish Eyes Pair~
+{xA Pair of {CF{cis{Ch{x Eyes~
+A pair of eyes sit here.~
+unknown~
+armor B AE
+41 41 41 23 0
+85 1 24000 P
+A
+18 30
+#20013
+Fish Spines~
+{xA {CF{cis{Ch {xSpine~
+A long spine lies here.~
+unknown~
+weapon 0 AN
+staff 4 34 pierce E
+85 6 0 P
+A
+18 20
+#20014
+Boots Fish Scales~
+{xA Pair of Boots made of {CF{cis{Ch{x Scales~
+A sheet of fish scales lie here.~
+unknown~
+armor 0 AG
+41 41 41 23 0
+85 4 40000 P
+A
+19 5
+A
+18 3
+A
+2 2
+#20015
+Ring Fish Scales~
+{xA {YR{Wi{Yng{x of {CF{cis{Ch{x Scales~
+A very small circle of fish scales lie here.~
+unknown~
+armor 0 AB
+20 20 20 15 0
+85 1 50000 P
+A
+13 150
+#20016
+Full Suit Fish Scales~
+{xA Full Suit of {CF{cis{Ch{x Scales~
+A large sheet of fish scales lie here.~
+unknown~
+armor AB AD
+45 45 45 25 0
+90 8 60000 P
+A
+19 40
+#20017
+manly pile biscuits~
+a Manly Pile of Biscuits~
+A HUGE pile of biscuits is here.~
+unknown~
+food 0 AP
+90 90 0 0 0
+1 10 10 P
+#20018
+quest item~
+quest item~
+A Quest Item is here~
+unknown~
+trash 0 AO
+0 0 0 0 0
+0 0 0 P
+#20050
+forge~
+forge~
+Forge~
+unknown~
+weapon 0 AN
+exotic 0 0 none 0
+0 0 0 P
+#20175
+Squid Water Suction Cup~
+{wThe {YS{yuction {BC{bup{w of a {GG{giant {RS{rquid{x~
+A strange looking piece of skin lies here.~
+unknown~
+weapon AB AN
+exotic 14 17 suction 0
+101 0 20000 P
+#20186
+Human Ribcage~
+{WA {DH{wu{Dm{wa{Dn {WR{Di{Wb{Dc{Wa{Dg{We{x~
+DON'T TOUCH!~
+unknown~
+armor 0 AJ
+100 100 100 100 0
+110 0 0 P
+A
+18 3000
+A
+19 3000
+#20187
+Band Skull~
+{wBand of {DS{Wk{Du{Wl{Dl{Ws{x~
+Don't Touch~
+unknown~
+armor AB AC
+1000 1000 1000 1000 0
+110 0 0 P
+A
+18 2000
+A
+19 2000
+#20188
+ball mortal bones~
+{xA ball of compressed mortal {Wb{Don{We{Ds{x.~
+DON'T TOUCH!~
+unknown~
+light AB AQ
+0 0 999 0 0
+110 0 0 P
+A
+18 1000
+A
+19 1000
+A
+17 -1000
+#20189
+Boot Bones Mortal~
+{DBoots{W made of a {wM{bo{wr{bt{wa{bl{ws {yFoot{x~
+DON'T TOUCH!~
+unknown~
+armor AB AG
+1000 1000 1000 1000 0
+110 0 0 P
+A
+18 1000
+A
+19 1000
+A
+17 -1000
+#20190
+Cloak Human Flesh~
+{WA {DCloak{W made of {wM{bo{wr{bt{wa{bl {yFlesh{x~
+DON'T TOUCH!~
+unknown~
+armor AB AK
+1000 1000 1000 1000 0
+110 0 0 P
+A
+18 1000
+A
+19 1000
+A
+17 -1000
+#20191
+Band Skull~
+{wBand of {DS{Wk{Du{Wl{Dl{Ws{x~
+DON'T TOUCH!~
+unknown~
+armor AB AL
+1000 1000 1000 1000 0
+110 0 0 P
+A
+18 1000
+A
+19 1000
+A
+17 -1000
+#20192
+Shirt Finger Bones~
+{WA shirt made entirely of tiny finger {Db{wo{Dn{we{Ds{x~
+DON'T TOUCH!~
+unknown~
+armor AB AD
+1000 1000 1000 1000 0
+110 0 0 P
+A
+18 1000
+A
+19 1000
+A
+17 -1000
+#20193
+Mortal Thigh Bone~
+{WA {wM{bo{wr{bt{wa{bl{ws {WThigh Bone{x~
+DON'T TOUCH!~
+unknown~
+weapon AB AN
+mace 70 70 smash ABCDEGHI
+210 0 0 P
+A
+18 2000
+A
+19 2000
+A
+2 10
+#20194
+Mortal Skull~
+{DA {wM{bo{wr{bt{wa{bl{ws {DS{Wk{Du{Wl{Dl{x~
+DON'T TOUCH!~
+unknown~
+armor AB AQ
+1000 1000 1000 1000 0
+110 0 0 P
+A
+18 1000
+A
+19 1000
+A
+13 300
+A
+17 -1000
+#20195
+Band Skulls~
+{wBand of {DS{Wk{Du{Wl{Dl{Ws{x~
+DON'T TOUCH!~
+unknown~
+armor AB AH
+1000 1000 1000 1000 0
+110 0 0 P
+A
+13 300
+A
+18 1000
+A
+19 1000
+A
+17 -1000
+#20196
+Band Skulls~
+{wBand of {DS{Wk{Du{Wl{Dl{Ws{x~
+DON'T TOUCH!~
+unknown~
+armor AB AF
+1000 1000 1000 1000 0
+110 0 0 P
+A
+18 1000
+A
+19 1000
+A
+17 -1000
+A
+13 300
+#20197
+Band Skulls~
+{wBand of {DS{Wk{Du{Wl{Dl{Ws{x~
+DON'T TOUCH!~
+unknown~
+armor AB AE
+1000 1000 1000 1000 0
+110 0 0 P
+A
+18 1000
+A
+19 1000
+A
+17 -1000
+A
+13 300
+#20198
+Band Skulls~
+{wBand of {DS{Wk{Du{Wl{Dl{Ws{x~
+DON'T TOUCH!~
+unknown~
+armor AB AM
+1000 1000 1000 1000 0
+0 0 0 P
+A
+18 1000
+A
+19 1000
+A
+17 -1000
+A
+13 300
+#20199
+Band Skull~
+{wBand of {DS{Wk{Du{Wl{Dl{Ws{x~
+DON'T TOUCH!~
+unknown~
+armor AB AI
+1000 1000 1000 1000 0
+110 0 0 P
+A
+18 1000
+A
+19 1000
+A
+13 300
+A
+17 -1000
+#20200
+Strange Skull ~
+{wBand of {DS{Wk{Du{Wl{Dl{Ws{x~
+DON'T TOUCH!~
+unknown~
+armor AB AB
+1000 1000 1000 1000 0
+110 0 0 P
+A
+18 2000
+A
+19 2000
+A
+13 300
+A
+17 -1000
+#0
+
+
+
+#ROOMS
+#20000
+{WEntrance to the {yValley{W of {DDeath{x~
+You are standing at the begining of a large valley.  As you scan the
+horizon you see a long river flowing far to the north.  The air seems to
+smell of death as you travel farther into the valley.  Maybe you should turn
+back now before it is too late and you add to the stench.  
+~
+0 524292 2
+D0
+~
+~
+0 0 20001
+S
+#20001
+{WBeggining of the {yValley{g ({yValley{W of {DDeath{g){x~
+The stench of decaying flesh is becoming stronger as you venture farther
+into the valley.  As you look around you notice a small path leading north
+toward a large river.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20002
+D2
+~
+~
+0 0 20000
+S
+#20002
+{WCross Section of Caves {g({yValley {Wof {DDeath{g){x ~
+As you travel along the trail you come to an intersection.  The trail
+runs east towards an entrance to some caves.  The trail also continues to
+the north, or to the west towards some more caves.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20003
+D1
+~
+~
+0 0 20081
+D2
+~
+~
+0 0 20001
+D3
+~
+~
+0 0 20109
+S
+#20003
+{WRiver in the bottom of the valley {g({yValley {Wof{D Death{g){x~
+The trail stops at the bank of a wide, murky river.  From the marks in
+the mud it looks as though some small animal has been here just a little
+before you.  There are many bones littering the ground all around the bank
+and there are a few splatters of blood on the leaves of some of the
+surrounding shrubbery.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20004
+D2
+~
+~
+0 0 20002
+S
+#20004
+{WRiver in the bottom of the valley {g({yValley {Wof{D Death{g){x~
+You are standing about waist deep in the murky water.  As you move along
+you feel something brush your leg.  Was it just a plant or was it the
+appendage of a huge monster waiting to kill you?  
+~
+0 524288 0
+D0
+~
+~
+0 0 20005
+D2
+~
+~
+0 0 20003
+S
+#20005
+{WRiver in the bottom of the valley {g({yValley {Wof{D Death{g){x~
+You are standing about waist deep in the murky water.  As you move along
+you feel something brush your leg.  Was it just a plant or was it the
+appendage of a huge monster waiting to kill you?  
+~
+0 524288 0
+D1
+~
+~
+0 0 20006
+D2
+~
+~
+0 0 20004
+S
+#20006
+{WCurve in the river{g ({yValley {Wof {DDeath{g){x~
+The water here is a little more shallow as the river curves around a
+large hill on its way down the valley.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20007
+D3
+~
+~
+0 0 20005
+S
+#20007
+{WCurve in the river{g ({yValley {Wof {DDeath{g){x~
+The water here is a little more shallow as the river curves around a
+large hill on its way down the valley.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20008
+D3
+~
+~
+0 0 20006
+S
+#20008
+{WRiver in the bottom of the valley {g({yValley {Wof{D Death{g){x~
+Coming around the bend in the river you notice that the water is flowing
+a lot slower here as you near the huge lake that is to the north.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20009
+D2
+~
+~
+0 0 20007
+S
+#20009
+{WRiver in the bottom of the valley {g({yValley {Wof{D Death{g){x~
+The river begins to widen and get even more shallow here as it flows
+towards the lake to the north.  You hear the sound of fish jumping far far
+to the north.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20010
+D2
+~
+~
+0 0 20008
+S
+#20010
+{WOpening to a giant lake{g ({yValley{W of {DDeath{g){x~
+Here the river opens into a giant lake.  The water is a dark color and
+smells real bad.  You can venture into the water to the north, or go along
+the beach to the east and west.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20011
+D1
+~
+~
+0 0 20018
+D2
+~
+~
+0 0 20009
+D3
+~
+~
+0 0 20036
+S
+#20011
+{WNearing the center of a giant lake{g ({yValley{W of {DDeath{g){x~
+The water is very deep here.  You feel very uneasy because some there are
+small ripples all over the surface of the water and you didn't make them. 
+You can go south back to the river opening, or you continue your journey
+towards the center of the lake.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20012
+D1
+~
+~
+0 0 20020
+D2
+~
+~
+0 0 20010
+D3
+~
+~
+0 0 20038
+S
+#20012
+{WNearing the center of a giant lake{g ({yValley{W of {DDeath{g){x~
+The water is very deep here.  You feel very uneasy because there are some
+small ripples all over the surface of the water and you didn't make them. 
+You can go south back to the river opening, east or west towards the shore,
+or you continue your journey towards the center of the lake.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20013
+D1
+~
+~
+0 0 20021
+D2
+~
+~
+0 0 20011
+D3
+~
+~
+0 0 20039
+S
+#20013
+{WCenter of a giant lake{g ({yValley{W of {DDeath{g){x~
+You are at the center of the lake.  There is a large whirlpool leading
+down, or you can go south back to the river, or north, east, or west to head
+to one of the shores.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20014
+D1
+~
+~
+0 0 20022
+D2
+~
+~
+0 0 20012
+D3
+~
+~
+0 0 20040
+D5
+~
+~
+0 0 20150
+S
+#20014
+{WNearing the center of a giant lake{g ({yValley{W of {DDeath{g){x~
+As you move closer to the center of the lake it seems as though it is
+getting easier to move that way.  It is almost as if you are being pulled
+toward the center.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20015
+D1
+~
+~
+0 0 20023
+D2
+~
+~
+0 0 20013
+D3
+~
+~
+0 0 20041
+S
+#20015
+{WNearing the center of a giant lake{g ({yValley{W of {DDeath{g){x~
+As you get closer to the center of the lake you can feel the water moving
+faster.  You get a bad feeling about what might be ahead.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20016
+D1
+~
+~
+0 0 20024
+D2
+~
+~
+0 0 20014
+D3
+~
+~
+0 0 20042
+S
+#20016
+{WEdge of a giant lake{g ({yValley{W of {DDeath{g){x~
+There are no real plants around this place.  They all seem to have been
+dead for a while judging by their yellow color.  Maybe that is why they call
+this place Death Valley.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20017
+D1
+~
+~
+0 0 20025
+D2
+~
+~
+0 0 20015
+D3
+~
+~
+0 0 20043
+S
+#20017
+{WOn the beach of a giant lake{g ({yValley{W of {DDeath{g){x~
+Your are on the shore a giant lake.  There is a cliff face to the north
+that you can't climb.  To the east and west there is more shorline, and to
+the south is the lake.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20026
+D2
+~
+~
+0 0 20016
+D3
+~
+~
+0 0 20044
+S
+#20018
+{WOn the edge of a giant lake {g({yValley{W of {DDeath{g){x~
+You are gradually making your way toward the center of the lake.  It
+seems as though you are being pulled toward the center by some unkown force.
+~
+0 524288 0
+D0
+~
+~
+0 0 20020
+D1
+~
+~
+0 0 20028
+D2
+~
+~
+0 0 20019
+D3
+~
+~
+0 0 20010
+S
+#20019
+{WOn the beach of a giant lake {g({yValley{W of {DDeath{g){x~
+A vine brushes by your arm as you pass throught threshholds of the
+forest.  The trees standing on the path seems ancient, and hiding their own
+secrets.  Here and there are mushrooms, but sadly, not the edible type.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20018
+D1
+~
+~
+0 0 20027
+S
+#20020
+{WNearing the center of a giant lake {g({yValley{W of {DDeath{g){x~
+The water here is really deep and really cold.  It has a muddy look to it
+and you can see little swirls and designs as it moves toward the center of
+the lake.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20021
+D1
+~
+~
+0 0 20029
+D2
+~
+~
+0 0 20018
+D3
+~
+~
+0 0 20011
+S
+#20021
+{WNearing the center of a giant lake {g({yValley{W of {DDeath{g){x~
+You are getting closer to the center of the lake.  The water is starting
+to move pretty fast here.  Maybe something bad is waiting at the center.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20022
+D1
+~
+~
+0 0 20030
+D2
+~
+~
+0 0 20020
+D3
+~
+~
+0 0 20012
+S
+#20022
+{WCenter of a giant lake {g({yValley{W of {DDeath{g){x~
+You are at the center of the lake.  The water is very cold here.  You can
+head south back to the river, or north, east, or west to go to the shore.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20023
+D1
+~
+~
+0 0 20031
+D2
+~
+~
+0 0 20021
+D3
+~
+~
+0 0 20013
+S
+#20023
+{WNearing the center of a giant lake {g({yValley{W of {DDeath{g){x~
+As you move closer to the center of the lake it seems as though it is
+getting easier to move that way.  It is almost as if you are being pulled
+toward the center.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20024
+D1
+~
+~
+0 0 20032
+D2
+~
+~
+0 0 20022
+D3
+~
+~
+0 0 20014
+S
+#20024
+{WNearing the center of a giant lake {g({yValley{W of {DDeath{g){x~
+As you get closer to the center of the lake you can feel the water moving
+faster.  You get a bad feeling about what might be ahead.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20025
+D1
+~
+~
+0 0 20033
+D2
+~
+~
+0 0 20023
+D3
+~
+~
+0 0 20015
+S
+#20025
+{WOn the edge of a giant lake {g({yValley{W of {DDeath{g){x~
+You are at the edge of the giant lake.  The water gets deeper and moves
+faster as you make your way toward the center of the lake.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20026
+D1
+~
+~
+0 0 20034
+D2
+~
+~
+0 0 20024
+D3
+~
+~
+0 0 20016
+S
+#20026
+{WOn the beach of a giant lake {g({yValley{W of {DDeath{g){x~
+Your are on the shore a giant lake.  There is a cliff face to the north
+that you can't climb.  To the east and west there is more shorline, and to
+the south is the lake.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20035
+D2
+~
+~
+0 0 20025
+D3
+~
+~
+0 0 20017
+S
+#20027
+{WOn the beach of a giant lake {g({yValley{W of {DDeath{g){x~
+The leaves rustle, a figure leans back against the trunk of the tree,
+still, motionless...  Until a skeleton hand falls off from the shoulder and
+crumbles to dust, the skull just staring to the ground with it's jaw
+clenched tightly shut in a skeletal grin.  You can go north to the lake or
+continue east and west along the shore.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20028
+D1
+~
+~
+0 0 20063
+D3
+~
+~
+0 0 20019
+S
+#20028
+{WOn the edge of a giant lake {g({yValley{W of {DDeath{g){x~
+You are gradually making your way toward the center of the lake.  It
+seems as though you are being pulled toward the center by some unkown force.
+~
+0 524288 0
+D0
+~
+~
+0 0 20029
+D1
+~
+~
+0 0 20064
+D2
+~
+~
+0 0 20027
+D3
+~
+~
+0 0 20018
+S
+#20029
+{WNearing the center of a giant lake {g({yValley{W of {DDeath{g){x~
+The water here is really deep and really cold.  It has a muddy look to it
+and you can see little swirls and designs as it moves toward the center of
+the lake.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20030
+D1
+~
+~
+0 0 20065
+D2
+~
+~
+0 0 20028
+D3
+~
+~
+0 0 20020
+S
+#20030
+{WNearing the center of a giant lake {g({yValley{W of {DDeath{g){x~
+You are getting closer to the center of the lake.  The water is starting
+to move pretty fast here.  Maybe something bad is waiting at the center.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20031
+D1
+~
+~
+0 0 20066
+D2
+~
+~
+0 0 20029
+D3
+~
+~
+0 0 20021
+S
+#20031
+{WNearing the center of a giant lake{g ({yValley{W of{D Death{g){x ~
+The water is very deep here.  You feel very uneasy because there are some
+small ripples all over the surface of the water and you didn't make them. 
+You can go west towards the center of the lake, or you can head the other
+directions to get back to the shore.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20032
+D1
+~
+~
+0 0 20067
+D2
+~
+~
+0 0 20030
+D3
+~
+~
+0 0 20022
+S
+#20032
+{WNearing the center of a giant lake {g({yValley{W of {DDeath{g){x~
+As you move closer to the center of the lake it seems as though it is
+getting easier to move that way.  It is almost as if you are being pulled
+toward the center.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20033
+D1
+~
+~
+0 0 20068
+D2
+~
+~
+0 0 20031
+D3
+~
+~
+0 0 20023
+S
+#20033
+{WNearing the center of a giant lake {g({yValley{W of {DDeath{g){x~
+As you move closer to the center of the lake it seems as though it is
+getting easier to move that way.  It is almost as if you are being pulled
+toward the center.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20034
+D1
+~
+~
+0 0 20069
+D2
+~
+~
+0 0 20032
+D3
+~
+~
+0 0 20024
+S
+#20034
+{WOn the edge of a giant lake {g({yValley{W of {DDeath{g){x~
+You are at the edge of the giant lake.  The water gets deeper and moves
+faster as you make your way toward the center of the lake.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20035
+D1
+~
+~
+0 0 20070
+D2
+~
+~
+0 0 20033
+D3
+~
+~
+0 0 20025
+S
+#20035
+{WOn the beach of a giant lake {g({yValley{W of {DDeath{g){x~
+Your are on the shore a giant lake.  There is a cliff face to the north
+that you can't climb.  To the east and west there is more shorline, and to
+the south is the lake.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20071
+D2
+~
+~
+0 0 20034
+D3
+~
+~
+0 0 20026
+S
+#20036
+{WOn the edge of a giant lake {g({yValley {Wof {DDeath{g){x~
+The water is pretty shallow and murky here.  There is a stick floating
+out toward the center of the lake with more speed than normal.  Maybe
+something is out there that you don't want to mess with.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20038
+D1
+~
+~
+0 0 20010
+D2
+~
+~
+0 0 20037
+D3
+~
+~
+0 0 20046
+S
+#20037
+{WOn the beach of a giant lake {g({yValley {Wof {DDeath{g){x~
+The shore here is made up of mostly gravel.  There are a few bones
+scattered around.  It looks like something has been living here for a while.
+Maybe you should move on.  There is more shorline to the north and to the
+west.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20036
+D3
+~
+~
+0 0 20045
+S
+#20038
+{WNearing the center of a giant lake {g({yValley {Wof {DDeath{g){x~
+The water here is really deep and really cold.  It has a muddy look to it
+and you can see little swirls and designs as it moves toward the center of
+the lake.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20039
+D1
+~
+~
+0 0 20011
+D2
+~
+~
+0 0 20036
+D3
+~
+~
+0 0 20047
+S
+#20039
+{WNearing the center of a giant lake {g({yValley {Wof {DDeath{g){x~
+The water here is really deep and really cold.  It has a muddy look to it
+and you can see little swirls and designs as it moves toward the center of
+the lake.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20040
+D1
+~
+~
+0 0 20012
+D2
+~
+~
+0 0 20038
+D3
+~
+~
+0 0 20048
+S
+#20040
+{WCenter of a giant lake {g({yValley {Wof {DDeath{g){x~
+You are at the center of the lake.  The water is very cold here.  You can
+head south back to the river, or north, east, or west to go to the shore.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20041
+D1
+~
+~
+0 0 20013
+D2
+~
+~
+0 0 20039
+D3
+~
+~
+0 0 20049
+S
+#20041
+{WNearing the center of a giant lake {g({yValley {Wof {DDeath{g){x~
+The water here is moving pretty fast for being in the middle of such a
+large lake.  Maybe something is at the center that is worth checking out.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20042
+D1
+~
+~
+0 0 20014
+D2
+~
+~
+0 0 20040
+D3
+~
+~
+0 0 20050
+S
+#20042
+{WNearing the center of a giant lake {g({yValley{W of {DDeath{g){x~
+As you get closer to the center of the lake you can feel the water moving
+faster.  You find it rather strange that the water is moving so fast in such
+a big lake.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20043
+D1
+~
+~
+0 0 20015
+D2
+~
+~
+0 0 20041
+D3
+~
+~
+0 0 20051
+S
+#20043
+{WOn the edge of a giant lake {g({yValley{W of {DDeath{g){x~
+You are on the edge of a giant lake.  The things representing plants hre
+are a bunch of sticks and drift wood that is scattered around.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20044
+D1
+~
+~
+0 0 20016
+D2
+~
+~
+0 0 20042
+D3
+~
+~
+0 0 20052
+S
+#20044
+{WOn the beach of a giant lake {g({yValley{W of {DDeath{g){x~
+Your are on the shore a giant lake.  There is a cliff face to the north
+that you can't climb.  To the east and west there is more shorline, and to
+the south is the lake.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20017
+D2
+~
+~
+0 0 20043
+D3
+~
+~
+0 0 20053
+S
+#20045
+{WOn the beach of a giant lake {g({yValley {Wof {DDeath{g){x~
+You are at the edge of a giant lake.  There are a few tracks in the mud
+that you don't recognize.  There are more tracks to the east and west.  The
+lake is to the north.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20046
+D1
+~
+~
+0 0 20037
+D3
+~
+~
+0 0 20054
+S
+#20046
+{WOn the edge of a giant lake {g({yValley{W of {DDeath{g){x~
+The water is pretty shallow and murky here.  There is a stick floating
+out toward the center of the lake with quite a bit of force.  It is like it
+is being pulled to the center by something.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20047
+D1
+~
+~
+0 0 20036
+D2
+~
+~
+0 0 20045
+D3
+~
+~
+0 0 20055
+S
+#20047
+{WNearing the center of a giant lake {g({yValley{W of {DDeath{g){x~
+The water here is really deep and really cold.  It has a muddy look to it
+and you can see little swirls and designs as it moves toward the center of
+the lake.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20048
+D1
+~
+~
+0 0 20038
+D2
+~
+~
+0 0 20046
+D3
+~
+~
+0 0 20056
+S
+#20048
+{WNearing the center of a giant lake {g({yValley{W of {DDeath{g){x~
+The water here is moving pretty fast for being in the middle of such a
+large lake.  Maybe something is at the center that is worth checking out.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20049
+D1
+~
+~
+0 0 20039
+D2
+~
+~
+0 0 20047
+D3
+~
+~
+0 0 20057
+S
+#20049
+{WNearing the center of a giant lake {g({yValley{W of {DDeath{g){x~
+To the west you can see a shoreline filled with trees.  To the north,
+south, and east, there is just more dark water.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20050
+D1
+~
+~
+0 0 20040
+D2
+~
+~
+0 0 20048
+D3
+~
+~
+0 0 20058
+S
+#20050
+{WNearing the center of a giant lake {g({yValley{W of {DDeath{g){x~
+The water here is moving pretty fast for being in the middle of such a
+large lake.  Maybe something is at the center that is worth checking out.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20051
+D1
+~
+~
+0 0 20041
+D2
+~
+~
+0 0 20049
+D3
+~
+~
+0 0 20059
+S
+#20051
+{WNearing the center of a giant lake {g({yValley{W of {DDeath{g){x~
+As you get closer to the center of the lake you can feel the water moving
+faster.  You find it rather strange that the water is moving so fast in such
+a big lake.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20052
+D1
+~
+~
+0 0 20042
+D2
+~
+~
+0 0 20050
+D3
+~
+~
+0 0 20060
+S
+#20052
+{WOn the edge of a giant lake {g({yValley{W of {DDeath{g){x~
+You are on the edge of a giant lake.  The things representing plants hre
+are a bunch of sticks and drift wood that is scattered around.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20053
+D1
+~
+~
+0 0 20043
+D2
+~
+~
+0 0 20051
+D3
+~
+~
+0 0 20061
+S
+#20053
+{WOn the beach of a giant lake {g({yValley{W of {DDeath{g){x~
+Your are on the shore a giant lake.  There is a cliff face to the north
+that you can't climb.  To the east and west there is more shorline, and to
+the south is the lake.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20044
+D2
+~
+~
+0 0 20052
+D3
+~
+~
+0 0 20062
+S
+#20054
+{WOn the beach of a giant lake {g({yValley {Wof {DDeath{g){x~
+You are at the edge of a giant lake.  There are a few tracks in the mud
+that you don't recognize.  There are more tracks to the east and more
+shorline to the north.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20055
+D1
+~
+~
+0 0 20045
+S
+#20055
+{WOn the edge of a giant lake {g({yValley {Wof {DDeath{g){x~
+You are on the edge of a giant lake.  The things representing plants here
+are a bunch of sticks and drift wood that is scattered around.  To the north
+and south there is more shorline and to the east is the lake.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20056
+D1
+~
+~
+0 0 20046
+D2
+~
+~
+0 0 20054
+S
+#20056
+{WOn the edge of a giant lake {g({yValley {Wof {DDeath{g){x~
+You are on the edge of a giant lake.  The things representing plants here
+are a bunch of sticks and drift wood that is scattered around.  To the north
+and south there is more shorline and to the east is the lake.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20057
+D1
+~
+~
+0 0 20047
+D2
+~
+~
+0 0 20055
+S
+#20057
+{WOn the edge of a giant lake {g({yValley {Wof {DDeath{g){x~
+You are on the edge of a giant lake.  The things representing plants here
+are a bunch of sticks and drift wood that is scattered around.  To the north
+and south there is more shorline and to the east is the lake.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20058
+D1
+~
+~
+0 0 20048
+D2
+~
+~
+0 0 20056
+S
+#20058
+{WOn the edge of a giant lake {g({yValley {Wof {DDeath{g){x~
+You are on the edge of a giant lake.  The things representing plants here
+are a bunch of sticks and drift wood that is scattered around.  To the north
+and south there is more shorline and to the east is the lake.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20059
+D1
+~
+~
+0 0 20049
+D2
+~
+~
+0 0 20057
+S
+#20059
+{WOn the edge of a giant lake {g({yValley {Wof {DDeath{g){x~
+You are on the edge of a giant lake.  The things representing plants here
+are a bunch of sticks and drift wood that is scattered around.  To the north
+and south there is more shorline and to the east is the lake.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20060
+D1
+~
+~
+0 0 20050
+D2
+~
+~
+0 0 20058
+S
+#20060
+{WOn the edge of a giant lake {g({yValley {Wof {DDeath{g){x~
+You are on the edge of a giant lake.  The things representing plants here
+are a bunch of sticks and drift wood that is scattered around.  To the north
+and south there is more shorline and to the east is the lake.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20061
+D1
+~
+~
+0 0 20051
+D2
+~
+~
+0 0 20059
+S
+#20061
+{WOn the edge of a giant lake {g({yValley{W of {DDeath{g){x~
+You are on the edge of a giant lake.  The things representing plants here
+are a bunch of sticks and drift wood that is scattered around.  To the north
+and south there is more shorline and to the east is the lake.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20062
+D1
+~
+~
+0 0 20052
+D2
+~
+~
+0 0 20060
+S
+#20062
+{WOn the beach of a giant lake {g({yValley{W of {DDeath{g){x~
+Your are on the shore a giant lake.  There is a cliff face to the north
+that you can't climb.  To the east and south there is more shorline.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20053
+D2
+~
+~
+0 0 20061
+S
+#20063
+{WOn the beach of a giant lake {g({yValley {Wof {DDeath{g){x~
+As you walk along the beach you notice that there is a lot more
+vegetation on this side of the lake than on the others.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20064
+D1
+~
+~
+0 0 20072
+D3
+~
+~
+0 0 20027
+S
+#20064
+{WOn the edge of a giant lake {g({yValley {Wof {DDeath{g){x~
+You are gradually making your way toward the center of the lake.  It
+seems as though you are being pulled toward the center by some unkown force.
+~
+0 524288 0
+D0
+~
+~
+0 0 20065
+D1
+~
+~
+0 0 20073
+D2
+~
+~
+0 0 20063
+D3
+~
+~
+0 0 20028
+S
+#20065
+{WOn the edge of a giant lake {g({yValley {Wof {DDeath{g){x~
+There are a few dead trees sticking out of the ground here.  It looks as
+though they were knocked down by something rather large.  You probably don't
+want to meet whatever knocked down these trees.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20066
+D1
+~
+~
+0 0 20074
+D2
+~
+~
+0 0 20064
+D3
+~
+~
+0 0 20029
+S
+#20066
+{WOn the edge of a giant lake {g({yValley {Wof {DDeath{g){x~
+You are at the edge of the giant lake.  The water gets deeper and moves
+faster as you make your way towards the center of the lake.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20067
+D1
+~
+~
+0 0 20075
+D2
+~
+~
+0 0 20065
+D3
+~
+~
+0 0 20030
+S
+#20067
+{WOn the edge of a giant lake {g({yValley {Wof {DDeath{g){x~
+The water is very deep here.  You feel very uneasy because there are some
+small ripples all over the surface of the water and you didn't make them. 
+You can go west towards the center of the lake, or you can head the other
+directions to get back to the shore.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20068
+D1
+~
+~
+0 0 20076
+D2
+~
+~
+0 0 20066
+D3
+~
+~
+0 0 20031
+S
+#20068
+{WOn the edge of a giant lake {g({yValley {Wof {DDeath{g){x~
+You are at the edge of the giant lake.  The water gets deeper and moves
+faster as you make your way towards the center of the lake.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20069
+D1
+~
+~
+0 0 20077
+D2
+~
+~
+0 0 20067
+D3
+~
+~
+0 0 20032
+S
+#20069
+{WOn the edge of a giant lake {g({yValley {Wof {DDeath{g){x~
+You are at the edge of the giant lake.  The water gets deeper and moves
+faster as you make your way towards the center of the lake.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20070
+D1
+~
+~
+0 0 20078
+D2
+~
+~
+0 0 20068
+D3
+~
+~
+0 0 20033
+S
+#20070
+{WOn the edge of a giant lake {g({yValley {Wof {DDeath{g){x~
+You are at the edge of the giant lake.  The water gets deeper and moves
+faster as you make your way towards the center of the lake.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20071
+D1
+~
+~
+0 0 20079
+D2
+~
+~
+0 0 20069
+D3
+~
+~
+0 0 20034
+S
+#20071
+{WOn the beach of a giant lake {g({yValley {Wof {DDeath{g){x~
+Your are on the shore a giant lake.  There is a cliff face to the north
+that you can't climb.  To the east and west there is more shorline, and to
+the south is the lake.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20080
+D2
+~
+~
+0 0 20070
+D3
+~
+~
+0 0 20035
+S
+#20072
+{WOn the beach of a giant lake {g({yValley {Wof {DDeath{g){x~
+All along the shoreline there are strange looking plants that seem to
+move as you walk past them.  They almost act like they have a mind of their
+own.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20073
+D3
+~
+~
+0 0 20063
+S
+#20073
+{WOn the beach of a giant lake {g({yValley {Wof {DDeath{g){x~
+You are on the beach of the giant lake.  There are several bushes and
+small trees on the waterline while the more dense forests are further
+inland.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20074
+D2
+~
+~
+0 0 20072
+D3
+~
+~
+0 0 20064
+S
+#20074
+{WOn the beach of a giant lake {g({yValley {Wof {DDeath{g){x~
+You are on the beach of the giant lake.  There are several bushes and
+small trees on the waterline while the more dense forests are further
+inland.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20075
+D2
+~
+~
+0 0 20073
+D3
+~
+~
+0 0 20065
+S
+#20075
+{WOn the beach of a giant lake {g({yValley {Wof {DDeath{g){x~
+You are on the beach of the giant lake.  There are several bushes and
+small trees on the waterline while the more dense forests are further
+inland.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20076
+D2
+~
+~
+0 0 20074
+D3
+~
+~
+0 0 20066
+S
+#20076
+{WOn the beach of a giant lake {g({yValley {Wof {DDeath{g){x~
+You are on the beach of the giant lake.  There are several bushes and
+small trees on the waterline while there are denser forests further inland. 
+~
+0 524288 0
+D0
+~
+~
+0 0 20077
+D2
+~
+~
+0 0 20075
+D3
+~
+~
+0 0 20067
+S
+#20077
+{WOn the beach of a giant lake {g({yValley {Wof {DDeath{g){x~
+You are on the beach of the giant lake.  There are several bushes and
+small trees on the waterline while there are denser forests further inland. 
+~
+0 524288 0
+D0
+~
+~
+0 0 20078
+D2
+~
+~
+0 0 20076
+D3
+~
+~
+0 0 20068
+S
+#20078
+{WOn the beach of a giant lake {g({yValley {Wof {DDeath{g){x~
+You are on the beach of the giant lake.  You hear sounds coming from one
+of the larger bushes.  Maybe you should get out of here before something bad
+happens.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20079
+D2
+~
+~
+0 0 20077
+D3
+~
+~
+0 0 20069
+S
+#20079
+{WOn the beach of a giant lake {g({yValley {Wof {DDeath{g){x~
+You are on the beach of the giant lake.  You hear small squeaks coming
+from one of the smaller bushes.  You should probably just leave whatever is
+in the bush alone in case it has a mom.  
+~
+0 524288 0
+D0
+~
+~
+0 0 20080
+D2
+~
+~
+0 0 20078
+D3
+~
+~
+0 0 20070
+S
+#20080
+{WOn the beach of a giant lake {g({yValley {Wof {DDeath{g){x~
+You are standing on a rocky beach.  There are no plants here because
+there is too much rock for them to grow through.  To the west and south
+there is a lot more beach.  
+~
+0 524288 0
+D2
+~
+~
+0 0 20079
+D3
+~
+~
+0 0 20071
+S
+#20081
+{WEntrance to the Caves {g(Valley {Wof {DDeath{g){x~
+A horrible stench comes from within this cave.  There are also faint
+grunting and snarls coming from farther in the caves.  There is little light
+here, and even less further into the caves to the east.  
+~
+0 524288 0
+D1
+~
+~
+0 0 20082
+D3
+~
+~
+0 0 20002
+S
+#20082
+{WEntrance to the Caves {g(Valley {Wof {DDeath{g){x~
+~
+0 524288 0
+D0
+~
+~
+0 0 20083
+D3
+~
+~
+0 0 20081
+S
+#20083
+~
+~
+0 524288 0
+D1
+~
+~
+0 0 20084
+D2
+~
+~
+0 0 20082
+S
+#20084
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20085
+D3
+~
+~
+0 0 20083
+S
+#20085
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20086
+D2
+~
+~
+0 0 20084
+S
+#20086
+~
+~
+0 524288 0
+D2
+~
+~
+0 0 20085
+D4
+~
+~
+0 0 20087
+S
+#20087
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20088
+D5
+~
+~
+0 0 20086
+S
+#20088
+~
+~
+0 524288 0
+D2
+~
+~
+0 0 20087
+D5
+~
+~
+0 0 20089
+S
+#20089
+~
+~
+0 524288 0
+D4
+~
+~
+0 0 20088
+D5
+~
+~
+0 0 20090
+S
+#20090
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20091
+D4
+~
+~
+0 0 20089
+S
+#20091
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20096
+D1
+~
+~
+0 0 20092
+D2
+~
+~
+0 0 20090
+D3
+~
+~
+0 0 20093
+S
+#20092
+~
+~
+0 524288 0
+D3
+~
+~
+0 0 20091
+D5
+~
+~
+0 0 20094
+S
+#20093
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20095
+D1
+~
+~
+0 0 20091
+S
+#20094
+~
+~
+0 524288 0
+D4
+~
+~
+0 0 20092
+S
+#20095
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20098
+D1
+~
+~
+0 0 20096
+D2
+~
+~
+0 0 20093
+S
+#20096
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20097
+D2
+~
+~
+0 0 20091
+D3
+~
+~
+0 0 20095
+S
+#20097
+~
+~
+0 524288 0
+D2
+~
+~
+0 0 20096
+D3
+~
+~
+0 0 20098
+S
+#20098
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20105
+D1
+~
+~
+0 0 20097
+D2
+~
+~
+0 0 20095
+D3
+~
+~
+0 0 20099
+S
+#20099
+~
+~
+0 524288 0
+D1
+~
+~
+0 0 20098
+D4
+~
+~
+0 0 20100
+S
+#20100
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20101
+D5
+~
+~
+0 0 20099
+S
+#20101
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20102
+D1
+~
+~
+0 0 20103
+D2
+~
+~
+0 0 20100
+D3
+~
+~
+0 0 20104
+S
+#20102
+~
+~
+0 524288 0
+D2
+~
+~
+0 0 20101
+S
+#20103
+~
+~
+0 524288 0
+D3
+~
+~
+0 0 20101
+S
+#20104
+~
+~
+0 524288 0
+D1
+~
+~
+0 0 20101
+S
+#20105
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20106
+D2
+~
+~
+0 0 20098
+S
+#20106
+~
+~
+0 524288 0
+D2
+~
+~
+0 0 20105
+D3
+~
+~
+0 0 20107
+S
+#20107
+~
+~
+0 524288 0
+D1
+~
+~
+0 0 20106
+D3
+~
+~
+0 0 20108
+S
+#20108
+~
+~
+0 524288 0
+D1
+~
+~
+0 0 20107
+D3
+~
+~
+0 0 20141
+S
+#20109
+~
+~
+0 524288 0
+D1
+~
+~
+0 0 20002
+D5
+~
+~
+0 0 20110
+S
+#20110
+~
+~
+0 524288 0
+D2
+~
+~
+0 0 20111
+D4
+~
+~
+0 0 20109
+S
+#20111
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20110
+D3
+~
+~
+0 0 20112
+S
+#20112
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20113
+D1
+~
+~
+0 0 20111
+S
+#20113
+~
+~
+0 524288 0
+D2
+~
+~
+0 0 20112
+D3
+~
+~
+0 0 20114
+S
+#20114
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20115
+D1
+~
+~
+0 0 20113
+S
+#20115
+~
+~
+0 524288 0
+D2
+~
+~
+0 0 20114
+D5
+~
+~
+0 0 20116
+S
+#20116
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20117
+D4
+~
+~
+0 0 20115
+S
+#20117
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20118
+D2
+~
+~
+0 0 20116
+S
+#20118
+~
+~
+0 524288 0
+D1
+~
+~
+0 0 20119
+D2
+~
+~
+0 0 20117
+S
+#20119
+~
+~
+0 524288 0
+D3
+~
+~
+0 0 20118
+D4
+~
+~
+0 0 20120
+S
+#20120
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20138
+D1
+~
+~
+0 0 20121
+D3
+~
+~
+0 0 20128
+D5
+~
+~
+0 0 20119
+S
+#20121
+~
+~
+0 524288 0
+D2
+~
+~
+0 0 20122
+D3
+~
+~
+0 0 20120
+S
+#20122
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20121
+D5
+~
+~
+0 0 20123
+S
+#20123
+~
+~
+0 524288 0
+D3
+~
+~
+0 0 20124
+D4
+~
+~
+0 0 20122
+S
+#20124
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20126
+D1
+~
+~
+0 0 20123
+D2
+~
+~
+0 0 20127
+D3
+~
+~
+0 0 20125
+S
+#20125
+~
+~
+0 524288 0
+D1
+~
+~
+0 0 20124
+S
+#20126
+~
+~
+0 524288 0
+D2
+~
+~
+0 0 20124
+S
+#20127
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20124
+S
+#20128
+~
+~
+0 524288 0
+D1
+~
+~
+0 0 20120
+D3
+~
+~
+0 0 20129
+S
+#20129
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20136
+D1
+~
+~
+0 0 20128
+D2
+~
+~
+0 0 20137
+D3
+~
+~
+0 0 20130
+S
+#20130
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20134
+D1
+~
+~
+0 0 20129
+D2
+~
+~
+0 0 20135
+D3
+~
+~
+0 0 20131
+S
+#20131
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20133
+D1
+~
+~
+0 0 20130
+D2
+~
+~
+0 0 20132
+S
+#20132
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20131
+S
+#20133
+~
+~
+0 524288 0
+D2
+~
+~
+0 0 20131
+S
+#20134
+~
+~
+0 524288 0
+D2
+~
+~
+0 0 20130
+S
+#20135
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20130
+S
+#20136
+~
+~
+0 524288 0
+D2
+~
+~
+0 0 20129
+S
+#20137
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20129
+S
+#20138
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20139
+D2
+~
+~
+0 0 20120
+S
+#20139
+~
+~
+0 524288 0
+D1
+~
+~
+0 0 20140
+D2
+~
+~
+0 0 20138
+S
+#20140
+~
+~
+0 524288 0
+D1
+~
+~
+0 0 20141
+D3
+~
+~
+0 0 20139
+S
+#20141
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20143
+D1
+~
+~
+0 0 20108
+D3
+~
+~
+0 0 20140
+S
+#20142
+~
+~
+0 524288 0
+D2
+~
+~
+0 0 20141
+S
+#20143
+~
+~
+0 524288 0
+D1
+~
+~
+0 0 20144
+D2
+~
+~
+0 0 20141
+D3
+~
+~
+0 0 20145
+S
+#20144
+~
+~
+0 524288 0
+D3
+~
+~
+0 0 20143
+S
+#20145
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20146
+D1
+~
+~
+0 0 20143
+S
+#20146
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20148
+D1
+~
+~
+0 0 20147
+D2
+~
+~
+0 0 20145
+D3
+~
+~
+0 0 20147
+S
+#20147
+~
+~
+0 524288 0
+D1
+~
+~
+0 0 20146
+D3
+~
+~
+0 0 20146
+S
+#20148
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20149
+D2
+~
+~
+0 0 20146
+S
+#20149
+~
+~
+0 524288 0
+D2
+~
+~
+0 0 20148
+D5
+~
+~
+0 0 20150
+S
+#20150
+~
+~
+0 524288 0
+D5
+~
+~
+0 0 20151
+S
+#20151
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20152
+S
+#20152
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20153
+D2
+~
+~
+0 0 20151
+S
+#20153
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20171
+D2
+~
+~
+0 0 20152
+D3
+~
+~
+0 0 20154
+S
+#20154
+~
+~
+0 524288 0
+D1
+~
+~
+0 0 20153
+D2
+~
+~
+0 0 20155
+S
+#20155
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20154
+D3
+~
+~
+0 0 20156
+S
+#20156
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20157
+D1
+~
+~
+0 0 20155
+S
+#20157
+~
+~
+0 524288 0
+D2
+~
+~
+0 0 20156
+D3
+~
+~
+0 0 20158
+S
+#20158
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20159
+D1
+~
+~
+0 0 20157
+S
+#20159
+~
+~
+0 524288 0
+D2
+~
+~
+0 0 20158
+D5
+~
+~
+0 0 20160
+S
+#20160
+~
+~
+0 524288 0
+D2
+~
+~
+0 0 20170
+D3
+~
+~
+0 0 20161
+D4
+~
+~
+0 0 20159
+S
+#20161
+~
+~
+0 524288 0
+D1
+~
+~
+0 0 20160
+D2
+~
+~
+0 0 20169
+D3
+~
+~
+0 0 20162
+S
+#20162
+~
+~
+0 524288 0
+D1
+~
+~
+0 0 20161
+D2
+~
+~
+0 0 20168
+D3
+~
+~
+0 0 20163
+S
+#20163
+~
+~
+0 524288 0
+D1
+~
+~
+0 0 20162
+D2
+~
+~
+0 0 20167
+D3
+~
+~
+0 0 20164
+S
+#20164
+~
+~
+0 524288 0
+D1
+~
+~
+0 0 20163
+D3
+~
+~
+0 0 20165
+S
+#20165
+~
+~
+0 524288 0
+D1
+~
+~
+0 0 20164
+D2
+~
+~
+0 0 20166
+S
+#20166
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20165
+D1
+~
+~
+0 0 20167
+S
+#20167
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20163
+D1
+~
+~
+0 0 20168
+D3
+~
+~
+0 0 20166
+S
+#20168
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20162
+D1
+~
+~
+0 0 20169
+D3
+~
+~
+0 0 20167
+S
+#20169
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20161
+D1
+~
+~
+0 0 20170
+D3
+~
+~
+0 0 20168
+S
+#20170
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20160
+D3
+~
+~
+0 0 20169
+S
+#20171
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20176
+D1
+~
+~
+0 0 20172
+D2
+~
+~
+0 0 20153
+S
+#20172
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20173
+D3
+~
+~
+0 0 20171
+S
+#20173
+~
+~
+0 524288 0
+D1
+~
+~
+0 0 20174
+D2
+~
+~
+0 0 20172
+S
+#20174
+~
+~
+0 524288 0
+D3
+~
+~
+0 0 20173
+D5
+~
+~
+0 0 20175
+S
+#20175
+~
+~
+0 524292 0
+S
+#20176
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20177
+D2
+~
+~
+0 0 20171
+S
+#20177
+~
+~
+0 524288 0
+D2
+~
+~
+0 0 20176
+D5
+~
+~
+0 0 20178
+S
+#20178
+~
+~
+0 524288 0
+D1
+~
+~
+0 0 20180
+D2
+~
+~
+0 0 20181
+D3
+~
+~
+0 0 20179
+S
+#20179
+~
+~
+0 524288 0
+D1
+~
+~
+0 0 20178
+D2
+~
+~
+0 0 20183
+S
+#20180
+~
+~
+0 524288 0
+D2
+~
+~
+0 0 20182
+D3
+~
+~
+0 0 20178
+S
+#20181
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20178
+D1
+~
+~
+0 0 20182
+D2
+~
+~
+0 0 20184
+D3
+~
+~
+0 0 20183
+S
+#20182
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20180
+D2
+~
+~
+0 0 20185
+D3
+~
+~
+0 0 20181
+S
+#20183
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20179
+D1
+~
+~
+0 0 20181
+D2
+~
+~
+0 0 20186
+S
+#20184
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20181
+D1
+~
+~
+0 0 20185
+D3
+~
+~
+0 0 20186
+S
+#20185
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20182
+D3
+~
+~
+0 0 20184
+S
+#20186
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20183
+D1
+~
+~
+0 0 20184
+D3
+~
+~
+0 0 20187
+S
+#20187
+~
+~
+0 524288 0
+D0
+~
+~
+0 0 20188
+D1
+~
+~
+0 0 20186
+S
+#20188
+~
+~
+0 524288 0
+D2
+~
+~
+0 0 20187
+D5
+~
+~
+0 0 20189
+S
+#20189
+~
+~
+0 524288 0
+D5
+~
+~
+0 0 20190
+S
+#20190
+~
+~
+0 524292 0
+S
+#20199
+{wA Drawbridge {RD{rr{Re{ra{Rd{rn{Ra{ru{Rg{rh{Rt {BC{Da{Bs{Dt{Bl{De{x~
+~
+0 524288 0
+D2
+~
+~
+0 0 20200
+S
+#20200
+{WThe Cloud {R9{Y Bar{X~
+You stand in the middle of a large bar, music is jammin and the dance
+floor is open.  On the ceiling spins a {*G{*I{*G{*A{*N{*T{*I{*C{x
+{*D{*I{*S{*C{*O{x ball.  The barkeep is here serving drinks, the
+specialty......  Why {Yam{ybros{Yia{x of course.  
+~
+0 524296 0
+D0
+~
+~
+0 0 20199
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 3200 0 20200
+O 0 3330 0 20200
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

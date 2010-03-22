@@ -1,0 +1,3619 @@
+#AREADATA
+Name Tower of Trials~
+Builders Roland~
+VNUMs 19900 19999
+Credits {M[40-100 ] The Tower of Trials~
+Security 9
+RepopMsg (null)~
+End
+
+
+
+#MOBILES
+#19900
+a spirit warrior~
+a {DS{cp{Di{cr{Di{ct {rWarrior{x~
+The spirit of a long dead warrior stands here
+~
+Still in their battle gear.  This spirit died long ago in the melee of a
+great battle.  
+~
+Human~
+AGQRT 0 V 0 -500 0
+50 50 101d16+455 50d9+60 15d3+26 slash
+-22 -22 -22 -12
+EJ 0 E CD
+stand stand either 1000
+AHM ABCDEFGHIJK medium 0
+F for V
+#19901
+a spirit mage~
+a {DS{cp{Di{cr{Di{ct {rMage{x~
+The spirit of a long dead mage stands here
+~
+Slightly hovering above the ground, and clad in black robes, this mage
+was once quite powerful indeed, but is now a mere illusion of its former
+self.  
+~
+Human~
+AGRT 0 DFT 0 -500 0
+50 30 101d16+455 50d9+60 12d3+20 magic
+-22 -22 -22 -12
+0 0 D J
+stand stand either 1000
+AHMV ABCDEFGHIJK giant 0
+#19902
+the 11th grandmaster~
+{DThe 11th Gr{Wan{wdm{Was{Dter{x~
+The 11th grandmaster stands here, pondering his defeat
+~
+The 11th grandmaster.  Defeated long ago in the revolt against the first
+grand master.  He spends all eternity, cursed in this tower.  
+~
+Human~
+ABGR 0 DJT 0 -1000 0
+55 55 111d18+1111 55d10+85 18d3+32 magic
+-27 -27 -27 -16
+0 0 HI GN
+stand stand either 526
+AHMV ABCDEFGHIJK medium 0
+#19903
+10th grandmaster~
+{DThe 10th Gr{Wan{wdm{Was{Dter{x~
+The 10th grandmaster stands here, pondering his defeat
+~
+Once the proud pupil of the first master, now a cursed being inside a
+haunted tower.  He was taken down by the first master in the revolt against
+him.  He now spends eternity here.  
+~
+Human~
+ABGR 0 DJT 0 -1000 0
+60 60 121d20+1213 60d10+85 20d3+35 punch
+-30 -30 -30 -18
+J 0 0 CGJLNQSY
+stand stand male 526
+ABCHJMV ABCDEFGHIJK medium 0
+#19904
+level 92 mage~
+L.92 Mage~
+An ugly mage is here, determined to kill you dead!
+~
+This is an ugly mage, one of the magical beings of the Fanatics' Tower.
+It has devoted its life to the 9th {8Draconian {4ArchMage{0.  Its robes
+are inlaid with beautiful designs.
+~
+Human~
+AGRc 0 DJT CDEHO -1000 0
+92 175 25d10+3250 25d10+3250 6d6+75 magic
+-22 -22 -22 -22
+BFGJOP DEF BHIK CGJLNQSY
+stand stand either 678
+ABCHJMV ABCDEFGHIJK medium 0
+#19905
+level 98 mage~
+L.98 Mage~
+A great mage is here, determined to kill you dead!
+~
+This is a great mage, one of the magical beings of the Fanatics' Tower.
+It has devoted its life to the 8th {8Draconian {4ArchMage{0.  Its robes
+are inlaid with beautiful designs.
+~
+Human~
+AGRc 0 DJT CDEHO -1000 0
+98 200 50d10+4000 50d10+4000 4d10+80 magic
+-23 -23 -23 -23
+BFGJOP DEF BHIK CGJLNQSY
+stand stand either 900
+ABCHJMV ABCDEFGHIJK medium 0
+#19906
+level 102 mage~
+L.102 Mage~
+A grinning mage is here, determined to kill you dead!
+~
+This is one of the happiest of the magical beings of the Fanatics' Tower.
+It has devoted its life to the 7th {8Draconian {4ArchMage{0.  Its robes are
+inlaid with beautiful designs.
+~
+Human~
+AGRc 0 DJT CDEHO -1000 0
+102 225 50d10+5500 50d10+5500 6d7+90 magic
+-25 -25 -25 -25
+BFGJOP DEF BHIK CGJLNQSY
+stand stand either 978
+ABCHJMV ABCDEFGHIJK medium 0
+#19907
+level 106 mage~
+L.106 Mage~
+A mage is here, determined to kill you dead!
+~
+This is one of the magical beings of the Fanatics' Tower.  It has devoted
+its life to the 6th {8Draconian {4ArchMage{0.  Its robes are inlaid with
+beautiful designs.
+~
+Human~
+AGRc 0 DJT O -1000 0
+106 250 50d10+7500 50d10+7500 10d4+100 magic
+-30 -30 -30 -30
+BFGJOP DEF BHIK CGJLNQSY
+stand stand either 1005
+ABCHJMV ABCDEFGHIJK medium 0
+#19908
+level 110 mage~
+L.110 Mage~
+An evil mage is here, determined to kill you dead!
+~
+This is an evil being from the magical beings of the Fanatics' Tower.  It has
+devoted its life to the 5th {8Draconian {4ArchMage{0.  Its robes are inlaid
+with beautiful designs.
+~
+Human~
+AGRc 0 DJT CDEHO -1000 0
+110 275 50d10+9500 50d10+9500 8d6+110 magic
+-32 -32 -32 -32
+BFGJOP DEF BHIK CGJLNQSY
+stand stand either 1042
+ABCHJMV ABCDEFGHIJK medium 0
+#19909
+level 114 mage~
+L.114 Mage~
+A strong mage is here, determined to kill you dead!
+~
+This is a strong mage from the Fanatics' Tower.  It has devoted its life
+to the 4th {8Draconian {4ArchMage{0.  Its robes are inlaid with beautiful
+designs.
+~
+Human~
+AGRc 0 DJT CDEHO -1000 0
+114 300 50d10+11500 50d10+11500 8d6+120 magic
+-35 -35 -35 -35
+BFGJOP DEF BHIK CGJLNQSY
+stand stand either 1152
+ABCHJMV ABCDEFGHIJK medium 0
+#19910
+level 118 mage~
+L.118 Mage~
+A powerful mage is here, determined to kill you dead!
+~
+This is one of the strongest of the magical beings of the Fanatics' Tower.
+It has devoted its life to the 3rd {8Draconian {4ArchMage{0.  Its robes are
+inlaid with beautiful designs.
+~
+Human~
+AGRc 0 DJT CDEHO -1000 0
+118 325 50d10+13500 50d10+13500 8d6+130 magic
+-37 -37 -37 -37
+BFGJOP DEF BHIK CGJLNQSY
+stand stand either 1459
+ABCHJMV ABCDEFGHIJK medium 0
+#19911
+level 122 mage~
+L.122 Mage~
+A powerful mage is here, determined to kill you dead!
+~
+This is one of the strongest of the magical beings of the Fanatics' Tower.
+It has devoted its life to the 2nd {8Draconian {4ArchMage{0.  Its robes are
+inlaid with beautiful designs.
+~
+Human~
+AGRc 0 DJT CDEHO -1000 0
+122 325 50d10+15500 50d10+15500 8d6+140 magic
+-40 -40 -40 -40
+BFGJO DEF BHIK CGJLNQSY
+stand stand either 1700
+ABCHJMV ABCDEFGHIJK medium 0
+#19912
+level 126 mage~
+L.126 Mage~
+A very powerful mage is here, determined to kill you dead!
+~
+This is one of the strongest of the magical beings of the Fanatics' Tower.
+It has devoted its life to the 1st {8Draconian {4ArchMage{0.  Its robes are
+inlaid with beautiful designs.
+~
+Human~
+AGRc 0 DJTV CDEHO -1000 0
+126 350 50d10+17500 50d10+17500 8d6+150 magic
+-42 -42 -42 -42
+BFGJO DEF BHIK CGJLNQSY
+stand stand either 1865
+ABCHJMV ABCDEFGHIJK medium 0
+#19913
+level 132 mage~
+L.132 Mage~
+One of the strongest mages is here, determined to kill you dead!
+~
+This is one of the strongest of the magical beings of the Fanatics' Tower.
+It has devoted its life to the 1st {8Draconian {4ArchMage{0.  Its robes are
+inlaid with beautiful designs.
+~
+Human~
+AGRc 0 DJT CDEHO -1000 0
+132 375 50d10+21500 50d10+21500 8d6+160 magic
+-45 -45 -45 -45
+BFGJO DEF BHIK CGJLNQSY
+stand stand either 1840
+ABCHJMV ABCDEFGHIJK medium 0
+#19914
+level 82 warrior~
+L.82 Warrior~
+A warrior is here, ready to cleave your head off!
+~
+This is the weakest of the war-like beings of the Fanatics' Tower.  It has
+devoted its life to the 11th {8Draconian {4ArchMage{0.  Its armour has been
+etched with some beautiful designs.
+~
+Human~
+AGTc 0 FJa CDEHO -1000 0
+82 125 25d10+2000 25d10+2000 4d8+50 slash
+-20 -20 -20 -20
+BDEKOP CLQ BEHI DJKNS
+stand stand either 529
+ABCHJMV ABCDEFGHIJK medium 0
+#19915
+level 88 warrior~
+L.88 Warrior~
+A fanatical warrior is here, ready to cleave your head off!
+~
+This is the second weakest of the war-like beings of the Fanatics' Tower.
+It has devoted its life to the 10th {8Draconian {4ArchMage{0.  Its armour
+has been etched with some beautiful designs.
+~
+Human~
+AGTc 0 FJa CDEHO -1000 0
+88 150 25d10+2750 25d10+2750 8d4+60 slash
+-21 -21 -21 -21
+BDEKOP CLQ BEHI DJKNS
+stand stand either 634
+ABCHJMV ABCDEFGHIJK medium 0
+#19916
+level 92 warrior~
+L.92 Warrior~
+An ugly warrior is here, ready to cleave your head off!
+~
+This is an ugly mob, one of the war-like beings of the Fanatics' Tower.
+It has devoted its life to the 9th {8Draconian {4ArchMage{0.  Its armour
+has been etched with some beautiful designs.
+~
+Human~
+AGTc 0 FJa CDEHO -1000 0
+92 175 25d10+3250 25d10+3250 6d6+70 slash
+-22 -22 -22 -22
+BDEKOP CLQ BEHI DJKNS
+stand stand either 758
+ABCHJMV ABCDEFGHIJK medium 0
+#19917
+level 98 warrior~
+L.98 Warrior~
+A great warrior is here, ready to cleave your head off!
+~
+This is a great warrior, one of the war-like beings of the Fanatics' Tower.
+It has devoted its life to the 8th {8Draconian {4ArchMage{0.  Its armour
+has been etched with some beautiful designs.
+~
+Human~
+AGTc 0 FJa CDEHO -1000 0
+98 200 50d10+4000 50d10+4000 4d10+80 slash
+-21 -21 -21 -21
+DEKOP CLQ BEHI DJKNS
+stand stand either 849
+ABCHJMV ABCDEFGHIJK medium 0
+#19918
+level 102 warrior~
+L.102 Warrior~
+A grinning warrior is here, ready to cleave your head off!
+~
+This is one of the happiest of the war-like beings of the Fanatics' Tower.
+It has devoted its life to the 7th {8Draconian {4ArchMage{0.  Its armour
+has been etched with some beautiful designs.
+~
+Human~
+AGTc 0 FJa CDEHO -1000 0
+102 225 50d10+5500 50d10+5500 6d7+90 slash
+-25 -25 -25 -25
+BDEKOP CLQ BEHI DJKNS
+stand stand either 814
+ABCHJMV ABCDEFGHIJK medium 0
+#19919
+level 106 warrior~
+L.106 Warrior~
+A warrior is here, ready to cleave your head off!
+~
+This is one of the war-like beings of the Fanatics' Tower.  It has devoted
+its life to the 6th {8Draconian {4ArchMage{0.  Its armour has been etched
+with some beautiful designs.
+~
+Human~
+AGTc 0 FJa CDEHO -1000 0
+106 250 50d10+7500 50d10+7500 10d4+100 slash
+-30 -30 -30 -30
+BDEKOP CLQ BEHI DJKNS
+stand stand either 950
+ABCHJMV ABCDEFGHIJK medium 0
+#19920
+level 110 warrior~
+L.110 Warrior~
+An evil warrior is here, ready to cleave your head off!
+~
+This is an evil being from the war-like beings of the Fanatics' Tower.  It has
+devoted its life to the 5th {8Draconian {4ArchMage{0.  Its armour has been
+etched with some beautiful designs.
+~
+Human~
+AGTc 0 FJa CDEHO -1000 0
+110 275 50d10+9500 50d10+9500 8d6+110 slash
+-32 -32 -32 -32
+BDEKOP CLQ BEHI DJKNS
+stand stand either 995
+ABCHJMV ABCDEFGHIJK medium 0
+#19921
+level 114 warrior~
+L.114 Warrior~
+A strong warrior is here, ready to cleave your head off!
+~
+This is a strong warrior from the Fanatics' Tower.  It has devoted its life
+to the 4th {8Draconian {4ArchMage{0.  Its armour has been etched with some
+beautiful designs.
+~
+Human~
+AGTc 0 FJa CDEHO -1000 0
+114 300 50d10+11500 50d10+11500 8d6+120 slash
+-35 -35 -35 -35
+BDEKOP CLQ BEHI DJKNS
+stand stand either 1043
+ABCHJMV ABCDEFGHIJK medium 0
+#19922
+level 118 warrior~
+L.118 Warrior~
+A powerful warrior is here, ready to cleave your head off!
+~
+This is one of the strongest of the war-like beings of the Fanatics' Tower.
+It has devoted its life to the 3rd {8Draconian {4ArchMage{0.  Its armour has
+been etched with some beautiful designs.
+~
+Human~
+AGTc 0 FJa CDEHO -1000 0
+118 325 50d10+13500 50d10+13500 8d6+130 slash
+-37 -37 -37 -37
+BDEKOP CLQ BEHI DJKNS
+stand stand either 1120
+ABCHJMV ABCDEFGHIJK medium 0
+#19923
+level 122 warrior~
+L.122 Warrior~
+A powerful warrior is here, ready to cleave your head off!
+~
+This is one of the strongest of the war-like beings of the Fanatics' Tower.
+It has devoted its life to the 2nd {8Draconian {4ArchMage{0.  Its armour has
+been etched with some beautiful designs.
+~
+Human~
+AGTc 0 FJa CDEHO -1000 0
+122 350 50d10+15500 50d10+15500 8d6+140 slash
+-40 -40 -40 -40
+BDEKO CLQ BEHI CDJKNS
+stand stand either 1169
+ABCHJMV ABCDEFGHIJK medium 0
+#19924
+level 126 warrior~
+L.126 Warrior~
+A very powerful warrior is here, ready to cleave your head off!
+~
+This is one of the strongest of the war-like beings of the Fanatics' Tower.
+It has devoted its life to the 1st {8Draconian {4ArchMage{0.  Its armour has
+been etched with some beautiful designs.
+~
+Human~
+AGTc 0 FJVa CDEHO -1000 0
+126 375 50d10+17500 50d10+17500 8d6+150 slash
+-42 -42 -42 -42
+BDEKO CLQ BEHI CDJKNS
+stand stand either 1534
+ABCHJMV ABCDEFGHIJK medium 0
+#19925
+level 132 warrior~
+L.132 Warrior~
+One of the strongest warriors is here, ready to cleave your head off!
+~
+This is one of the strongest of the war-like beings of the Fanatics' Tower.
+It has devoted its life to the 1st {8Draconian {4ArchMage{0.  Its armour has
+been etched with some beautiful designs.
+~
+Human~
+AGTc 0 FJVa CDEHO -1000 0
+132 400 50d10+21500 50d10+21500 8d6+160 slash
+-45 -45 -45 -45
+BDEKO CLQ BEHI DJKNS
+stand stand either 1923
+ABCHJMV ABCDEFGHIJK medium 0
+#19926
+adept healer~
+an Adept of Eriana~
+The Adept of Eriana is here to restore you.
+~
+The Adept of Eriana tells you "{6asking for restores is the best way {1*not*{6
+to get one!  }:>{0"
+~
+Elf~
+ABGJKQRTVabcd 0 DFJTUZ HN 1000 0
+110 999 1d1+29999 1d1+29999 1d1+9999 slap
+-999 -999 -999 -999
+AGHO ABCDEFGHIJKLMNOPQRS B Z
+stand stand female 9999
+ACDHJKLMVc ABCDEFGHIJKU medium 0
+#19927
+draconian archmage~
+a former Draconian ArchMage~
+A long defeated Draconian ArchMage is here.
+~
+The Avatar of a long defeated {8Draconian {4ArchMage{0 is here pondering
+how he could have been defeated by Artema...
+~
+Draconian~
+ABGORTc 0 DFJLTZ O -1000 0
+90 150 25d10+3000 25d10+3000 8d4+30 claw
+-30 -30 -30 -30
+ABDGMP ABELQ HIKP FGJMNRSY
+sleep rest male 10000
+ACDHIJKLMVZ ABCDEFGHIJKPQUVWXY giant 0
+#19928
+draconian archmage~
+a former Draconian ArchMage~
+A long defeated Draconian ArchMage is here.
+~
+The Avatar of a long defeated {8Draconian {4ArchMage{0 is here pondering
+how he could have been defeated so long ago...
+~
+Draconian~
+ABGORTc 0 DFJLTVZ CDEHO -1000 0
+95 200 25d10+3625 25d10+3625 6d6+50 claw
+-22 -22 -22 -22
+ADGMP ABELQ HIKP FGJMNRSY
+sleep rest male 10000
+ACDHIJKLMVZ ABCDEFGHIJKPQUVWXY giant 0
+#19929
+draconian archmage~
+a former Draconian ArchMage~
+A long defeated Draconian ArchMage is here.
+~
+The Avatar of a long defeated {8Draconian {4ArchMage{0 is here pondering
+how he could have been defeated so long ago...
+~
+Draconian~
+ABGORTc 0 DFJLTVZ CDEHO -1000 0
+105 250 50d10+7000 50d10+7000 10d4+60 claw
+-50 -50 -50 -50
+ADGMP ABELQ HIKP FGJMNRSY
+sleep rest male 10000
+ACDHIJKLMVZ ABCDEFGHIJKPQUVWXY giant 0
+#19930
+draconian archmage~
+a former Draconian ArchMage~
+A long defeated Draconian ArchMage is here.
+~
+The Avatar of a long defeated {8Draconian {4ArchMage{0 is here pondering
+how he could have been defeated so long ago...
+~
+Draconian~
+ABGORTc 0 DFJLTVZ CDEHO -1000 0
+115 300 50d10+11500 50d10+11500 8d6+80 claw
+-30 -30 -30 -30
+ADGMP ABELQ HIKP FGJMNRSY
+sleep rest male 10000
+ACDHIJKLMVZ ABCDEFGHIJKPQUVWXY giant 0
+#19931
+level 82 thief~
+L.82 Thief~
+A thief is here, determined to kill you dead!
+~
+This is the weakest of the thieving beings of the Fanatics' Tower.  It has devoted its life to the 11th {bDraconian {DArchMage{x.  Its coat is inlaid with strange designs.
+~
+Human~
+AG 0 0 CDEHO -1000 0
+82 125 25d10+2000 25d10+2000 4d8+50 pierce
+-20 -20 -20 -20
+B ELQ BFHI CJKNS
+stand stand either 0
+AHMV ABCDEFGHIJK medium flesh
+#19932
+level 88 thief~
+L.88 Thief~
+A fanatical thief is here, ready to stab your heart!
+~
+This is the second weakest of the thieving beings of the Fanatics' Tower. It has devoted its life to the 10th Draconian ArchMage.  It's cloak has been enlaid with beautiful designs.
+~
+Human~
+AGc 0 DFJa CDEHO -1000 0
+88 150 25d10+2750 25d10+2750 8d4+60 pierce
+-21 -21 -21 -21
+BEFIKNP ELQ BFHI CJKNS
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#19933
+level 92 thief~
+L.92 Thief~
+An ugly thief is here, ready to stab your heart!
+~
+This is an ugly mob, one of the thieving beings of the Fanatics' Tower. It has devoted its life to the 9th Draconian ArchMage.  Its cloak has been inlaid with some beautiful designs.
+~
+Human~
+AGc 0 DFJa CDEHO -1000 0
+92 175 25d10+3250 25d10+3250 6d6+70 pierce
+-22 -22 -22 -22
+BEFIKP EQ BFHI CJKNS
+stand stand either 0
+AHMV ABCDEFGHIJK medium flesh
+#19934
+level 98 thief~
+L.98 Thief~
+A great thief is here, ready to stab your heart!
+~
+This is a great thief, one of the thieving beings of the Fanatics' Tower. It has devoted its life to the 8th Draconian ArchMage.  Its cloak has been inlaid with some beautiful designs.
+~
+Human~
+AGc 0 DFJa CDEHO -1000 0
+98 200 50d10+4000 50d10+4000 4d10+80 pierce
+-22 -22 -22 -22
+BEFIKP ELQ BFHI CJKNS
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#19935
+level 102 thief~
+L.102 Thief~
+A grinning thief is here, ready to stab your heart!
+~
+This is one of the happiest of the thieving beings of the Fanatics' Tower. It has devoted its life to the 7th Draconian ArchMage.  Its cloak has been inlaid with some beautiful designs.
+~
+Human~
+AGc 0 DFJa CDEHO -1000 0
+102 225 50d10+5500 50d10+5500 6d7+90 pierce
+-25 -25 -25 -25
+BEFIKP ELQ BFHI CJKNS
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#19936
+level 106 thief~
+L.106 Thief~
+A thief is here, ready to stab your heart!
+~
+This is one of the thieving beings of the Fanatics' Tower.  It has devoted its life to the 6th Draconian ArchMage.  Its cloak has been inlaid with some beautiful designs.
+~
+Human~
+AGc 0 DFJa CDEHO -1000 0
+106 250 50d10+7500 50d10+7500 10d4+100 pierce
+-30 -30 -30 -30
+BEFIKNP ELQ BFHI CJKNS
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#19937
+level 110 thief~
+L.110 Thief~
+An evil thief is here, ready to stab your heart!
+~
+This is an evil being from the thieving beings of the Fanatics' Tower.  It has devoted its life to the 5th Draconian ArchMage.  Its cloak has been inlaid with some beautiful designs.
+~
+Human~
+AGc 0 DFJa CDEHO -1000 0
+110 275 50d10+9500 50d10+9500 8d6+110 pierce
+-32 -32 -32 -32
+BEFIKP ELQ BFHI CJKNS
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#19938
+level 114 thief~
+L.114 Thief~
+A strong thief is here, ready to stab your heart!
+~
+This is a strong thief from the Fanatics' Tower.  It has devoted its life to the 4th Draconian ArchMage.  Its cloak has been inlaid with some beautiful designs.
+~
+Human~
+AGc 0 DFJa CDEHO -1000 0
+114 300 50d10+11500 50d10+11500 8d6+120 pierce
+-35 -35 -35 -35
+BEFIKNP ELQ BFHI CJKNS
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#19939
+level 118 thief~
+L.118 Thief~
+A powerful thief is here, ready to stab your heart!
+~
+This is one of the strongest of the thieving beings of the Fanatics' Tower. It has devoted its life to the 3rd Draconian ArchMage.  Its armour has been inlaid with some beautiful designs.
+~
+Human~
+AGc 0 DFJa CDEHO -1000 0
+118 325 50d10+13500 50d10+13500 8d6+130 pierce
+-37 -37 -37 -37
+BDEFIKNP ELQ BFHI CJKNS
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#19940
+level 122 thief~
+L.122 Thief~
+A powerful thief is here, ready to stab your heart!
+~
+This is one of the strongest of the thieving beings of the Fanatics' Tower. It has devoted its life to the 2nd Draconian ArchMage.  Its cloak has been inlaid with some beautiful designs.
+~
+Human~
+AGc 0 DFJa O -1000 0
+122 350 50d10+15500 50d10+15500 8d6+140 pierce
+-40 -40 -40 -40
+BEFIKNP ELQ BFHI CJKNS
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#19941
+level 126 thief~
+L.126 Thief~
+A very powerful thief is here, ready to stab your heart!
+~
+This is one of the strongest of the thieving beings of the Fanatics' Tower. It has devoted its life to the 1st Draconian ArchMage.  Its cloak has been inlaid with some beautiful designs.
+~
+Human~
+AGc 0 DFJVa CDEHO -1000 0
+126 375 50d10+17500 50d10+17500 8d6+150 pierce
+-42 -42 -42 -42
+BEFIKN ELQ BFHI CJKNS
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#19942
+level 132 thief~
+L.132 Thief~
+One of the strongest thieves is here, ready to stab your heart!
+~
+This is one of the strongest of the thieving beings of the Fanatics' Tower. It has devoted its life to the 1st Draconian ArchMage.  Its cloak has been inlaid with some beautiful designs.
+~
+Human~
+AGc 0 DFJVa CDEHO -1000 0
+132 400 50d10+21500 50d10+21500 8d6+160 pierce
+-45 -45 -45 -45
+BEFIKN ELQ BFHI CJKNS
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#19943
+level 88 warrior~
+A warrior~
+A level 90 warrior is standing here.
+~
+~
+Human~
+A 0 V 0 -1000 0
+90 90 8d8+10000 1d1+1 8d13+95 punch
+-58 -58 -58 -40
+0 0 0 D
+stand stand either 900
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19944
+level 100 warrior~
+A warrior~
+A level 100 weapon is standing here.
+~
+~
+Human~
+A 0 V 0 -1000 0
+100 100 15d100+15000 1d1+1 8d14+150 punch
+-65 -65 -65 -65
+0 0 0 D
+stand stand either 1000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19945
+level 110 warrior~
+A warrior~
+A level 110 warrior is here.
+~
+~
+Human~
+A 0 V 0 -1000 0
+110 110 30d100+16000 1d1+1 8d15+160 punch
+-68 -68 -68 -53
+0 0 0 D
+stand stand either 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19946
+Level 120 warrior~
+A warrior~
+A level 120 warrior stands here.
+~
+~
+Human~
+A 0 V 0 -1000 0
+120 120 35d100+17000 1d1+1 9d15+150 punch
+-70 -70 -70 -56
+0 0 0 D
+stand stand either 1200
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19947
+level 130 warrior~
+A warrior~
+A level 130 warrior is standing here.
+~
+~
+Human~
+A 0 V 0 -1000 0
+130 130 40d100+18000 1d1+1 10d15+155 punch
+-73 -73 -73 -59
+0 0 0 D
+stand stand either 1300
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19948
+level 140 warrior~
+A warrior~
+A level 140 warrior is here.
+~
+~
+Human~
+A 0 V 0 -1000 0
+140 140 45d100+19000 1d1+1 10d16+160 punch
+-73 -73 -73 -60
+0 0 0 D
+stand stand either 1400
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19949
+level 150 warrior~
+A warrior~
+A level 150 warrior is here.
+~
+~
+Human~
+A 0 V 0 -1000 0
+150 190 0d0+0 1d1+1 10d19+160 punch
+-72 -72 -72 -68
+0 0 0 D
+stand stand either 1500
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19950
+a spirit warrior~
+a {DS{cp{Di{cr{Di{ct {rWarrior{x~
+The spirit of a warrior stands here, looking mean
+~
+The shamed warrior.  Cursed to spend all eternity bound by forces unknown
+to this wicked tower.  Though long dead and forgotten, he appears to have
+retained much of his strength 
+~
+Human~
+A 0 0 0 0 0
+55 55 111d18+501 55d9+60 17d3+28 slash
+-25 -25 -25 -14
+0 0 EH C
+stand stand either 2000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19951
+a spirit mage~
+a {DS{cp{Di{cr{Di{ct{r Mage{x~
+A powerful mage hovers slightly over the ground here
+~
+Master of the arcane arts.  He appears to be quite formidable.  
+~
+Human~
+A 0 0 0 -500 0
+55 55 111d18+501 55d9+60 17d3+28 magic
+-25 -25 -25 -14
+0 0 E D
+stand stand none 5000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19952
+the 9th grandmaster~
+{DThe 9th Gr{Wan{wdm{Was{Dter{x~
+The 9th grandmaster stands here, pondering his defeat of long ago
+~
+Defeated over 500 years ago by the first grandmaster in the revolt
+against him.  He spends all eternity here, cursed inside this evil tower.  
+~
+Human~
+AB 0 0 0 -400 0
+65 65 131d21+1313 65d10+85 21d3+37 punch
+-34 -34 -34 -20
+0 0 0 0
+stand stand male 2500
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19953
+a spirit mage~
+a {DS{cp{Di{cr{Di{ct{r Mage{x~
+A powerful spirit mage stands here, focusing its energies
+~
+Garbed in flowing black silk robes, it appears to remain quite powerful
+even after its exile to this cursed tower.  
+~
+Human~
+A 0 0 0 -400 0
+60 60 121d20+1213 60d10+85 20d3+35 wrath
+-30 -30 -30 -18
+0 0 EI DK
+stand stand either 1000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19954
+a spirit warrior~
+a {DS{cp{Di{cr{Di{ct {rWarrior{x~
+A powerful spirit stands here, wielding a translucent sword
+~
+A translucent spirit of the former warrior.  Cursed for all eternity in
+this evil tower.  
+~
+Human~
+A 0 V 0 -300 0
+60 60 121d20+1091 60d9+60 18d3+31 slice
+-28 -28 -28 -16
+C 0 EH DJ
+stand stand male 1500
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19955
+the 8th grandmaster~
+{DThe 8th Gr{Wan{wdm{Was{Dter{x~
+The 8th Grandmaster stands here, pondering his defeat
+~
+A short, strong, agile warrior.  He was taught the art of fighting
+hundreds of years ago by the first grandmaster.  
+~
+Human~
+AB 0 V 0 -560 0
+70 70 141d23+1273 70d9+60 21d3+35 none
+-35 -35 -35 -20
+0 0 EK CD
+stand stand male 3000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19956
+a spirit mage~
+a {DS{cp{Di{cr{Di{ct {rMage{x~
+The spirit of a mage hovers slightly over the ground here
+~
+Garbed in flowing black silk robes with archaeic runes etched upon them,
+he appears to be quite powerful, even in his now, mostly defeated form.  
+~
+Human~
+A 0 V 0 0 0
+70 70 141d23+1273 70d9+60 21d3+35 none
+-35 -35 -35 -20
+0 0 DEK CDI
+stand stand male 3500
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19957
+a spirit warrior~
+a {DS{cp{Di{cr{Di{ct{r Warrior{x~
+The powerful spirit of a long dead warrior stands here
+~
+Still wearing all his armor, this being wanders the tower cursed for all
+eternity.  
+~
+Human~
+A 0 V 0 0 0
+70 70 141d23+1273 70d9+60 21d3+35 none
+-35 -35 -35 -20
+0 0 D CH
+stand stand male 3500
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19958
+the 7th grandmaster~
+{DThe 7th Gr{Wan{wdm{Was{Dter{x~
+The 7th grandmaster stands here, soul searching for answers to his defeat
+~
+One of the more trusted members of the black dragon society.  He was one
+of the loudest voices in the revolt against the first grandmaster.  He
+appears to be quite strong despite being a mere spirit of his former self.  
+~
+Human~
+AB 0 0 0 0 0
+80 80 161d26+1617 80d10+85 26d3+45 none
+-44 -44 -44 -28
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19959
+a spirit channeler~
+a {DS{cp{Di{cr{Di{ct {r Channeler{x~
+A spirit channeler stands here, concentrating deeply
+~
+Clad in red silk robes, this channeler appears quite powerful indeed.  
+~
+Human~
+A 0 V 0 0 0
+75 75 151d25+1363 75d9+60 23d3+38 magic
+-38 -38 -38 -22
+0 0 EFK CD
+stand stand either 5000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19960
+a spirit warlord~
+a {DS{cp{Di{cr{Di{ct  {rWarlord{x~
+A long dead warlord stands here at attention
+~
+Still in full battle dress after his defeat, this warlord to the first
+grandmaster was caught up in the revolt and killed by rebels.  
+~
+Human~
+A 0 0 0 0 0
+75 75 151d25+1515 75d10+85 25d3+42 slash
+-41 -41 -41 -25
+0 0 CE FGK
+stand stand male 5000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19961
+the 6th grandmaster~
+{DThe 6th Gr{Wan{wdm{Was{Dter{x~
+The 6th Grandmaster stands here, pondering his defeat
+~
+A tall, strong looking warrior, even in its now, defeated and cursed form.  
+~
+Human~
+AB 0 V 0 0 0
+85 85 171d28+1717 85d10+85 28d3+47 punch
+-48 -48 -48 -30
+E 0 EG HK
+stand stand none 7800
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19962
+a spirit channeler~
+a  {DS{cp{Di{cr{Di{ct  {rChanneler{x~
+The spirit of a long dead channeler stands here concentrating
+~
+Garbed in flowing red silk robes, this magic caster seems to be quite
+powerful despite being a shadow of its former self 
+~
+Human~
+A 0 0 0 -400 0
+80 80 161d26+1455 80d9+60 24d3+40 magic
+-42 -42 -42 -25
+0 0 DE CGH
+stand stand either 6600
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19963
+a spirit warlord~
+a {DS{cp{Di{cr{Di{ct  {rWarlord{x~
+The spirit of a long dead warlord stands here at attention
+~
+Still in full battle dress after hundreds of years in purgatory.  He
+appears to be quite strong despite being a spirit of his former self.  
+~
+Human~
+A 0 0 0 -400 0
+80 80 161d26+1455 80d9+60 24d3+40 pierce
+-42 -42 -42 -25
+0 0 CE DK
+stand stand male 4500
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19964
+the 5th grandmaster~
+{DThe 5th Gr{Wan{wdm{Was{Dter{x~
+The 5th grandmaster stands here pondering his defeat of long ago
+~
+Despite being defeated so long ago, this highly skilled master retanis
+much of his original strength through deep meditation daily 
+~
+Human~
+AB 0 V 0 0 0
+90 90 181d30+1819 90d10+85 30d3+50 none
+-51 -51 -51 -32
+E 0 CE FG
+stand stand male 10000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19965
+a spirit channeler~
+a {DS{cp{Di{cr{Di{Ct {rChanneler{x~
+A powerful spirit channeler stands here, concentrating deeply
+~
+Garbed in flowing blue silk robes, they appear to still remain quite
+powerful after hundreds of years in exile 
+~
+Human~
+A 0 V 0 -400 0
+85 85 171d28+1717 85d10+85 28d3+47 none
+-48 -48 -48 -30
+0 0 0 0
+stand stand none 11000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19966
+a spirit warlord~
+a {DS{cp{Di{cr{Di{ct  {rWarlord{x~
+A proud warlord of the first grandmaster stands here at attention
+~
+Still in full battle dress, he remains quite powerful even now 
+~
+Human~
+A 0 V 0 -400 0
+85 85 171d28+1717 85d10+85 28d3+47 none
+-48 -48 -48 -30
+E G E CFK
+stand stand none 12000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19967
+the 4th grandmaster~
+{DThe 4th Gr{Wan{wdm{Was{Dter{x~
+The 4th grandmaster stands here, pondering his defeat of long ago
+~
+A large, strong as an ox looking fighter, probably as stupid as well. 
+His strength was unmatched, and still is to this day.  
+~
+Human~
+AB 0 V 0 -400 0
+95 95 191d31+1919 95d10+85 31d3+52 punch
+-54 -54 -54 -35
+E 0 EG CFH
+stand stand male 20000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19968
+a spirit channeler~
+a {DS{cp{Di{cr{Di{ct {r Channeler{x~
+A spirit channeler stands here, concentrating deeply
+~
+Garbed in flowing blue silk robes, he appears quite powerful indeed 
+~
+Human~
+A 0 V 0 -500 0
+90 90 181d30+1637 90d9+60 28d3+45 none
+-48 -48 -48 -29
+0 0 EG FHK
+stand stand either 15000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19969
+a spirit warlord loyal~
+a {DS{cp{Di{cr{Di{ct {r Warlord{x~
+A loyal spirit warlord stands here at attention
+~
+Still in full battle dress and devoted to the first until his demise.
+~
+Human~
+A 0 V 0 -500 0
+90 90 181d30+1637 90d9+60 28d3+45 none
+-48 -48 -48 -29
+E 0 GH CD
+stand stand none 20000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19970
+the 3rd grandmaster~
+{DThe 3rd Gr{Wan{wdm{Was{Dter{x~
+The 3rd grandmaster stands here, pondering his defeat of long ago
+~
+Taught the art of fighting over 500 years ago by the first grandmaster,
+he appears to remain quite powerful even in his now defeated form.  
+~
+Human~
+AB 0 V 0 -400 0
+100 100 201d33+2021 100d10+85 33d3+55 punch
+-57 -57 -57 -37
+E 0 H CG
+stand stand male 35000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19971
+a spirit channeler~
+a {DS{cp{Di{cr{Di{ct {r Channeler{x~
+A spirit channeler stands here, concentrating deeply
+~
+Garbed in flowing white robes, this channeler appears to be quite strong
+even in its now defeated form.  
+~
+Human~
+A 0 V 0 -500 0
+95 95 191d31+1727 95d9+60 29d3+47 none
+-51 -51 -51 -31
+0 0 C FH
+stand stand either 25000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19972
+a spirit warlord~
+a {DS{cp{Di{cr{Di{ct {r Warlord{x~
+A spirit warlord stands here at attention
+~
+Still in full battle dress, this warlord remains faithful to the first
+grandmaster even in his eternal prison.  
+~
+Human~
+A 0 V 0 -400 0
+95 95 191d31+1727 95d9+60 29d3+47 none
+-51 -51 -51 -31
+E 0 DG CH
+stand stand male 35000
+0 0 large unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19973
+the 2nd grandmaster~
+{DThe 2nd Gr{Wan{wdm{Was{Dter{x~
+The 2nd Grandmaster stands here, pondering his defeat of long ago
+~
+A strong, agile looking warrior served as the second in command for the
+Black Dragon society.  
+~
+Human~
+AB 0 V 0 -400 0
+105 105 211d35+2121 105d10+85 35d3+57 punch
+-61 -61 -61 -39
+E 0 DG HK
+stand stand male 40000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19974
+a spirit elementalist~
+a {DS{cp{Di{cr{Di{ct {r Elementalist{x~
+The spirit of a long dead elementalist stands here
+~
+Garbed in flowing gilded robes, he was one of the elite spell casters of
+the Black Dragon Society.  
+~
+Human~
+A 0 V 0 -400 0
+100 100 201d33+1819 100d9+60 31d3+50 magic
+-54 -54 -54 -33
+EH 0 C DH
+stand stand none 45000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19975
+a spirit baron~
+a {DS{cp{Di{cr{Di{ct {r Baron{x~
+The Spirit Baron of the Black Dragon society stands here
+~
+Still in full battle dress, he was one of the elite fighters of the Black
+Dragon Society.  
+~
+Human~
+A 0 V 0 -400 0
+100 100 201d33+1819 100d9+60 31d3+50 slash
+-54 -54 -54 -33
+EHJ 0 EG CI
+stand stand male 35000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19976
+the cleric~
+{WThe Cleric{x~
+The Cleric stands here casting spells of healing
+~
+A beautiful woman at one time, now the scars of trauma and depression
+have destroyed her.  
+~
+Human~
+ABZa 0 0 0 -500 0
+110 110 227d37+3334 110d11+95 37d2+80 none
+-69 -69 -69 -47
+0 0 0 0
+stand stand female 30000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#19977
+the first grandmaster~
+{DThe First Gr{Wan{wdm{Was{Dter{x~
+The first grandmaster stands here, cackling gleefully
+~
+A menacing seven foot tall figure.  Clad in the silk robes that are the
+mark of the leader, he appears to remain as powerful as ever in his now
+cursed form.  
+~
+Human~
+A 0 V H 0 0
+130 130 1d1+35678 1d1+23545 490d3+1500 wrath
+-84 -84 -84 -57
+EFHJK 0 DG HJK
+stand stand none 67000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#19900
+red headband~
+a {RR{red {DHeadband{x~
+A long strip of red cloth lies on the ground here~
+red cloth~
+armor AGT AE
+46 46 46 45 0
+50 51 54 P
+A
+13 100
+#19901
+artema wisdom claw~
+{&Platinum{0 {^Claws{0~
+The claws of the great {&Platinum{0 {8Dragon{0 lie here!~
+platinum~
+weapon ABCFGIMPRTY AN
+exotic 555 555 claw BCDEGH
+104 1 0 P
+A
+18 500
+A
+17 -100
+F
+A 0 0 LTUZbc
+F
+S 0 0 CHNO
+F
+R 0 0 CD
+#19902
+scroll parchment health~
+Parchment of {@Health{0~
+an acient piece of parchment lies here, {zemenating{0 a powerful aura.~
+parchment~
+scroll AGISTY AO
+102 'mass healing' 'mass healing' 'mass healing' 'mass healing'
+102 1 0 P
+#19903
+artema platinum scales~
+{8Platinum scales{0~
+Artema's dragon scales have been ripped from his body and dropped here.~
+dragonscale~
+armor MOSTY AK
+500 500 500 500 0
+103 1 0 P
+A
+19 100
+F
+A 0 0 UZc
+F
+S 0 0 NO
+F
+R 0 0 BCD
+#19904
+seal dragon archmage~
+Seal of the {8Dragon{0 {4Archmage{0~
+The legendary Seal of the {8Dragon{0 {4ArchMage{0.~
+ash~
+armor ABEFGMOSTY AC
+30 30 30 30 1
+101 1 0 P
+A
+23 -100
+F
+A 0 0 Tc
+F
+S 0 0 O
+F
+R 0 0 BCD
+#19905
+thoth's protection shield~
+{&Thoth's Protection{0~
+Thoth's ultimate protection floats in mid-air.~
+nothingness~
+armor ABFGMOSTY AJ
+500 500 500 500 1
+102 1 0 P
+A
+18 100
+A
+17 -100
+F
+A 0 0 CUc
+F
+S 0 0 HN
+F
+R 0 0 ABCDEFGHIJKLMNOPQRS
+#19906
+level 70 magical force~
+L.70 {#Magical Force{0~
+A magical force throbbs here.~
+quartz~
+weapon ABEFGMSTY AN
+exotic 10 14 drain ABCG
+70 2 0 P
+A
+18 15
+A
+23 -15
+F
+A 0 0 FLc
+F
+R 0 0 B
+#19907
+level 80 magical force~
+L.80 {#Magical Force{0~
+A strong magical force throbbs here.~
+quartz~
+weapon ABEFGMSTY AN
+exotic 10 16 drain ABCG
+80 2 0 P
+A
+18 15
+A
+23 -15
+F
+A 0 0 FLc
+F
+R 0 0 B
+#19908
+level 90 magical force~
+L.90 {#Magical Force{0~
+A powerful force throbbs here.~
+quartz~
+weapon ABEFGMSTY AN
+exotic 10 18 drain ABCG
+90 2 0 P
+A
+18 15
+A
+23 -15
+F
+A 0 0 FLc
+F
+R 0 0 B
+#19909
+level 100 magical force~
+L.100 {#Magical Force{0~
+A magical force throbbs here.~
+quartz~
+weapon ABEFGMSTY AN
+exotic 10 20 drain ABCG
+100 2 0 P
+A
+18 15
+A
+23 -15
+F
+A 0 0 FLc
+F
+R 0 0 B
+#19910
+level 70 physical power~
+L.70 {8Physical Power{0~
+A physical power lies here.~
+silver~
+weapon ABCEMTY AN
+sword 10 14 slice DEH
+70 5 0 P
+A
+18 15
+A
+1 2
+F
+A 0 0 Db
+#19911
+level 80 physical power~
+L.80 {8Physical Power{0~
+A physical power lies here.~
+silver~
+weapon ABCEMTY AN
+sword 10 16 slice DEH
+80 5 0 P
+A
+18 15
+A
+1 2
+F
+A 0 0 Db
+#19912
+level 90 physical power~
+L.90 {8Physical Power{0~
+A physical power lies here.~
+silver~
+weapon ABCEMTY AN
+sword 10 18 slice DEH
+90 5 0 P
+A
+18 15
+A
+1 2
+F
+A 0 0 Db
+#19913
+level 100 physical power~
+L.100 {8Physical Power{0~
+A physical power lies here.~
+silver~
+weapon ABCEMTY AN
+sword 10 20 slice DEH
+100 5 0 P
+A
+18 15
+A
+1 2
+F
+A 0 0 Db
+#19914
+potion cursed~
+Treasure of Fanatics' Tower~
+The treasure of the Fanatics' Tower has been smashed on the floor.~
+glass~
+potion ABEFGJKLPST AO
+110 'energy drain' 'quest pill' 'lightning breath' 'lightning breath'
+99 5 0 A
+#19915
+gogo shroud cloak~
+{3Gogo{0's Shroud~
+Gogo's shroud is here.. All that is left of him after his demise.~
+wool~
+npc_corpse ABGJKSTUY AK
+0 0 0 0 0
+85 5 0 P
+A
+17 -50
+A
+20 -15
+F
+A 0 0 CPUZc
+F
+R 0 0 M
+#19916
+leveling sphere~
+a leveling sphere~
+a leveling sphere lies here.~
+etherealness~
+light GPTUa A
+0 0 999 0 0
+1 40 75 P
+#19917
+seal platinum dragon~
+Seal of the {&Platinum{0 {8Dragon{0~
+The legendary Seal of the {&Platinum{0 {8Dragon{0.~
+ash~
+armor ABEFGMOSTY AC
+30 30 30 30 1
+104 1 0 P
+A
+23 -100
+F
+A 0 0 Tc
+F
+S 0 0 O
+F
+R 0 0 BCD
+#19918
+ice crystal god embrace~
+a small {^ice crystal{0~
+{^A small Ice Crystal floats here in mid-air.{0~
+ice~
+warp_stone AGHTUY AO
+0 0 0 0 0
+104 0 0 P
+F
+S 20 -99 CH
+F
+I 20 -99 ABCDEFGHIJKLMNOPQRST
+#19919
+light eriana lantern~
+The {#LIGHT{0 of Eriana~
+The {#LIGHT{0 of Eriana brightens your path ahead.~
+glass~
+light A A
+0 0 999 0 0
+101 0 10000 P
+F
+A 17 -15 CDEFGJLUZ
+F
+S 19 25 HN
+#19950
+level 70 magical robe~
+{DL.70 {YMagical Robe{x~
+A magical robe is lying here~
+unknown~
+armor ABF AK
+15 15 15 15 0
+70 0 0 P
+A
+19 5
+A
+18 3
+A
+3 1
+A
+14 100
+A
+12 100
+A
+13 100
+#19951
+level 80 magical robe~
+{DL.80 {YMagical Robe{x~
+A magical robe is lying here~
+unknown~
+armor ABF AK
+18 18 18 18 0
+80 0 0 P
+A
+19 6
+A
+18 4
+A
+14 125
+A
+12 125
+A
+13 125
+A
+3 2
+#19952
+level 90 magical robe~
+{DL.90 {YMagical Robe{x~
+A magical robe is lying here~
+unknown~
+armor ABF AK
+22 22 22 22 0
+90 0 0 P
+A
+19 8
+A
+18 6
+A
+14 150
+A
+12 150
+A
+13 150
+A
+3 3
+#19953
+level 100 magical robe~
+{DL.100 {YMagical Robe{x~
+A magical robe is lying here.~
+unknown~
+armor ABF AK
+25 25 25 25 0
+100 0 0 P
+A
+19 12
+A
+18 10
+A
+14 175
+A
+12 175
+A
+13 175
+A
+3 4
+#19954
+a bright orange belt~
+a {YBright {wOrange Belt{x~
+A long strip of orange cloth lies on the ground here~
+cloth~
+armor AI AL
+50 50 50 49 0
+55 3 2000 P
+A
+18 10
+A
+19 10
+A
+5 1
+#19955
+a blue silk gi~
+a {bB{Bl{bu{Be {WS{wilk {WGi{x~
+A silk gi lies on the ground here~
+unknown~
+armor 0 AD
+55 55 55 54 0
+60 2 2400 P
+A
+18 10
+A
+19 10
+A
+1 2
+#19956
+dragon arm bands~
+{GD{rr{Ga{rg{Go{rn {WA{wrm {gBands{x~
+A arm bands marked with the dragon lie here~
+unknown~
+armor AI AI
+59 59 59 58 0
+65 6 5000 P
+A
+13 75
+A
+2 3
+A
+18 5
+A
+19 5
+#19957
+a woven black anklet~
+a {WW{wo{Wv{we{Wn{D Black {WA{wnklet{x~
+A strip of black cloth lies on the ground here~
+cloth~
+armor AI AS
+67 67 67 66 0
+75 2 6500 P
+A
+18 10
+A
+19 10
+A
+13 75
+A
+1 2
+#19958
+a rusted claw~
+a {rRusted {WC{wlaw~
+A rusty claw lies on the ground here~
+unknown~
+weapon AI AN
+exotic 8 15 scratch AH
+70 5 6700 P
+A
+18 10
+A
+19 10
+A
+13 60
+#19959
+breath of the dragon~
+{BB{br{Be{ba{Bt{bh {WO{wf {WT{whe {DDragon{x~
+Glowing blue eddys of smoke drift on the ground here~
+breath~
+armor AI AQ
+71 71 71 70 0
+80 0 14000 P
+A
+2 3
+A
+12 100
+A
+18 5
+A
+19 5
+#19960
+a glowing staff~
+a {YG{yl{Yo{yw{Yi{yn{Yg {WS{wtaff{x~
+A glowing wooden staff lies on the ground here~
+wood~
+staff Y AO
+100 20 20 'heal' 0
+80 5 4000 P
+#19961
+throwing stars~
+{MP{yo{Mi{ys{Mo{yn {WT{wipped {DThrowing {BS{bt{Ba{br{Bs{x~
+Sever throwing stars lie on the ground here~
+steel~
+weapon A AN
+exotic 10 17 pierce DH
+95 1 46000 P
+A
+18 10
+A
+19 10
+A
+2 2
+A
+5 2
+#19962
+black steel greaves~
+{DBlack {WS{wteel {rG{Rr{re{Ra{rv{Re{rs{x~
+Some black metallic greaves lie on the ground here~
+steel~
+armor AI AF
+84 84 84 83 0
+95 5 14500 P
+A
+18 13
+A
+19 13
+A
+1 3
+A
+13 45
+#19963
+an aura of eternal rage~
+{WAura O{wf  {RE{rt{Re{rr{Rn{ra{Rl {DRage{x~
+(no description)~
+unknown~
+armor AIY AU
+88 88 88 87 0
+100 0 0 P
+A
+18 20
+A
+19 20
+A
+1 2
+A
+13 100
+#0
+
+
+
+#ROOMS
+#19900
+{DTower of Trials{x~
+The proving grounds for many a headstrong adventurer.  The Tower of
+Trials has been a coming of age test for centuries past, and will remain so
+for centuries more.  Built from solid granite, and standing more than two
+hundred feet into the air, it is a marvel of old world engineering.  The
+monsters that lie within are dangerous, many a youth has ventured inside,
+only to succumb to the danger within.  A small stone path leads away north,
+to the entrance of the tower.  
+~
+0 4 1
+D0
+To the north you see the Fanatics' Tower.
+~
+~
+0 -1 19901
+D2
+~
+~
+0 0 607
+S
+#19901
+{DEntrance To The Tower Of Trials{x~
+The granite walls of the mighty tower grow ever more awe inspiring as you
+draw near the archway leading to the first floor.  A few other youths are
+gathered outside, deciding if this will be the day they are proven in their
+fathers eyes.  The small stone pathway continues north, inside the tower.  
+~
+0 4 1
+E
+door big~
+This door isn't much to look at.
+~
+E
+robed men~
+These guys are like zombies, walking around in circles chanting something you
+can't make out.  You better walk around them.
+~
+E
+fanatics' tower~
+This thing is huge, at least 100 total rooms.  You will come across some very
+powerful enemies on your trek to the top.
+~
+E
+guys~
+These guys are over in the corner discussing the untilmate treasure to be found
+at the top of the tower.  One offers to tell you a secret for 10000 gold.  Heh
+~
+D0
+You see a huge door leading inside the tower.
+~
+~
+1 -1 19902
+D2
+Don't go that way, the cool area is to the north!
+~
+~
+0 -1 19900
+S
+#19902
+{DA Stairway{x~
+A large stone stair case leads to the first floor of the tower.  No
+monsters dare venture this close to the light, preferring instead the
+enveloping darkness that is the inner most parts of the tower.  A large
+{Wplaque{x hangs on the northern wall.  The staircase leads away up, to the
+first floor.  
+~
+0 6506 0
+E
+plaque~
+{BLet it be known, that another child ventures forth into the darkness to
+prove themselves worthy in the eyes of their fathers, and their fathers
+father.  Pray not that your blood be spilled, pray not that your worthless
+head be torn from your shoulders, and pray not that you should stain
+yourself at the first sign of battle.  For this sacred place you enter a
+child, and leave a warrior!  Venture forth little one, and make your
+ancestors proud.  {x 
+~
+D2
+The exit is to the south.
+~
+~
+1 -1 19901
+D4
+~
+~
+0 0 19903
+M 100 H 110
+S
+#19903
+{DFirst Floor{x~
+This is the first floor of the tower.  It is quite dark despite the many
+torches.  It is a rather plain hallway made out of stone.  The first floor
+continues to the south.  
+~
+0 6506 0
+D2
+~
+~
+0 -1 19904
+D5
+~
+~
+0 0 19902
+S
+#19904
+{DFirst Floor{x~
+A plain hallway made of stone.  Many torches light the way.  Screams of
+pain and anguish can be heard throughout the rest of the tower.  The hallway
+continues east.  
+~
+0 8 1
+D0
+~
+~
+0 -1 19903
+D1
+~
+~
+0 -1 19905
+S
+#19905
+{DFirst Floor{x~
+A plain hallway made of stone.  Many torches light the way.  Screams of
+pain and anguish can be heard throughout the rest of the tower.  The hallway
+continues east.  
+~
+0 0 1
+D1
+~
+~
+0 -1 19906
+D3
+~
+~
+0 -1 19904
+S
+#19906
+{DFirst Floor{x~
+A plain hallway made of stone.  Many torches light the way.  Screams of
+pain and anguish can be heard throughout the rest of the tower.  The hallway
+continues east.  
+~
+0 0 1
+D0
+~
+~
+0 -1 19908
+D1
+~
+~
+1 -1 19907
+D3
+~
+~
+0 -1 19905
+S
+#19907
+{D Chamber Of The 11th Grandmaster{x~
+The chambers of the 11th Grandmaster.  Taught the art of fighting
+hundreds of years ago by the first master.  He now resides here, a mere
+spirit of his former self, though he remains quite powerful.  West leads
+back into the first floor.  
+~
+0 8 0
+D3
+~
+~
+1 -1 19906
+S
+#19908
+{DA Stairwell{X~
+A rather ordinary room with a spiral staircase heading up to the next
+floor.  South leads back to the first floor hallway.  
+~
+0 6506 0
+D2
+~
+~
+0 -1 19906
+D4
+~
+~
+0 -1 19909
+S
+#19909
+{DA Stairwell{X~
+A plain stone room.  A large stairwell leads down back into the first
+floor.  South leads to the second floor hall.  
+~
+0 6506 0
+D2
+~
+~
+0 -1 19910
+D5
+~
+~
+0 -1 19908
+S
+#19910
+{DSecond Floor{x~
+A long plain stone hallway.  Brightly burning torches light the way.  The
+second floor hallway continues to the west.  The stairwell is north.  
+~
+0 8 1
+D0
+~
+~
+0 -1 19909
+D3
+~
+~
+0 -1 19911
+S
+#19911
+{DSecond Floor{x~
+A long plain stone hallway.  Brightly burning torches light the way.  The
+second floor hallway continues west and east.  
+~
+0 8 1
+D1
+~
+~
+0 -1 19910
+D3
+~
+~
+0 -1 19912
+S
+#19912
+{DSecond Floor{x~
+A long plain stone hallway.  Brightly burning torches light the way.  The
+second floor hallway continues west and east.  
+~
+0 8 1
+D1
+~
+~
+0 -1 19911
+D3
+~
+~
+0 -1 19913
+S
+#19913
+{DSecond Floor{x~
+A long plain stone hallway.  Brightly burning torches light the way.  The
+second floor hallway continues west and east.  
+~
+0 8 1
+D1
+~
+~
+0 -1 19912
+D3
+~
+~
+0 -1 19914
+S
+#19914
+{DSecond Floor{x~
+A long plain stone hallway.  Brightly burning torches light the way.  The
+second floor hallway continues east.  A spiral staircase is to the north,
+leading to third floor.  The chamber of the 10th Grandmaster lies to the
+west.  
+~
+0 8 1
+D0
+~
+~
+0 -1 19916
+D1
+~
+~
+0 -1 19913
+D3
+~
+~
+1 -1 19915
+S
+#19915
+{DChamber Of The 10th Grandmaster{x~
+The chambers of the 10th Grandmaster.  Taught the art of fighting
+hundreds of years ago by the first master.  He now resides here, a mere
+spirit of his former self, though he remains quite powerful.  East leads
+back into the second floor.  
+~
+0 8 0
+D1
+~
+~
+1 -1 19914
+S
+#19916
+{DA Stairwell{X~
+A plain stone stairwell stretches up onto the third floor.  South leads
+back into the second floor.  
+~
+0 6506 0
+D2
+~
+~
+0 -1 19914
+D4
+~
+~
+0 -1 19917
+S
+#19917
+{DA Stairwell{X~
+A spiral stone stairwell runs back down to the second floor.  South leads
+to the third floor of the tower.  
+~
+0 6506 0
+D2
+~
+~
+0 -1 19918
+D5
+~
+~
+0 -1 19916
+S
+#19918
+{DThird Floor{x~
+A basic stone hallway.  A small carpet runs the legnth of it down the
+middle.  The hallway continues to the east.  The stairwell is to the north. 
+~
+0 0 1
+E
+corpse~
+King Edgar died here long ago, all that is left is some bones.~
+D0
+~
+~
+0 -1 19917
+D1
+~
+~
+0 -1 19919
+S
+#19919
+{DThird Floor{x~
+A basic stone hallway.  A small carpet runs the legnth of it down the
+middle.  The hallway continues to the east and west.  
+~
+0 0 1
+D1
+~
+~
+0 -1 19920
+D3
+~
+~
+0 -1 19918
+S
+#19920
+{DThird Floor{x~
+A basic stone hallway.  A small carpet runs the legnth of it down the
+middle.  The hallway continues to the east and west.  
+~
+0 0 1
+D1
+~
+~
+0 -1 19921
+D3
+~
+~
+0 -1 19919
+S
+#19921
+{DThird Floor{x~
+A basic stone hallway.  A small carpet runs the legnth of it down the
+middle.  The hallway continues to the east and west.  
+~
+0 0 1
+D1
+~
+~
+0 -1 19922
+D3
+~
+~
+0 -1 19920
+S
+#19922
+{DThird Floor{x~
+A basic stone hallway.  A small carpet runs the legnth of it down the
+middle.  The hallway continues west.  The chamber of the 9th grandmaster is
+east.  A stairwell is north.  
+~
+0 0 1
+D0
+~
+~
+0 -1 19924
+D1
+~
+~
+1 -1 19923
+D3
+~
+~
+0 -1 19921
+S
+#19923
+{DChamber Of The 9th Grandmaster{x~
+The chambers of the 9th Grandmaster.  Taught the art of fighting hundreds
+of years ago by the first master.  He now resides here, a mere spirit of his
+former self, though he remains quite powerful.  West leads back into the
+third floor.  
+~
+0 8 0
+D3
+~
+~
+1 -1 19922
+S
+#19924
+{DA Stairwell{X~
+A long, winding spiral staircase stretches up to the fourth floor, and
+back down to the second.  South leads back to the third floor hallway.  
+~
+0 6506 0
+D2
+~
+~
+0 -1 19922
+D4
+~
+~
+0 -1 19925
+D5
+~
+~
+0 -1 19909
+S
+#19925
+{DA Stairwell{X~
+A plain stone staircase leads back down to the third floor.  South leads
+to the fourth floor hallway 
+~
+0 6506 0
+D2
+~
+~
+0 -1 19926
+D5
+~
+~
+0 -1 19924
+S
+#19926
+{DFourth Floor{x~
+The fourth floor of the tower of trials.  Maniacal screams can be heard
+from all around now.  Truly twisted monsters reside here.  North leads back
+to the stairwell.  The hallway goes off to the west.  
+~
+0 0 1
+D0
+~
+~
+0 -1 19925
+D3
+~
+~
+0 -1 19927
+S
+#19927
+{DFourth Floor{x~
+The fourth floor of the tower of trials.  This basic stone hallway runs
+from east to west.  
+~
+0 0 1
+D1
+~
+~
+0 -1 19926
+D3
+~
+~
+0 -1 19928
+S
+#19928
+{DFourth Floor{x~
+The fourth floor, a basic stone hallway.  Many torches line the hallway,
+alot have burned out, but a few are still aglow, lighting the way.  The
+hallway continues east to west.  
+~
+0 0 1
+D1
+~
+~
+0 -1 19927
+D3
+~
+~
+0 -1 19929
+S
+#19929
+{DFourth Floor{x~
+The fourth floor, a basic stone hallway.  Many torches line the hallway,
+alot have burned out, but a few are still aglow, lighting the way.  The
+hallway continues east to west.  
+~
+0 0 1
+E
+corpse~
+You wonder how Realm could have gotten this far!  But she just couldn't
+make it to the top...~
+D1
+~
+~
+0 -1 19928
+D3
+~
+~
+0 -1 19930
+S
+#19930
+{DFourth Floor{x~
+The fourth floor, a basic stone hallway.  Many torches line the hallway,
+alot have burned out, but a few are still aglow, lighting the way.  The
+hallway continues east to west.  A stairwell is north, leading to the next
+floor.  The chamber of the 8th Grandmaster is west.  
+~
+0 0 1
+D0
+~
+~
+0 -1 19932
+D1
+~
+~
+0 -1 19929
+D3
+~
+~
+1 -1 19931
+S
+#19931
+{DChamber Of The 8th Grand Master{x~
+The small stone room where the 8th grandmaster spends all eternity is
+scarcely lit by one burning candle.  He was defeated by the first
+grandmaster long ago in the revolt.  No history texts know for sure, but its
+believed the first grandmaster grew quite insane with his power.  East leads
+back to the hallway.  
+~
+0 8 0
+D1
+~
+~
+1 -1 19930
+S
+#19932
+{DA Stairwell{X~
+A plain stone spiral staircase runs up to the fifth floor, and also back
+down to the third floor.  South leads back to the fourth floor.  
+~
+0 6506 0
+D2
+~
+~
+0 -1 19930
+D4
+~
+~
+0 -1 19933
+D5
+~
+~
+0 -1 19917
+S
+#19933
+{DA Stairwell{X~
+A stairwell leads back down into the fourth floor.  South leads to the
+start of the fifth floor.  
+~
+0 6506 0
+D2
+~
+~
+0 -1 19934
+D5
+~
+~
+0 -1 19932
+S
+#19934
+{DFifth Floor{x~
+The fifth floor of the tower.  The stench of death hangs heavy in the air
+now, screams of pain and anguish die down to murmurs of acceptance and
+regret.  The tower claims more souls for its eternal hunger.  The fifth
+floor continues to the east.  North leads back into the stairwell.  
+~
+0 0 1
+D0
+~
+~
+0 -1 19933
+D1
+~
+~
+0 -1 19935
+S
+#19935
+{DFifth Floor{x~
+The fifth floor of the tower, a plain stone hallway.  Few torches light
+the way now, the darkness grows with every step.  The hallway continues east
+and west.  
+~
+0 0 1
+E
+corpse~
+Gau's corpse is here, all the small animals that pass by stay, and weep for
+a few minutes at his passing.  He died happy.~
+D1
+~
+~
+0 -1 19936
+D3
+~
+~
+0 -1 19934
+S
+#19936
+{DFifth Floor{x~
+The fifth floor of the tower, a plain stone hallway.  Few torches light
+the way now, the darkness grows with every step.  The hallway continues east
+and west.  
+~
+0 0 1
+D1
+~
+~
+0 -1 19937
+D3
+~
+~
+0 -1 19935
+S
+#19937
+{DFifth Floor{x~
+The fifth floor of the tower, a plain stone hallway.  Few torches light
+the way now, the darkness grows with every step.  The hallway continues east
+and west.  
+~
+0 0 1
+D1
+~
+~
+0 -1 19938
+D3
+~
+~
+0 -1 19936
+S
+#19938
+{DFifth Floor{x~
+The fifth floor of the tower, a plain stone hallway.  Few torches light
+the way now, the darkness grows with every step.  The hallway continues to
+the west.  The chamber of the 7th grandmaster is east.  North leads to a
+stairwell.  
+~
+0 0 1
+D0
+~
+~
+0 -1 19940
+D1
+~
+~
+1 -1 19939
+D3
+~
+~
+0 -1 19937
+S
+#19939
+{DChamber Of The 7th Grandmaster{x~
+A plain stone room serves as the chambers of this long defeated
+grandmaster.  He went down with the others during the revolt against the
+first grandmaster.  He spends all eternity in ponderous silence, cursed to
+reamin in the clutches of this tower.  West leads back to the hallway.  
+~
+0 8 0
+D3
+~
+~
+1 -1 19938
+S
+#19940
+{DA Stairwell{X~
+A plain stone spiral staircase runs up to the sixth floor, and back down
+to the fourth.  South leads back to the fifth floor.  
+~
+0 12 0
+D2
+~
+~
+0 -1 19938
+D4
+~
+~
+0 -1 19941
+D5
+~
+~
+0 -1 19925
+S
+#19941
+{DA Stairwell{X~
+A plain stone spiral staircase runs back down to the fifth floor.  South
+leads to the sixth floor.  
+~
+0 12 0
+D2
+~
+~
+0 -1 19942
+D5
+~
+~
+0 -1 19940
+S
+#19942
+{DSixth Floor{x~
+The center point of the tower is eerily quiet.  Light if very scarce now.
+The sixth floor continues to the west, the stairwell is to the north.  
+~
+0 0 1
+D0
+~
+~
+0 -1 19941
+D3
+~
+~
+0 -1 19943
+S
+#19943
+{DSixth Floor{x~
+The middle point of the tower is eerily quiet.  Light is very scarce now.
+The sixth floor continues on east and west.  
+~
+0 0 1
+D1
+~
+~
+0 -1 19942
+D3
+~
+~
+0 -1 19944
+S
+#19944
+{DSixth Floor{x~
+The middle point of the tower is eerily quiet.  Light is very scarce now.
+The sixth floor continues on east and west.  
+~
+0 0 1
+D1
+~
+~
+0 -1 19943
+D3
+~
+~
+0 -1 19945
+S
+#19945
+{DSixth Floor{x~
+The middle point of the tower is eerily quiet.  Light is very scarce now.
+The sixth floor continues on east and west.  
+~
+0 0 1
+D1
+~
+~
+0 -1 19944
+D3
+~
+~
+0 -1 19946
+S
+#19946
+{DSixth Floor{x~
+The middle point of the tower is eerily quiet.  Light is very scarce now.
+The sixth floor continues on to the east.  The chamber of the 6th
+grandmaster is west.  A large stairwell is to the north.  
+~
+0 0 1
+E
+corpse~
+For all his life, Setzer has been playing with aces; not too long ago
+he drew a joker.~
+D0
+~
+~
+0 -1 19948
+D1
+~
+~
+0 -1 19945
+D3
+~
+~
+1 -1 19947
+S
+#19947
+{DChamber Of The 6th Grandmaster{x~
+A small, plain stone room serves as the eternal prison for the defeated
+grandmaster.  Beaten by the first over 500 years ago in the revolt.  East
+leads back to the sixth floor.  
+~
+0 8 0
+D1
+~
+~
+1 -1 19946
+S
+#19948
+{DA Stairwell{X~
+A plain, stone spiral staircase runs up to the seventh floor, and back
+down to the fifth floor.  South leads back to the sixth floor.  
+~
+0 6506 0
+D2
+~
+~
+0 -1 19946
+D4
+~
+~
+0 -1 19949
+D5
+~
+~
+0 -1 19933
+S
+#19949
+{DA Stairwell{X~
+A plain stone staircase runs down to the sixth floor.  South leads to the
+seventh floor.  
+~
+0 6506 0
+D2
+~
+~
+0 -1 19950
+D5
+~
+~
+0 -1 19948
+S
+#19950
+{DSeventh Floor{x~
+The seventh floor.  A plain stone hallway running off to the east.  North
+leads back into the stairwell.  
+~
+0 0 1
+D0
+~
+~
+0 -1 19949
+D1
+~
+~
+0 -1 19951
+S
+#19951
+{DSeventh Floor{x~
+A plain stone hallway runs from east to west.  Light is extremely scarce
+now.  
+~
+0 0 1
+D1
+~
+~
+0 -1 19952
+D3
+~
+~
+0 -1 19950
+S
+#19952
+{DSeventh Floor{x~
+A plain stone hallway runs from east to west.  Light is extremely scarce
+now.  
+~
+0 0 1
+D1
+~
+~
+0 -1 19953
+D3
+~
+~
+0 -1 19951
+S
+#19953
+{DSeventh Floor{x~
+A plain stone hallway runs from east to west.  Light is extremely scarce
+now.  
+~
+0 0 1
+D1
+~
+~
+0 -1 19954
+D3
+~
+~
+0 -1 19952
+S
+#19954
+{DSeventh Floor{x~
+The seventh floor hallway continues back west.  The chamber of the fifth
+grandmaster is to the east.  North leads to the stairwell.  
+~
+0 0 1
+D0
+~
+~
+0 -1 19956
+D1
+~
+~
+1 -1 19955
+D3
+~
+~
+0 -1 19953
+S
+#19955
+{DChamber Of The 5th Grandmaster{x~
+A small plain stone room serves as the prison for the 5th grandmaster. 
+He was defeated 500 years ago along with the other grandmasters.  West leads
+back into the seventh floor.  
+~
+0 8 0
+D3
+~
+~
+1 -1 19954
+S
+#19956
+{DA Stairwell{X~
+A plain stone spiral staircase leads up to the eighth floor, and back
+down to the sixth floor.  South leads out to the seventh floor.  
+~
+0 6506 0
+D2
+~
+~
+0 -1 19954
+D4
+~
+~
+0 -1 19957
+D5
+~
+~
+0 -1 19941
+S
+#19957
+{DA Stairwell{X~
+A plain, stone spiral staircase leads back down to the seventh floor. 
+South leads to the eighth floor 
+~
+0 6506 0
+D2
+~
+~
+0 -1 19958
+D5
+~
+~
+0 -1 19956
+S
+#19958
+{DEighth Floor{x~
+The eighth floor of the the tower.  There are no torches or lights at all
+now.  A narrow hall leads off west, pitch black after a few feet.  North
+goes back into the stairwell.  
+~
+0 0 1
+D0
+~
+~
+0 -1 19957
+D3
+~
+~
+0 -1 19959
+S
+#19959
+{DEighth Floor{x~
+The pitch black hallway that is the eighth floor continues east and west.  
+~
+0 0 1
+D1
+~
+~
+0 -1 19958
+D3
+~
+~
+0 -1 19960
+S
+#19960
+{DEighth Floor{x~
+The pitch black hallway that is the eighth floor continues east and west.  
+~
+0 0 1
+D1
+~
+~
+0 -1 19959
+D3
+~
+~
+0 -1 19961
+S
+#19961
+{DEighth Floor{x~
+The pitch black hallway that is the eighth floor continues east and west.  
+~
+0 0 1
+E
+corpse~
+Mog danced his last dance in this spot not too long ago.~
+D1
+~
+~
+0 -1 19960
+D3
+~
+~
+0 -1 19962
+S
+#19962
+{DEighth Floor{x~
+The pitch black hallway that is the eighth floor continues east.  The
+chamber of the 4th grandmaster is east, a stairwell is to the north.  
+~
+0 0 1
+D0
+~
+~
+0 -1 19964
+D1
+~
+~
+0 -1 19961
+D3
+~
+~
+1 -1 19963
+S
+#19963
+{DChamber Of The 4th Grandmaster{x~
+A plain stone room serves as the eternal prison for the woodby
+grandmaster.  Defeated 500 years ago in the revolt against the first, he is
+cursed forever, bound to this evil tower.  East leads back to the eighth
+floor hall.  
+~
+0 8 0
+D1
+~
+~
+1 -1 19962
+S
+#19964
+{DA Stairwell{X~
+A plain stone spiral staircase climbs to the ninth floor, and back down
+to the seventh floor.  South leads back to the eighth floor.  
+~
+0 6506 0
+D2
+~
+~
+0 -1 19962
+D4
+~
+~
+0 -1 19965
+D5
+~
+~
+0 -1 19949
+S
+#19965
+{DA Stairwell{X~
+A spiral staircase leads back down to the eighth floor.  South leads to
+the ninth floor.  
+~
+0 6506 0
+D2
+~
+~
+0 -1 19966
+D5
+~
+~
+0 -1 19964
+S
+#19966
+{DNinth Floor{x~
+The ninth floor of the tower.  A plain stone hallway stretches out to the
+east.  North leads into the stairwell.  
+~
+0 0 1
+D0
+~
+~
+0 -1 19965
+D1
+~
+~
+0 -1 19967
+S
+#19967
+{DNinth Floor{x~
+Light is nonexistant in this narrow stone hallway.  The ninth floor
+continues east and west.  
+~
+0 0 1
+D1
+~
+~
+0 -1 19968
+D3
+~
+~
+0 -1 19966
+S
+#19968
+{DNinth Floor{x~
+Light is nonexistant in this narrow stone hallway.  The ninth floor
+continues east and west.  
+~
+0 0 1
+D1
+~
+~
+0 -1 19969
+D3
+~
+~
+0 -1 19967
+S
+#19969
+{DNinth Floor{x~
+Light is nonexistant in this narrow stone hallway.  The ninth floor
+continues east and west.  
+~
+0 0 1
+D1
+~
+~
+0 -1 19970
+D3
+~
+~
+0 -1 19968
+S
+#19970
+{DNinth Floor{x~
+The plain stone hallway continues to the west.  North leads to a dark
+stairwell.  The chamber of the 3rd grandmaster is to the east.  
+~
+0 0 1
+D0
+~
+~
+0 -1 19972
+D1
+~
+~
+1 -1 19971
+D3
+~
+~
+0 -1 19969
+S
+#19971
+{DChamber Of The 3rd Grandmaster{x~
+A plain stone room serves as the eternal prison for this grandmaster. 
+Light is extremely scarce.  This grandmaster was defeated by the first over
+500 years ago in the revolt.  West leads back to the ninth floor hallway.  
+~
+0 8 0
+D3
+~
+~
+1 -1 19970
+S
+#19972
+{DA Stairwell{X~
+A plain, stone spiral staircase stretches up to the tenth floor, and back
+down to the eighth floor.  South leads back to the ninth floor.  
+~
+0 6506 0
+D2
+~
+~
+0 -1 19970
+D4
+~
+~
+0 -1 19973
+D5
+~
+~
+0 -1 19957
+S
+#19973
+{DA Stairwell{X~
+A plain stone stairwell leads down to the ninth floor.  South leads to
+the tenth floor.  
+~
+0 6506 0
+D2
+~
+~
+0 -1 19974
+D5
+~
+~
+0 -1 19972
+S
+#19974
+{DTenth Floor{x~
+The tenth floor of the tower is more like a balcony than a hallway.  The
+wind whips into a hurried frenzy and threatens to throw one off.  Light is
+abundant now.  The tenth floor balcony continues west.  North leads into a
+stairwell.  
+~
+0 0 1
+D0
+~
+~
+0 -1 19973
+D3
+~
+~
+0 -1 19975
+S
+#19975
+{DTenth Floor{x~
+The windy tenth floor balcony continues to the east and west.  
+~
+0 0 1
+D1
+~
+~
+0 -1 19974
+D3
+~
+~
+0 -1 19976
+S
+#19976
+{DTenth Floor{x~
+The windy tenth floor balcony continues to the east and west.  
+~
+0 0 1
+D1
+~
+~
+0 -1 19975
+D3
+~
+~
+0 -1 19977
+S
+#19977
+{DTenth Floor{x~
+The windy tenth floor balcony continues to the east and west.  
+~
+0 0 1
+D1
+~
+~
+0 -1 19976
+D3
+~
+~
+0 -1 19978
+S
+#19978
+{DTenth Floor{x~
+The windy tenth floor balcony continues to the east.  The chamber of the
+second grandmaster is to the west.  North leads to a stairwell.  
+~
+0 0 1
+D0
+~
+~
+0 -1 19980
+D1
+~
+~
+0 -1 19977
+D3
+~
+~
+1 -1 19979
+S
+#19979
+{DChamber Of The 2nd Grandmaster{x~
+A plain stone room serves as the eternal prison for the 2nd grandmaster. 
+He was defeated over 500 years ago by the first grandmaster.  East leads
+back into the tenth floor.  
+~
+0 0 0
+D1
+~
+~
+1 -1 19978
+S
+#19980
+{DA Stairwell{X~
+A plain stone, spiral staircase stretches up into the eleventh floor. 
+South leads back to the tenth floor.  
+~
+0 6506 0
+D2
+~
+~
+0 -1 19978
+D4
+~
+~
+0 -1 19981
+D5
+~
+~
+0 -1 19965
+S
+#19981
+{DA Stairwell{X~
+A plain, stone staircase goes down to the tenth floor.  South leads to
+the eleventh floor.  
+~
+0 6506 0
+D2
+~
+~
+0 -1 19982
+D5
+~
+~
+0 -1 19980
+S
+#19982
+{DEleventh Floor{x~
+The eleventh floor balcony sprawls out to the east.  The whipcracking
+wind threatens to throw anyone venturing forth into oblivion.  North leads
+to the stairwell, the balcony continues east.  
+~
+0 0 10
+D0
+~
+~
+0 -1 19981
+D1
+~
+~
+0 -1 19983
+S
+#19983
+{DEleventh Floor{x~
+The eleventh floor balcony continues east and west.  
+~
+0 0 10
+D1
+~
+~
+0 -1 19984
+D3
+~
+~
+0 -1 19982
+S
+#19984
+{DEleventh Floor{x~
+The eleventh floor balcony continues east and west.  
+~
+0 0 10
+D1
+~
+~
+0 -1 19985
+D3
+~
+~
+0 -1 19983
+S
+#19985
+{DEleventh Floor{x~
+The eleventh floor balcony continues east and west.  
+~
+0 0 10
+D1
+~
+~
+0 -1 19986
+D3
+~
+~
+0 -1 19984
+S
+#19986
+{DEleventh Floor{x~
+The eleventh floor balcony continues to the west.  North leads to a dark
+stairwell.  
+~
+0 0 10
+D0
+~
+~
+0 -1 19987
+D3
+~
+~
+0 -1 19985
+S
+#19987
+{DA Stairwell{X~
+A plain stone spiral staircase runs up to the twelfth floor, and back
+down to the tenth floor.  South leads back to the eleventh floor.  
+~
+0 6506 0
+D2
+~
+~
+0 -1 19986
+D4
+~
+~
+0 -1 19988
+D5
+~
+~
+0 -1 19973
+S
+#19988
+{DA Stairwell{X~
+A plain stone spiral staircase runs back down to the eleventh floor. 
+South leads to the twelfth and final floor.  
+~
+0 6506 0
+D2
+~
+~
+0 -1 19989
+D5
+~
+~
+0 -1 19987
+S
+#19989
+{DTwelfth Floor{x~
+The walls are non-existant on the final floor of the tower.  A thin
+railing is all that separates the tower floor and a three hundred foot drop
+to certain doom.  The wind is whipping about, not making things much easier.
+The twelfth floor continues west.  
+~
+0 0 10
+D0
+~
+~
+0 -1 19988
+D3
+~
+~
+0 -1 19990
+S
+#19990
+{DTwelfth Floor{x~
+The twelfth floor continues to the east and west.  
+~
+0 0 10
+D1
+~
+~
+0 -1 19989
+D3
+~
+~
+0 -1 19991
+S
+#19991
+{DTwelfth Floor{x~
+The twelfth floor continues to the east and west.  
+~
+0 0 10
+D1
+~
+~
+0 -1 19990
+D3
+~
+~
+0 -1 19992
+S
+#19992
+{DTwelfth Floor{x~
+The twelfth floor continues to the east.  The chambers of the Black
+Dragon cleric are to the west.  North leads to the first grandmaster.  
+~
+0 0 10
+D0
+~
+~
+0 -1 19994
+D1
+~
+~
+0 -1 19991
+D3
+~
+~
+1 -1 19993
+S
+#19993
+{DHealing Room{x~
+The chambers of the Black Dragon Society's most powerful cleric.  Many a
+wound she did heal during the vicious battles of the revolt, she too now
+spends eternity damned in this cursed tower.  East leads back to the twelfth
+floor.  
+~
+0 9224 0
+D1
+~
+~
+1 -1 19992
+M 200 H 200
+S
+#19994
+{DA Stairwell{X~
+A plain stone spiral staircase leads down into the other floors of the
+tower.  East leads to the chambers of the first grandmaster.  South leads to
+the twelfth floor.  
+~
+0 6506 0
+D1
+~
+~
+0 -1 19995
+D2
+~
+~
+0 -1 19992
+D5
+~
+~
+0 -1 19981
+S
+#19995
+{DMore Stairs{x~
+A flight of steps leads to the first grandmaster, and one leads back down
+to the begining of the tower.  
+~
+0 6506 0
+D3
+~
+~
+0 -1 19994
+D4
+~
+~
+0 -1 19996
+D5
+~
+~
+0 -1 19903
+S
+#19996
+{DThe Top Of The Tower{x~
+This plain stone room serves as the eternal prison for the first
+grandmaster.  He was indeed going quite insane during his reign as leader of
+the Black Dragon Society, but he wasn't going to let a little thing like
+insanity ruin his power.  He bound all his servants and minions and enemies
+as well to this evil tower with an incantation he picked up from a
+necromancer named Mazuin.  The price of the spell, that he himself must be
+bound here forever as well.  Down leads back to the stairs.  South leads to
+a balcony overlooking the lands.  
+~
+0 8192 1
+D2
+~
+~
+0 -1 19997
+D5
+~
+~
+0 -1 19995
+S
+#19997
+{DBalcony{x~
+A breathtaking view of the lands from over two hundred and fifty feet
+into the air.  Rolling hills, flowing rivers and sprawling forests dominate
+the panoramic view.  North leads back into the tower.  
+~
+0 1028 1
+D0
+~
+~
+0 -1 19996
+D5
+If jump jump really straight, you could land at the bottom of the tower without
+a scrape.  Though, I don't know anyone who has *grin
+~
+~
+0 -1 19901
+S
+#19998
+null~
+~
+0 1028 5
+E
+waterfall icewine~
+Icewine is bubbling over the edge here!  You can't get close enough
+to drink any unless you jump!~
+S
+#19999
+null~
+~
+0 262660 5
+M 400 H 400
+S
+#0
+
+
+
+#SPECIALS
+M 19901 spec_cast_mage
+M 19904 spec_breath_any
+M 19905 spec_breath_any
+M 19906 spec_breath_any
+M 19907 spec_breath_any
+M 19908 spec_breath_any
+M 19909 spec_breath_any
+M 19910 spec_breath_any
+M 19911 spec_breath_any
+M 19912 spec_breath_any
+M 19913 spec_breath_any
+M 19914 spec_breath_lightning
+M 19915 spec_breath_lightning
+M 19916 spec_breath_lightning
+M 19917 spec_breath_lightning
+M 19918 spec_breath_lightning
+M 19919 spec_breath_lightning
+M 19920 spec_breath_lightning
+M 19921 spec_breath_lightning
+M 19922 spec_breath_lightning
+M 19923 spec_breath_lightning
+M 19924 spec_breath_lightning
+M 19925 spec_breath_lightning
+M 19926 spec_cast_adept
+M 19927 spec_cast_mage
+M 19928 spec_cast_mage
+M 19929 spec_cast_mage
+M 19930 spec_cast_mage
+M 19931 spec_breath_fire
+M 19932 spec_breath_fire
+M 19933 spec_breath_fire
+M 19934 spec_breath_fire
+M 19935 spec_breath_fire
+M 19936 spec_breath_fire
+M 19937 spec_breath_fire
+M 19938 spec_breath_fire
+M 19939 spec_breath_fire
+M 19940 spec_breath_fire
+M 19941 spec_breath_fire
+M 19942 spec_breath_fire
+M 19951 spec_cast_mage
+M 19952 spec_breath_any
+M 19953 spec_cast_mage
+M 19956 spec_cast_mage
+M 19959 spec_cast_mage
+M 19962 spec_cast_mage
+M 19965 spec_cast_mage
+M 19968 spec_cast_mage
+M 19971 spec_cast_mage
+M 19973 spec_breath_acid
+M 19974 spec_breath_any
+S
+
+
+
+#RESETS
+M 0 19901 100 19904 1
+M 0 19900 100 19904 1
+M 0 19901 100 19905 1
+M 0 19900 100 19905 1
+M 0 19901 100 19906 1
+M 0 19900 100 19906 1
+M 0 19902 1 19907 1
+E 0 19900 0 6
+M 0 19951 100 19910 1
+M 0 19950 100 19910 1
+M 0 19951 100 19911 1
+M 0 19950 100 19911 1
+M 0 19951 100 19912 1
+M 0 19950 100 19912 1
+M 0 19951 100 19913 1
+M 0 19950 100 19913 1
+M 0 19951 100 19914 1
+M 0 19950 100 19914 1
+M 0 19903 1 19915 1
+E 0 19954 0 13
+M 0 19954 100 19918 1
+M 0 19953 100 19918 1
+M 0 19954 100 19919 1
+M 0 19953 100 19919 1
+M 0 19954 100 19920 1
+M 0 19953 100 19920 1
+M 0 19953 100 19921 1
+M 0 19954 100 19921 1
+M 0 19954 100 19922 1
+M 0 19953 100 19922 1
+M 0 19952 1 19923 1
+E 0 19955 0 5
+M 0 19956 100 19926 1
+M 0 19957 100 19926 1
+M 0 19957 100 19927 1
+M 0 19956 100 19927 1
+M 0 19957 100 19928 1
+M 0 19956 100 19928 1
+M 0 19957 100 19929 1
+M 0 19956 100 19929 1
+M 0 19957 100 19930 1
+M 0 19956 100 19930 1
+M 0 19955 1 19931 1
+E 0 19956 0 10
+M 0 19960 100 19934 1
+M 0 19959 100 19934 1
+M 0 19960 100 19935 1
+M 0 19959 100 19935 1
+M 0 19960 100 19936 1
+M 0 19959 100 19936 1
+M 0 19960 100 19937 1
+M 0 19959 100 19937 1
+M 0 19960 100 19938 1
+M 0 19959 100 19938 1
+M 0 19958 1 19939 1
+E 0 19957 0 21
+M 0 19963 100 19942 1
+M 0 19962 100 19942 1
+M 0 19963 100 19943 1
+M 0 19962 100 19943 1
+M 0 19963 100 19944 1
+M 0 19962 100 19944 1
+M 0 19963 100 19945 1
+M 0 19962 100 19945 1
+M 0 19963 100 19946 1
+M 0 19962 100 19946 1
+M 0 19961 1 19947 1
+G 0 19958 0
+M 0 19966 100 19950 1
+M 0 19965 100 19950 1
+M 0 19966 100 19951 1
+M 0 19965 100 19951 1
+M 0 19966 100 19952 1
+M 0 19965 100 19952 1
+M 0 19966 100 19953 1
+M 0 19965 100 19953 1
+M 0 19966 100 19954 1
+M 0 19965 100 19954 1
+M 0 19964 1 19955 1
+E 0 19959 0 18
+M 0 19969 100 19958 1
+M 0 19968 100 19958 1
+M 0 19968 100 19959 1
+M 0 19969 100 19959 1
+M 0 19969 100 19960 1
+M 0 19969 100 19960 1
+M 0 19969 100 19961 1
+M 0 19968 100 19961 1
+M 0 19969 100 19962 1
+M 0 19968 100 19962 1
+M 0 19967 1 19963 1
+G 0 19960 0
+M 0 19972 100 19966 1
+M 0 19971 100 19966 1
+M 0 19972 100 19967 1
+M 0 19971 100 19967 1
+M 0 19972 100 19968 1
+M 0 19971 100 19968 1
+M 0 19972 100 19969 1
+M 0 19971 100 19969 1
+M 0 19972 100 19970 1
+M 0 19971 100 19970 1
+M 0 19970 1 19971 1
+G 0 19961 0
+M 0 19975 100 19974 1
+M 0 19974 100 19974 1
+M 0 19975 100 19975 1
+M 0 19974 100 19975 1
+M 0 19975 100 19976 1
+M 0 19974 100 19976 1
+M 0 19975 100 19977 1
+M 0 19974 100 19977 1
+M 0 19975 100 19978 1
+M 0 19974 100 19978 1
+M 0 19973 1 19979 1
+E 0 19962 0 7
+M 0 19975 100 19982 1
+M 0 19974 100 19982 1
+M 0 19975 100 19983 1
+M 0 19974 100 19983 1
+M 0 19975 100 19984 1
+M 0 19974 100 19984 1
+M 0 19975 100 19985 1
+M 0 19974 100 19985 1
+M 0 19975 100 19986 1
+M 0 19974 100 19986 1
+M 0 19975 100 19989 1
+M 0 19974 100 19989 1
+M 0 19975 100 19990 1
+M 0 19974 100 19990 1
+M 0 19975 100 19991 1
+M 0 19974 100 19991 1
+M 0 19975 100 19992 1
+M 0 19974 100 19992 1
+M 0 19976 1 19993 1
+M 0 19977 1 19996 1
+E 0 19963 0 24
+O 0 19900 0 19999
+M 0 19900 1 19999 1
+E 0 19903 0 12
+G 0 19901 0
+G 0 19904 0
+G 0 19904 0
+G 0 19905 0
+G 0 19902 0
+G 0 19917 0
+G 0 19918 0
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

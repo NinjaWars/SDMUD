@@ -1,0 +1,877 @@
+#AREADATA
+Name Player Homes~
+Builders Roland Loki~
+VNUMs 11800 12200
+Credits {W[  ALL  ] Player Homes{x~
+Security 1
+RepopMsg (null)~
+End
+
+
+
+#MOBILES
+#12010
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#11800
+a fish tank~
+{wA {CF{gi{Cs{gh {yTank{x~
+A bubbling {CF{gi{Cs{gh {yTank {x stands here~
+Glass~
+furniture ABO 0
+0 0 0 0 0
+0 100 0 P
+E
+fish tank~
+{bSwimming around the murky water are dozens of different fish.  They
+dart back and forth looking for food.  A small light illuminates the tank
+well.  {bSwimming around the murky water are dozens of different fish.  They
+dart back and forth looking for food.  A small light illuminates the tank
+well.  {x 
+~
+#11801
+turtle tank~
+{wA {GT{gu{Gr{gt{Gl{ge {CT{wan{Ck{x~
+{wA large {GT{gu{Gr{gt{Gl{ge {CT{wan{Ck{x stands here~
+Glass~
+furniture ABO 0
+0 0 0 0 0
+0 100 0 P
+E
+turtle tank~
+{c A large glass tank stands here.  A turtle is inside munching on some
+food while lounging on a big rock.  There is little water in the tank.  {x 
+~
+#11802
+snake tank~
+{wA {GS{gn{Ga{gk{Ge {yTank{x~
+A large glass {GS{gn{Ga{gk{Ge {yTank{x stands here{x~
+Glass~
+furniture ABO 0
+0 0 0 0 0
+0 100 0 P
+E
+snake tank~
+{gA giant cobra is coiled around a branch inside the tank.  Its large
+hood is decorated with diamond shaped patches of black scales.  It hisses
+loudly.  {x 
+~
+#11803
+spider tank~
+{wA {DS{rp{Di{rd{De{rr{x Tank{x~
+A large glass {DS{rp{Di{rd{De{rr{x Tank{x~
+Glass~
+furniture ABO 0
+0 0 0 0 0
+0 100 0 P
+E
+spider tank~
+{DA large furry tarantula is crawling and skittering about inside the
+tank.  Insect guts are scattered about the floor.  The spider is huge and
+looks quite menacing.  {x 
+~
+#11804
+carved chair~
+a {ycarved chair{x~
+A {ycarved chair{x stands here~
+unknown~
+furniture O 0
+1 10000 EH 200 200
+0 45 0 P
+#11805
+highback chair~
+a {bhighback chair{x~
+A comfortable looking {bhighback chair{x is here{x~
+wood~
+furniture O 0
+1 10000 EH 500 500
+0 100 0 P
+#11806
+hard chair~
+a {rhard{y chair{x~
+A {rhard {ychair{w sits here{x~
+wood~
+furniture O 0
+1 10000 EH 200 200
+0 110 0 P
+#11807
+sturdy chair~
+a {csturdy {ychair{x~
+A {csturdy {wlooking {ychair{x sits on the floor here{x~
+wood~
+furniture O 0
+1 10000 EH 100 100
+0 100 0 P
+#11808
+oak desk~
+an {yoak {Wdesk{x~
+A sturdy {yoak {Wdesk{x stands against the wall here{x~
+wood~
+furniture O 0
+1 10000 DN 300 300
+0 150 0 P
+#11809
+pine desk~
+a {gpine{W desk{x~
+A large {gpine {Wdesk{w stands against the wall here{x~
+wood~
+furniture O 0
+1 10000 DN 400 400
+0 150 0 P
+#11810
+carved desk~
+a {Ycarved desk{x~
+An intricately {Ycarved desk{x stands against a wall here{x~
+wood~
+furniture O 0
+1 10000 DN 500 500
+0 0 0 P
+#11811
+polished desk~
+a {Wpolished {cdesk{x~
+A fine {Wpolished {cdesk{x stands against the wall here{x~
+wood~
+furniture O 0
+1 10000 DN 500 500
+0 160 0 P
+#11812
+teak desk~
+a {gteak {Wdesk{x~
+A greenish {gteak {Wdesk{x stands against the wall here~
+wood~
+furniture O 0
+1 10000 DN 550 550
+0 180 0 P
+#11813
+plain desk~
+a {Wplain {xdesk{x~
+A rather {Wplain{x looking desk stands here{x~
+unknown~
+furniture O 0
+1 10000 DN 300 250
+0 140 0 P
+#11814
+plush sofa~
+a {Mp{ml{Mu{ms{Mh {Wsofa{x~
+A very comfortable looking {Mp{ml{Mu{ms{Mh {Wsofa{x is here{x~
+plush~
+furniture O 0
+3 30000 EHK 1200 1200
+0 300 0 P
+#11815
+padded sofa~
+a {Bp{ba{Bd{bd{Be{bd {csofa{x~
+A comfy {Bp{ba{Bd{bd{Be{bd {csofa{x is here~
+cloth & padding~
+furniture O 0
+3 30000 EHK 800 800
+0 300 0 P
+#11816
+comfy sofa~
+a {Wc{wo{Wm{wf{Wy {bsofa{x~
+A {Wc{wo{Wm{wf{Wy looking {bsofa{x is here~
+cloth & wood~
+furniture O 0
+3 30000 EHK 300 300
+0 400 0 P
+#11817
+fluffed sofa~
+a {cf{Wl{cu{Wf{cf{We{cd {ysofa{x~
+A {cf{Wl{cu{Wf{cf{We{cd {ysofa{x is here~
+wood & feathers, cloth~
+furniture O 0
+3 30000 EHK 350 340
+0 350 0 P
+#11818
+wood bench~
+a {ywood bench{x~
+A {ywood bench{x is here~
+wood~
+furniture O 0
+2 20000 EH 200 200
+0 200 0 P
+#11824
+oak dining table~
+an {YOak {WDining Table{x~
+A luxurious {YOak {WDining Table{x is here{x~
+Oak~
+furniture O 0
+8 80000 DN 1500 1500
+0 500 0 P
+#11825
+pine table~
+a {gpine {Wtable{x~
+A greenish {gpine{W table{x is here{x~
+pine~
+furniture O 0
+4 40000 DN 1100 1100
+0 450 0 P
+#11826
+carved table~
+a {ycarved table{x~
+A large {ycarved table{x is here{x~
+wood~
+furniture O 0
+4 40000 DN 1000 1000
+0 450 0 P
+#11827
+polished table~
+a {Wpolished {ytable{x~
+A large {Wpolished {ytable{x is here{x~
+wood~
+furniture O 0
+4 40000 DN 900 900
+0 300 0 P
+#11828
+teak table~
+a {gteak {ytable{x~
+A large {gteak {ytable{x is here{x~
+wood~
+furniture O 0
+4 40000 DN 750 750
+0 350 0 P
+#11829
+comfy recliner~
+a {Wc{wo{Wm{wf{Wy {brecliner{x~
+A {Wc{wo{Wm{wf{Wy {brecliner{x is here~
+wood & cloth~
+furniture O 0
+1 10000 EHK 1000 1000
+0 60 0 P
+#11830
+lamp~
+a {Ylamp{x~
+A brightly burning {Ylamp{x is here, illuminating the room{x~
+metal & oil~
+light AO 0
+0 0 999 0 0
+0 20 0 P
+#11831
+lantern~
+a {Ylantern{x~
+A brightly burning {Ylantern{x is here, illuminating the room{x~
+metal & oil~
+light AO 0
+0 0 999 0 0
+0 15 0 P
+#11832
+torch~
+a {yt{ro{Yr{rc{yh{x~
+A {yt{ro{Yr{rc{yh{x is burning away here, dimly lighting the room~
+wood & fire~
+light AO 0
+0 0 999 0 0
+0 10 0 P
+#11833
+oak dresser~
+an {YOak {yDresser{x~
+A beautiful {YOak{y Dresser{x is here~
+oak~
+container O 0
+5000 A 0 100 1
+0 200 0 P
+#11834
+pine dresser~
+a {gpine {ydresser{x~
+A greenish {gpine {ydresser{x is here{x~
+pine~
+container O 0
+3000 A 0 80 1
+0 200 0 P
+#11835
+carved dresser~
+a {ycarved dresser{x~
+A large {ycarved dresser{x is here{x~
+wood~
+container O 0
+2000 A 0 60 1
+0 200 0 P
+#11836
+polished dresser~
+a {Wpolished {ydresser{x~
+A large {Wpolished {ydresser{x is here{x~
+wood~
+container O 0
+1000 A 0 50 1
+0 200 0 P
+#11837
+teak dresser~
+a {cteak {ydresser{x~
+A large {cteak {ydreser{x is here{x~
+wood~
+container O 0
+1000 A 0 40 1
+0 200 0 P
+#11857
+oak bookshelf~
+an {YOak {Wbookshelf{x~
+A large {YOak {Wbookshelf{x stands here, displaying hundreds of books~
+oak~
+furniture O 0
+0 0 N 0 0
+0 400 0 P
+#11858
+pine bookshelf~
+a {gpine {Wbookshelf{x~
+A large {gpine {Wbookshelf{x is here, displaying hundreds of books~
+pine~
+furniture O 0
+0 0 N 0 0
+0 300 0 P
+#11859
+carved bookshelf~
+a {ycarved {Wbookshelf{x~
+A large {ycarved {Wbookshelf{x is here, displaying dozens of books~
+wood~
+furniture O 0
+0 0 N 0 0
+0 250 0 P
+#11860
+polished bookshelf~
+a {Wpolished {ybookshelf{x~
+A large {Wpolished {ybookshelf{x is here, displaying books of various kinds~
+wood~
+furniture O 0
+0 0 N 0 0
+0 200 0 P
+#11861
+teak bookshelf~
+a {gteak {Wbookshelf{x~
+A large {gteak {Wbookshelf{x is here, displaying some books{x~
+wood~
+furniture O 0
+0 0 N 0 0
+0 200 0 P
+#11869
+royal bed~
+a {br{mo{by{ma{bl {Wbed{x~
+A comfortable looking {br{mo{by{ma{bl {Wbed{x is here~
+silk, cloth & wood~
+furniture O 0
+2 20000 EHK 2000 2000
+0 0 0 P
+#11870
+cot~
+a {ycot{x~
+A small shabby looking {ycot{x is here~
+cloth & wood~
+furniture O 0
+1 10000 EHK 1000 1000
+0 100 0 P
+#11871
+featherbed~
+a {Yfeatherbed{x~
+A comfy looking {Yfeatherbed{x is here{x~
+feathers~
+furniture O 0
+2 20000 EHK 1500 1500
+0 50 0 P
+#11872
+canopy bed~
+a {mcanopy bed{x~
+A large {mcanopy bed{X is here~
+unknown~
+furniture O 0
+2 20000 EHK 1200 1200
+0 100 0 P
+#11873
+postedbed~
+a {ypostedbed{x~
+A large {ypostedbed{X is here, looks comfy{x~
+wood & cloth~
+furniture O 0
+2 20000 EHK 0 0
+0 100 0 P
+#11874
+twinbed~
+a {btwinbed{x~
+A shabby looking {btwinbed{x is here{x~
+unknown~
+furniture O 0
+1 10000 EHK 900 900
+0 100 0 P
+#0
+
+
+
+#ROOMS
+#11800
+Loki's Home~
+The home of Loki is very well furnished, as you would expect from the
+owner of the mud.  By the way, how did you get in?  
+~
+0 33554440 0
+D2
+~
+~
+0 0 11802
+O Loki~
+S
+#11801
+An Abandoned Home~
+A spacious abode with plenty of ceiling height and plush blue wall to
+wall carpetting.  The walls are a deep white color and are spotlessly clean.
+A fireplace is on the western wall.  The smell of charred wood not too
+unpleasant fills the cozy home.  South leads back to the road.  
+~
+0 33554444 0
+S
+#11802
+{b-=[{WMain Road{b]=-{x~
+A large street sprawls out to the east.  It is well kept and maintained
+by the Gaalstrom service crews.  This part of town is designated for
+residental homes and dwellings.  Any available home may be purchased by
+anyone with enough money.  The road continues east.  The Wall Road is back
+west.  
+~
+0 0 0
+D0
+~
+~
+0 0 11800
+D1
+~
+~
+0 0 11803
+D2
+~
+~
+0 0 11811
+D3
+~
+~
+0 0 3252
+S
+#11803
+{b-=[{WMain Road{b]=-{x~
+A large street sprawls out to the east.  It is well kept and maintained
+by the Gaalstrom service crews.  This part of town is designated for
+residental homes and dwellings.  Any available home may be purchased by
+anyone with enough money.  The road continues east and west.  
+~
+0 0 0
+D0
+~
+~
+0 0 11812
+D1
+~
+~
+0 0 11804
+D2
+~
+~
+0 0 11813
+D3
+~
+~
+0 0 11802
+S
+#11804
+{b-=[{WMain Road{b]=-{x ~
+A large street sprawls out to the east.  It is well kept and maintained
+by the Gaalstrom service crews.  This part of town is designated for
+residental homes and dwellings.  Any available home may be purchased by
+anyone with enough money.  The road continues east and west.  
+~
+0 0 0
+D0
+~
+~
+0 0 11814
+D1
+~
+~
+0 0 11805
+D2
+~
+~
+0 0 11815
+D3
+~
+~
+0 0 11803
+S
+#11805
+{b-=[{WMain Road{b]=-{x ~
+A large street sprawls out to the east.  It is well kept and maintained
+by the Gaalstrom service crews.  This part of town is designated for
+residental homes and dwellings.  Any available home may be purchased by
+anyone with enough money.  The road continues east and west.  
+~
+0 0 0
+D0
+~
+~
+0 0 11816
+D1
+~
+~
+0 0 11806
+D2
+~
+~
+0 0 11817
+D3
+~
+~
+0 0 11804
+S
+#11806
+{b-=[{WMain Road{b]=-{x ~
+A large street sprawls out to the east.  It is well kept and maintained
+by the Gaalstrom service crews.  This part of town is designated for
+residental homes and dwellings.  Any available home may be purchased by
+anyone with enough money.  The road continues east and west.  
+~
+0 0 0
+D0
+~
+~
+0 0 11818
+D1
+~
+~
+0 0 11807
+D2
+~
+~
+0 0 11819
+D3
+~
+~
+0 0 11805
+S
+#11807
+{b-=[{WMain Road{b]=-{x ~
+A large street sprawls out to the east.  It is well kept and maintained
+by the Gaalstrom service crews.  This part of town is designated for
+residental homes and dwellings.  Any available home may be purchased by
+anyone with enough money.  The road continues east and west.  
+~
+0 0 0
+D0
+~
+~
+0 0 11820
+D1
+~
+~
+0 0 11808
+D2
+~
+~
+0 0 11821
+D3
+~
+~
+0 0 11806
+S
+#11808
+{b-=[{WMain Road{b]=-{x ~
+A large street sprawls out to the east.  It is well kept and maintained
+by the Gaalstrom service crews.  This part of town is designated for
+residental homes and dwellings.  Any available home may be purchased by
+anyone with enough money.  The road continues east and west.  
+~
+0 0 0
+D0
+~
+~
+0 0 11822
+D1
+~
+~
+0 0 11809
+D2
+~
+~
+0 0 11823
+D3
+~
+~
+0 0 11807
+S
+#11809
+{b-=[{WMain Road{b]=-{x ~
+A large street sprawls out to the east.  It is well kept and maintained
+by the Gaalstrom service crews.  This part of town is designated for
+residental homes and dwellings.  Any available home may be purchased by
+anyone with enough money.  The road continues east and west.  
+~
+0 0 0
+D0
+~
+~
+0 0 11824
+D1
+~
+~
+0 0 11810
+D2
+~
+~
+0 0 11825
+D3
+~
+~
+0 0 11808
+S
+#11810
+{b-=[{WMain Road{b]=-{x ~
+A large street sprawls out here.  It is well kept and maintained by the
+Gaalstrom service crews.  This part of town is designated for residental
+homes and dwellings.  Any available home may be purchased by anyone with
+enough money.  The road goes back to the west.  Main Road is at its end for
+now, more homes will be built as per demand.  
+~
+0 0 0
+D0
+~
+~
+0 0 11826
+D2
+~
+~
+0 0 11827
+D3
+~
+~
+0 0 11809
+S
+#11811
+Janeev's Home~
+As you enter, you are suprised with how light it is.  There are a large
+amount of windows that cover the room, most painted in murals of peace and
+glory.  The walls and floor are pure white giving the appearance of it being
+large.  The floors are hard mohagony wood, polished to a shine.  There are
+variose sculptures and paintings hanging around the room.  2 huge skylights
+let light in from the roof, and on a clear night, the moon can be seen high
+over head.  This is truley a house of Good and hope.  
+~
+0 33554440 0
+D0
+~
+~
+0 0 11802
+O Janeev~
+S
+#11812
+An Abandoned Home~
+~
+0 33554440 0
+D2
+~
+~
+0 0 11803
+S
+#11813
+An Abandoned Home~
+~
+0 33554432 0
+D0
+~
+~
+0 0 11803
+S
+#11814
+An Abandoned Home~
+~
+0 33554440 0
+D2
+~
+~
+0 0 11804
+S
+#11815
+An Abandoned Home ~
+~
+0 33554440 0
+D0
+~
+~
+0 0 11804
+S
+#11816
+An Abandoned Home ~
+~
+0 33554440 0
+D2
+~
+~
+0 0 11805
+S
+#11817
+An Abandoned Home ~
+~
+0 33554440 0
+D0
+~
+~
+0 0 11805
+S
+#11818
+An Abandoned Home ~
+~
+0 33554440 0
+D2
+~
+~
+0 0 11806
+S
+#11819
+An Abandoned Home ~
+~
+0 33554440 0
+D0
+~
+~
+0 0 11806
+S
+#11820
+An Abandoned Home ~
+~
+0 33554440 0
+D2
+~
+~
+0 0 11807
+S
+#11821
+An Abandoned Home ~
+~
+0 33554440 0
+D0
+~
+~
+0 0 11807
+S
+#11822
+An Abandoned Home ~
+~
+0 33554440 0
+D2
+~
+~
+0 0 11808
+S
+#11823
+An Abandoned Home ~
+~
+0 33554440 0
+D0
+~
+~
+0 0 11808
+S
+#11824
+An Abandoned Home ~
+~
+0 33554440 0
+D2
+~
+~
+0 0 11809
+S
+#11825
+An Abandoned Home ~
+~
+0 33554440 0
+D0
+~
+~
+0 0 11809
+S
+#11826
+Gaebril's Home~
+The door into this place consists of an opaque, almost water-like blue
+wall.  When pressing upon it, it gives slightly...  And when pushed through,
+what seems to be only an inch thick takes about three steps to walk through.
+Once through, the room is lit...  But only dimly.  It takes a few moments
+for the eyes to adjust, and once they do, the sight isn't comforting.  A
+carved stone chamber, there seems room for only one occupant...  The person
+behind the desk facing you.  With a slight rise between you and the desk,
+there's a barely recognizable sense of looking up, always putting the
+enterer in a slight state of disadvantage...  
+~
+0 33554440 0
+D2
+~
+~
+0 0 11810
+O Gaebril~
+S
+#11827
+Cuthbert's Home~
+You stand inside a damp dwelling
+You stand inside a damp dwelling. No pictures adorn the wall. 
+It is evident that the owner isn't quite human, a demon
+perhaps. It is quite hot in here.
+~
+0 33554440 0
+D0
+~
+~
+0 0 11810
+O Cuthbert~
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 11802 0 11800
+O 0 11805 0 11800
+O 0 11829 0 11800
+O 0 11869 0 11800
+O 0 11830 0 11800
+O 0 11814 0 11800
+O 0 11833 0 11800
+O 0 11874 0 11800
+O 0 11830 0 11811
+O 0 11836 0 11811
+O 0 11830 0 11826
+O 0 11803 0 11826
+O 0 11804 0 11826
+O 0 11810 0 11826
+O 0 11869 0 11826
+O 0 11869 0 11827
+O 0 11800 0 11827
+O 0 11830 0 11827
+O 0 11829 0 11827
+O 0 11824 0 11827
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,5596 @@
+#AREADATA
+Name Lemtorak~
+Builders Mangan~
+VNUMs 300 399
+Credits {Y[150-ANC] City of Lemtorak{x~
+Security 9
+RepopMsg You hear the grand horn of Lemtorak sound.~
+End
+
+
+
+#MOBILES
+#300
+gate guard~
+a {Yga{Wte gu{yard{x~
+A {Yga{Wte gu{yard{x is standing here.
+~
+A guard is here stopping anyone who looks suspicous from entering the
+city.  This human guard stand just over six feet tall.  You can notice he
+has recently had a haircut.  
+~
+Human~
+AB 0 0 0 1000 0
+202 808 809d68+30601 202d15+600 51d5+228 crush
+-236 -236 -236 -195
+EFGK B 0 0
+stand stand none 284
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#301
+lemtorak healer~
+the {YLemtorak {WHe{cal{Wer{x~
+The {YLemtorak {WHe{cal{Wer{x is chanting here.
+~
+This lady is offering her services for a small price.  She'll heal you
+for your donations towards the chapel.  Type 'heal' to see a list of her
+services.  
+~
+Human~
+ABa 0 DFJZ 0 0 0
+310 1240 1241d104+53228 310d15+600 78d5+336 none
+-367 -367 -367 -304
+0 ABCD 0 0
+stand stand female 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#302
+guardian lemtorak Gannam~
+{DG{ra{Rnn{ra{Dm{x~
+{DG{ra{Rnn{ra{Dm{x, {cGua{Wrd{cian {xof {YLem{Wto{Yrak{x, stands here.
+~
+The Guardian of Lemtorak is here.  This powerful dragon is known as
+Gannam.  He stands here watching you without a blinking.  Being neither good
+nor evil, he is ready to defend the city against any trouble makers.  
+~
+unique~
+AB 0 JTV CEFHIQ 0 0
+500 4000 2d6+500000 1d1+1000000 300d150+6000 wrath
+-1500 -1500 -1500 -1500
+ACDEFGHIKN AB BDEHLQ FIY
+stand stand none 1000
+AHZ ACDEFGHIJKPQUVX medium unknown
+#303
+lemtorak questmaster quest master~
+the {DQ{ru{De{rs{Dt{RM{Da{Rs{Dt{Re{Dr{x~
+The {DQ{ru{De{rs{Dt{RM{Da{Rs{Dt{Re{Dr{x is waiting patiently.
+~
+The questmaster is here waiting to send you on a quest.  This is a
+mission you can complete to get rewards.  Type 'help quest' for more
+information.  
+~
+Human~
+AB 0 0 0 0 0
+310 1240 1241d104+53228 310d15+600 78d5+336 beating
+-367 -367 -367 -304
+0 ABCD 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#304
+lemtorak banker~
+the {DB{Ba{Wnk{Be{Dr{x~
+The {DB{Ba{Wnk{Be{Dr{x is here counting some coins.
+~
+The Lemtorak banker is here counting the deposited coins for the day.  He
+seems to be put them in piles on his desk.  Better leave him alone unless
+your intrested in doing business.  
+~
+Human~
+AB C 0 0 0 0
+310 1240 1241d104+53228 310d15+600 78d5+336 punch
+-367 -367 -367 -304
+0 ABCD 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#305
+lemtorak guildmaster guild master~
+the {DG{Wu{wi{Wl{Dd{wM{Da{Ws{wt{De{wr{x~
+The {DG{Wu{wi{Wl{Dd{wM{Da{Ws{wt{De{wr{x is here ready to improve your skills.
+~
+The GuildMaster is here helping all who ask for it.  By proving your
+strength, he will help you increase it.  You can practice skills and spells,
+train your strengths and wits, or even gain new techniques.  
+~
+Human~
+ABJKb 0 0 0 0 0
+310 1240 1241d104+53228 310d15+600 78d5+336 none
+-367 -367 -367 -304
+0 ABCD 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#306
+Lemtorak Librarian~
+a {BLib{Grar{Bian{x~
+A {BLib{Grar{Bian {xis here reading a book.
+~
+This librarian reads for most of the day.  She sells books instead of
+loaning them out due to all the stealing and misplacing of the tourists that
+come to read.  
+~
+Human~
+AB 0 0 0 0 0
+310 1240 1241d104+53228 310d15+600 78d5+336 punch
+-367 -367 -367 -304
+0 ABCD 0 0
+stand stand female 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#307
+Lemtorak weaponsmith Blacksmith Smith~
+a {DB{Wl{Dac{Wks{Dmi{Wt{Dh{x~
+A {DB{Wl{Dac{Wks{Dmi{Wt{Dh{x is here hammering on a piece of metal.
+~
+The blacksmith lives in a back room here.  All day he pounds away at
+different types of metals in order to create some of the best weapons in the
+land.  He smiles at you then goes back to work.  
+~
+Human~
+AB 0 0 0 0 0
+310 1240 1241d104+53228 310d15+600 78d5+336 pound
+-367 -367 -367 -304
+0 ABCD 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#308
+Lemtorak Sage Medic~
+a {CS{Wa{Cge{x~
+{xA {CS{Wa{Cge {xis here acting as a {RM{We{Rd{Wi{Rc{x.
+~
+This powerful sage is putting his magic into potions to help out those in
+need.  He might be able to help you if you ask nicely.  He starts shaking up
+a potion, not realizing that your here.  
+~
+Human~
+AB 0 0 0 0 0
+310 1240 1241d104+53228 310d15+600 78d5+336 punch
+-367 -367 -367 -304
+0 ABCD 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#309
+Lemtorak Jeweler~
+a {YJe{Mw{Ye{Ml{Yer{x~
+The {YJe{Mw{Ye{Ml{Yer{x of Lemtorak stands here polishing a ring.
+~
+The jeweler is known for necklaces and rings mainly.  They go great with
+all sorts of occassions whether it be a wedding or just a dinner.  The
+locals don't shop here much, although most tourists come even if it's just
+to look around.  
+~
+Human~
+AB 0 0 0 0 0
+310 1240 1241d104+53228 310d15+600 78d5+336 punch
+-367 -367 -367 -304
+0 ABCD 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#310
+Lemtorak Barkeep Barkeeper Keeper BarTender Tender~
+the {yB{ga{yrKee{gp{yer{x~
+The {yB{ga{yrKee{gp{yer{x is here cleaning a glass.
+~
+The barkeeper is a little worried with you here.  The peaceful town isn't
+used to many people dressed in armor with weapons.  He turns his head and
+goes back to work cleaning used glasses.  
+~
+Human~
+AB 0 0 0 0 0
+310 1240 1241d104+53228 310d15+600 78d5+336 punch
+-367 -367 -367 -304
+0 ABCD 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#311
+Lemtorak furniture maker~
+a {rf{yu{rrn{yi{rtu{yr{re m{ya{rke{yr{x~
+A {rf{yu{rrn{yi{rtu{yr{re m{ya{rke{yr{x is designing a chair here.
+~
+A tall man is designing an oak chair here.  The backing is a complex
+design that will take much work and time.  Seeing you, the man rolls up his
+papers and stands up to face you.  
+~
+Human~
+AB 0 0 0 0 0
+310 1240 1241d104+53228 310d15+600 78d5+336 punch
+-367 -367 -367 -304
+0 ABCD 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#312
+Lemtorak Bag Maker~
+a {gB{ra{gg {DM{Ba{Dk{Be{Dr{x~
+A {gB{ra{gg {DM{Ba{Dk{Be{Dr{x is here creating a new type of bag.
+~
+The bag maker is working on a new invention in bags.  It looks like a bed
+that rolls up into a bag.  He has a few bags in a pile next to him for sale.
+Perhaps he'll sell you his current one he's working on.  
+~
+Human~
+AB 0 0 0 0 0
+310 1240 1241d104+53228 310d15+600 78d5+336 punch
+-367 -367 -367 -304
+0 ABCD 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#313
+Lemtorak Angel~
+an {WAn{Yg{Wel{x~
+An {WAn{Yg{Wel {xis here arguing with a {RDe{Dm{Ron{x.
+~
+This angel seems to be in a huge arguement with a Demon.  You can't tell
+who's saying what since they are speaking in some other language.  Perhaps
+you should leave them alone.  
+~
+Human~
+ABZ 0 0 0 1000 0
+310 1240 1241d104+53228 310d15+600 78d5+336 punch
+-367 -367 -367 -304
+0 ABCD 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#314
+newlywed~
+a {MNewly{YWed{x~
+A newlywed is here looking for a gift.
+~
+This newlywed was just married yesterday.  The jeweler should have the
+perfect gifts for any couple to exchange.  Looks as if the rings have been
+polished recently.  
+~
+Human~
+AB 0 0 0 750 0
+210 210 2105d70+7637 210d9+60 66d3+220 punch
+-126 -126 -126 -82
+0 0 0 0
+stand stand either 230
+V G medium unknown
+F for AHM
+F par ABCDEFHIJK
+#315
+Lemtorak Light Candle Maker~
+a {WCandl{Ye M{Waker{x~
+A {WCandl{Ye M{Waker {xis here forming wax into a cylinder.
+~
+A Candle Maker is forming wax into odd shapes here.  Not only into blocks
+and cylinders, but also multiple wicks and abnormal shapes.  Perhaps he gets
+his money for his...  Uniqueness.  
+~
+Human~
+AB 0 0 0 0 0
+310 1240 1241d104+53228 310d15+600 78d5+336 punch
+-367 -367 -367 -304
+0 ABCD 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#316
+Lemtorak Baker~
+a {YBa{yk{Yer{x~
+A {YBa{yk{Yer{x is here baking some bread.
+~
+~
+Human~
+AB 0 0 0 0 0
+310 1240 1241d104+53228 310d15+600 78d5+336 punch
+-367 -367 -367 -304
+0 ABCD 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#317
+Lemtorak Diamondsmith smith~
+a {WDiamond{gSmith{x~
+A {WDiamond{gSmith {xis here shaping a diamond.
+~
+This diamondsmith seems to be creating diamonds of all shapes and sizes. 
+There are also a few other items similar to diamonds around him.  Everything
+from pearls to rubies lie on the table.  
+~
+Human~
+AB 0 0 0 0 0
+310 1240 1241d104+53228 310d15+600 78d5+336 punch
+-367 -367 -367 -304
+0 ABCD 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#318
+Lemtorak Tattoo Artist~
+a {DT{Ra{rtt{Ro{Do {DA{Br{Wti{Bs{Dt{x~
+A {DT{Ra{rtt{Ro{Do {DA{Br{Wti{Bs{Dt{x is here with a needle.
+~
+This artist designs tattoos and then tattoos them on paying customers. 
+He holds a large needle in his hand that's dripping blood from its tip.  He
+grins at you then motions you to sit down.  
+~
+Human~
+AB 0 0 0 0 0
+310 1240 1241d104+53228 310d15+600 78d5+336 punch
+-367 -367 -367 -304
+0 ABCD 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#319
+lemtorak sorcerer~
+a {DS{Bo{Dr{Bc{De{Br{De{Br{x~
+A {DS{Bo{Dr{Bc{De{Br{De{Br{x is here selling scrolls.
+~
+This sorcerer seems to be well trained in the arts of magic.  He offers
+to sell scrolls to help you in battle.  He has a handful just lieng in the
+corner.  
+~
+Human~
+AB 0 0 0 0 0
+310 1240 1241d104+53228 310d15+600 78d5+336 punch
+-367 -367 -367 -304
+0 ABCD 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#320
+Lemtorak Armorer~
+an {gA{cr{gm{co{gr{ce{gr{x~
+An {gA{cr{gm{co{gr{ce{gr{x is here polishing a set of boots.
+~
+This armorer seems to be busy often with all the armor in this shop.  He
+has to polish each piece daily to keep them in the best possible shape. 
+Perhaps he could intrest you in an item.  
+~
+Human~
+AB 0 0 0 0 0
+310 1240 1241d104+53228 310d15+600 78d5+336 punch
+-367 -367 -367 -304
+0 ABCD 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#321
+Lemtorak Nurse~
+a {WN{Ru{Wrse{x~
+A {WN{Ru{Wrse {xis here seperating pills and placing them in their spots.
+~
+This nurse is busy all day and night, rarely getting the chance to sleep.
+The nurse just seperates pills day in and day out...  Be glad you don't have
+their job.  
+~
+Human~
+AB 0 0 0 0 0
+310 1240 1241d104+53228 310d15+600 78d5+336 punch
+-367 -367 -367 -304
+0 ABCD 0 0
+stand stand either 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#322
+small bobcat~
+a small {ybobcat{x~
+A {ybobcat {xof small size is crawling here.
+~
+This small cat is very quick and strong.  Even though its size isn't
+anything special, it will still put up a good fight do to its intellegence
+and battle skills.  
+~
+cat~
+A 0 Z 0 -450 0
+160 160 802d53+8081 160d10+85 53d3+172 scratch
+-99 -99 -99 -65
+FH 0 0 0
+stand stand either 0
+AGV ACDEFHJKQUV medium unknown
+#323
+lone wolf~
+a lone {rw{gol{rf{x~
+This {rw{gol{rf {xseems to have lost its way.
+~
+This wolf is about average in size, but its battle strategies are sure to
+prove worthy of a good battle.  A small cut is exposed on his left paw.  It
+might have fought one to many battles.  
+~
+wolf~
+A 0 Z 0 -750 0
+170 170 852d56+8586 170d10+85 56d3+182 none
+-105 -105 -105 -70
+FH 0 0 0
+stand stand either 0
+AGV ACDEFJKQV medium unknown
+#324
+cavern drow~
+a cavern {Ddrow{x~
+A {Ddrow {xfrom deep with the cavern is here.
+~
+This drow is standing here in the cold and seems to be sweating.  It
+might be a little hot for him even in this cavern.  The drow's face turns
+into an evil grin as he calls for the others.  
+~
+Drow~
+A JQ 0 AHMV -800 0
+180 180 902d60+9091 180d10+85 60d3+192 stab
+-112 -112 -112 -74
+0 B Z 0
+stand stand male 3
+ABCDEFGHIJK ABCDEFGHIJK medium unknown
+#325
+huge bear~
+a huge {rb{ye{ra{yr{x~
+A {rb{ye{ra{yr {xof extrodinary size is here.
+~
+This bear is larger then most legends say they are.  It has huge paws,
+great for serving a good beating in combat.  A few large scars are on its
+arms, signs of a true warrior.  
+~
+bear~
+A 0 0 0 -650 0
+190 190 952d63+9596 190d10+85 63d3+202 beating
+-118 -118 -118 -79
+DEO 0 EI 0
+stand stand either 0
+AGV ABCDEFHJKUV huge unknown
+#326
+drow council member~
+a {Ddrow {bcouncil member{x~
+A {bmember {xof the {Ddrow {bcouncil {xis here.
+~
+This mighty drow is a member of the drow council.  They spend most of the
+day working out strategies to take over the elven camp south of the cavern's
+entrance.  
+~
+Drow~
+A JQ 0 AHMV -950 0
+200 200 1002d66+12121 200d10+85 66d3+212 none
+-126 -126 -126 -84
+0 B Z 0
+stand stand none 7
+ABCDEFGHIJK ABCDEFGHIJKM medium unknown
+#327
+forest elf~
+a forest {ge{Gl{gf{x~
+An {ge{Gl{gf {xof the forest is here.
+~
+This elf is from deep with the forests.  It is about the same size as a
+human but with longer hair and slightly pointier ears.  Its skin is a pale
+green.  
+~
+Elf~
+AB JQ J MV 500 0
+210 210 1052d70+12727 210d10+85 70d3+222 thwack
+-132 -132 -132 -88
+H B BZ Z
+stand stand either 7
+ABCDEFGHIJKMV ABCDEFGHIJK medium unknown
+#328
+elf council guard~
+an {ge{Gl{gf {Wcouncil {xguard~
+An {ge{Gl{gf {xis here protecting the elf {Wcouncil{x.
+~
+This elf's main purpose is to protect the high elves in the council. 
+This elf is slightly taller then the average human.  Light brown hair runs
+just past its shoulders.  
+~
+Elf~
+AB 0 J 0 750 0
+220 220 1102d73+13333 220d10+85 73d3+232 pound
+-139 -139 -139 -93
+H 0 B Z
+stand stand male 0
+AHMV ABCDEFGHIJK medium unknown
+#329
+high elf council member~
+a high {ge{Gl{gf {Wcoucil {cmember{x~
+A high {ge{Gl{gf {xis here talking with his fellow {Wcouncil {cmembers{x.
+~
+This high elf is one of the council members of the camp.  Not only does
+it defend the camp against the invading drows, but it is also in charge of
+trade between them and Lemtorak.  
+~
+Elf~
+AB 0 J 0 1000 0
+230 230 1152d76+13939 230d10+85 76d3+242 crush
+-146 -146 -146 -97
+0 0 B Z
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#330
+Lemtorak Tourist~
+a {Gtourist{x~
+A {Gtourist{x is here checking out the city.
+~
+This tourist is visiting from lands far away.  This magnificent city
+seems to be a great place to relax without having to worry about any
+troubles.  
+~
+Human~
+AG 0 0 0 0 0
+240 240 1202d80+16969 240d10+85 80d3+252 none
+-153 -153 -153 -102
+0 0 0 0
+stand stand either 22
+AHMV ABCDEFGHIJK medium unknown
+#331
+Lemtorak Local~
+a {clocal{x~
+A {clocal {xis here in Lemtorak just wandering around.
+~
+This local has seen the stores and their fancy items time and time again.
+It seems the locals just wander around because they have nothing else to do,
+not because they are looking for something the way the tourists are.  
+~
+Human~
+AG 0 0 0 0 0
+250 250 1252d83+17676 250d10+85 83d3+262 none
+-159 -159 -159 -107
+0 0 0 0
+stand stand none 27
+AHMV ABCDEFGHIJK medium unknown
+#332
+Lemtorak Palace Guard~
+a {WPalace {cGu{Ya{crd{x~
+A {WPalace {cGu{Ya{crd {xis here protecting its King.
+~
+This Guard's main goal in life is to protect its country men and mainly
+the King.  It has sworn to protect the King no matter what the cost, even if
+it be worse then death.  
+~
+Human~
+AB 0 0 0 900 0
+240 240 1202d80+16969 240d10+85 80d3+252 slice
+-153 -153 -153 -102
+FHK 0 0 0
+stand stand none 32
+AHMV ABCDEFGHIJK medium unknown
+#333
+King Lemtorak Kinole~
+{RK{ri{Rn{ro{Rl{re{x, {YKing {xof {YLem{Wto{Yrak{x~
+{RK{ri{Rn{ro{Rl{re{x, the {YKing {xof {YLem{Wto{Yrak{x is here.
+~
+Kinole, the powerful King of the city Lemtorak is busy debating what to
+do with the matters at hand.  He normally asks his advisor for advice on
+most matters.  
+~
+Human~
+AB 0 0 0 1000 0
+260 260 2605d86+11816 260d9+60 81d3+270 divine
+-158 -158 -158 -103
+0 AB 0 0
+stand stand male 284
+AHMV ABCDEFGHIJK medium unknown
+#334
+Lemtorak Kings Advisor Kravauk~
+{YK{yr{Ya{yv{Ya{yu{Yk{x~
+{YK{yr{Ya{yv{Ya{yu{Yk{x is here advising the king with his descisions.
+~
+The king's advisor is here to help the king might desicions of all kinds,
+whether it be whether or not to give food to a poor family or to go to war
+with the never resting King Morlok.  
+~
+Human~
+AB 0 0 0 999 0
+250 250 2505d83+11361 250d9+60 78d3+260 cleave
+-152 -152 -152 -99
+0 B 0 0
+stand stand male 22
+AHMV ABCDEFGHIJK medium unknown
+#335
+three headed pit monster wolf~
+a {Dthree{c-{rheaded {yw{Rol{yf{x~
+This wolf has been captured by Gannam, Guardian of Lemtorak.
+~
+This wolf has three heads.  It was attacking the townspeople of Lemtorak
+when Gannam came to stop it.  It now has a far greater punishment then
+death...  It is to be locked up for life and the local sorcerer has cast
+'eternal life' on it so that it can spend eternity in a cage.  
+~
+wolf~
+AB 0 Z 0 0 0
+270 1080 1081d91+43633 270d15+600 68d5+296 claw
+-319 -319 -319 -264
+FH AB L I
+stand stand none 0
+AGVXYc ACDEFJKLQVX medium unknown
+#336
+Lemtorak Demon~
+a {RDe{Dm{Ron{x~
+A {RDe{Dm{Ron {xis here argueing with an {WAn{Yg{Wel{x.
+~
+This demon seems to be in a huge arguement with an Angel.  You can't tell
+who's saying what since they are speaking in some other language.  Perhaps
+you should leave them alone.  
+~
+Demon~
+ABX 0 Va 0 -1000 0
+310 1240 1241d104+53228 310d15+600 78d5+336 punch
+-367 -367 -367 -304
+B ABCDH 0 INSY
+stand stand none 0
+AHMV ABCGHIJK medium unknown
+#337
+gambler high dice dealer~
+the {Dd{Wic{De d{Wea{Dl{Wer{x~
+The {Dd{Wic{De d{Wea{Dl{Wer{x is here trying to sleep.
+~
+This dice dealer can't even stay awake.  It must have been a long week.  
+~
+Human~
+AB 0 0 0 0 0
+300 1200 1201d101+51511 300d15+600 76d5+326 punch
+-355 -355 -355 -294
+0 ABCD 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#300
+grand sword lemtorak p-item~
+the {RGrand {DSword {xof {YLem{Wto{Yrak{x~
+The legendary of sword of {YLem{Wto{Yrak {xis here.~
+unknown~
+weapon AB AN
+sword 25 25 divine ACEGI
+202 208 13870 P
+F
+S 0 0 H
+F
+A 0 0 V
+A
+19 150
+A
+18 150
+#301
+book teleport~
+a book of {Dt{We{wl{We{Dp{wo{Wr{Dt{Wa{Dt{wi{Wo{Dn{x~
+A {Dt{We{wl{We{Dp{wo{Wr{Dt{Wa{Dt{wi{Wo{Dn{x book is here.~
+unknown~
+scroll S A
+201 'teleport' 'reserved' 'reserved' 'reserved'
+150 1 140 P
+#302
+book curse~
+a book of {Dc{ru{Dr{rs{De{rs{x~
+A {Dc{ru{Dr{rs{De{rd {xbook is here.~
+unknown~
+scroll S A
+150 'curse' 'slow' 'plague' 'faerie fire'
+150 1 328 P
+#303
+book worship~
+a book of {Ww{Yo{Dr{rs{yh{Ri{Wp{x~
+A book from which you can {Ww{Yo{Dr{rs{yh{Ri{Wp {xis here.~
+unknown~
+scroll S A
+201 'sanctuary' 'bless' 'shield' 'armor'
+150 1 683 P
+#304
+elemental book~
+an {Ge{Bl{Re{Ym{We{gn{bt{ra{yl {xbook~
+A book {Ge{Bl{Re{Ym{We{gn{bt{rs {xis here.~
+unknown~
+scroll S A
+201 'fireball' 'lightning bolt' 'chill touch' 'acid blast'
+150 1 590 P
+#305
+shortsword short sword~
+a {rshortsword{x~
+A {rshortsword{x dripping blood is here.~
+unknown~
+weapon 0 AN
+sword 16 16 slice A
+150 12 10080 P
+A
+19 14
+A
+18 14
+#306
+long knife~
+a long {Dk{yn{Wi{yf{De{x~
+A long {Dk{yn{Wi{yf{De{x is here.~
+unknown~
+weapon 0 AN
+dagger 16 16 stab B
+150 7 10080 P
+A
+18 14
+A
+19 14
+#307
+short mace~
+a short {cm{ya{cc{ye{x~
+A short {cm{ya{cc{ye {xis here.~
+unknown~
+weapon 0 AN
+mace 16 16 blast I
+150 14 10080 P
+A
+18 14
+A
+19 14
+#308
+longsword sword~
+a {clongsword{x~
+A {csword {xof great length is here.~
+unknown~
+weapon 0 AN
+sword 18 17 slash H
+175 16 11895 P
+A
+13 10
+A
+18 16
+A
+19 16
+#309
+short dagger~
+a {Dsh{Wo{Drt {Dda{Bgg{Der{x~
+A {Dda{Bgg{Der {xof {Dsh{Wo{Drt {xlength is here.~
+unknown~
+weapon 0 AN
+dagger 18 17 pierce G
+175 9 11895 P
+A
+20 -2
+A
+18 16
+A
+19 16
+#310
+heavy mace~
+a {rhe{ya{rvy {cma{rc{ce{x~
+A {rhe{ya{rvy {cma{rc{ce {xis here.~
+unknown~
+weapon 0 AN
+mace 18 17 pound I
+175 18 11895 P
+A
+12 10
+A
+18 16
+A
+19 16
+#311
+single handed single-handed broadsword~
+a {Wbro{Radsw{Word{x~
+A single-handed {Wbro{Radsw{Word{x is here.~
+unknown~
+weapon 0 AN
+sword 21 17 slash AE
+201 18 13750 P
+A
+18 18
+A
+19 19
+#312
+sharp dagger~
+a {Wsh{ra{Wrp {Dd{Wa{ygg{We{Dr{x~
+A very {Wsh{ra{Wrp {Dd{Wa{ygg{We{Dr {xis here{x.~
+unknown~
+weapon 0 AN
+exotic 21 17 pierce EG
+201 13 13750 P
+A
+18 18
+A
+19 19
+#313
+glowing mace~
+a {YG{Wl{yo{ww{yi{Wn{Yg {BM{gac{Be{x~
+A {BM{gac{Be{x is {YG{Wl{yo{ww{yi{Wn{Yg{x here.~
+unknown~
+weapon 0 AN
+mace 21 17 blast ACGI
+201 16 13750 P
+A
+19 16
+A
+18 16
+#314
+godly potion~
+a {Wgodly potion{x~
+A {Wgodly potion {xis here.~
+unknown~
+potion 0 A
+150 'sanctuary' 'armor' 'bless' 'shield'
+150 1 14802 P
+#315
+cure blindness potion~
+a {Ycure blindness {Wpotion{x~
+A {Yyellow {Wpotion {xis here.~
+unknown~
+potion 0 A
+230 'cure blindness' 'reserved' 'reserved' 'reserved'
+150 1 8987 P
+#316
+vision potion~
+a {Dv{gi{Gsi{go{Dn {Wpotion{x~
+A {DG{gr{Ge{ge{Dn {Wpotion {xis here.~
+unknown~
+potion 0 A
+150 'farsight' 'detect hidden' 'detect invis' 'detect magic'
+150 1 13852 P
+#317
+healing potion~
+a {Bh{We{Ya{wl{Yi{Wn{Bg {Wpotion{x~
+A {Bh{We{Ya{wl{Yi{Wn{Bg {Wpotion {xis here.~
+unknown~
+potion 0 A
+150 'master healing' 'master healing' 'master healing' 'master healing'
+150 3 780240 P
+#318
+gold ring~
+a {Ygold ring{x~
+A {Yring {xmade of {Ygold {xis here.~
+unknown~
+jewelry 0 AB
+0 0 0 0 0
+150 3 2280 P
+A
+12 450
+#319
+necklace protection~
+a necklace of {Rpr{rot{Wec{rti{Ron{x~
+A necklace of {Rpr{rot{Wec{rti{Ron{x is here.~
+unknown~
+trash 0 AC
+0 0 0 0 0
+150 4 3180 P
+A
+17 -82
+A
+20 -8
+#320
+brass anklet~
+a {ybrass anklet{x~
+A {ybrass anklet{x is here.~
+unknown~
+jewelry 0 AS
+0 0 0 0 0
+150 4 1384 P
+A
+14 1950
+A
+2 4
+#321
+platinum ring~
+a {Yp{Wl{Ya{Wt{Yi{Wn{Yu{Wm {Dring{x~
+A {Dring {xmade of {Yp{Wl{Ya{Wt{Yi{Wn{Yu{Wm {xis here.~
+unknown~
+jewelry 0 AB
+0 0 0 0 0
+165 2 1403 P
+A
+5 2
+A
+13 450
+#322
+orc flesh necklace~
+an {ro{yr{rc{y'{rs {Yf{wl{ye{ws{yh {xnecklace{x~
+The {Yf{wl{ye{ws{yh {xof an {ro{yr{rc {xis twisted into a necklace here.~
+unknown~
+jewelry S AC
+0 0 0 0 0
+165 1 1756 P
+A
+19 21
+A
+2 4
+A
+1 4
+#323
+ball and chain~
+a {Dball {xand {Dchain{x~
+A large {Dball {xis connected to a {Dchain {xhere.~
+unknown~
+jewelry 0 AS
+0 0 0 0 0
+165 6 1480 P
+A
+19 10
+A
+18 30
+A
+4 4
+A
+3 4
+#324
+water jug~
+a {Bwater {yjug{x~
+A {yjug {xof {bwater{x is here.~
+unknown~
+drink S AO
+8 6 'water' 0 0
+1 14 926 P
+#325
+shot glass~
+a {yshot {Wglass{x~
+A {yshot {Wglass {xis here.~
+unknown~
+drink 0 AO
+1 1 'vodka' 0 0
+1 1 100 P
+#326
+large overflowing pitcher~
+a large overflowing {Wpi{ytcher{x~
+A large {Wpi{ytcher{x is overflowing here.~
+unknown~
+drink 0 AO
+6 6 'beer' 0 0
+1 3 975 P
+#327
+stone bed~
+a {Dstone {xbed~
+A bed made of {Dstone {xis here.~
+unknown~
+furniture 0 A
+2 10000 HK 5000 2000
+100 47 9137 P
+#328
+bundle of rags bed~
+a bundle of {yr{ra{yg{rs{x~
+A bundle of {yr{ra{yg{rs{x makes up a bed here.~
+unknown~
+furniture S A
+2 15000 IL 6000 2500
+175 14 2820 P
+#329
+bed magic~
+a bed of {cm{ra{cg{ri{cc{x~
+A bed surrounded by {cm{ra{cg{ri{cc{x is here.~
+unknown~
+furniture SY A
+3 50000 EK 7500 3500
+200 1 18040 P
+#330
+small bag~
+a small {Bbag{x~
+A small {Bbag {xis here.~
+unknown~
+container S A
+1000 0 0 75 90
+100 0 0 P
+#331
+canvas bag~
+a {ycanvas {xbag~
+A bag made of tough {ycanvas {xis here.~
+unknown~
+container S A
+1000 0 0 100 80
+150 10 12802 P
+#332
+burlap sack~
+a {rburlap {xsack~
+A small sack made of {rburlap {xis here.~
+unknown~
+container SY A
+1500 0 0 150 60
+175 7 25604 P
+#333
+huge backpack pack~
+a huge {Dback{Bpack{x~
+A huge {Dback{Bpack {xis here.~
+unknown~
+container SY A
+3000 A 0 500 40
+202 2 48020 P
+#334
+wax candle~
+a wax {Yc{Wandle{x~
+A {Yc{Wandle {xmade of wax is here.~
+unknown~
+light S A
+0 0 999 0 0
+150 3 1338 P
+A
+17 -15
+A
+20 -6
+A
+2 4
+A
+1 4
+A
+18 15
+#335
+small lantern~
+a small {rla{ynte{rrn{x~
+A small {rla{ynte{rrn {xis here.~
+unknown~
+light 0 A
+0 0 999 0 0
+165 7 3284 P
+A
+5 4
+A
+19 10
+A
+17 -40
+#336
+floating flame~
+a {Wfloating {Rf{yl{ra{ym{Re{x~
+A {Rf{yl{ra{ym{Re {xis {Wfloating {xhere.~
+unknown~
+light S A
+0 0 999 0 0
+180 0 3840 P
+A
+17 -50
+A
+18 10
+A
+19 10
+#337
+glowing crystal~
+a {Yg{Wl{Yo{Ww{Yi{Wn{Yg {Wcrystal{x~
+A {Wcrystal {xis {Yg{Wl{Yo{Ww{Yi{Wn{Yg{x here.~
+unknown~
+light 0 A
+0 0 999 0 0
+202 0 18402 P
+A
+18 25
+A
+19 25
+#338
+loaf bread~
+a loaf of {Ybr{ye{Yad{x~
+A loaf of {Ybr{ye{Yad {xis here.~
+unknown~
+food 0 A
+3 2 0 0 0
+0 1 13 P
+#339
+cookie~
+a {yc{Do{yok{Di{ye{x~
+A {yc{Do{yok{Di{ye {xis here.~
+unknown~
+food 0 A
+3 3 0 0 0
+0 0 0 P
+#340
+large cake~
+a large {Wc{Cak{We{x~
+A large {Wc{Cak{We {xis here.~
+unknown~
+food 0 A
+4 4 0 0 0
+0 3 418 P
+#341
+hard pastry~
+a hard {ypa{rst{yry{x~
+A {ypa{rst{yry {xhere has become hard.~
+unknown~
+food S A
+3 2 0 0 0
+0 2 422 P
+#342
+small gem~
+a small {Ggem{x~
+A small {Ggem{x is here.~
+unknown~
+gem SY A
+0 0 0 0 0
+0 1 18000 P
+#343
+round pearl~
+a round {Wpearl{x~
+A {Wpearl{x is here.~
+unknown~
+gem SY A
+0 0 0 0 0
+0 1 36000 P
+#344
+large ruby~
+a large {Rruby{x~
+A {Rruby{x of large size is here.~
+unknown~
+gem SY A
+0 0 0 0 0
+0 1 10000 P
+#345
+shiny diamond~
+a {Ys{yh{Yi{yn{Yy {Wdiamond{x~
+A {wdiamond {xis {Ys{yh{Yi{yn{Yi{yn{Yg {xhere.~
+unknown~
+trash SY A
+0 0 0 0 0
+0 1 250000 P
+#346
+lemtorak sacred tattoo~
+the sacred tattoo of {YLem{Wto{Yrak{x~
+The sacred tattoo of {YLem{Wto{Yrak{x draws your eye.~
+unknown~
+jewelry SUY AT
+0 0 0 0 0
+150 0 100000 P
+A
+19 23
+A
+18 22
+#347
+tattoo blood~
+a tattoo of {Rblood{x~
+This tattoo is made to look like {Rblood{x.~
+unknown~
+jewelry SUY AT
+0 0 0 0 0
+175 0 250000 P
+A
+2 4
+A
+1 4
+A
+20 -5
+A
+17 -50
+#348
+proof hero~
+{DP{Wr{Do{Wo{Df {xof a {CH{Re{Cro{x~
+This tattoo marks the {Ch{Re{Croes {xthroughout the lands.~
+unknown~
+jewelry SUY AT
+0 0 0 0 0
+201 0 500000 P
+A
+19 25
+A
+18 25
+#349
+proof of ancient~
+{DP{Wr{Do{Wo{Df {xof an {RA{rncient{x~
+This mark proves the rank of {RA{rncient {xto all in doubt.~
+unknown~
+jewelry SUY AT
+0 0 0 0 0
+202 0 1000000 P
+A
+19 50
+#350
+scroll curse~
+a scroll of {Dcurse{x~
+A {Dcursed {xscroll is here.~
+unknown~
+scroll S A
+201 'curse' 'reserved' 'reserved' 'reserved'
+150 1 14810 P
+#351
+scroll dispel magic~
+a scroll of {rdispel{x~
+A {rdispelled {xscroll is here.~
+unknown~
+scroll S A
+175 'dispel magic' 'reserved' 'reserved' 'reserved'
+150 1 11834 P
+#352
+scroll identify~
+a scroll of {Yidentification{x~
+An {Yidentified {xscroll is here.~
+unknown~
+scroll S A
+201 'identify' 'reserved' 'reserved' 'reserved'
+150 1 813 P
+#353
+scroll enchant weapon~
+a scroll of {cenchant weapon{x~
+A scroll that has {cenchanted weapons {xis here.~
+unknown~
+scroll S A
+201 'enchant weapon' 'reserved' 'reserved' 'reserved'
+150 1 18308 P
+#354
+scroll spells~
+a scroll of {gspells{x~
+A scroll of {gspells {xis here.~
+unknown~
+scroll S A
+150 'lightning breath' 'lightning breath' 'reserved' 'reserved'
+150 1 41804 P
+#355
+leather wristband~
+a {yl{re{ya{rt{yh{re{yr {cwristband{x~
+A {yl{re{ya{rt{yh{re{yr {cwristband{x is here.~
+unknown~
+armor S AM
+130 130 130 129 0
+150 151 146 P
+A
+17 -75
+#356
+set leather gloves~
+a set of {yl{re{ya{rt{ye{rr {Dgloves{x~
+A set of {yl{re{ya{rt{ye{rr {Dgloves{x are here.~
+unknown~
+armor S AH
+130 130 130 129 0
+150 151 146 P
+A
+19 30
+#357
+pair leather boots~
+a pair of {yl{re{ya{rt{ye{rr {gboots{x~
+A pair of {yl{re{ya{rt{ye{rr {gboots{x are here.~
+unknown~
+armor S AG
+130 130 130 129 0
+150 151 146 P
+A
+18 30
+#358
+iron wrist-guard wristguard guard~
+an {Diron {cwrist{r-{cguard{x~
+An {Diron {cwrist{r-{cguard{x is here.~
+unknown~
+armor Y AM
+150 150 150 149 0
+175 176 171 P
+A
+20 -2
+A
+18 17
+A
+19 17
+#359
+set iron gloves~
+a set of {Diron gloves{x~
+A set of {Diron gloves {xare here.~
+unknown~
+armor Y AH
+150 150 150 149 0
+175 176 171 P
+A
+19 29
+A
+1 4
+#360
+pair iron boots~
+a pair of {Diron {gboots{x~
+A pair of {Diron {gboots {xare here.~
+unknown~
+armor Y AG
+150 150 150 149 0
+175 176 171 P
+A
+18 29
+A
+2 4
+#361
+small gold pile~
+a small pile of {Ygold coins{x~
+A small pile of {Ygold coins {xare here.~
+unknown~
+money Y A
+10 0 0 0 0
+0 1 0 P
+#362
+large gold pile~
+a large pile of {Ygold coins{x~
+A large pile of {Ygold coins {xare here.~
+unknown~
+money Y A
+65 0 0 0 0
+0 1 0 P
+#363
+small pile platinum coins~
+a small pile of {Yp{Wl{wa{Wt{Yi{wn{Wu{Ym coins{x~
+A small pile of {Yp{Wl{wa{Wt{Yi{wn{Wu{Ym coins{x are here.~
+unknown~
+money Y A
+300 0 0 0 0
+0 1 0 P
+#364
+sage ring~
+a {Rring {xof a {Csa{Wg{Ce{x~
+A {Csa{Wg{Ce's {Rring {xis here.~
+unknown~
+jewelry 0 AB
+0 0 0 0 0
+180 7 1028 P
+A
+18 9
+A
+3 4
+A
+4 4
+A
+17 -50
+A
+20 -8
+#365
+druid necklace~
+a necklace of a {GD{gr{Wu{gi{Gd{x~
+A {GDr{gr{Wui{gd{G's {xnecklace is here.~
+unknown~
+jewelry 0 AC
+0 0 0 0 0
+180 4 1508 P
+A
+18 27
+A
+4 4
+A
+2 4
+A
+5 4
+#366
+silver anklet~
+a {Wsilver anklet{x~
+An {Wanklet {xmade of {Wsilver {xis here.~
+unknown~
+jewelry 0 AS
+0 0 0 0 0
+180 6 2446 P
+A
+12 225
+A
+13 225
+#367
+scroll enchant armor~
+a scroll of {menchant armor{x~
+A scroll that has {menchanted armor {xis here.~
+unknown~
+scroll S A
+201 'enchant armor' 'reserved' 'reserved' 'reserved'
+150 1 12840 P
+#368
+mithril band~
+a {Wm{ci{Wt{ch{Wr{ci{Wl {cband{x~
+A {Wm{ci{Wt{ch{Wr{ci{Wl {cband{x is here.~
+unknown~
+armor GY AM
+172 172 172 171 0
+201 202 205 P
+A
+17 -100
+#369
+mithril gloves~
+a set of {Wm{ci{Wt{ch{Wr{ci{Wl {Dgloves{x~
+A set of {Wm{ci{Wt{ch{Wr{ci{Wl {Dgloves{x are here.~
+unknown~
+armor GY AH
+172 172 172 171 0
+201 202 205 P
+A
+17 -1
+A
+18 5
+A
+20 -5
+A
+1 4
+A
+5 4
+A
+19 30
+#370
+mithril boots~
+a pair of {Wm{ci{Wt{ch{Wr{ci{Wl {gboots{x~
+A pair of {Wm{ci{Wt{ch{Wr{ci{Wl {gboots{x are here.~
+unknown~
+armor GY AG
+172 172 172 171 0
+201 202 205 P
+A
+17 -16
+A
+3 4
+A
+4 4
+A
+2 4
+A
+18 30
+#371
+portal gaalstrom ancient old~
+an ancient portal to {BGaalstrom{x~
+An ancient portal that leads to {BGaalstrom {xis here.~
+unknown~
+portal SY 0
+-1 0 0 3054 0
+0 0 0 P
+#372
+horn lemtorak~
+the {Rgrand {Chorn {xof {YLem{Wto{Yrak{x~
+The {Rgrand {Chorn {xof {YLem{Wto{Yrak {xis here.~
+unknown~
+treasure SY AO
+0 0 0 0 0
+202 3 100000 P
+#373
+game neon slot machine casino lemtorak~
+the {DC{Ra{Bsi{Rn{Do {GS{Yl{Wo{Yt {rM{Wa{gc{Wh{ri{gn{We{x~
+A row of {GS{Yl{Wo{Yt {rM{Wa{gc{Wh{ri{gn{We{rs {xline the walls.~
+unknown~
+slot_machine 0 0
+10 50000 3 30000 0
+0 0 0 P
+#374
+pill cancellation~
+a pill of {Ycancellation{x~
+N~
+unknown~
+pill S A
+201 'cancellation' 'reserved' 'reserved' 'reserved'
+150 1 1801 P
+#375
+pill superior healing~
+a pill of {Msuperior healing{x~
+A pill that {Mheals {xunlike any other is here.~
+unknown~
+pill S A
+100 'superior healing' 'superior healing' 'superior healing' 'superior healing'
+150 1 108382 P
+#376
+pill restore mana~
+a pill that {Brestores mana{x~
+A pill that is said to {Brestore mana{x is here.~
+unknown~
+pill S A
+100 'restore mana' 'restore mana' 'restore mana' 'restore mana'
+150 1 134810 P
+#377
+immortal scroll master healing~
+an {BI{bmm{Wor{bta{Bl {cScroll{x~
+An {BI{bmm{Wor{bta{Bl {cScroll{x is here.~
+unknown~
+scroll 0 A
+1000000 'master healing' 'master healing' 'master healing' 'master healing'
+205 0 0 P
+#378
+dispel scroll~
+a dispelling scroll~
+A dispelling scroll is here.~
+unknown~
+scroll 0 A
+2147483646 'dispel magic' 'dispel magic' 'dispel magic' 'dispel magic'
+203 0 0 P
+#0
+
+
+
+#ROOMS
+#300
+{WOn a Mountain Path{x~
+{R**************
+{R  *  {DW{Bar{Dn{Bin{Dg{W!  {R*
+{R  * {RH{righ {GL{gevel {R*
+{R  *  {YA{yrea {D!{W!{D!  {R*
+{R  **************
+ 
+{YEn{Dte{Yr W{Dit{Yh C{Dau{Yti{Don{Y!!{x
+~
+0 4 5
+D0
+~
+~
+0 0 301
+S
+#301
+{WOn a Mountain Path{x~
+You're walking along a small path through the Northern Mountains.  Few
+know of this path other then the survivors of the 'War of the Ancients'. 
+South leads back to the Northern Mountain's main path.  There are rumors of
+a legendary city to the north beyond the mountains.  
+~
+0 0 5
+D1
+~
+~
+0 0 302
+D2
+~
+~
+0 0 300
+S
+#302
+{WOn a Mountain Path{x~
+The path gets a little uneven here.  The snow doesn't seem to be as
+heavy, either.  The path slowly is slowing downward as you continue east. 
+You can turn back to the west to reach the main path through the Nortern
+Mountains.  
+~
+0 0 5
+D1
+~
+~
+0 0 303
+D3
+~
+~
+0 0 301
+S
+#303
+{WOn a Mountain Path{x~
+The path takes a turn here.  A large cliff is blocking your way to the
+east.  You notice scratch marks on the cliff side.  From here you can either
+go west back to the main path or north to some legendary city.  
+~
+0 0 5
+E
+cliff~
+The marks seem to spell a word...'Lemtorak'.
+~
+E
+mark~
+The marks seem to spell a word...'Lemtorak'.
+~
+E
+scratch~
+The marks seem to spell a word...'Lemtorak'.
+~
+D0
+~
+~
+0 0 304
+D3
+~
+~
+0 0 302
+S
+#304
+{WOn a Mountain Path{x~
+The path seems to lead into a cavern to the north.  Looking inside you
+can't see anything...  It's pitch black.  You can turn back to the south or
+continue into the cavern.  
+~
+0 0 5
+D0
+~
+~
+0 0 305
+D2
+~
+~
+0 0 303
+S
+#305
+{DIn a Mountain Cavern{x~
+The cavern is dark and moist.  Luckily you have a light source with you. 
+You can see an even brighter light coming from a hole to your west.  Perhaps
+it's best to get out of here as soon as possible.  
+~
+0 1 5
+D2
+~
+~
+0 0 304
+D3
+~
+~
+0 0 306
+S
+#306
+{WOn a Mountain Path{x~
+You're back on the side path leading to what ever city lies ahead.  The
+dark cavern you passed through is back to the east while the path runs to
+the north as long as you can see.  
+~
+0 0 5
+D0
+~
+~
+0 0 307
+D1
+~
+~
+0 0 305
+S
+#307
+{WOn a Mountain Path{x~
+The path gets very narrow here.  A few rocks have fallen down from the
+taller hills east and west of you.  The path continues north.  South leads
+back to the dark cavern.  
+~
+0 0 5
+D0
+~
+~
+0 0 308
+D2
+~
+~
+0 0 306
+S
+#308
+{WOn a Mountain Path{x~
+You've come to the edge of a small cliff.  The drop is only about 5 feet.
+You see the path fartehr ahead to the north, yet it has a darker color to it
+then the path does here.  
+~
+0 0 5
+D2
+~
+~
+0 0 307
+D5
+~
+~
+0 0 309
+S
+#309
+{WOn a Mountain Path{x~
+You drop down the cliff with relative ease.  It's short enough to get
+back up if you wanted to.  You look to the north and notice that the path
+comes to a stop.  A painting on a boulder makes the illusion that it goes on
+forever.  The actual path continues to the west.  
+~
+0 0 5
+D3
+~
+~
+0 0 310
+D4
+~
+~
+0 0 308
+S
+#310
+{WOn a Mountain Path{x~
+You have come to a steep slope.  It's possible to walk down, although it
+looks kind of dangerous.  You see what appears to be a gate at the end of
+the path.  
+~
+0 0 5
+D1
+~
+~
+0 0 309
+D5
+~
+~
+0 0 311
+S
+#311
+{WOn a Mountain Path{x~
+You've made it this far...  The path continues to the north.  A slightly
+larger hill blocks your view of the gate, but remember from the top of the
+slope, it would be around a small bend just a little ways north.  
+~
+0 0 5
+D0
+~
+~
+0 0 312
+D4
+~
+~
+0 0 310
+S
+#312
+{WOn a Mountain Path{x~
+The path takes a turn westward here, just as you remembered.  A large
+gate stops you from entering a city nearby to the west.  Perhaps the guards
+would let you pass...  
+~
+0 0 5
+D2
+~
+~
+0 0 311
+D3
+~
+~
+0 0 313
+S
+#313
+{ROutside the East Gate{x~
+You find yourself standing before a large gate.  Glancing beyond it you
+notice a magnificent city.  You can even see a few of the shopkeepers around
+the street.  The path is back to the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 312
+D3
+~
+~
+1 0 369
+S
+#314
+{WOn a Mountain Path{x~
+{R**************
+  *  {DW{Bar{Dn{Bin{Dg{W!  {R*
+  * {RH{righ {GL{gevel {R*
+  *  {YA{yrea {D!{W!{D!  {R*
+{R  **************
+ 
+{YEn{Dte{Yr W{Dit{Yh C{Dau{Yti{Don{Y!!{x
+~
+0 0 5
+D0
+~
+~
+0 0 315
+S
+#315
+{WOn a Mountain Path{x~
+The mountain path turns to the east here.  You can here a howl come from
+the north.  It is rumored that wilderness lies beyond these mountains, and
+eventually a legendary city.  
+~
+0 0 5
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themsele implementators.
+                Let this be a leHe certainly was......
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themselves to immortality, they called upon themselves
+  the anger of the implementators.
+                Let this be a lesson to all .....
+
+                                    -- the Powers that Be.
+~
+E
+sign~
+The sign says:
+
+  Loyal citizens of Midgaard.  These are the earthly remains of the
+  three heretics 'Tabor', 'Wyatt' and 'Funky' of this world.
+  Having forged themsele implementators.
+                Let this be a leHe certainly was......
+
+                                    -- the Powers that Be.
+~
+D1
+~
+~
+0 0 316
+D2
+~
+~
+0 0 314
+S
+#316
+{WOn a Mountain Path{x~
+The mountains path turns again, this time back to the north.  Peering
+ahead, you can't notice an end to the mountain path.  The mountains are high
+all around you, letting you turn back to the west or continue to the north. 
+~
+0 0 5
+D0
+~
+~
+0 0 317
+D3
+~
+~
+0 0 315
+S
+#317
+{WOn a Mountain Path{x~
+The path goes north and south from here.  A sound comes from the north,
+similar to what a bear would sound like but more terrifying.  The mountains
+to the east and west are to steep to climb.  
+~
+0 0 5
+D0
+~
+~
+0 0 318
+D2
+~
+~
+0 0 316
+S
+#318
+{WOn a Mountain Path{x~
+The path slopes down here into a forest.  Howls and growls are echoing
+off the mountains here, making it all the more daring to enter.  Unknown
+perils lie ahead.  
+~
+0 4 5
+D2
+~
+~
+0 0 317
+S
+#319
+{gIn the Wilderness{x~
+Your at the start of the forest.  The mountain path is back up the slope
+while the legendary city is supposedly between forest and mountain.  Animal
+calls are getting louder as you worry.  
+~
+0 4 3
+D1
+~
+~
+0 0 320
+D3
+~
+~
+0 0 6506
+S
+#320
+{gIn the Wilderness{x~
+The tall trees here block most of the sunlight.  The tree bark is rough
+and a few dead leaves litter the wet ground.  A small breeze builds up and
+blows the leaves everywhere.  
+~
+0 0 3
+D0
+~
+~
+0 0 321
+D1
+~
+~
+0 0 325
+D2
+~
+~
+0 0 327
+D3
+~
+~
+0 0 319
+S
+#321
+{gIn the Wilderness{x~
+The darkness surrounds you here.  You see shadows racing behind the
+trees.  The horn of Lemtorak is blown in the distance.  The mountains block
+your way west and north.  The forest expands to the south and east.  
+~
+0 0 3
+D1
+~
+~
+0 0 324
+D2
+~
+~
+0 0 320
+S
+#322
+{DA Drow Cavern{x~
+You find yourself in a large drow cavern.  It is cold in here and a thin
+mist runs all throughout the caves.  It is rumored that the grand castle of
+King Morlok can be reached through a hidden passage somewhere in this
+cavern.  The cavern continues north and east.  
+~
+0 1 0
+D0
+~
+~
+0 0 328
+D1
+~
+~
+0 0 333
+D2
+~
+~
+0 0 339
+S
+#323
+{gIn the Wilderness{x~
+Large cliffs stop you from going north or west.  The trees sway in the
+wind that's rolling down from the mountains high above.  More howling comes
+from deeper within the forest.  
+~
+0 0 3
+D1
+~
+~
+0 0 340
+D2
+~
+~
+0 0 324
+S
+#324
+{gIn the Wilderness{x~
+You can't see much here due to the dimness the forest casts on the small
+rays coming through the branches above.  The dark forest continues east to
+Lemtorak and every other direction leads towards the mountains.  
+~
+0 0 3
+D0
+~
+~
+0 0 323
+D1
+~
+~
+0 0 341
+D2
+~
+~
+0 0 325
+D3
+~
+~
+0 0 321
+S
+#325
+{gIn the Wilderness{x~
+The dark forest surrounds you.  According to your previous sense of
+direction, the grand city of Lemtorak would be off to the east while the
+mountain path is back to the west or east beyond the city limits.  
+~
+0 0 3
+D0
+~
+~
+0 0 324
+D1
+~
+~
+0 0 342
+D2
+~
+~
+0 0 326
+D3
+~
+~
+0 0 320
+S
+#326
+{gIn the Wilderness{x~
+You can't see much here due to the dimness the forest casts on the small
+rays coming through the branches above.  The dark forest continues east to
+Lemtorak and every other direction leads towards the mountains.  
+~
+0 0 3
+D0
+~
+~
+0 0 325
+D1
+~
+~
+0 0 343
+D2
+~
+~
+0 0 329
+D3
+~
+~
+0 0 327
+S
+#327
+{gIn the Wilderness{x~
+The darkness surrounds you here.  You see shadows racing behind the
+trees.  The horn of Lemtorak is blown in the distance.  The mountains block
+your way west and south.  The forest expands to the north and east.  
+~
+0 0 3
+D0
+~
+~
+0 0 320
+D1
+~
+~
+0 0 326
+S
+#328
+{DA Drow Cavern{x~
+The cavern gets colder here and the mists becomes a lot thicker.  Drows
+are known to live deep inside dark caves with a nearly freezing temperature.
+You can push on through the caverns by going south or east.  
+~
+0 1 0
+D1
+~
+~
+0 0 337
+D2
+~
+~
+0 0 322
+S
+#329
+{gIn the Wilderness{x~
+Large cliffs stop you from going south or west.  The trees sway in the
+wind that's rolling down from the mountains high above.  More howling comes
+from deeper within the forest.  
+~
+0 0 3
+D0
+~
+~
+0 0 326
+D1
+~
+~
+0 0 330
+S
+#330
+{gIn the Wilderness{x~
+The tall trees here block most of the sunlight.  The tree bark is rough
+and a few dead leaves litter the wet ground.  A small breeze builds up and
+blows the leaves everywhere.  
+~
+0 0 3
+D0
+~
+~
+0 0 343
+D1
+~
+~
+0 0 331
+D3
+~
+~
+0 0 329
+S
+#331
+{gIn the Wilderness{x~
+The dark forest surrounds you.  According to your previous sense of
+direction, the grand city of Lemtorak would be off to the east while the
+mountain path is back to the west or east beyond the city limits.  
+~
+0 0 3
+D0
+~
+~
+0 0 344
+D1
+~
+~
+0 0 332
+D3
+~
+~
+0 0 330
+S
+#332
+{gIn the Wilderness{x~
+Large cliffs stop you from going south or east.  The trees sway in the
+wind that's rolling down from the mountains high above.  More howling comes
+from deeper within the forest.  
+~
+0 0 0
+D0
+~
+~
+0 0 345
+D3
+~
+~
+0 0 331
+S
+#333
+{DA Drow Cavern{x~
+The mist is coming in from the west and leaving northwards.  The ground
+is very wet here covering you in mud from shins down.  The entrance to the
+cavern is back to the west while the cavern continues to the north.  
+~
+0 1 0
+D0
+~
+~
+0 0 337
+D3
+~
+~
+0 0 322
+S
+#334
+{gIn the Wilderness{x~
+The darkness surrounds you here.  You see shadows racing behind the
+trees.  The horn of Lemtorak sounds nearby.  The mountains block your war
+east and south.  The forest expands north and west.  
+~
+0 0 3
+D0
+~
+~
+0 0 335
+D3
+~
+~
+0 0 345
+S
+#335
+{gIn the Wilderness{x~
+Your at the edge of the forest.  The grand city Lemtorak is to the east. 
+Animal calls are getting louder as you start to worry.  Might be best to
+enter the city for protection while you still can.  
+~
+0 0 3
+D0
+~
+~
+0 0 336
+D1
+~
+~
+0 0 350
+D2
+~
+~
+0 0 334
+S
+#336
+{gIn the Wilderness{x~
+The darkness surrounds you here.  You see shadows racing behind the
+trees.  The horn of Lemtorak sounds nearby.  The mountains block your way
+east and north.  The forest expands to the south and west.  
+~
+0 0 3
+D2
+~
+~
+0 0 335
+D3
+~
+~
+0 0 347
+S
+#337
+{DA Drow Cavern{x~
+This is the coldest place within the cavern.  The mist comes in from the
+west and south.  The drow council are here most of the time plotting ways to
+take over the elf camp.  A small hole is to the north allowing passage
+through the cavern walls.  
+~
+0 1 0
+D0
+~
+~
+0 0 398
+D2
+~
+~
+0 0 333
+D3
+~
+~
+0 0 328
+S
+#338
+{gIn the Wilderness{x~
+Large cliffs stop you from going north or east.  The trees sway in the
+wind that's rolling down from the mountains high above.  More howling comes
+from deeper within the forest.  
+~
+0 0 3
+D2
+~
+~
+0 0 347
+D3
+~
+~
+0 0 339
+S
+#339
+{gIn the Wilderness{x~
+The tall trees here block most of the sunlight.  The tree bark is rough
+and a few dead leaves litter the wet ground.  A small breeze builds up and
+blows the leaves everywhere.  A large cavern is to the north.  
+~
+0 4 3
+D0
+~
+~
+0 0 322
+D1
+~
+~
+0 0 338
+D2
+~
+~
+0 0 348
+D3
+~
+~
+0 0 340
+S
+#340
+{gIn the Wilderness{x~
+The dark forest surrounds you.  According to your previous sense of
+direction, the grand city of Lemtorak would be off to the east while the
+mountain path is back to the west or east beyond the city limits.  
+~
+0 0 3
+D1
+~
+~
+0 0 339
+D2
+~
+~
+0 0 341
+D3
+~
+~
+0 0 323
+S
+#341
+{yIn an {GElven Camp{x~
+You've found the camp that the forest elves stay at.  They probably don't
+like the noise and crowds of the Lemtorak but want to stay near incase of an
+emergency...  Such as war.  The camp is south and east from here while west
+and north lead back into the forest.  
+~
+0 0 2
+D0
+~
+~
+0 0 340
+D1
+~
+~
+0 0 348
+D2
+~
+~
+0 0 342
+D3
+~
+~
+0 0 324
+S
+#342
+{yIn an {GElven Camp{x~
+A large elven camp surrounds you.  A large tent is close by to the east. 
+You can see the top of Lemtorak's Palace over the tent's peak.  West will
+take you back into the wilderness while all other directions will take you
+through the camp.  
+~
+0 0 2
+D0
+~
+~
+0 0 341
+D1
+~
+~
+0 0 349
+D2
+~
+~
+0 0 343
+D3
+~
+~
+0 0 325
+S
+#343
+{yIn an {GElven Camp{x~
+You've found the camp that the forest elves stay at.  They probably don't
+like the noise and crowds of the Lemtorak but want to stay near incase of an
+emergency...  Such as war.  The camp is north and east from here while west
+and south lead back into the forest.  
+~
+0 0 2
+D0
+~
+~
+0 0 342
+D1
+~
+~
+0 0 344
+D2
+~
+~
+0 0 330
+D3
+~
+~
+0 0 326
+S
+#344
+{yIn an {GElven Camp{x~
+The elven camp surrounds you in every way except to the south.  The trees
+are spread apart in the camp allowing more light to get through.  Perhaps
+it's better to avoid going south into the dark wilderness.  
+~
+0 0 2
+D0
+~
+~
+0 0 349
+D1
+~
+~
+0 0 345
+D2
+~
+~
+0 0 331
+D3
+~
+~
+0 0 343
+S
+#345
+{yIn an {GElven Camp{x~
+The camp of elves can be further ventured in by going west.  North is a
+giant tent for the elves to stay in at night.  The elf council also stays
+there most of the time to think up defensive strategies to hold off the
+attacking drows.  
+~
+0 0 2
+D1
+~
+~
+0 0 334
+D2
+~
+~
+0 0 332
+D3
+~
+~
+0 0 344
+S
+#346
+{yIn an {GElf {rTent{x~
+You find yourself in a large elf tent.  Everything, is neatly put in it's
+spot including the maps and scrolls in the back of the tent.  The ents can
+bunk here at night, for the room is huge and comfortable beds are spread all
+over the floor.  
+~
+0 0 0
+D3
+~
+~
+0 0 349
+S
+#347
+{yIn an {GElven Camp{x~
+The camp of elves can be further ventured in by going west.  South is a
+giant tent for the elves to stay in at night.  The elf council also stays
+there most of the time to think up defensive strategies to hold off the
+attacking drows.  
+~
+0 0 2
+D0
+~
+~
+0 0 338
+D1
+~
+~
+0 0 336
+D3
+~
+~
+0 0 348
+S
+#348
+{yIn an {GElven Camp{x~
+The elven camp surrounds you in every way except to the north.  The trees
+are spread apart in the camp allowing more light to get through.  Perhaps
+it's better to avoid going north into the dark wilderness.  
+~
+0 0 2
+D0
+~
+~
+0 0 339
+D1
+~
+~
+0 0 347
+D2
+~
+~
+0 0 349
+D3
+~
+~
+0 0 341
+S
+#349
+{yCenter of the {GElven Camp{x~
+You're standing in the center of the camp.  North, south, and west all
+lead to different parts of the camp.  Looking east for Lemtorak, you see
+northing except for a huge tent.  The wilderness howls at you from all
+around.  
+~
+0 0 2
+D0
+~
+~
+0 0 348
+D1
+~
+~
+0 0 346
+D2
+~
+~
+0 0 344
+D3
+~
+~
+0 0 342
+S
+#350
+{ROutside the West Gate{x~
+You find yourself standing before a large gate.  Glancing beyond it you
+notice a magnificent city.  You can even see a few of the locals ahead. 
+West leads back into the wilderness.  
+~
+0 0 2
+D1
+~
+~
+1 0 351
+D3
+~
+~
+0 0 335
+S
+#351
+{RInside the West Gate{x~
+A wide road here leads into the city.  Ahead you can see the guardian of
+this grand city.  A large palace it to the east.  West leads to the gate. 
+You here an odd snarl come from something near the palace.  
+~
+0 4 1
+D1
+~
+~
+0 0 352
+D3
+~
+~
+1 0 350
+S
+#352
+{BRoad into the City{x~
+The road widens here allowing easy passage to and from the gate.  Wheel
+marks are pressed into the side of this dirt road where carts have carried
+items for shopkeepers to sell.  
+~
+0 0 1
+D1
+~
+~
+0 0 353
+D3
+~
+~
+0 0 351
+S
+#353
+{BBefore the Palace{x~
+You find your self before an enormous palance.  A hole in the ground here
+is covered up by a metal cage.  To the south is a small building looking
+much like a sanctuary.  The gate is back to the west while shops are to the
+north.  
+~
+0 0 1
+D0
+~
+~
+0 0 358
+D1
+~
+~
+1 0 356
+D2
+~
+~
+0 0 355
+D3
+~
+~
+0 0 352
+D5
+~
+~
+1 0 354
+S
+#354
+{DIn{Wsi{Dde {Wth{De C{Wag{De{x~
+~
+0 0 1
+D4
+~
+~
+1 0 353
+S
+#355
+{WSanctuary of Lemtorak{x~
+The sanctuary is made up of a single circular room.  The walls and
+ceiling are a bright white along with the marble floor that shines when the
+sunlight hits it.  There are small pads to rest your knees on while you
+pray.  A priest is in the back of the room.  
+~
+0 1024 0
+D0
+~
+~
+0 0 353
+S
+#356
+{WInside the Palance{x~
+The palace has white marble floors with white walls and ceilings, much
+like the sanctuary.  The city is back the west while you can continue
+through the palace to the west.  
+~
+0 0 0
+D1
+~
+~
+0 0 357
+D3
+~
+~
+1 0 353
+S
+#357
+{WThe Palace Throne Room{x~
+You find yourself in a huge throne room.  This is where the king of
+Lemtorak and his advisor are at for most of the day.  A large throne is in
+the back of the room.  The room is well lit by the torches lining a red
+carpet to the throne.  
+~
+0 0 0
+D3
+~
+~
+0 0 356
+S
+#358
+{BRoad to the Shopkeepers{x~
+Your walked along a tightly packed dirt road.  The palace is to the south
+while the Lemtorak Banker is to the west.  To the east is a questmaster
+offering to send you on a mission.  Go north to find the shopkeepers.  
+~
+0 0 1
+D0
+~
+~
+0 0 361
+D1
+~
+~
+0 0 360
+D2
+~
+~
+0 0 353
+D3
+~
+~
+0 0 359
+S
+#359
+{YLemtorak Bank{x~
+This is the bank of the city.  All the locals of Lemtorak come here to deposit their spare money.
+  You can also store your change here and withdraw it whenever you like.
+{Y({RH{relp {GB{gank {xgives more information.{Y){x
+~
+0 1024 0
+D1
+~
+~
+0 0 358
+S
+#360
+{YThe Questmaster's Head Quarters{x~
+You stand before the powerful questmaster of Lemtorak.  He will send you
+on a mission if requested and grand rewards are given upon completing your
+mission.  
+{Y({RH{relp {GQ{guest {xgives more information.{Y){x
+~
+0 1024 0
+D3
+~
+~
+0 0 358
+S
+#361
+{BThe City Center{x~
+The center of the city is a huge square.  There is nothing special here
+except that it makes travelling easier then walking through the grass that
+would otherwise be growing here.  A GuildMaster is off the the west, while
+the opposite direction leads to the market place.  North is an ancient room
+of portals.  
+~
+0 0 1
+D0
+~
+~
+0 0 363
+D1
+~
+~
+0 0 362
+D2
+~
+~
+0 0 358
+D3
+~
+~
+0 0 364
+S
+#362
+{gLemtorak Market{x~
+The Lemtorak Market is filled with tourists and even locals.  Shops
+surround you in all directions.  West is the only exception, leading back to
+the main part of the city.  
+~
+0 0 1
+D0
+~
+~
+0 0 370
+D1
+~
+~
+0 0 365
+D2
+~
+~
+0 0 376
+D3
+~
+~
+0 0 361
+S
+#363
+{YRoom of Ancient Portals{x~
+Many portals from ancient times were once here yet slowly they've lost
+their power.  Now only one portal is left and is said to take you straight
+to Gaalstrom.  It's power is said to be nearly gone though...  
+~
+0 0 1
+D2
+~
+~
+0 0 361
+S
+#364
+{YThe GuildMaster's Ring{x~
+Your inside the Ring of the GuildMaster.  The GuildMaster can teach your
+how to improve most anything including spells, wit, strength, skills, or
+even learn new things.  
+~
+0 1024 0
+D1
+~
+~
+0 0 361
+S
+#365
+{gLemtorak Market{x~
+The Lemtorak Market is filled with tourists and even locals.  Shops
+surround you in all directions.  The main city is back to the west while the
+city gate is to the east.  
+~
+0 0 1
+D0
+~
+~
+0 0 371
+D1
+~
+~
+0 0 366
+D2
+~
+~
+0 0 378
+D3
+~
+~
+0 0 362
+S
+#366
+{gLemtorak Market{x~
+The Lemtorak Market is filled with tourists and even locals.  Shops
+surround you in all directions.  The main city is back to the west while the
+city gate is to the east.  
+~
+0 0 1
+D0
+~
+~
+0 0 372
+D1
+~
+~
+0 0 367
+D2
+~
+~
+0 0 379
+D3
+~
+~
+0 0 365
+S
+#367
+{gLemtorak Market{x~
+The Lemtorak Market is filled with tourists and even locals.  Shops
+surround you in all directions.  The main city is back to the west while the
+city gate is to the east.  
+~
+0 0 1
+D0
+~
+~
+0 0 373
+D1
+~
+~
+0 0 368
+D2
+~
+~
+0 0 380
+D3
+~
+~
+0 0 366
+S
+#368
+{gLemtorak Market{x~
+The Lemtorak Market is filled with tourists and even locals.  Shops
+surround you in all directions.  The main city is back to the west while the
+city gate is to the east.  
+~
+0 0 1
+D0
+~
+~
+0 0 374
+D1
+~
+~
+0 0 369
+D2
+~
+~
+0 0 377
+D3
+~
+~
+0 0 367
+S
+#369
+{gLemtorak Market{x~
+The Lemtorak Market is filled with tourists and even locals.  Shops
+surround you in all directions.  The main city is back to the west while the
+city gate is to the east.  
+~
+0 0 1
+D0
+~
+~
+0 0 375
+D1
+~
+~
+1 0 313
+D2
+~
+~
+0 0 381
+D3
+~
+~
+0 0 368
+S
+#370
+{gLemtorak Market{x~
+The Lemtorak Market is filled with tourists and even locals.  Shops
+surround you in all directions.  The main city is back to the west while the
+city gate is to the east.  Directly west is the Lemtorak Library.  Close by
+to the north is a weaponsmith.  
+~
+0 0 1
+D0
+~
+~
+0 0 383
+D1
+~
+~
+0 0 371
+D2
+~
+~
+0 0 362
+D3
+~
+~
+0 0 382
+S
+#371
+{gLemtorak Market{x~
+The Lemtorak Market is filled with tourists and even locals.  Shops
+surround you in all directions.  The main city is back to the west while the
+city gate is to the east.  Closeby to the north is a medic.  
+~
+0 0 1
+D0
+~
+~
+0 0 384
+D1
+~
+~
+0 0 372
+D2
+~
+~
+0 0 365
+D3
+~
+~
+0 0 370
+S
+#372
+{gLemtorak Market{x~
+The Lemtorak Market is filled with tourists and even locals.  Shops
+surround you in all directions.  The main city is back to the west while the
+city gate is to the east.  A jeweler is close by to the north.  
+~
+0 0 1
+D0
+~
+~
+0 0 385
+D1
+~
+~
+0 0 373
+D2
+~
+~
+0 0 366
+D3
+~
+~
+0 0 371
+S
+#373
+{gLemtorak Market{x~
+The Lemtorak Market is filled with tourists and even locals.  Shops
+surround you in all directions.  The main city is back to the west while the
+city gate is to the east.  The Lemtorak Casino is nearby to the north.  
+~
+0 0 1
+D0
+~
+~
+0 0 386
+D1
+~
+~
+0 0 374
+D2
+~
+~
+0 0 367
+D3
+~
+~
+0 0 372
+S
+#374
+{gLemtorak Market{x~
+The Lemtorak Market is filled with tourists and even locals.  Shops
+surround you in all directions.  The main city is back to the west while the
+city gate is to the east.  Directly north is the city bar.  
+~
+0 0 1
+D0
+~
+~
+0 0 387
+D1
+~
+~
+0 0 375
+D2
+~
+~
+0 0 368
+D3
+~
+~
+0 0 373
+S
+#375
+{gLemtorak Market{x~
+The Lemtorak Market is filled with tourists and even locals.  Shops
+surround you in all directions.  The main city is back to the west while the
+city gate is to the east.  Not far north is a furniture maker.  A bag maker
+is to the nearby east.  
+~
+0 0 1
+D0
+~
+~
+0 0 388
+D1
+~
+~
+0 0 389
+D2
+~
+~
+0 0 369
+D3
+~
+~
+0 0 374
+S
+#376
+{gLemtorak Market{x~
+The Lemtorak Market is filled with tourists and even locals.  Shops
+surround you in all directions.  The main city is back to the west while the
+city gate is to the east.  To the west is a phamacy and to the south the
+armoury.  
+~
+0 0 1
+D0
+~
+~
+0 0 362
+D1
+~
+~
+0 0 378
+D2
+~
+~
+0 0 396
+D3
+~
+~
+0 0 397
+S
+#377
+{gLemtorak Market{x~
+The Lemtorak Market is filled with tourists and even locals.  Shops
+surround you in all directions.  The main city is back to the west while the
+city gate is to the east.  The scent of fresh food is coming from the south.
+~
+0 0 1
+D0
+~
+~
+0 0 368
+D1
+~
+~
+0 0 381
+D2
+~
+~
+0 0 392
+D3
+~
+~
+0 0 380
+S
+#378
+{gLemtorak Market{x~
+The Lemtorak Market is filled with tourists and even locals.  Shops
+surround you in all directions.  The main city is back to the west while the
+city gate is to the east.  A sorcerer selling scrolls is to the south.  
+~
+0 0 1
+D0
+~
+~
+0 0 365
+D1
+~
+~
+0 0 379
+D2
+~
+~
+0 0 394
+D3
+~
+~
+0 0 376
+S
+#379
+{gLemtorak Market{x~
+The Lemtorak Market is filled with tourists and even locals.  Shops
+surround you in all directions.  The main city is back to the west while the
+city gate is to the east.  Not far south is a small tattoo artist.  
+~
+0 0 1
+D0
+~
+~
+0 0 366
+D1
+~
+~
+0 0 380
+D2
+~
+~
+0 0 395
+D3
+~
+~
+0 0 378
+S
+#380
+{gLemtorak Market{x~
+The Lemtorak Market is filled with tourists and even locals.  Shops
+surround you in all directions.  The main city is back to the west while the
+city gate is to the east.  Close by to the south is a shop filled with
+diamonds.  
+~
+0 0 1
+D0
+~
+~
+0 0 367
+D1
+~
+~
+0 0 377
+D2
+~
+~
+0 0 393
+D3
+~
+~
+0 0 379
+S
+#381
+{gLemtorak Market{x~
+The Lemtorak Market is filled with tourists and even locals.  Shops
+surround you in all directions.  The main city is back to the west while the
+city gate is to the east.  Directly to the east is the priest of the city. 
+Nearby to the south is a candle maker.  
+~
+0 0 1
+D0
+~
+~
+0 0 369
+D1
+~
+~
+0 0 390
+D2
+~
+~
+0 0 391
+D3
+~
+~
+0 0 377
+S
+#382
+{cThe Lemtorak Library{x~
+Books line the four awlls that make up this library.  The books get older
+as you progress towards the back wall.  In the back of the room is a small
+oak desk where an old librarian is reading.  
+~
+0 1024 0
+D1
+~
+~
+0 0 370
+S
+#383
+{cThe Home of a Blacksmith{x~
+Metal is lying all over the floor here.  A few weapons are hung on the
+east and west walls.  You hear a loud pounding beyond the conter.  Looking
+ahead you notice a large blacksmith creating some type of dagger.  
+~
+0 1024 0
+D2
+~
+~
+0 0 370
+S
+#384
+{cThe Lemtorak Hospital{x~
+You can smell many herbs and spices immidiately after stepping foot in
+the room.  A medic in the back of the room seems to be mixing leaves and
+chemicals.  A shelf behind the medic is holding all different colored
+potions.  It looks as if Lemtorak has been at peace for a while since there
+isn't many people here.  
+~
+0 1024 0
+D2
+~
+~
+0 0 371
+M 150 H 150
+S
+#385
+{cThe Jeweler's Setup{x~
+This is obviously a very successful shop for the walls are in as good a
+shape as the city sanctuary.  Chests line the walls all around.  One chest
+against the back wall is open for all to see.  Shiny jewelry is on display
+there.  
+~
+0 1024 0
+D2
+~
+~
+0 0 372
+S
+#386
+{cThe City Casino{x~
+This room has bright red walls with slot machines against the walls. 
+High rewards are given for those who win the jackpot.  You might see a few
+locals here, but it's normally just tourists depending on the time of day.  
+~
+0 1024 0
+D2
+~
+~
+0 0 373
+S
+#387
+{cInn of the Ancients{x~
+The Inn is packed with tourists and a few locals.  The barkeeper is
+behind the counter peering about you.  At first he seems to be worried about
+your being here, but then relaxes and goes back to his duties.  A few of the
+tourists leave the room before you even get a good look at half of them.  
+~
+0 1024 0
+D2
+~
+~
+0 0 374
+S
+#388
+{cOakworks{x~
+Many logs that have been stripped of their bark are piled against the
+east wall.  Tables, charis, and other furniture made of oak wood are neatly
+place near the west wall.  
+~
+0 1024 0
+D2
+~
+~
+0 0 375
+S
+#389
+{cThe Bag Maker's Hut{x~
+A few rolls of burlap and canvas line the back wall.  A bag maker is here
+sewing together bags of all kinds.  A couple duffle bags and backpacks are
+stacked neatly against the east wall.  
+~
+0 1024 0
+D3
+~
+~
+0 0 375
+S
+#390
+{cThe City Chapel{x~
+You find yourself in a room where locals come to worship their gods and
+show loyalty to them.  Benches line both walls.  In the back of the room is
+a seat for the priest to sit in during large events.  One side of the room
+is a bright white while the other is a dark red.  
+{Y({xType {RB{rane {xor {CR{cepent {xfor a list of services.{Y){x
+~
+0 1024 0
+D3
+~
+~
+0 0 381
+M 150 H 150
+S
+#391
+{cThe Candle Maker's Hut{x~
+This straw hut is filled with blocks of wax and candles.  It's a wonder
+the straw doesn't catch on fire from the lit candles.  A few light sources
+are hidden in the back corner of the room.  
+~
+0 1024 0
+D0
+~
+~
+0 0 381
+S
+#392
+{cA Bakery{x~
+A few oak tables bought from Oakworks are here.  Fresh baked goods are
+for sale and being displayed on the tables.  The bakers guarantee the food
+is fresh daily.  
+~
+0 1024 0
+D0
+~
+~
+0 0 377
+S
+#393
+{cThe Diamond Shop{x~
+This shop is filled with beautifully polished diamonds.  They also sell
+pearls, rubies, and other items of less value.  These are sure to be a great
+present for those spending their honeymoon here in Lemtorak.  
+~
+0 1024 0
+D0
+~
+~
+0 0 380
+S
+#394
+{cThe Sorcerer's Hideout{x~
+This room isn't very large in size nor does it look very comfortable. 
+Scrolls and maps are scattered all around the room, most of them thrown into
+the corners of the room.  The darkness here sends a cold chill down your
+spine.  
+~
+0 1024 0
+D0
+~
+~
+0 0 378
+S
+#395
+{cA Tattoo Parlor{x~
+Tattoo designs are framed all along the walls.  At closer look, you
+notice that the designs are just pieces of skin that has been torn off in
+order to be displayed.  
+~
+0 1024 0
+D0
+~
+~
+0 0 379
+S
+#396
+{cThe Armory{x~
+Some of the greatest armor in all the land is up for display here.  A few
+descent pieces are also for sale.  The walls are decorated in all sorts of
+armor whether it be from elf, or titan, or anything inbetween.  
+~
+0 1024 0
+D0
+~
+~
+0 0 376
+S
+#397
+{cThe Pharmacy{x~
+You can find medicine for most illnesses here.  This pharmacy supplies
+the goods that the local hospital uses.  Not only can you cure whatever has
+come upon you, but you can stay here just to rest and regain strength.  
+~
+0 1024 0
+D1
+~
+~
+0 0 376
+S
+#398
+{yA Path between {DCavern {Wand {DCaves{x~
+The path here has nearly no mist in it.  It is said that this passage was
+used by drows to secretly speak with King Morlok.  Going straight north
+should take you near Morlok's Castle while south should take you to a drow
+cavern.  
+~
+0 4 0
+D0
+~
+~
+0 0 16988
+D1
+~
+~
+0 0 399
+D2
+~
+~
+0 0 337
+D3
+~
+~
+0 0 399
+S
+#399
+{gLost {ybetween {DCavern {Wand {DCaves{x~
+You seem to be lost.  Better follow the path east or west and hope for
+the best.  You don't seem to need a light here yet you can't find where the
+light source is coming from.  
+~
+0 524288 0
+D1
+~
+~
+0 0 398
+D3
+~
+~
+0 0 398
+S
+#0
+
+
+
+#SPECIALS
+M 302 spec_antihero_evil
+M 303 spec_questmaster
+S
+
+
+
+#RESETS
+D 0 313 3 1
+D 0 350 1 1
+D 0 351 3 1
+D 0 353 1 1
+D 0 353 5 1
+D 0 354 4 1
+D 0 356 3 1
+D 0 369 1 1
+M 0 325 30 320 3
+M 0 323 40 320 5
+M 0 323 40 320 5
+M 0 322 40 320 5
+M 0 322 40 320 5
+M 0 322 40 320 5
+M 0 323 40 321 5
+M 0 323 40 321 5
+M 0 322 40 321 5
+M 0 322 40 321 5
+M 0 322 40 321 5
+M 0 324 40 322 10
+M 0 324 40 322 10
+M 0 324 40 322 10
+M 0 324 40 322 10
+M 0 324 40 322 10
+M 0 324 40 322 10
+M 0 324 40 322 10
+M 0 324 40 322 10
+M 0 325 30 323 3
+M 0 323 40 323 5
+M 0 323 40 323 5
+M 0 322 40 323 5
+M 0 322 40 323 5
+M 0 322 40 323 5
+M 0 325 30 324 3
+M 0 323 40 324 5
+M 0 323 40 324 5
+M 0 323 40 325 5
+M 0 323 40 325 5
+M 0 322 40 325 5
+M 0 322 40 325 5
+M 0 322 40 325 5
+M 0 325 30 326 3
+M 0 325 30 326 3
+M 0 323 40 326 5
+M 0 323 40 326 5
+M 0 322 40 326 5
+M 0 322 40 326 5
+M 0 322 40 326 5
+M 0 322 40 327 5
+M 0 322 40 327 5
+M 0 322 40 327 5
+M 0 324 40 328 10
+M 0 324 40 328 10
+M 0 324 40 328 10
+M 0 324 40 328 10
+M 0 324 40 328 10
+M 0 324 40 328 10
+M 0 324 40 328 10
+M 0 324 40 328 10
+M 0 325 30 329 3
+M 0 323 40 329 5
+M 0 323 40 329 5
+M 0 322 40 329 5
+M 0 322 40 329 5
+M 0 322 40 329 5
+M 0 323 40 330 5
+M 0 323 40 330 5
+M 0 322 40 330 5
+M 0 322 40 330 5
+M 0 322 40 330 5
+M 0 325 30 331 3
+M 0 323 40 331 5
+M 0 323 40 331 5
+M 0 322 40 331 5
+M 0 322 40 331 5
+M 0 322 40 331 5
+M 0 325 30 332 3
+M 0 323 40 332 5
+M 0 323 40 332 5
+M 0 322 40 332 5
+M 0 322 40 332 5
+M 0 322 40 332 5
+M 0 324 40 333 10
+M 0 324 40 333 10
+M 0 324 40 333 10
+M 0 324 40 333 10
+M 0 324 40 333 10
+M 0 324 40 333 10
+M 0 324 40 333 10
+M 0 324 40 333 10
+M 0 325 30 334 3
+M 0 323 40 334 5
+M 0 323 40 334 5
+M 0 322 40 334 5
+M 0 322 40 334 5
+M 0 322 40 334 5
+M 0 323 40 335 5
+M 0 323 40 335 5
+M 0 325 30 336 3
+M 0 323 40 336 5
+M 0 323 40 336 5
+M 0 322 40 336 5
+M 0 322 40 336 5
+M 0 322 40 336 5
+M 0 324 40 337 5
+M 0 324 40 337 5
+M 0 324 40 337 5
+M 0 324 40 337 5
+M 0 326 12 337 8
+M 0 326 12 337 8
+M 0 326 12 337 8
+M 0 326 12 337 8
+M 0 326 12 337 8
+M 0 326 12 337 8
+M 0 326 12 337 8
+M 0 326 12 337 8
+M 0 325 30 338 3
+M 0 323 40 338 5
+M 0 323 40 338 5
+M 0 322 40 338 5
+M 0 322 40 338 5
+M 0 322 40 338 5
+M 0 325 30 340 3
+M 0 323 40 340 5
+M 0 323 40 340 5
+M 0 322 40 340 5
+M 0 322 40 340 5
+M 0 322 40 340 5
+M 0 327 40 341 6
+M 0 327 40 341 6
+M 0 327 40 341 6
+M 0 327 40 341 6
+M 0 327 40 341 6
+M 0 327 40 341 6
+M 0 328 20 342 4
+M 0 328 20 342 4
+M 0 327 40 342 6
+M 0 327 40 342 6
+M 0 327 40 342 6
+M 0 327 40 342 6
+M 0 327 40 342 6
+M 0 327 40 342 6
+M 0 327 40 343 6
+M 0 327 40 343 6
+M 0 327 40 343 6
+M 0 327 40 343 6
+M 0 327 40 343 6
+M 0 327 40 343 6
+M 0 327 50 344 6
+M 0 327 50 344 6
+M 0 327 50 344 6
+M 0 327 50 344 6
+M 0 327 50 344 6
+M 0 327 50 344 6
+M 0 327 50 345 6
+M 0 327 50 345 6
+M 0 327 50 345 6
+M 0 327 50 345 6
+M 0 327 50 345 6
+M 0 327 50 345 6
+M 0 329 8 346 8
+M 0 329 8 346 8
+M 0 329 8 346 8
+M 0 329 8 346 8
+M 0 329 8 346 8
+M 0 329 8 346 8
+M 0 329 8 346 8
+M 0 329 8 346 8
+M 0 327 50 347 6
+M 0 327 50 347 6
+M 0 327 50 347 6
+M 0 327 50 347 6
+M 0 327 50 347 6
+M 0 327 50 347 6
+M 0 327 50 348 6
+M 0 327 50 348 6
+M 0 327 50 348 6
+M 0 327 50 348 6
+M 0 327 50 348 6
+M 0 327 50 348 6
+M 0 328 20 349 4
+M 0 328 20 349 4
+M 0 328 20 349 4
+M 0 327 50 349 6
+M 0 327 50 349 6
+M 0 327 50 349 6
+M 0 327 50 349 6
+M 0 327 50 349 6
+M 0 327 50 349 6
+M 0 300 2 350 2
+M 0 300 2 350 2
+M 0 331 30 352 2
+M 0 302 1 353 1
+E 0 372 0 17
+G 0 300 0
+M 0 335 1 354 1
+M 0 301 1 355 1
+O 0 3250 0 355
+M 0 332 6 356 4
+M 0 332 6 356 4
+M 0 332 6 356 4
+M 0 332 6 356 4
+M 0 332 6 357 2
+M 0 332 6 357 2
+M 0 334 1 357 1
+M 0 333 1 357 1
+M 0 331 30 358 2
+M 0 304 1 359 1
+M 0 303 1 360 1
+M 0 331 30 361 2
+M 0 331 30 361 2
+M 0 330 30 361 2
+M 0 330 30 362 2
+O 0 371 0 363
+M 0 305 1 364 1
+M 0 330 30 365 3
+M 0 330 30 365 2
+M 0 330 30 366 3
+M 0 330 30 366 3
+M 0 331 30 368 2
+M 0 331 30 370 2
+M 0 331 30 371 2
+M 0 331 30 371 2
+M 0 330 30 371 3
+M 0 330 30 371 3
+M 0 330 30 373 2
+M 0 331 30 374 2
+M 0 331 30 374 2
+M 0 330 30 375 3
+M 0 330 30 375 3
+M 0 330 30 375 3
+M 0 331 30 377 2
+M 0 330 30 377 3
+M 0 331 30 378 2
+M 0 331 30 378 2
+M 0 330 30 379 3
+M 0 330 30 379 3
+M 0 330 30 381 3
+M 0 306 1 382 1
+G 0 304 0
+G 0 303 0
+G 0 302 0
+G 0 301 0
+M 0 307 1 383 1
+G 0 305 0
+G 0 306 0
+G 0 307 0
+G 0 308 0
+G 0 309 0
+G 0 310 0
+G 0 311 0
+G 0 312 0
+G 0 313 0
+M 0 308 1 384 1
+G 0 317 0
+G 0 316 0
+G 0 315 0
+G 0 314 0
+M 0 309 1 385 1
+G 0 318 0
+G 0 319 0
+G 0 320 0
+G 0 321 0
+G 0 322 0
+G 0 323 0
+G 0 364 0
+G 0 365 0
+G 0 366 0
+M 0 314 1 385 1
+O 0 373 0 386
+M 0 337 1 386 1
+M 0 310 1 387 1
+G 0 326 0
+G 0 325 0
+G 0 324 0
+M 0 311 1 388 1
+G 0 329 0
+G 0 328 0
+G 0 327 0
+M 0 312 1 389 1
+G 0 333 0
+G 0 332 0
+G 0 331 0
+G 0 330 0
+M 0 313 1 390 1
+M 0 336 1 390 1
+M 0 315 1 391 1
+G 0 337 0
+G 0 336 0
+G 0 335 0
+G 0 334 0
+M 0 316 1 392 1
+G 0 341 0
+G 0 340 0
+G 0 339 0
+G 0 338 0
+M 0 317 1 393 1
+G 0 345 0
+G 0 344 0
+G 0 343 0
+G 0 342 0
+M 0 319 1 394 1
+G 0 367 0
+G 0 354 0
+G 0 353 0
+G 0 352 0
+G 0 351 0
+G 0 350 0
+M 0 318 1 395 1
+G 0 349 0
+G 0 348 0
+G 0 347 0
+G 0 346 0
+M 0 320 1 396 1
+G 0 370 0
+G 0 369 0
+G 0 368 0
+G 0 360 0
+G 0 359 0
+G 0 358 0
+G 0 357 0
+G 0 356 0
+G 0 355 0
+M 0 321 1 397 1
+G 0 376 0
+G 0 375 0
+G 0 374 0
+O 0 361 0 398
+O 0 362 0 398
+O 0 363 0 399
+S
+
+
+
+#SHOPS
+306 0 0 0 0 0 100 100 0 23
+307 0 0 0 0 0 100 100 0 23
+308 0 0 0 0 0 100 100 0 23
+309 0 0 0 0 0 100 100 0 23
+310 0 0 0 0 0 100 100 0 23
+311 0 0 0 0 0 100 100 0 23
+312 0 0 0 0 0 100 100 0 23
+315 0 0 0 0 0 100 100 0 23
+316 0 0 0 0 0 100 100 0 23
+317 0 0 0 0 0 100 100 0 23
+318 0 0 0 0 0 100 100 0 23
+319 0 0 0 0 0 100 100 0 23
+320 0 0 0 0 0 100 100 0 23
+321 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

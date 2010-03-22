@@ -1,0 +1,322 @@
+#AREADATA
+Name Clan Halls~
+Builders Roland~
+VNUMs 70000 71000
+Credits {W[  ALL  ] Clan Halls{x~
+Security 1
+RepopMsg The time of battle is nigh.~
+End
+
+
+
+#MOBILES
+#70000
+Shopkeeper Armorer~
+{rD{De{rmonic{x {WA{Dr{Wmorer{x~
+The {rD{De{rmonic{x {WA{Dr{Wmorer{x is waiting to slice your head off.
+~
+~
+Human~
+AB 0 0 0 0 0
+205 0 4d4+10 0d0+0 0d0+0 none
+0 0 0 0
+0 A 0 0
+stand stand none 2147483647
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#70200
+HEALER~
+{xAn {CA{Wngeli{Cc {YCr{yusad{Yer{x~
+{xAn {CA{Wngeli{Cc {YCr{yusad{Yer{x stands here.
+~
+~
+Human~
+ABa 0 0 0 0 0
+400 1600 1601d134+80801 400d15+600 101d5+426 none
+-477 -477 -477 -396
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#70201
+Blacksmith Crusader~
+{gD{Dr{ga{Ds{gh{Da{gn{x the {YC{yrusade{Yr {DBlacksmith{x~
+{gD{Dr{ga{Ds{gh{Da{gn{x the {YC{yrusade{Yr {DBlacksmith{x stands here.
+~
+He is a large paladin with broad shoulders and a stern chest.  
+~
+Human~
+AB 0 0 0 0 0
+400 0 1d1+20000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 2147483647
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#70000
+black marble fountain blood~
+{xA {Dblack marble {xfountain of flowing {Rb{rl{Ro{ro{Rd{x~
+{xA {Dblack marble {xfountain of flowing {Rb{rl{Ro{ro{Rd{x is here~
+unknown~
+fountain 0 0
+-1 -1 'vodka' 0 0
+0 0 0 P
+#70001
+a pool of blood~
+a {WP{Do{wo{Dl of {RB{rl{Ro{ro{Rd{x~
+A {WP{Do{wo{Dl of {RB{rl{Ro{ro{Rd{x sits in the center of this dark chamber~
+unknown~
+furniture A 0
+50 100000000 FIL 5000 5000
+0 -31072 0 P
+#70100
+a blood soaked casket~
+a {RB{rl{Ro{ro{Rd {DS{wo{Wa{wk{We{Dd {RC{ra{Rs{rk{Re{rt{x~
+A {RB{rl{Ro{ro{Rd {DS{wo{Wa{wk{We{Dd {RC{ra{Rs{rk{Re{rt {xlies in the center of the room.~
+wood~
+furniture A 0
+50 1000000 FIL 6000 8000
+0 5000 0 P
+#70101
+brood large fountain overflowing blood~
+a large {DF{Bo{Du{Bn{Dt{Ba{Di{Bn{x~
+A large {DF{Bo{Du{Bn{Dt{Ba{Di{Bn {xis overflowing with {RB{rl{Ro{ro{Rd {xhere.~
+unknown~
+drink ABSY 0
+999 999 'blood' 0 0
+0 0 0 P
+#70200
+pool of radiant sanctuary~
+a {WP{woo{Wl O{wf {YR{ya{Yd{yi{Ya{yn{Yt {WS{ca{Cnctu{ca{cr{Wy{x~
+A {WP{woo{Wl O{wf {YR{ya{Yd{yi{Ya{yn{Yt {WS{ca{Cnctu{ca{cr{Wy{x bubbles gently~
+unknown~
+furniture AI 0
+100 10000000 FIL 7000 8000
+0 1000 0 P
+#70201
+Fountain Large Paladin~
+{xA fountain in the shape of a large god-like {YC{yrusade{Yr{x~
+{xA fountain in the shape of a large {Wgod{x-like {YC{yrusade{Yr{x is here.~
+unknown~
+fountain 0 0
+-1 -1 'milk' 0 0
+0 0 0 P
+#70202
+mask of brilliance crusader~
+{w[{YCr{yusad{Yer{w] {WM{wa{Ws{wk {cof {YB{wr{yi{wllia{yn{wc{Ye{x~
+A beautiful mask lies on the ground here~
+steel and leather~
+armor AY AR
+175 175 175 174 0
+200 206 30000 P
+A
+18 40
+A
+19 40
+#70203
+legion shard of bloodstone~
+[{RL{regio{Rn{w] {ra {CS{ch{Ca{cr{Cd {rof {DB{rl{Do{ro{Dd{rs{Dt{ro{Dn{re{x~
+A pure black earring lies on the ground here~
+onyx~
+armor 0 AV
+184 184 184 183 0
+201 150 5000000 P
+A
+13 400
+A
+18 40
+A
+19 40
+#0
+
+
+
+#ROOMS
+#70000
+{DBlack {RL{regio{Rn {DRecall{x~
+{DA large pentagram drawn in freshly spilled blood serves as the
+reception area for soldiers of Legion.  Thousands of candles are burning all
+around, but their combined light does little to pierce the darkness of this
+unholy room.  A large statue in the assumed visage of the force that drives
+these insane warriors looms at the back of the room.  A throbbing force can
+be felt, hanging poised in the air, as if ready to strike.  Screams of
+torture and torment echo around the corridors of this sacreligous asylum,
+the moans and agonized sounds of the torturous wretches that are Legion
+captives.  A small, magical one-way staircase leads down to the center of
+the Legion hunting grounds, the Market Square of Gaalstrom.  {x 
+~
+0 8200 0
+D0
+~
+~
+0 0 70002
+D1
+~
+~
+0 0 70001
+D5
+~
+~
+0 0 3014
+S
+#70001
+{DBlack {RL{regio{Rn {DDark {DSa{Wn{wc{wtu{Wa{Dry{x~
+{DA menacing serenity swirls through these dark chambers.  A pulsing red
+light, the healing force of Legion throbs in the center of the room.  A
+crimson hued pool dominates most of this dark place, filled to the brim with
+blood.  A thousand and more candles are burning brightly in a dark shade of
+red.  West leads back to the recall area, this room is a safe and tranquil
+place to heal your battleworn body.  {x 
+~
+0 9224 0
+D3
+~
+~
+0 0 70000
+S
+#70002
+{DShop of {RDe{rad{Rly{x {DR{ri{Dtuals{x~
+{DThis is where the army of Legion can come to be outfitted in gear for
+their unholy assaults on their enemies.  Hundreds of tunics, cloaks, and
+other types of armor hang about the room.  A few hundred candles cannot
+pierce the gloom of this tiny shop.  A small corrdior leads out of the shop
+south.  {x 
+~
+0 8192 0
+D2
+~
+~
+0 0 70000
+S
+#70100
+{DD{ba{Dr{bk {DB{br{Do{bo{Dd {rB{Rl{ro{Ro{rd {DChurch{x~
+{DA peaceful and holy church defiled by the undead nightwalkers of the
+Dark Brood.  The crucifixes were torn down and destroyed, the alter smeared
+with blood and carved with the arcane symbols of demons.  The stained glass
+has been painted over with blood.  The walls and floors are also smeared in
+the unmistakable dry crimson liquid.  There is barely any light in the room
+save for a few candles.  Hundreds of coffins lie scattered about, some
+sitting ceremoniously up on the pews of the church.  A magical staircase
+leads down into the Dark Brood feeding grounds, Gaalstrom.  {x 
+~
+0 8204 0
+D5
+~
+~
+0 0 3014
+S
+#70200
+{YCr{yusad{Yer{x'{ys {W O{wf {WT{whe {YLi{yg{Yht{x {WTe{wmp{Wle{x~
+{W{xAn overwhelming sense of good, and light flows through this sacred
+temple.  This is the epitome of everything pure in the realms.  The temple
+is unbelievably well crafted.  Wonderfully crafted pillars run from the
+marble floor to the domed ceiling up above.  A thousand and more candles are
+burning, their soft light dances and plays on the stone walls, illuminating
+vast murals depicting the triumphs of the Crusaders, banishing evil, slaying
+the wicked.  A magical staircase leads down to the center of Gaalstrom.  {x
+A small hallway leads to a healing chamber east.  
+~
+0 8200 0
+D1
+~
+~
+0 0 70201
+D2
+~
+~
+0 0 70202
+D5
+~
+~
+0 0 3014
+S
+#70201
+{YCr{yusad{Yer{W H{cealin{Wg {WCh{wamb{Wer{x~
+A circular chamber off the central part of the temple.  The ceiling is
+domed with a wonderful painting contained within.  There are a dozen or so
+stained glass windows in the walls, the light shines through them and
+illuminates the chamber in a thousand different shades of color.  A large
+healing pool bubbles gently in the ground, west leads back to the central
+chamber.  
+~
+0 9224 0
+D3
+~
+~
+0 0 70200
+S
+#70202
+{YCr{yusad{Yer {DBlacksmith{x~
+You catch the strong scent of hot metal and sweaty steam.  As you listen
+you hear a loud {W*{Yclang{W*{x{x{x {W*{Yclang{W* {W*{Yclang{W*.  
+~
+0 9216 0
+D0
+~
+~
+0 0 70200
+S
+#70300
+{gH{yu{gn{yt{ge{yr{g'{ys {GG{yr{Go{yv{Ge{x~
+{gA forest of beauty beyond word and thought.  The very essence of what
+the rangers and striders of the realms fight to protect.  A large canopy of
+thick bushy leaves block most of the light, letting only a few scarce rays
+pierce through to the ground.  The floor of the grove is covered with red
+and golden yellow leaves that kick up into a flurry whenever a good sized
+breeze rolls through.  The grove is but a circle, surrounded on the edges by
+large bushes containing thousands of blossoms.  The spaces beyond the grove
+are alive and tingling with animal life, bird calls, deer rushing past all
+wish to be close to the ranger home.  To the far west a large river can be
+heard, rushing along its course for ages out of mind.  A small magical hole
+is in the ground, it leads to the center of Gaalstrom.  {x 
+~
+0 8192 0
+D5
+~
+~
+0 0 3014
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+O 0 70000 0 70000
+O 0 70001 0 70001
+M 0 70000 1 70002 1
+G 0 70203 0
+O 0 70100 0 70100
+O 0 70101 0 70100
+O 0 70201 0 70200
+M 0 70200 1 70201 1
+O 0 70200 0 70201
+M 0 70201 1 70202 1
+G 0 70202 0
+S
+
+
+
+#SHOPS
+70000 9 0 0 0 0 100 100 0 23
+70201 0 0 0 0 0 150 50 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,19 @@
+Enter the 'src' folder and type 'make' to compile the MUD.
+After you have done this, you can browse to the main dir
+and execute the startsd script which will attempt to reboot
+the mud in case it goes down, or you can run the mud manually
+by invoking the following command from the 'area' folder;
+
+../data/sdmud
+
+There is an implementor character called 'Admin' with the
+password 'admin' -- you can log on this character, rename
+yourself, change your password and use it as your new imp
+character.
+
+The official SDMUD site is at:
+http://patrickmn.com/projects/sdmud/
+
+I can be contacted at rhaelar@sdmud.com
+
+--Rhaelar

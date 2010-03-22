@@ -1,0 +1,2994 @@
+#AREADATA
+Name Tenilwyn Forest~
+Builders Roland~
+VNUMs 400 500
+Credits {Y[120-140] Tenilwyn Forest{x~
+Security 9
+RepopMsg (null)~
+End
+
+
+
+#MOBILES
+#400
+restin windwalker journey man ~
+{CR{cestin {CW{cindwalker{x~
+A journey man is here, resting at his camp site
+~
+A traveler, always looking for the next big adventure.  Listen to his
+sage advice, it may save your life.  
+~
+Elf~
+ABGW 0 JV H 250 0
+150 150 1054d51+6061 150d11+95 51d2+115 none
+-98 -98 -98 -67
+EHJ 0 BHIJ Z
+rest rest male 4000
+AHMV ABCDEFGHIJK medium unknown
+#401
+orcish priest~
+an {DO{Wr{wci{Ws{Dh {RP{rr{Ri{re{Rs{rt{x~
+An {DO{Wr{wci{Ws{Dh {RP{rr{Ri{re{Rs{rt{x stands here, chanting over the bubbling brew
+~
+He is a disgusting figure, as are all orcs.  His dirty green skin has
+blisters in some areas.  He appears to be quite formiddable, better not mess
+with this one.  
+~
+Orc~
+ABF 0 Ja FH -400 0
+150 150 1054d51+6061 150d11+95 51d2+115 wrath
+-98 -98 -98 -67
+CO H CDQ PS
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#402
+an orcish minion~
+an {ROr{rci{Rsh {DMinion{x~
+An {ROr{rci{Rsh {DMinion{w stands here, chanting slowly
+~
+A digusting, ugly orc.  Its slimey skin is a putrid shade of green.  Its
+glowing red eyes pierce into your soul and try to devour it.  It sppears to
+be quite strong.  
+~
+Orc~
+ABG 0 Ja 0 -500 0
+150 150 1054d51+6061 150d11+95 51d2+115 bite
+-98 -98 -98 -67
+COR 0 CDQ PS
+stand stand either 1600
+AHMV ABCDEFGHIJK medium unknown
+#403
+maerlyn~
+{WMaerlyn{x~
+Maerlyn stands here, examining the inventory of weapons
+~
+~
+Elf~
+ABY 0 J 0 1000 0
+150 150 1054d51+6061 150d11+95 51d2+115 none
+-98 -98 -98 -67
+0 0 B Z
+stand stand female 100000
+AHMV ABCDEFGHIJK medium unknown
+#404
+polom~
+{WPolom{x~
+Polom the tailor stands here, sewing a new piece of armor
+~
+A jolly elf indeed.  His nimble fingers make short work of any sewing
+task.  His armor is used most by the Tenilwyn elves.  
+~
+Elf~
+AB 0 J 0 1000 0
+150 150 1054d51+6061 150d11+95 51d2+115 punch
+-98 -98 -98 -67
+0 0 B Z
+stand stand none 10000
+AHMV ABCDEFGHIJK medium unknown
+#405
+Mina~
+{WMina{x~
+Mina stands here, sharpening her favorite dagger
+~
+She is a beautiful, strong elven maiden. She has a streak of firey red hair trailing to her shoulders. Her bright green eyes can pierce your soul. She looks like quite the warrior.
+~
+Human~
+AB 0 0 EH 500 0
+160 160 1124d54+6465 160d11+95 54d2+122 slash
+-105 -105 -105 -73
+0 0 0 0
+stand stand female 100000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 402 100~
+#406
+lazumen the 2nd~
+{CLazumen the 2nd{x~
+Lazumen the 2nd stands here, mulling over a painting
+~
+A tall, lanky specimen.  He doesnt look strong, but he is quite
+intelligent and spiritual.  Though not cut from the same cloth, Lazumen
+loves his son very much.  
+~
+Elf~
+AB 0 J DH 300 0
+160 160 1124d54+6465 160d11+95 54d2+122 punch
+-105 -105 -105 -73
+DEGH 0 B Z
+stand stand male 100000
+AHMV ABCDEFGHIJK medium unknown
+#407
+meliwyn wife of lazumen~
+{WMeliwyn{x~
+Meliwyn, wife of Lazumen, is standing here dusting old books
+~
+She is pretty old, yet still quite beautiful, as all elves seem to be. 
+She is content with being a house wife now as she is steadily getting older
+and tired.  Lazumen is her one true love.  She appears to be a fierce
+fighter though.  
+~
+Elf~
+AB 0 J EFH 500 0
+150 150 1054d51+6061 150d11+95 51d2+115 slap
+-98 -98 -98 -67
+AEFHK 0 BDK Z
+stand stand female 140000
+AHMV ABCDEFGHIJK medium unknown
+#409
+Lazumen~
+{WLazumen{x~
+Lazumen sits huddled at his desk, scribbling furiously
+~
+He appears to be quite the formiddable warrior, even in his now old age,
+which he spends most of over seeing the village.  
+~
+Elf~
+AB 0 JVac DEFH 1000 0
+150 150 1054d51+6061 150d11+95 51d2+115 wrath
+-98 -98 -98 -67
+DEFGHIJK 0 BCDK Z
+stand stand male 150000
+AHMV ABCDEFGHIJK medium unknown
+#410
+feowyn~
+{mFeowyn{x~
+Feowyn stands here, fussing over her hair
+~
+She is quite striking indeed.  Every boy in town has some sort of crush
+on her, be it passing fancy, or outright devoted love.  She is Lazumens
+youngest daughter.  
+~
+Elf~
+AB 0 JVa DH 1000 0
+160 160 1124d54+6465 160d11+95 54d2+122 slap
+-105 -105 -105 -73
+CEJ 0 B Z
+stand stand female 1000
+AHMV ABCDEFGHIJK medium unknown
+#411
+hax~
+{bHax{x~
+Hax, the cook, stands here, inspecting the pantry
+~
+He is a stout, strong looking cook.
+~
+Elf~
+AB 0 JV DEH 600 0
+160 160 1124d54+6465 160d11+95 54d2+122 slice
+-105 -105 -105 -73
+0 0 BCK Z
+stand stand male 10000
+AHMV ABCDEFGHIJK medium unknown
+#412
+a villager~
+A villager~
+A villager stands here
+~
+A common Tenilwyn villager 
+~
+Elf~
+A 0 J 0 1000 0
+160 160 1124d54+6465 160d11+95 54d2+122 slap
+-105 -105 -105 -73
+0 0 B Z
+stand stand either 150000
+AHMV ABCDEFGHIJK medium unknown
+#413
+a fire demon~
+a {RF{yi{Rr{ye {RDemon{x~
+A fire demon materializes and attacks!
+~
+It is a ball of living flames.  Some lash out forming limbs, and a tail. 
+It looks quite dangerous.  
+~
+Draconian~
+ABFN 0 T DH 0 0
+160 160 1124d54+6465 160d11+95 54d2+122 flame
+-105 -105 -105 -73
+ABCDEFGHIJKMNOP LQ CDHIKP FGJ
+stand stand none 2400000
+AHMV ABCDEFGHIJKPQ medium unknown
+M DEATH 404 100~
+M GRALL 403 100~
+#414
+a ghoul~
+a {WG{wh{Wo{wu{Wl{x~
+A ghoul hovers slightly in the air, looking at you curiously
+~
+It is a disgusting ghoul.  It glows with a bright blue aura.  
+~
+Human~
+ABF 0 DFVZ 0 0 0
+165 165 1159d56+6665 165d11+95 56d2+125 none
+-109 -109 -109 -75
+EGH 0 CD 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#415
+demon wraith~
+a {RD{re{Rm{ro{Rn {DWraith{x~
+A demon wraith hovers in the air, it peers at you and strikes!
+~
+~
+Heucuva~
+ABF 0 Z CEH -1000 0
+165 165 1159d56+6665 165d11+95 56d2+125 wrath
+-109 -109 -109 -75
+ACDEGHIJKN HLMQ CDK NSY
+stand stand none 160000
+AHMV ABCGHIJK medium unknown
+#416
+the creature~
+{WThe Creature{x~
+The creature floats amid the darkness here
+~
+It is indescribable 
+~
+modron~
+AB 0 JVac CDEFHO 0 0
+180 180 1264d61+9091 180d11+95 61d2+135 wrath
+-119 -119 -119 -83
+CEFGJKQR BMNPQ CDHIK 0
+stand stand none 0
+H ABCGHJK medium unknown
+#417
+a lich~
+a {rL{Di{rc{Dh{x~
+A disgusting Lich stands here, drooling at the beautiful blood
+~
+A filthy demon 
+~
+Heucuva~
+ABF 0 DFZ F -1000 0
+165 165 1159d56+6665 165d11+95 56d2+125 bite
+-109 -109 -109 -75
+0 LMQ DK NSY
+stand stand either 15000
+AHMV ABCGHIJK medium unknown
+#418
+the master lich~
+{DThe {RM{Da{Rs{Dt{Re{DR L{ric{Dh{x~
+The Master Lich stands here, gazing into your eyes as if he expected you...
+~
+He is a rather beautiful creature in his human form.  But his true form
+is less presentable, a writhing blood sucking leech.  He appears to be quite
+formidable.  
+~
+modron~
+AB 0 JV EFH -1000 0
+160 160 1124d54+6465 160d11+95 54d2+122 bite
+-105 -105 -105 -73
+CDEFGHOQR BMNPQ CDHK INS
+stand stand male 20000
+H ABCGHJK medium unknown
+F res I
+#419
+tempest~
+{CTempest{x~
+Tempest, the master of storms stands here
+~
+A very old human. He looks wise, but very dangerous.
+~
+modron~
+AB 0 JV CEH -500 0
+170 170 1194d57+6869 170d11+95 57d2+128 magic
+-112 -112 -112 -78
+QR BMNPQ CDHIK H
+stand stand male 2500000
+AHMV ABCDEFGHIJK medium unknown
+#420
+madrin of the divine blade~
+{YM{yadrin{x~
+Madrin of the divine blade sits here, sharpening his sword
+~
+He is quite lithe, and dexterous, but his power is great indeed.  
+~
+modron~
+AB 0 JV H 0 0
+170 170 1194d57+6869 170d11+95 57d2+128 slice
+-112 -112 -112 -78
+CDEFGHIJKNQR BMNPQ HIK 0
+stand stand male 2340000
+H ABCGHJK medium unknown
+#421
+the crimson lord~
+{DThe {RC{rr{Ri{rm{Rs{ro{Rn{D L{ro{Dr{rd{x~
+The Crimson Lord stands here, eminating power
+~
+A large demon forged by evil, imbued with power beyond imagination.  
+~
+modron~
+AB 0 JV DEFH -1000 0
+175 175 1229d59+7069 175d11+95 59d2+132 wrath
+-116 -116 -116 -80
+QR BMNPQ CDHIK N
+stand stand male 300000
+H ABCGHJK medium unknown
+M GRALL 405 20~
+#422
+the goddess of nature~
+{WThe Goddess Of {GN{ga{Gt{gu{Gr{ge{x~
+The goddess of nature stands here, contemplating a tree
+~
+She is quite beautiful, beyond ones imagination.  She also looks quite
+powerful.  
+~
+modron~
+AB 0 JV CH 1000 0
+165 165 1159d56+6665 165d11+95 56d2+125 none
+-109 -109 -109 -75
+QR BMNPQ HIK 0
+stand stand female 200
+H ABCGHJK medium unknown
+#423
+a brown bear~
+a brown bear~
+A brown bear stands here, looking for his next meal
+~
+A beautiful creature in its own right.  Powerful as well 
+~
+bear~
+AG 0 0 0 500 0
+165 165 1159d56+6665 165d11+95 56d2+125 bite
+-109 -109 -109 -75
+DEO 0 EI 0
+stand stand either 200
+AGV ABCDEFHJKUV medium unknown
+#424
+a deer~
+a deer~
+A deer stands here, looking noble
+~
+A pretty animal, it has large antlers 
+~
+bear~
+AG 0 0 0 0 0
+150 150 1054d51+6061 150d11+95 51d2+115 grep
+-98 -98 -98 -67
+DEO 0 EI 0
+stand stand male 0
+AGV ABCDEFHJKUV medium unknown
+#425
+a rabbit~
+a rabbit~
+A fluffy white rabbit hops about here
+~
+Its a cute and cuddly forest creature 
+~
+bear~
+AG 0 0 0 0 0
+150 150 1054d51+6061 150d11+95 51d2+115 bite
+-98 -98 -98 -67
+DEO 0 EI 0
+stand stand either 200
+AGV ABCDEFHJKUV medium unknown
+#426
+a weary prisoner~
+a {rweary{D prisoner{x~
+A weary prisoner sits here, contemplating suicide
+~
+Though strung out, and hungry, he appears quite fierce.  
+~
+Human~
+A 0 V DEFH 400 0
+160 160 1124d54+6465 160d11+95 54d2+122 beating
+-105 -105 -105 -73
+CDEFGHIJKNO 0 HIJ FG
+stand stand none 300000
+AHMV ABCDEFGHIJK medium unknown
+#427
+dungeon guard~
+{WThe {bDungeon Guard{x~
+The mean looking dungeon guard stands here, pondering your escape
+~
+~
+Titan~
+A 0 DVa DEFH -500 0
+160 160 1124d54+6465 160d11+95 54d2+122 none
+-105 -105 -105 -73
+CEFGHJK B CFHI 0
+stand stand none 40000
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#400
+windwalker staff~
+{CWin{Wdwal{Cker {CS{Wtaf{Cf{x~
+An intricately carved staff lies forgotten on the ground~
+wood~
+weapon ABI AN
+exotic 16 16 crush BE
+150 151 10080 P
+A
+19 5
+A
+18 5
+A
+12 100
+A
+4 4
+#401
+large bubling black pot~
+a {Wb{wu{Wb{wb{Wl{wi{Wn{wg {Dblack {wpot{x~
+A {Wb{wu{Wb{wb{Wl{wi{Wn{wg {Dblack {wpot{x hangs over a {Ggreenish{w fire~
+unknown~
+fountain A 0
+40 40 'absinthe' 0 0
+1 10000 1 P
+#402
+silvery holy necklace of the devout~
+{YHoly {WNecklace {WO{wf {CT{ch{Ce {CD{ce{Cv{co{Cu{ct{x~
+A silvery necklace has been dropped here~
+steel~
+jewelry ABY AC
+0 0 0 0 0
+150 151 146 P
+A
+12 200
+A
+24 -3
+A
+4 4
+#403
+sign floating magically~
+a floating sign~
+A magically floating sign is here~
+unknown~
+furniture 0 0
+0 0 0 0 0
+1 4 0 P
+E
+sign~
+{g.  -  `  *Village of the Tenilwyn Elves*  `  -  .{w
+ 
+                      Welcome Travelers!
+~
+#404
+a cross bow~
+a {BCross{YBow{x~
+A large, wooden crossbow lies on the ground here~
+unknown~
+weapon I AN
+exotic 16 17 pierce DE
+155 156 10605 P
+A
+18 14
+A
+19 14
+#405
+a long bow~
+a {CL{cong{CBow{x~
+A long, wooden bow has been left on the ground here~
+wood~
+weapon I AN
+exotic 17 17 pierce ADE
+165 166 11250 P
+A
+18 15
+A
+19 15
+#406
+a hunting knife~
+a {RHunting {YK{yn{Yi{yf{Ye{x~
+A short, hunting knife is stuck in the ground here~
+steel~
+weapon AB AN
+dagger 15 16 stab ADH
+155 156 9780 P
+A
+18 14
+A
+19 14
+#407
+elvish leather tunic~
+{yElvish Leather {BTunic{x~
+A well crafted leather tunic lies on the ground here~
+unknown~
+armor AI AD
+130 130 130 129 0
+150 151 146 P
+A
+13 100
+A
+19 10
+A
+18 10
+#408
+elvish leather leggings~
+{yElvish Leather {BLeggings{x~
+A pair of leather leggings have been dropped on the ground here~
+unknown~
+armor AI AF
+130 130 130 129 0
+150 151 146 P
+A
+19 10
+A
+18 10
+A
+13 50
+A
+2 4
+#409
+elvish leather girth~
+{yElvish Leather {BGirth{x~
+A long, leather girth has been dropped on the ground here~
+unknown~
+armor AI AL
+134 134 134 133 0
+155 156 159 P
+A
+13 100
+A
+18 10
+A
+19 11
+#410
+a runed bracer~
+a {wR{Cu{wn{Ce{wd{Y Bracer{x~
+A glowing bracer lies forgotten on the ground here~
+unknown~
+armor ABGI AM
+130 130 130 124 0
+150 5 1860000 P
+A
+13 100
+A
+19 20
+#411
+mina's dagger~
+{MM{Win{Ma{w's {MDa{Wgg{Mer{x~
+A very sharp dagger sticks in the ground here~
+steel~
+weapon AI AN
+dagger 15 15 pierce D
+150 151 9280 P
+A
+2 1
+A
+18 14
+A
+19 14
+#412
+paint stained smock~
+{GP{gaint {RStained {CS{cmock{x~
+(no description)~
+unknown~
+armor I AD
+130 130 130 129 0
+150 151 146 P
+A
+13 100
+A
+18 20
+#413
+a plain gold ring~
+a plain {ygold{w ring{x~
+A rather plain looking gold ring has been dropped here~
+Gold~
+jewelry BIY AB
+0 0 0 0 0
+100 10 10000 P
+A
+12 100
+A
+3 5
+A
+4 5
+#414
+fine blue cloak~
+a Fine {BBlue{w Cloak~
+A blue cloak lies crumpled on the ground here~
+Cloth~
+armor ABI AC
+138 138 138 137 0
+160 161 164 P
+A
+13 150
+A
+19 11
+A
+18 11
+#415
+a red ribbon~
+a {RRed Ribbon{x~
+A long, pretty red ribbon lies on the ground here~
+Satin~
+armor AI AE
+130 130 130 129 0
+150 151 146 P
+A
+12 100
+A
+3 3
+A
+4 3
+#416
+a white apron~
+a {WW{wh{Wi{wt{We {WApron{x~
+A white apron lies crumpled on the floor here~
+Cloth~
+armor B AL
+130 130 130 129 0
+150 151 146 P
+A
+18 15
+A
+19 15
+A
+13 100
+#417
+orb of living flames p-item~
+{wAn {ROrb {WOf {YLiving {RF{yl{Ra{ym{Re{ys{x~
+An orb of flames floats in the air here~
+Flame~
+armor ABIY AQ
+142 142 142 141 0
+165 166 161 P
+F
+S 0 0 D
+A
+13 75
+A
+19 20
+A
+18 20
+#418
+a tattered black shroud~
+a {WT{wa{Wt{wt{We{wr{We{wd {DBlack {DShroud{x~
+A long black cloak lies on the ground, it is in tatters~
+Souls~
+armor AI AK
+142 142 142 141 0
+165 166 161 P
+A
+5 1
+A
+19 10
+A
+18 10
+A
+13 100
+#419
+glowing red portal~
+a {YGlowing {RRed {RP{mo{Rr{mt{Ra{ml{x~
+A portal glows with a fierce red light~
+unknown~
+portal AB 0
+0 0 0 460 0
+1 1 1 P
+#420
+beams of starlight~
+{BB{ce{Ba{cm{Bs {WO{wf {WStar{ylight{x~
+Glowing beams of starlight float above the ground here~
+unknown~
+weapon ABI AN
+exotic 18 17 blast DEG
+175 176 11895 P
+A
+18 16
+A
+19 16
+A
+1 2
+#421
+ring of the nightwalker~
+{WR{wing {WO{wf {WT{whe {DNi{Rgh{rtw{Ral{Dker{x~
+A black ring has been dropped on the ground here~
+unknown~
+jewelry CY AB
+0 0 0 0 0
+175 1 1000000 P
+A
+24 -3
+A
+3 3
+A
+4 2
+A
+12 200
+#422
+mask of storms~
+{YM{yask {WO{wf {BS{ct{Bo{cr{Bm{cs{x~
+A dark blue mask lies on the ground here~
+unknown~
+armor AI AR
+150 150 150 149 0
+175 176 171 P
+A
+2 2
+A
+13 150
+A
+19 13
+A
+18 13
+#423
+madrin's boots~
+{YM{yadrin's {YB{yoots{x~
+A pair of boots lie on the ground here~
+unknown~
+armor AI AG
+150 150 150 149 0
+175 176 171 P
+A
+13 350
+#424
+glowing red key~
+a {YGlowing {RRed Key{x~
+A small, glowing red key has been dropped here~
+unknown~
+key AI AO
+0 0 0 0 0
+1 1 2000 P
+#425
+crimson etched breastplate p-item~
+{RC{rr{Ri{rm{Rs{ro{Rn {DEtched {DB{rr{De{ra{Ds{rt{Dp{rl{Da{rt{De{x~
+A red stained breastplate lies on the ground here~
+unknown~
+armor ABI AD
+155 155 155 154 0
+180 181 176 P
+F
+A 0 0 V
+A
+1 2
+A
+19 18
+A
+18 18
+A
+13 200
+#426
+sylvan anklet~
+a {GS{gy{Gl{gv{Ga{gn {WA{wnklet{x~
+A green anklet has been dropped here~
+unknown~
+armor AI AS
+138 138 138 137 0
+160 161 164 P
+A
+24 -4
+A
+3 4
+A
+4 2
+A
+12 150
+#427
+a makeshift dagger~
+a {WMake{w-{Rshift{D Dagger{x~
+A poorly made dagger lies on the ground here~
+unknown~
+weapon ABGHIZ AN
+dagger 17 16 stab DE
+175 176 11020 P
+A
+1 4
+A
+19 15
+A
+18 14
+#428
+rusted shackles~
+{rRu{Rst{red {DSh{Wa{wck{Wl{Des{x~
+A pair of rusted shackles lie on the ground here~
+unknown~
+armor ABHI AI
+150 150 150 149 0
+175 176 171 P
+A
+13 100
+A
+18 11
+A
+19 14
+A
+2 -3
+A
+4 4
+#429
+the dungeon guard sword~
+{WT{whe {bDungeon Guard's {YS{yw{wo{yr{Yd{x~
+A very powerful sword lies on the ground here~
+unknown~
+weapon ABGHI AN
+sword 19 16 drain DGH
+180 181 11940 P
+A
+19 17
+A
+18 17
+A
+13 150
+A
+1 2
+#430
+jade earring glowing green earring~
+a {gJ{Ga{gd{Ge{W Ea{wrri{Wng{x~
+A glowing green earring lies on the ground here~
+unknown~
+armor ABGH AV
+159 159 159 158 0
+185 186 189 P
+A
+3 1
+A
+2 1
+A
+1 1
+A
+5 1
+A
+4 1
+A
+24 -3
+A
+12 100
+#431
+a dirty red key~
+a dirty {rred {wkey{x~
+A dirty red key lies on the ground here~
+unknown~
+key AU A
+0 0 0 0 0
+1 20 4000 P
+#432
+glowing red pill~
+a {YGlowing {RR{re{Rd {WP{will{x~
+(no description)~
+unknown~
+pill GHUYZa A
+1 'quest pill' 'reserved' 'reserved' 'reserved'
+0 1 450000 P
+#0
+
+
+
+#ROOMS
+#400
+{g-={WA Small Trail{g=-{x~
+A small, meandering trail winds its way through the towering trees of
+this beautiful forest.  This gorgeous landscape has a sinister, uncomforting
+atmosphere.  A long forgotten power lies throbbing below the pretty facade. 
+The small trail leads away north.  
+~
+0 0 3
+D0
+~
+~
+0 0 401
+D2
+~
+~
+0 0 6506
+S
+#401
+{g-={WForest Trail{g=-{x~
+The lush greenery and staggering trees continue.  This forest has been
+standing for ages out of mind.  It is the culmination of all the beauty and
+wisdom that exists in nature.  Legend tells that the goddess of nature
+herself resides in the groves of this sacred place.  In the distance,
+through the tree tops can be seen a slate gray tower.  The only darkness in
+this wonderful haven.  The trail forks here, it continues on north and west.
+~
+0 0 0
+D0
+~
+~
+0 0 413
+D2
+~
+~
+0 0 400
+D3
+~
+~
+0 0 402
+S
+#402
+{g-={WA Small Clearing{g=-{x~
+The trees and brush surround this wonderful clearing.  Beautiful
+{Wwildflowers{w grow all about, hundreds, maybe thousands.  A small hill
+rises in the center, a traveler has decided to make it his camp sight.  A
+pile of good sized rocks have been painstakingly set up in a circle to
+prevent the spread of the fire, which has burned out.  Another opening into
+the forest lies to the north, the trail is back east.  
+~
+0 0 0
+E
+wildflowers~
+Thousands of {Rprimroses {wand {Ydaisies{w grow all about.
+~
+D0
+~
+~
+0 0 403
+D1
+~
+~
+0 0 401
+S
+#403
+{g-={WConfusing Trails{G=-{x~
+A good number of winding trails stretch out in this somewhat dense part
+of the forest.  Some go on a bit, but then are overgrown with bushes and
+shrubbery.  One trail has a collapsed tree blocking the way.  The dark gray
+tower can been seen to the north, a perfectly straight trail leads that way.
+Smaller paths jut off to the west and east.  The clearing is back to the
+south.  
+~
+0 0 3
+D0
+~
+~
+0 0 404
+D2
+~
+~
+0 0 402
+D3
+~
+~
+0 0 405
+S
+#404
+{g-={WNarrow Trail{g=-{x~
+The trail has thinned considerably.  It is now no more than a couple of
+feet wide.  This mystical forest never fails to give adventurers breath
+taking views.  A small {Wstream{w runs busily along the side of the trail. 
+The water looks cool and refreshing.  The trail continues north and south.  
+~
+0 0 0
+E
+stream~
+The crystal clear water runs at a speedy pace.  Inside tiny
+{Yf{yi{Ys{yh{w and other little creatures can be seen.  
+~
+D0
+~
+~
+0 0 407
+D2
+~
+~
+0 0 403
+S
+#405
+{D-={wA Dark Trail{D=-{x~
+The bushes and trees shy away from this blackened path.  The over
+shadowing canopy of the trees creates an artificial sense of impending doom.
+Small, claw like {Wprints{w are all over the trail, it appears to be well
+used.  Ahead to the west, is a clearing.  
+~
+0 4 3
+E
+prints~
+They appear to belong to only one known creature... {ROrcs{x
+~
+D1
+~
+~
+0 0 403
+D3
+~
+~
+0 0 406
+S
+#406
+{D-={wSacred Clearing{D=-{x~
+The pungent aroma of boiling chemicals swirls through this dead place. 
+Not so much a natural clearing, just where the trees and bushes died away to
+after being assaulted with magic and toxic rituals.  A large bubbling black
+{Wpot{w swings over a greenish fire.  A foul smelling purple smoke rises
+above into the tree tops.  This is a ritualistic ground for the Orcs.  East
+leads back to the trails.  
+~
+0 8192 0
+E
+pot~
+A disgusting stench wafts up from the bubbling {Mpurple{x brew.  
+~
+D1
+~
+~
+0 0 405
+S
+#407
+{g-={WHazy Pathway{g=-{x~
+A thick, hazy fog has settled over the forest.  The sounds of the birds,
+animals and insects have vanished.  No noise is to be heard.  The creepy fog
+wraps itself around tree trunks and bushes like vaporous rope.  The haziness
+blurs ones vision considerably, the path is becoming increasingly difficult
+to follow.  It continues on...  {Wnorth{w?  Or..  Maybe {Wwest{w?  
+~
+0 0 0
+E
+north~
+You squint your eyes tight and peer to the north.  The land breaks away
+suddenly, if you should travel north, you would certainly plummet to your
+doom.  
+~
+E
+west~
+You squint your eyes tight and peer to the west.  The trail seems to
+continue on in this direction.  
+~
+D0
+~
+~
+0 0 408
+D2
+~
+~
+0 0 404
+D3
+~
+~
+0 0 409
+S
+#408
+{DOver the edge of a cliff!!{x~
+The trail breaks away suddenly, the land dissappears. You are...
+ 
+>F
+ 
+>>A
+ 
+>>>L
+ 
+>>>>L
+ 
+>>>>>I
+ 
+>>>>>>N
+ 
+>>>>>>>G
+ 
+>>>>>>>>!
+ 
+You land with a hard crash to the bottom of the canyon floor, you are miraculously harmed very little by the fall. The steep canyon walls offer no way back to the trail.
+~
+0 4 0
+S
+#409
+{g-={WDeeper Into The Haze{g=-{x~
+The menacing fog grows thicker and thicker here.  It is almost choking
+now.  The path can barely be seen through the muck.  A looming sense of
+dread hangs in the moist air.  The trees, the bushes, the grass, all look as
+if they could strike at any moment.  This truly is a creepy forest.  The
+trail continues on west.  
+~
+0 0 0
+D1
+~
+~
+0 0 407
+D3
+~
+~
+0 0 410
+S
+#410
+{g-={WAn Eerie Path{g=-{x~
+The misty fog is pulled away to the edge of this path.  It lies on either
+side, as if it is afraid to even touch it.  An overwhelming sense of power
+tingles in the air.  The gray tower can be seen, dead ahead north down this
+long dark path.  
+~
+0 0 0
+D0
+~
+~
+0 0 411
+D1
+~
+~
+0 0 409
+S
+#411
+{D-={RPath of Souls{D=-{x~
+Slow chanting can be heard eminating from somewhere inside the haze
+bordering this gloomy path.  The fog rises up on either side, almost fifteen
+feet into the air.  The tower is more visible now.  It is quite large,
+perhaps almost two hundred feet into the air.  Black thunder clouds are
+gathered about the top, striking it at will, but doing nothing to the tower
+itself.  The path marches on north.  
+~
+0 4 0
+D0
+~
+~
+0 0 412
+D2
+~
+~
+0 0 410
+S
+#412
+{D-={RPath of Souls{D=-{x~
+Grasping tendrils of mist reach out from the sides of the path.  They
+look like the hands of lost souls trying to reach once more into the mortal
+world.  A {Wsuit{w of armor lies on the ground, heavly coated with rust. 
+The path takes on a blackish color now, and continues on north.  
+~
+0 0 0
+E
+suit~
+It looks to have been a fine set of armor, before it began rotting away
+in this place.  The only evidence of the armor's previous owner is a skull,
+its jawbone hangs open in an eternal grin, mocking all the brave souls who
+dare tread this path.  
+~
+D0
+~
+~
+0 0 414
+D2
+~
+~
+0 0 411
+S
+#413
+{g-={WForest Trail{g=-{x~
+This forest is a paradise of delight.  The air is warm, and clean.  The
+birds are singing merry little tunes high in the trees.  A very easy going
+trail heads off in a northerly direction, another, simple trail heads off
+east.  
+~
+0 0 0
+D0
+~
+~
+0 0 445
+D1
+~
+~
+0 0 415
+D2
+~
+~
+0 0 401
+S
+#414
+{D-={RApproaching The Tower{D=-{x~
+The large, slate gray tower shoots into the sky more than two hundred
+feet.  It looms over ones soul like a black thundercloud.  It inspires fear
+in men who have only heard tales of it.  Most believe that legends are made
+up, but its all true and then some.  Deadly surprises await adventurers at
+every turn, and around every corner.  The entrance to the tower is north.  
+~
+0 0 0
+D0
+~
+~
+3 0 449
+D2
+~
+~
+0 0 412
+S
+#415
+{g-={WForest Path{g=-{x~
+This path seems well travelled, and maintained.  It is said that a band
+of elves call this forest home, this is a path leading to their small
+village.  A large, round {Wtarget{w is hanging from a tree.  The path
+continues to the east.  
+~
+0 4 0
+E
+target~
+It is a simple target used for archery practice by the elves.  It has a
+finely crafted arrow sticking out of it.  The target has many holes and
+punctures throughout its surface, a good many of them right in the center.  
+~
+D1
+~
+~
+0 0 416
+D3
+~
+~
+0 0 413
+S
+#416
+{g-={WElven Village{g=-{x~
+This is the begining of the one and only road in the little elven
+village.  It is flanked on either side by beautiful {Wflowers{w.  A small
+sign magically floats above the ground, the elves love the land so much, as
+to not pierce it with their sign.  The small road leads away east.  The path
+is back west.  
+~
+0 4 0
+E
+flowers~
+Hundreds of pretty flowers grow all along the sides of the road.  Planted
+by the elves, they are considered a good omen for happy prosperous villages.
+~
+D1
+~
+~
+0 0 417
+D3
+~
+~
+0 0 415
+S
+#417
+{g-={WRoad Through The Village{g=-{x~
+The small, well made road is lined with tiny cottages and pretty homes. 
+The elves know how to enjoy life to its fullest.  The sweet sound of music
+fills the air, a happy tune sung for ages by the elves.  A few of them are
+gathered in the road, talking in their sing songy language.  The road leads
+to the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 418
+D3
+~
+~
+0 0 416
+S
+#418
+{g-={WElven Village{g=-{x~
+Small elvish homes are to the north and south, they are made primarily
+from wood and leaves.  Luckily for them, the weather is never to bad in the
+forest.  The small road continues east and west.  
+~
+0 0 0
+D0
+~
+~
+1 0 419
+D1
+~
+~
+0 0 421
+D2
+~
+~
+1 0 420
+D3
+~
+~
+0 0 417
+S
+#419
+{g-={WElvish House{g=-{x~
+This small cottage is decorated primarily in earth tones.  A well crafted
+wood chair sits next to a large dinner table.  A small furnace burns
+brightly in the back of the home, there is no wood inside, the flame must be
+caused by a magic of sorts.  A small, well made bed is in the corner.  The
+only exit is south, back to the road.  
+~
+0 8 0
+D2
+~
+~
+1 0 418
+S
+#420
+{g-={WElvish Home{g=-{x~
+This small cottage is decorated primarily in earth tones.  A well crafted
+wood chair sits next to a large dinner table.  A small furnace burns
+brightly in the back of the home, there is no wood inside, the flame must be
+caused by a magic of sorts.  A small well made bed is in the corner.  The
+only exit is north, back to the road.  
+~
+0 8 0
+D0
+~
+~
+1 0 418
+S
+#421
+{g-={WElven Village{g=-{x~
+The village grows more beautiful with each step.  A small stream runs
+merrily along the northern side of the road, where a small shop lies. 
+Another little elvish cottage is to the south.  The road continues on east
+and west.  
+~
+0 0 0
+D0
+~
+~
+0 0 422
+D1
+~
+~
+0 0 424
+D2
+~
+~
+1 0 423
+D3
+~
+~
+0 0 418
+S
+#422
+{g-={WMaerlyn's Weapon Shop{g=-{x~
+This tiny hut is lined with weapons.  Most of them are bows, long bows,
+cross bows, and various other sorts.  In times past, the need for weapons
+was almost non-existant.  But lately the forest has grown hostile towards
+the elves.  Many beasts have had to be put down to save fellow villagers. 
+Maerlyn is one of the best hunters around.  
+~
+0 8 0
+D2
+~
+~
+0 0 421
+S
+#423
+{g-={WElvish Home{g=-{x~
+This small cottage is decorated primarily in earth tones.  A well crafted
+wood chair sits next to a large dinner table.  A small furnace burns
+brightly in the back of the home, there is no wood inside, the flame must be
+caused by a magic of sorts.  A small , neatly made bed lies in the corner. 
+The only exit is back north.  
+~
+0 8 0
+D0
+~
+~
+1 0 421
+S
+#424
+{g-={WVillage Square{g=-{x~
+A large, ancient looking oak tree rises from the center of village
+square.  The trunk must be at least twenty feet in diameter.  A few of the
+village children are climbing about its branches.  A small cottage is to the
+north.  An elvish armor dealer has opened to the east.  The village road
+continues south.  
+~
+0 0 0
+D0
+~
+~
+3 0 425
+D1
+~
+~
+0 0 426
+D2
+~
+~
+0 0 427
+D3
+~
+~
+0 0 421
+S
+#425
+{g-={WElvish Home{g=-{x~
+This small cottage is decorated primarily in earth tones.  A well crafted
+wood chair sits next to a large dinner table.  A small furnace burns
+brightly in the back of the home, there is no wood inside, the flame must be
+caused by a magic of sorts.  A small, neatly made bed is in the corner.  The
+only exit is south, back to the village square.  
+~
+0 0 0
+D2
+~
+~
+3 0 424
+S
+#426
+{g-={WArmor Shop{g=-{x~
+Various pieces of leather, and rawhide armor are displayed all about the
+tiny shop.  Hides of different sizes are hung about the back of the shop. 
+The elves have never been very good at working with metals, most of the
+armor and clothing is that of cloth or leather.  Palom is the best tailor in
+the village.  The only exit is west, back to the village road.  
+~
+0 0 0
+D3
+~
+~
+0 0 424
+S
+#427
+{g-={WVillage Road{g=-{x~
+The village road comes to a halt here.  A large dwelling lies to the
+south.  Two elf guards stand at the door, protecting the leader of the
+Tenilwyn Elves.  The house itself is enormous.  Beautiful, decorative ivy,
+and woven flowers hang all about the outer walls and probably the inner ones
+too.  Two smaller elvish homes are on to the east and west, the leaders
+house is south.  
+~
+0 0 0
+D0
+~
+~
+0 0 424
+D1
+~
+~
+3 0 429
+D2
+~
+~
+3 0 430
+D3
+~
+~
+3 0 428
+S
+#428
+{g-={WElvish Home{g=-{x~
+This small cottage is decorated primarily in earth tones.  A well crafted
+wood chair sits next to a large dinner table.  A small furnace burns
+brightly in the back of the home, there is no wood inside, the flame must be
+caused by a magic of sorts.  A small neatly made bed lies in the corner. 
+The only exit is east, back to the road.  
+~
+0 0 0
+D1
+~
+~
+3 0 427
+S
+#429
+{g-={WElvish Home{g=-{x~
+This small cottage is decorated primarily in earth tones.  A well crafted
+wood chair sits next to a large dinner table.  A small furnace burns
+brightly in the back of the home, there is no wood inside, the flame must be
+caused by a magic of sorts.  A small neatly made bed lies in the corner. 
+The only exit is west, back to the road.  
+~
+0 0 0
+D3
+~
+~
+3 0 427
+S
+#430
+{g-={WLazumen's House{g=-{x~
+Lazumen founded this little elf village many years ago.  He helped build
+most of it with his bare hands.  He considers it a haven from the rest of
+the world.  The villagers built him this wonderful house out of gratitude,
+and named him the leader of the Tenilywyn Elves.  A large hall runs east to
+west, a large parlor is south.  
+~
+0 8 0
+D0
+~
+~
+3 0 427
+D1
+~
+~
+0 0 432
+D2
+~
+~
+3 0 431
+D3
+~
+~
+0 0 433
+S
+#431
+{g-={WThe Parlor{g=-{x~
+This room is primarily used for conversation and the receptions of
+guests.  Large comfortable couches sit in the center of the spacious room. 
+Lovely oil paintings hang from the walls, landscapes, and a few portraits. 
+A large, wooden bookshelf filled with ancient texts dominates the left wall.
+The only exit is north, back to the hall.  
+~
+0 8 0
+D0
+~
+~
+3 0 430
+S
+#432
+{g-={WA Hall{g=-{x~
+Nice smells drift down this hallway, the kitchen and pantry are up ahead.
+A large portrait hangs here, a stout looking elf, it is very old.  A small
+table holds a very beautiful and probably valuable vase.  The kitchen is up
+ahead to the east, the hallway continues to the west.  
+~
+0 8 0
+D1
+~
+~
+3 0 443
+D3
+~
+~
+0 0 430
+S
+#433
+{g-={WA Hall{g=-{x~
+This small cramped hall leads to the two of the houses four bedrooms.  It
+is decorated rather splendidly with paintings Lazumen did himself, and
+various other works of art.  A large wooden door is to the west, behind it
+lies a bedroom.  Another door is to the north, another bedroom.  A small
+staircase leads up to the second floor.  
+~
+0 8 0
+D0
+~
+~
+1 0 435
+D1
+~
+~
+0 0 430
+D3
+~
+~
+1 0 434
+D4
+~
+~
+0 0 436
+S
+#434
+{g-={WGuest Bedroom{g=-{x~
+This lavish guest bedroom has been the temporary lodgings for hundreds of
+distinguished guests spending a little time in Tenilwyn.  A large,
+comfortable looking bed sits in the center of the room, unmade as of now for
+there is nobody to sleep in it.  A large oak dresser lies against the far
+wall, awaiting the belongings of the next visitor.  The only exit is east,
+back to the hallway.  
+~
+0 8 0
+D1
+~
+~
+1 0 433
+S
+#435
+{g-={WA Bedroom{g=-{x~
+Pink dominates most of this room.  It belongs to one of Lazumens
+daughters, Feowyn.  A large dressing mirror stands in the corner.  An overly
+comfortable looking bed lies in the center of the room, with a large frilly
+canopy to boot.  A large {Wbouquet{x of red roses sits on the night table. 
+The only exit is south, back to the hall.  
+~
+0 8 0
+E
+bouquet~
+Beautiful long stem {Rred roses{x from one of the many young men who
+fancy her.  
+~
+D2
+~
+~
+1 0 433
+S
+#436
+{g-={WSecond Floor{g=-{x~
+A long, wood panelled hall stretches out at the top of the stairs.  A
+plush carpet of intricate design lay at the top step.  Large wood doors line
+either side of the hall, containing bedrooms, and a study, and various other
+things a normal dwelling would contain.  On the far left wall, is a
+beautiful painting.  A woman in a bright red dress stands on a sloping hill,
+watching the ocean tides roll away.  On the beach can be seen several tiny
+creatures, obviously very far away, they almost look like lobster.  The
+hallway continues east.  
+~
+0 8 0
+D1
+~
+~
+0 0 437
+D5
+~
+~
+0 0 433
+S
+#437
+{g-={WSecond Floor{g=-{x~
+Two brightly burning candles are on either side of the hallway, as well
+as two identical wooden doors.  Merely bedrooms.  One belongs to Lazumens
+eldest daughter, Mina.  The other to his eldest son, Lazumen the 2nd.  The
+hallway continues east and west.  The two bedrooms lie to the north and
+south.  
+~
+0 8 0
+D0
+~
+~
+3 0 438
+D1
+~
+~
+0 0 440
+D2
+~
+~
+3 0 439
+D3
+~
+~
+0 0 436
+S
+#438
+{g-={WMina's Bedroom{g=-{x~
+A rather drab, non-descript room for a woman.  If there is one regret in
+Lazumens life, its that his eldest daughter grew up to be such a tomboy. 
+Always winning contests of strength, and ability in the village, beating the
+other boys in wrestling matches, and all sorts of other things you'd expect
+a strapping young lad to be doing.  A large bed with plain white sheets lies
+in the corner.  A small dresser with not much on it, save for a hand made
+jewerly box sits in one corner.  The only exit is south, back to the
+hallway.  
+~
+0 8 0
+D2
+~
+~
+3 0 437
+S
+#439
+{g-={WLazumen The 2nd's Bedroom{g=-{x~
+The quaint quarters of an aspiring artist.  Several paintings are on the
+wall, all made by Lazumen the 2nd himself.  In one corner of the room lies a
+beautiful sculpture.  Art supplies are strewn about, paints, clays, brushes,
+sculpting tools.  He appears to have a fair amount of skill.  The only exit
+is north, back to the hallway.  
+~
+0 8 0
+D0
+~
+~
+3 0 437
+S
+#440
+{g-={WSecond Floor{g=-{x~
+The simple hallway continues here.  Another pair of candles lighting the
+way, another pair of doors.  To the north, Lazumens study.  To the south,
+the master bed chamber.  The hallway ends here, and goes back to the west.  
+~
+0 8 0
+D0
+~
+~
+3 0 441
+D2
+~
+~
+3 0 442
+D3
+~
+~
+0 0 437
+S
+#441
+{g-={WLazumen's Study{g=-{x~
+Dusty old books, upon dusty old books.  Rows and rows of ancient tomes,
+tattered scrolls, and volumes of lore.  Lazumen is an adamant study of the
+forgotten legends, and lore of the world.  One such {Wtext{w lies open on
+his small, cramped desk.  The only exit is south, back to the hall.  
+~
+0 8 0
+E
+text~
+The faded words of a brilliant man lie upon the parchment...
+ 
+{bTh....unsl......destro....he.....mso...King..and by doi....o
+r..st....th....na.........ower.
+For it i......... like a wheel.
+{x
+~
+D2
+~
+~
+3 0 440
+S
+#442
+{g-={WMaster Bedchamber{g=-{x~
+Another large bedroom, not much different than the others.  A four post
+bed lies flush against the north wall.  A large desk with many papers strewn
+about in a bid for Lazumens immediate attention sits on the eastern most
+wall.  Two large beautifully paintned portraits hang on the western wall,
+one is of Lazumen as a young man, the other is of his wife Meliwyn.  They
+were painted for him and his wife by a very famous artist out of gratitude,
+for Lazumen saved his life.  North leads back to the hallway.  
+~
+0 8 0
+D0
+~
+~
+3 0 440
+S
+#443
+{g-={WThe Kitchen{g=-{x~
+Its very hot in this tiny cramped little kitchen.  The oven is baking a
+freshly made pie, apple from the smell of it.  The cook, Hax keeps the small
+space very clean.  Not a trace of dirt, or old food can be found anywhere. 
+A small door to the north leads to the pantry, the hallway is back west.  
+~
+0 8 0
+D0
+~
+~
+3 0 444
+D3
+~
+~
+3 0 432
+S
+#444
+{g-={WThe Pantry{g=-{X~
+All of the food for the house is stored in this small space.  Grains,
+fruits, vegetables, all types of foods.  As with the kitchen, Hax keeps this
+room quite neat.  The only exit is south, back into the kitchen.  
+~
+0 0 0
+D2
+~
+~
+3 0 443
+S
+#445
+{g-={WNature Grove{g=-{x~
+The beauty of the forest here is astonishing.  Everything in perfect
+splendor.  Tall trees, whistling birds, beautiful wildflowers.  Its as if
+the goddess of nature herself graces the landscape here.  The grove
+continues north.  
+~
+0 0 0
+D0
+~
+~
+0 0 446
+D2
+~
+~
+0 0 413
+S
+#446
+{g-={WNature Grove{g=-{x~
+The beauty of the forest here is astonishing.  Everything in perfect
+splendor.  Tall trees, whistling birds, beautiful wildflowers.  Its as if
+the goddess of nature herself graces the landscape here.  The grove
+continues north.  
+~
+0 0 0
+D0
+~
+~
+0 0 447
+D2
+~
+~
+0 0 445
+S
+#447
+{g-={WNature Grove{g=-{x~
+The beauty of the forest here is astonishing.  Everything in perfect
+splendor.  Tall trees, whistling birds, beautiful wildflowers.  Its as if
+the goddess of nature herself graces the landscape here.  The grove
+continues north.  
+~
+0 0 0
+D0
+~
+~
+0 0 448
+D2
+~
+~
+0 0 446
+S
+#448
+{g-={WDomain Of Nature{g=-{x~
+Here lies the domain of the Goddess of Nature.  Soft bluish grass grows
+thickly in the center.  Trees encircle the entire area, blossoms grow on
+every one in all shades of color.  Lots of animals are gathered about, a few
+drinking from the small stream in the back of the grove.  
+~
+0 0 0
+D2
+~
+~
+0 0 447
+S
+#449
+{D-={RCrimson Tower{D=-{x~
+This is the entrance to Crimson Tower.  The simple four walled room is
+sheer white.  Bright, eye burning white.  It is a very sharp contrast to the
+world that lies outside the door.  A small pool of blood has gathered in the
+center of the room.  This is the farthest any of the brave men who came here
+dare go.  Many have never made it back out.  A heavy force lies in the air,
+pulsating rapidly, making ones mind hazy.  A small door lies to the east,
+south will take you out of Crimson Tower.  
+~
+0 8 0
+D1
+~
+~
+3 0 450
+D2
+~
+~
+3 0 414
+S
+#450
+{D-={ROdd Hallway{D=-{x~
+This hallway is seriously out of whack.  Lots of furniture line the
+walls, most of it is warped and distorted, twisted into strange shapes.  One
+painting hangs on the wall, nothing is seen except for a wash of red on a
+black background.  A large chandelier hangs from the ceiling burning
+brightly.  The force still throbs in the air, heavier now.  The hallway
+continues to the east.  
+~
+0 8 0
+D1
+~
+~
+0 0 451
+D3
+~
+~
+3 0 449
+S
+#451
+{D-={ROdd Hallway{D=-{x~
+The hall takes a sharp turn to the north here.  The walls here are
+charred and burned up in some places.  The paintings which hung on the walls
+have been reduced to ashes.  A heavy smokey smell hangs in the air.  A
+stairway is to the north.  A small wooden door lies shut up tight to the
+east.  
+~
+0 8 0
+D0
+~
+~
+0 0 452
+D1
+~
+~
+3 0 453
+D3
+~
+~
+0 0 450
+S
+#452
+{D-={RStairwell{D=-{x~
+A battered wooden stairwell reaches up to the second floor.  A gnarled
+old railing is hanging on for dear life, broken in some places.  The stairs
+themselves are rotted in a few areas.  A bright red carpet runs down the
+center like a bloody streak.  The stairs lead to the second floor, the
+hallway is back south.  
+~
+0 8 0
+D2
+~
+~
+0 0 451
+D4
+~
+~
+0 0 454
+S
+#453
+{D-={RA Small Study{D=-{x~
+The bookshelves that lined this small study have been scorched almost
+beyond recognition.  The floor is covered with ash and charred bones.  This
+is the lair of a fire demon if ever one existed.  The only exit is back west
+into the hallway.  
+~
+0 8 0
+D3
+~
+~
+3 0 451
+S
+#454
+{D-={RSecond Floor{D=-{x~
+The stair case exits onto a long capeted hallway running east to west. 
+Brightly burning candles line either side providing the hallways only light
+source.  A large painting hangs on the wall directly ahead of the staircase,
+it is of a large black stallion galloping in a field of roses.  It is by all
+means a masterpiece , but seems somehow horrible in this macabre setting. 
+The hallway continues east to west.  
+~
+0 8 0
+D1
+~
+~
+0 0 455
+D3
+~
+~
+0 0 457
+D5
+~
+~
+0 0 452
+S
+#455
+{D-={RHallway{D=-{x~
+The hallway looks pretty much on par with the rest of the place so far. 
+Strange and creepy.  A few paintings hang on the wall, various portraits of
+men in deep shadow, making strange facial contortions.  One seems to be
+screaming in horror.  A long trail of smeared blood runs down the hallway to
+a closed door, its been dried for years now, but the crimson streaks burn
+brightly in the drab, mostly brown hallway.  A large closed up door is to
+the east.  The hallway continues to the west.  
+~
+0 8 0
+D1
+~
+~
+3 0 456
+D3
+~
+~
+0 0 454
+S
+#456
+{D-={RChamber Of The Wraith{D=-{x~
+The walls are barely visible through the thick layer of black slime
+slowly crawling down them.  A large pentagram is drawn in spilled blood in
+the center of the room.  Many candles are aglow all around it.  The stench
+of death and terror hang heavily in the air.  The tingling sensation that
+electrifies the air feels more concentrated here, more tangible.  The only
+exit is west, back to the hallway.  
+~
+0 8 0
+D3
+~
+~
+3 0 455
+S
+#457
+{D-={RHallway{D=-{x~
+This hallway is decorated with a few pieces of moderately valuable
+furniture.  Many different types of paintings hang on the walls.  A few
+doors line the corridor, leading to other places.  The hallway continues
+east and west.  
+~
+0 8 0
+D1
+~
+~
+0 0 454
+D3
+~
+~
+0 0 458
+S
+#458
+{D-={RHallway{D=-{x~
+This hallway is decorated with a few pieces of moderately valuable
+furniture.  Many different types of paintings hang on the walls.  A few
+doors line the corridor, leading to other places.  The hallway continues
+east and west.  A large door is to the north.  
+~
+0 8 0
+D0
+~
+~
+3 424 459
+D1
+~
+~
+0 0 457
+D3
+~
+~
+0 0 472
+S
+#459
+{D-={RA Musty Room{D=-{x~
+A small, cramped room.  The walls and floors are devoid of furniture and
+other objects ones private room may have.  Thousands of arcane symbols have
+been painstakingly drawn all over the room, covering the walls and ceiling. 
+The room has a damp, musty smell.  The only exit is south, back to the
+hallway.  A large glowing red portal stands in the center of the room,
+leading to places unknown.  
+~
+0 8 0
+D2
+~
+~
+3 424 458
+S
+#460
+{RT{mh{Re {mD{Re{ma{Rd{ml{Ri{mg{Rh{mt{rs{x~
+A dimension on the very edge of the universe.  There is no light, no
+sound, no air, nothing.  A sinister power throbs heavily here.  Like this is
+its home.  No mortal has ever been inside the deadlights and remained sane,
+let alone get back out again.  Exits are in all directions.  
+~
+0 8192 0
+D0
+~
+~
+0 0 461
+D1
+~
+~
+0 0 463
+D2
+~
+~
+0 0 462
+D3
+~
+~
+0 0 463
+D4
+~
+~
+0 0 462
+D5
+~
+~
+0 0 461
+S
+#461
+{RT{mh{Re {mD{Re{ma{Rd{ml{Ri{mg{Rh{mt{rs{x~
+A dimension on the very edge of the universe.  There is no light, no
+sound, no air, nothing.  A sinister power throbs heavily here.  Like this is
+its home.  No mortal has ever been inside the deadlights and remained sane,
+let alone get back out again.  Exits are in all directions.  
+~
+0 8192 0
+D0
+~
+~
+0 0 464
+D1
+~
+~
+0 0 464
+D2
+~
+~
+0 0 460
+D3
+~
+~
+0 0 465
+D4
+~
+~
+0 0 460
+D5
+~
+~
+0 0 467
+S
+#462
+{RT{mh{Re {mD{Re{ma{Rd{ml{Ri{mg{Rh{mt{rs{x~
+A dimension on the very edge of the universe.  There is no light, no
+sound, no air, nothing.  A sinister power throbs heavily here.  Like this is
+its home.  No mortal has ever been inside the deadlights and remained sane,
+let alone get back out again.  Exits are in all directions.  
+~
+0 8192 0
+D0
+~
+~
+0 0 460
+D3
+~
+~
+0 0 466
+D4
+~
+~
+0 0 466
+D5
+~
+~
+0 0 460
+S
+#463
+{RT{mh{Re {mD{Re{ma{Rd{ml{Ri{mg{Rh{mt{rs{x~
+A dimension on the very edge of the universe.  There is no light, no
+sound, no air, nothing.  A sinister power throbs heavily here.  Like this is
+its home.  No mortal has ever been inside the deadlights and remained sane,
+let alone get back out again.  Exits are in all directions.  
+~
+0 8192 0
+D1
+~
+~
+0 0 460
+D3
+~
+~
+0 0 460
+S
+#464
+{RT{mh{Re {mD{Re{ma{Rd{ml{Ri{mg{Rh{mt{rs{x~
+A dimension on the very edge of the universe.  There is no light, no
+sound, no air, nothing.  A sinister power throbs heavily here.  Like this is
+its home.  No mortal has ever been inside the deadlights and remained sane,
+let alone get back out again.  Exits lead off in all directions.  
+~
+0 8192 0
+D2
+~
+~
+0 0 461
+D3
+~
+~
+0 0 461
+D5
+~
+~
+0 0 465
+S
+#465
+{RT{mh{Re {mD{Re{ma{Rd{ml{Ri{mg{Rh{mt{rs{x~
+A dimension on the very edge of the universe.  There is no light, no
+sound, no air, nothing.  A sinister power throbs heavily here.  Like this is
+its home.  No mortal has ever been inside the deadlights and remained sane,
+let alone get back out again.  Exits lead of in all directions.  
+~
+0 8192 0
+D0
+~
+~
+0 0 466
+D1
+~
+~
+0 0 461
+D4
+~
+~
+0 0 464
+S
+#466
+{RT{mh{Re {mD{Re{ma{Rd{ml{Ri{mg{Rh{mt{rs{x~
+A dimension on the very edge of the universe.  There is no light, no
+sound, no air, nothing.  A sinister power throbs heavily here.  Like this is
+its home.  No mortal has ever been inside the deadlights and remained sane,
+let alone get back out again.  Exits lead off in all directions.  
+~
+0 8192 0
+D1
+~
+~
+0 0 462
+D2
+~
+~
+0 0 465
+D3
+~
+~
+0 0 467
+D5
+~
+~
+0 0 462
+S
+#467
+{RT{mh{Re {mD{Re{ma{Rd{ml{Ri{mg{Rh{mt{rs{x~
+A dimension on the very edge of the universe.  There is no light, no
+sound, no air, nothing.  A sinister power throbs heavily here.  Like this is
+its home.  No mortal has ever been inside the deadlights and remained sane,
+let alone get back out again.  Exits lead of all in all directions.  
+~
+0 8192 0
+D1
+~
+~
+0 0 466
+D3
+~
+~
+0 0 468
+D4
+~
+~
+0 0 461
+S
+#468
+{RT{mh{Re {mD{Re{ma{Rd{ml{Ri{mg{Rh{mt{rs{x~
+The place has changed somewhat.  The sense of a path, or a way through
+the dimension trod many times by unknown creatures fills ones mind.  An
+eerie humming sound eminates from everywhere and nowhere all at once. 
+Invisable walls bar all exits except for north.  
+~
+0 8192 0
+D0
+~
+~
+0 0 469
+D1
+~
+~
+0 0 467
+S
+#469
+{RT{mh{Re {mD{Re{ma{Rd{ml{Ri{mg{Rh{mt{rs{x~
+The place has changed somewhat.  The sense of a path, or a way through
+the dimension trod many times by unknown creatures fills ones mind.  An
+eerie humming sound eminates from everywhere and nowhere all at once. 
+Invisable walls bar all exits except for north.  
+~
+0 8192 0
+D0
+~
+~
+0 0 470
+D2
+~
+~
+0 0 468
+S
+#470
+{RT{mh{Re {mD{Re{ma{Rd{ml{Ri{mg{Rh{mt{rs{x~
+The place has changed somewhat.  The sense of a path, or a way through
+the dimension trod many times by unknown creatures fills ones mind.  An
+eerie humming sound eminates from everywhere and nowhere all at once. 
+Invisable walls bar all exits except for north.  
+~
+0 8196 0
+D0
+~
+~
+0 0 471
+D2
+~
+~
+0 0 469
+S
+#471
+{DThe Creatures Lair{x~
+A bright ball of pulsing blue light tries to overwhelm your senses.  The
+eerie humming sound grows to a cacophony of brilliant and screeching sounds
+that threaten to blood ones ears.  In the center of it all, is a creature of
+indescribable size.  It takes up most of ones peripheral vision, and goes on
+for miles in each direction.  It has no shape, yet is every shape, its ever
+changing face reveals elves, humans, orcs, and a few creatures not known in
+this realm of existance.  This creature is older than time, older than
+thought.  To try and comprehend it, is beyond the reach of a mortals mind. 
+South leads back into the Deadlights.  
+~
+0 8 0
+D2
+~
+~
+0 0 470
+S
+#472
+{D-={RSpiral Staircase{D=-{x~
+A solid granite spiral staircase wraps around a huge pillar.  It leads to
+the other floors of the tower.  Many torches light the way along the ascent.
+Up leads to the other floors.  The hallway is back east.  
+~
+0 8 0
+D1
+~
+~
+0 0 458
+D4
+~
+~
+0 0 473
+S
+#473
+{D-={RSpiral Staircase{D=-{x~
+A solid granite spiral staircase wraps around a huge pillar.  It leads to
+the other floors of the tower.  Many torches light the way along the ascent.
+The staircase continues up and down.  
+~
+0 8 0
+D4
+~
+~
+0 0 474
+D5
+~
+~
+0 0 472
+S
+#474
+{D-={RSpiral Staircase{D=-{x~
+A solid granite spiral staircase wraps around a huge pillar.  It leads to
+the other floors of the tower.  Many torches light the way along the ascent.
+The staircase continues up and down.  
+~
+0 8 0
+D4
+~
+~
+0 0 475
+D5
+~
+~
+0 0 473
+S
+#475
+{D-={RSpiral Staircase{D=-{x~
+A solid granite spiral staircase wraps around a huge pillar.  It leads to
+the other floors of the tower.  Many torches light the way along the ascent.
+The staircase continues up and down.  A small corridor is to the east.  
+~
+0 8 0
+D1
+~
+~
+0 0 476
+D4
+~
+~
+0 0 478
+D5
+~
+~
+0 0 474
+S
+#476
+{D-={RBlood Soaked Corridor{D=-{x~
+{rThe walls, the floors, the ceiling, are covered in blood.  Washes of
+it, some smeared finger and hand prints, puddles gathered on the floor.  It
+is as if a great massacre took place within the confines of this tiny
+corridor.  {rThe small hallway continues east.  {x 
+~
+0 8 0
+D1
+~
+~
+0 0 477
+D3
+~
+~
+0 0 475
+S
+#477
+{D-={RBlood Soaked Corridor{D=-{x~
+{r The walls, the floors, the ceiling, are covered in blood.  Washes of
+it, some smeared finger and hand prints, puddles gathered on the floor.  It
+is as if a great massacre took place within the confines of this tiny
+corridor.  The small hallway continues east.  {x 
+~
+0 8 0
+D1
+~
+~
+0 0 479
+D3
+~
+~
+0 0 476
+S
+#478
+{D-={RSpiral Staircase{D=-{x~
+A solid granite spiral staircase wraps around a huge pillar.  It leads to
+the other floors of the tower.  Many torches light the way along the ascent.
+The staircase continues up and down.  
+~
+0 8 0
+D4
+~
+~
+0 0 482
+D5
+~
+~
+0 0 475
+S
+#479
+{D-={RBlood Soaked Corridor{D=-{x~
+{r The walls, the floors, the ceiling, are covered in blood.  Washes of
+it, some smeared finger and hand prints, puddles gathered on the floor.  It
+is as if a great massacre took place within the confines of this tiny
+corridor.  The small hallway continues east.  {x 
+~
+0 8 0
+D1
+~
+~
+0 0 480
+D3
+~
+~
+0 0 477
+S
+#480
+{D-={RBefore The Chamber{D=-{x~
+{rThe hallway ends here.  A large stone arch covered with archaeic
+symbols drawn in fresh blood stands to the east.  Beyond the arch is the
+chamber of the Master Lich, from whom all liches were created.  The corridor
+is back west, the chamber is east.  {x 
+~
+0 8 0
+D1
+~
+~
+0 0 481
+D3
+~
+~
+0 0 479
+S
+#481
+{D-={RChamber Of The Master Lich{D=-{x~
+{rThe residence of the Master Lich is quite exspansive.  It is a circular
+chamber with a high, domed ceiling.  Running all around the rooms one
+continuous wall, is a mural of the vampire wars of ages ago, many bloody
+scenes are depicted in gruesome detail.  A large rather plain looking wooden
+coffin sits in the center of the room.  West leads back down the corridor. 
+{x 
+~
+0 9 0
+D3
+~
+~
+0 0 480
+S
+#482
+{D-={RSpiral Staircase{D=-{x~
+This is the end of the two hundred foot ascent.  The staircase makes one
+final trip round and melts into the final floor of the tower.  The
+overwhelming power in the air can send one reeling.  The final chambers of
+Crimson Tower are to the east.  Down leads back down the staircase.  
+~
+0 8 0
+D1
+~
+~
+0 0 483
+D5
+~
+~
+0 0 478
+S
+#483
+{W-={cThe Inner Sanctum{W=-{x~
+The hallway has a different feel from the rest of the tower.  It is
+bright, warm, feels safe.  Many gold arches run the legnth of the hallway. 
+Thousands of burning candles light the way to whatever being lives atop this
+evil place.  Though it all seems quite real, there is an overwhelming sense
+of a hoax taking place, a farce.  Everything looks real, yet nothing is
+real.  The hallway continues east.  
+~
+0 8 0
+D1
+~
+~
+0 0 484
+D3
+~
+~
+0 0 482
+S
+#484
+{W-={cThe Inner Sanctum{W=-{x~
+The hallway has a different feel from the rest of the tower.  It is
+bright, warm, feels safe.  Many gold arches run the legnth of the hallway. 
+Thousands of burning candles light the way to whatever being lives atop this
+evil place.  Though it all seems quite real, there is an overwhelming sense
+of a hoax taking place, a farce.  Everything looks real, yet nothing is
+real.  The hallway continues east.  
+~
+0 8 0
+D1
+~
+~
+0 0 485
+D3
+~
+~
+0 0 483
+S
+#485
+{W-={cThe Inner {RSanctum{D=-{x~
+The bright cheery room begins to flicker.  Back forth, back forth. 
+Macabre setting, peaceful hallway.  Whatever is going on, the master of this
+tower cannot control his charade anymore.  The gold arches flicker and fade
+into ones made from skulls.  The candles blow out, the room grows cold.  The
+bright cheery walls begin to bleed.  The hallway continues east.  
+~
+0 8 0
+D1
+~
+~
+0 0 486
+D3
+~
+~
+0 0 484
+S
+#486
+{D-={RThe True Tower{D=-{x~
+The cheery illusion has vanished totally.  Whats left is something much
+more sinister.  Its as if this place was woven from the blackest threads of
+a dark nightmare.  The hallway continues east.  A large black door is to the
+north.  
+~
+0 8 0
+D0
+~
+~
+3 0 487
+D1
+~
+~
+0 0 488
+D3
+~
+~
+0 0 485
+S
+#487
+{D-={RLair Of Madrin{D=-{x~
+A small, ordinary room.  The walls, however, are covered with every
+weapon imaginable.  Swords, spears, axes, daggers, Madrin is expert at them
+all.  Back in his normal world life, he was known as Madrin of the divine
+blade.  He slew many thousands of people who came to challenge him.  He
+finally retreated here, and became a servant to the crimson lord in exchange
+for immortality, and solitude.  The hallway is back south.  
+~
+0 8 0
+D2
+~
+~
+3 0 486
+S
+#488
+{D-={RNearing The End{D=-{x~
+The cheery illusion has vanished totally.  Whats left is something much
+more sinister.  Its as if this place was woven from the blackest threads of
+a dark nightmare.  The hallway continues east.  
+~
+0 8 0
+D1
+~
+~
+0 0 489
+D3
+~
+~
+0 0 486
+S
+#489
+{D-={RNearing The End{D=-{x~
+The cheery illusion has vanished totally.  Whats left is something much
+more sinister.  Its as if this place was woven from the blackest threads of
+a dark nightmare.  The hallway continues east.  A large black door is to the
+south.  
+~
+0 8 0
+D1
+~
+~
+0 0 490
+D2
+~
+~
+3 0 492
+D3
+~
+~
+0 0 488
+S
+#490
+{D-={RBefore The Chamber{D=-{x~
+A large, solid stone door lies shut tight to the east.  The lord of the
+tower, is within.  
+~
+0 8 0
+D1
+~
+~
+3 0 491
+D3
+~
+~
+0 0 489
+S
+#491
+{D-={RChamber Of The Crimson Lord{D=-{x~
+A wide expansive domed room.  A large throne sits in the center. 
+Thousands of torches and candles are everywhere, making the room extremely
+bright.  A large pool of water lies at the foot of the throne.  It glows
+with a mystical flickering red light.  In it can be seen any event, any
+person, any time.  Truly a magical treasure.  The power within this room
+lurks around as if it had a tangible presence.  It flows throughout, up the
+walls, around the ceiling, swirling atop the pool of water.  The hallway is
+back west.  
+~
+0 8200 0
+D3
+~
+~
+3 0 490
+S
+#492
+{D-={RLair Of Tempest{D=-{x~
+The master of storm and squall.  Whether it be a rainy drizzle or a
+thunderous typhoon, Tempest can harness it, wield it, destroy with it. 
+Thousands of black scorches are all over the walls, no doubt the victims of
+Tempests' whipcrack bolts of lightning.  He is the wizard, all wizards
+aspire to be like, though he is only a legend.  He is however, very real,
+and resides in the tower.  Awaiting the time that he may rule the world.  A
+large skylight has been crudely cut into the ceiling.  The sky above is
+black with thunderclouds.  North leads back to the hallway.  
+~
+0 0 0
+D0
+~
+~
+3 0 489
+S
+#493
+{D-={bDungeon Cell{D=-{X~
+The walls, floor, and ceiling are so black they are barely seen in the
+small glowing light cast by a torch outside the cell door.  All around are
+the moans and groans of agony, hunger, and desperation.  Many of the
+prisoners are resigned to their situation and are ready to die whenever they
+will.  The cell door is to the north, it looks locked up quite well though. 
+A small hole can be seen in the top part of the ceiling.  
+~
+0 8 0
+D0
+~
+~
+3 431 494
+D4
+~
+~
+0 0 475
+S
+#494
+{D-={bDungeon{D=-{x~
+This foul smelling hallway is rather bright.  Many torches are burning
+away on the walls.  They cast their glow on a few other cell doors
+containing other persons damned by the Crimson Lord.  The dungeon continues
+to the west.  There is a cell to the south.  
+~
+0 8 0
+D2
+~
+~
+3 431 493
+D3
+~
+~
+0 0 495
+S
+#495
+{D-={bDungeon{D=-{x~
+This foul smelling hallway is rather bright.  Many torches are burning
+away on the walls.  They cast their glow on a few other cell doors
+containing other persons damned by the Crimson Lord.  The dungeon continues
+to the west and east.  There is a cell to the south.  
+~
+0 8 0
+D1
+~
+~
+0 0 494
+D2
+~
+~
+3 431 497
+D3
+~
+~
+0 0 496
+S
+#496
+{D-={bDungeon{D=-{x~
+This foul smelling hallway is rather bright.  Many torches are burning
+away on the walls.  They cast their glow on a few other cell doors
+containing other persons damned by the Crimson Lord.  The dungeon continues
+to the east and west.  There is a cell to the south.  
+~
+0 8 0
+D1
+~
+~
+0 0 495
+D2
+~
+~
+3 431 498
+D3
+~
+~
+0 0 499
+S
+#497
+{D-={bDungeon Cell{D=-{X~
+The walls, floor, and ceiling are so black they are barely seen in the
+small glowing light cast by a torch outside the cell door.  All around are
+the moans and groans of agony, hunger, and desperation.  Many of the
+prisoners are resigned to their situation and are ready to die whenever they
+will.  The cell door is to the north, it looks locked up quite well.  
+~
+0 8 0
+D0
+~
+~
+3 431 495
+S
+#498
+{D-={bDungeon Cell{D=-{X~
+The walls, floor, and ceiling are so black they are barely seen in the
+small glowing light cast by a torch outside the cell door.  All around are
+the moans and groans of agony, hunger, and desperation.  Many of the
+prisoners are resigned to their situation and are ready to die whenever. 
+The cell door is to the north, it looks locked up quite well.  
+~
+0 8 0
+D0
+~
+~
+3 431 496
+S
+#499
+{D-={bGuard Chamber{D=-{x~
+A plain square stone room serves as the dungeon guards chamber.  Here he
+can look out and watch every single inch of his territory with keen eyes,
+nobody escapes under his watch.  East leads back to the dungeon.  
+~
+0 8 0
+D1
+~
+~
+0 0 496
+S
+#0
+
+
+
+#SPECIALS
+M 421 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 414 0 1
+D 0 418 0 1
+D 0 418 2 1
+D 0 419 2 1
+D 0 420 0 1
+D 0 421 2 1
+D 0 423 0 1
+D 0 424 0 1
+D 0 425 2 1
+D 0 427 1 1
+D 0 427 2 1
+D 0 427 3 1
+D 0 428 1 1
+D 0 429 3 1
+D 0 430 0 1
+D 0 430 2 1
+D 0 431 0 1
+D 0 432 1 1
+D 0 433 0 1
+D 0 433 3 1
+D 0 434 1 1
+D 0 435 2 1
+D 0 437 0 1
+D 0 437 2 1
+D 0 438 2 1
+D 0 439 0 1
+D 0 440 0 1
+D 0 440 2 1
+D 0 441 2 1
+D 0 442 0 1
+D 0 443 0 1
+D 0 443 3 1
+D 0 444 2 1
+D 0 449 1 1
+D 0 449 2 1
+D 0 450 3 1
+D 0 451 1 1
+D 0 453 3 1
+D 0 455 1 1
+D 0 456 3 1
+D 0 458 0 2
+D 0 459 2 2
+D 0 486 0 1
+D 0 487 2 1
+D 0 489 2 1
+D 0 490 1 1
+D 0 491 3 1
+D 0 492 0 1
+D 0 493 0 2
+D 0 494 2 2
+D 0 495 2 2
+D 0 496 2 2
+D 0 497 0 2
+D 0 498 0 2
+M 0 423 100 400 2
+M 0 424 100 401 2
+M 0 425 100 401 3
+M 0 425 100 402 4
+M 0 400 1 402 1
+E 0 400 0 16
+M 0 423 100 403 2
+O 0 401 0 406
+M 0 401 1 406 1
+E 0 402 0 3
+M 0 402 3 406 3
+M 0 424 100 407 2
+M 0 425 100 407 2
+M 0 423 100 409 2
+M 0 424 100 415 3
+O 0 403 0 416
+M 0 412 100 417 4
+M 0 403 1 422 1
+G 0 404 0
+G 0 405 0
+G 0 406 0
+M 0 412 5 423 20
+M 0 412 100 424 5
+M 0 412 1 424 20
+M 0 412 2 425 20
+M 0 404 1 426 1
+G 0 407 0
+G 0 408 0
+G 0 409 0
+G 0 410 0
+M 0 412 10 427 20
+M 0 412 4 428 20
+M 0 412 3 429 20
+M 0 410 1 435 1
+E 0 415 0 6
+M 0 405 1 438 1
+E 0 411 0 16
+M 0 406 1 439 1
+E 0 412 0 5
+M 0 407 1 441 1
+E 0 413 0 1
+M 0 409 1 442 1
+E 0 414 0 3
+M 0 411 1 444 1
+E 0 416 0 13
+M 0 422 1 448 1
+E 0 426 0 21
+M 0 414 2 450 2
+M 0 414 2 451 2
+M 0 414 3 452 3
+M 0 414 1 452 1
+M 0 413 1 453 1
+E 0 417 0 18
+M 0 414 100 454 1
+M 0 414 100 455 2
+M 0 415 1 456 1
+E 0 418 0 12
+M 0 414 100 457 2
+M 0 414 100 458 2
+O 0 419 0 459
+M 0 416 1 471 1
+G 0 420 0
+M 0 414 100 472 1
+M 0 414 100 473 2
+M 0 414 100 474 2
+M 0 414 100 475 2
+M 0 417 100 476 1
+M 0 417 100 477 1
+M 0 414 100 478 2
+M 0 417 100 479 1
+M 0 417 100 480 1
+M 0 418 1 481 1
+E 0 421 0 2
+M 0 414 100 482 2
+M 0 414 100 485 2
+M 0 414 100 486 2
+M 0 420 1 487 1
+E 0 423 0 8
+M 0 414 100 488 2
+M 0 414 100 489 2
+M 0 414 100 490 2
+M 0 421 1 491 1
+G 0 424 0
+E 0 425 0 5
+M 0 419 1 492 1
+E 0 422 0 20
+M 0 426 100 497 1
+E 0 427 0 16
+M 0 426 100 498 1
+E 0 428 0 10
+M 0 427 1 499 1
+E 0 429 0 16
+E 0 430 0 25
+G 0 431 0
+S
+
+
+
+#SHOPS
+403 5 0 0 0 0 100 100 0 23
+404 9 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#400
+emote looks you up and down
+say so, you come seeking the power do you?
+~
+#401
+say Ah, of course, many a strong man has come here, all have failed
+say Do you know why that is?
+~
+#402
+emote stops sharpening at your intrusion
+mob echo She sees nothing but fear and weakness in your eyes and soul.
+mob echo She lowers her head and continues sharpening her dagger.
+done
+~
+#403
+emote yeowls with flaming rage
+~
+#404
+peer $n
+emote flickers and spurts then is finally extinguished
+mob echo A final tinge of smoke rises from the fallen beast
+~
+#405
+mob echo {RThe Crimson Lord has decided he does not wish to deal with you personally.
+mob echo {RWith a wave of his hand, his minions carry you down into the depths of
+mob echo {Rthe tower so that you may rot in his eternal prison.{x
+mob trans $n 493
+~
+#406
+cackle
+kill $n
+mob spell vampire
+mob spell vampire
+mob spell vampire
+mob spell vampire
+mob spell vampire
+mob spell vampire
+mob spell vampire
+mob spell vampire
+mob spell vampire
+mob spell vampire
+mob spell vampire
+mob spell vampire
+mob spell vampire
+mob spell vampire
+mob spell vampire
+mob spell vampire
+~
+#499
+say Die Bastard!!
+backstab $n
+~
+#0
+
+#$

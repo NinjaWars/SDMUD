@@ -1,0 +1,141 @@
+act_comm.o: act_comm.c sd.h buffer.h board.h files.h interp.h proto.h \
+  gsn.h globals.h recycle.h tables.h db.h olc.h
+act_enter.o: act_enter.c sd.h buffer.h board.h files.h interp.h proto.h \
+  gsn.h globals.h
+act_info.o: act_info.c sd.h buffer.h board.h files.h interp.h proto.h \
+  gsn.h globals.h magic.h recycle.h tables.h lookup.h db.h
+act_move.o: act_move.c sd.h buffer.h board.h files.h interp.h proto.h \
+  gsn.h globals.h tables.h
+act_obj.o: act_obj.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h recycle.h tables.h magic.h
+act_wiz2.o: act_wiz2.c sd.h buffer.h board.h files.h interp.h proto.h \
+  gsn.h globals.h recycle.h tables.h lookup.h
+act_wiz.o: act_wiz.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h recycle.h tables.h lookup.h magic.h olc.h db.h
+alias.o: alias.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h
+anclist.o: anclist.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h recycle.h
+arena.o: arena.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h
+auction.o: auction.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h recycle.h
+ban.o: ban.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h recycle.h
+bane.o: bane.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h magic.h
+bit.o: bit.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h tables.h
+board.o: board.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h recycle.h colordef.h
+buffer.o: buffer.c include.h sd.h buffer.h board.h files.h interp.h \
+  proto.h gsn.h globals.h
+build.o: build.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h build.h version.h
+changes.o: changes.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h
+clans.o: clans.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h recycle.h tables.h lookup.h
+comm.o: comm.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h recycle.h tables.h telnet.h
+const.o: const.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h magic.h
+cprintf.o: cprintf.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h
+db2.o: db2.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h db.h lookup.h tables.h
+db.o: db.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h globals.h \
+  db.h recycle.h tables.h lookup.h
+economy.o: economy.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h recycle.h tables.h lookup.h
+effects.o: effects.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h recycle.h
+events.o: events.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h
+explore.o: explore.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h
+fight.o: fight.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h tables.h recycle.h
+finger.o: finger.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h magic.h recycle.h tables.h lookup.h
+flags.o: flags.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h tables.h
+forget.o: forget.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h
+freeze.o: freeze.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h
+games.o: games.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h recycle.h games.h
+handler.o: handler.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h magic.h recycle.h tables.h
+healer.o: healer.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h magic.h
+hedit.o: hedit.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h tables.h olc.h lookup.h recycle.h
+help.o: help.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h magic.h recycle.h tables.h lookup.h db.h
+homes.o: homes.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h recycle.h
+illegal.o: illegal.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h magic.h recycle.h
+interp.o: interp.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h db.h
+lookup.o: lookup.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h tables.h lookup.h
+magic2.o: magic2.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h magic.h tables.h recycle.h
+magic3.o: magic3.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h magic.h recycle.h
+magic4.o: magic4.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h magic.h recycle.h
+magic.o: magic.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h magic.h recycle.h tables.h
+mapmaker.o: mapmaker.c sd.h buffer.h board.h files.h interp.h proto.h \
+  gsn.h globals.h
+marry.o: marry.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h
+math.o: math.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h db.h
+mem.o: mem.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h recycle.h db.h
+mob_cmds.o: mob_cmds.c sd.h buffer.h board.h files.h interp.h proto.h \
+  gsn.h globals.h mob_cmds.h
+mob_prog.o: mob_prog.c sd.h buffer.h board.h files.h interp.h proto.h \
+  gsn.h globals.h tables.h lookup.h
+mysql.o: mysql.c
+olc_act.o: olc_act.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h olc.h tables.h recycle.h lookup.h magic.h db.h
+olc.o: olc.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h olc.h tables.h
+olc_mpcode.o: olc_mpcode.c sd.h buffer.h board.h files.h interp.h proto.h \
+  gsn.h globals.h olc.h recycle.h
+olc_save.o: olc_save.c sd.h buffer.h board.h files.h interp.h proto.h \
+  gsn.h globals.h olc.h tables.h db.h
+olevel.o: olevel.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h recycle.h tables.h lookup.h
+quest.o: quest.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h recycle.h
+recycle.o: recycle.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h recycle.h
+repent.o: repent.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h magic.h
+save.o: save.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h recycle.h lookup.h tables.h
+scan.o: scan.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h
+sedit.o: sedit.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h db.h
+skills.o: skills.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h magic.h
+special.o: special.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h magic.h
+string.o: string.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h
+tables.o: tables.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h tables.h
+update.o: update.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h lookup.h
+vote.o: vote.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h recycle.h tables.h db.h
+wizlist.o: wizlist.c sd.h buffer.h board.h files.h interp.h proto.h gsn.h \
+  globals.h recycle.h

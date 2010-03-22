@@ -1,0 +1,372 @@
+#AREADATA
+Name Laerlik1~
+Builders Laerlik~
+VNUMs 4400 4499
+Credits [  U-C  ] Laerlik Unknown~
+Security 9
+RepopMsg (null)~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#4400
+Outside Southern Gate of Yancon~
+A large clumsy metal gate seperates the town of Yancon from the
+outside.  The gate is made of criss-crossed metal bars, a mix of many
+angles, some {ch{bo{cr{bi{cz{bo{cn{bt{ca{bl{cs{0 and some {rv{ye{rr{yt{ri{yc{ra{yl{rs{0, all of which seem to avoid
+unity.  Even with the unintelligent design, the gate still does its duty and
+stands tall.  Although south is still an option, the town lies north.  
+~
+0 4 0
+D0
+~
+~
+0 0 4401
+S
+#4401
+Inside Southern Gate of Yancon~
+The gate looks like a well-kept statue next to the run-down buildings
+here.  {wC{Wo{wb{Ww{we{Wb{ws{0 and {yd{ru{ys{rt{0 line the street inside the gate.  An eerie silence
+brings fear like a vase, only broken when someone moves or talks.  The
+buildings here block the view to the west, leaving only a straight view of
+the town.  More of the town lies to the north, while the southern gate gives
+exit to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 4402
+D2
+~
+~
+0 0 4400
+S
+#4402
+Main Street Circle~
+A worn down road which hasn't been used that frequently.  Maybe many
+years back the road used to be an ease to walk on, but now time has turned
+the path into a sharp and jagged trail, vaguely seperating itself from its
+surroundings.  The buildings around here are in the same condition as the
+road, very run down and old.  A sign on the building to the east hangs down,
+barely reading '{yBar{0'.  The main road travels {Wdeeper{0 into the city to the
+west and north, while the southern gate lies south.  
+~
+0 0 0
+D0
+~
+~
+0 0 4416
+D1
+~
+~
+0 0 4417
+D2
+~
+~
+0 0 4401
+D3
+~
+~
+0 0 4403
+S
+#4403
+Main Street Circle~
+This part of the Main Street Circle is between two large buildings.  To
+the north lies a run down building with the faded emblem of a large {ysh{mi{yeld{0{0
+eched on the second story.  To the south, a large {ysw{Wo{yrd{0 is recognizable
+through a large layer of dust on a wall.  The Main Street Circle continues
+both to the east and to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 4405
+D1
+~
+~
+0 0 4402
+D2
+~
+~
+0 0 4404
+D3
+~
+~
+0 0 4406
+S
+#4404
+Weapons Shop~
+The weaponshop doesn't seem to carry any more weapons now.  Old,
+delapadated shelves are scattered about the floor here, their supports still
+nailed to the wall, pretending to have a purpose.  A large glass counter has
+been smashed open here, shattered glass surrounding the immediate area.  To
+the north lies Main Street Circle.  
+~
+0 0 0
+D0
+~
+~
+0 0 4403
+S
+#4405
+Armor Shop~
+Small pieces of broken metal are all that is left of this establishment. 
+Time is not the only culprit in destroying this place.  Broken glass
+containers and smashed up shelves show that something animate had helped
+give the Armor shop it's most recent look.  To the south lies the exit back
+to Main Street Circle.  
+~
+0 0 0
+D2
+~
+~
+0 0 4403
+S
+#4406
+Main Street Circle~
+Now far into the Main Street Circle, the buildings and road look even
+less used.  Adventurers must have come across this place before, but fled
+before they could get to this point.  Two large buildings lie both to the
+north and south, one labeled '{yItems{0' with the other marked '{mMagic{0'.  The
+Main Street Circle continues east and west.  
+~
+0 0 0
+D0
+~
+~
+0 0 4407
+D1
+~
+~
+0 0 4403
+D2
+~
+~
+0 0 4408
+D3
+~
+~
+0 0 4409
+S
+#4407
+Items Shop~
+If it wasn't for the sign outside, no one would be able to recognize that
+this used to be an item shop.  The whole place is smashed up pretty well as
+shown by the bashed in cuboards and counters.  There is not a trace of
+inventory in the whole place, maybe used by past adventurers or looted out
+by panic-ridden residence.  South gives exit to the Main Street Circle.  
+~
+0 0 0
+D2
+~
+~
+0 0 4406
+S
+#4408
+Magic Shop~
+The magic shop is as destroyed as the rest of the town.  The many novelty
+items which a magic shop contains are broken into many dust-covered pieces. 
+Broken jars and bottles are stained with the remenance of the liquid they
+once contained.  The exit back to Main Street Circle is to the north.  
+~
+0 0 0
+D0
+~
+~
+0 0 4406
+S
+#4409
+Main Street Circle~
+A turning point in the Main Street Circle.  Just like the rest of the
+road, the ground is rough and not attended to.  From here, rows of buildings
+can be seen, all of them sloped down like a depressed hobo remembering
+better times.  Main Street Circle runs both to the north and to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 4410
+D1
+~
+~
+0 0 4406
+S
+#4410
+Main Street Circle~
+This part of Main Street Circle is more of an alley than a main road. 
+The road has matched its surroundings so well that a chameleon would sing
+its praise.  Not only is the road {Wdusty{0 and {ydirty{0, it is also falling apart
+in many areas.  Smooth surfaces are a memory lost long ago, for {rjagged{0 rocks
+stick out of the ground, waiting for something to brush over them.  The side
+of an old building blocks your entrance to the east, while a roughly made
+fence lies to the west.  The road continues to the north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 4411
+D2
+~
+~
+0 0 4409
+S
+#4411
+Main Street Circle~
+A turn in the Main Street Circle.  From here, the backs of buildings are
+visible, each falling apart in their own way.  The ground is rough and
+jagged like the rest of the road, unfortunate that this part is not an
+exception.  Main Street Circle gives two paths, one to the east and one to
+the south.  
+~
+0 0 0
+D1
+~
+~
+0 0 4412
+D2
+~
+~
+0 0 4410
+S
+#4412
+Main Street Circle~
+The northern side of Main Street Circle, not much of notice is here.  The
+ground is very rough below, but that can be expected after lots of time and
+little {ymai{rnt{gen{ran{yce{0.  The wall of a large building towers above you from the
+south, blocking any hopes of exit there.  To the east and west lie more of
+Main Street Circle.  
+~
+0 0 0
+D1
+~
+~
+0 0 4413
+D3
+~
+~
+0 0 4411
+S
+#4413
+Main Street Circle~
+The road is as rough as ever here, protruding out of the ground like
+unwanted weeds.  The air is quite musty, filled with the accumulated dust of
+hundreds of years.  Broken {cgl{Was{cs{0 bottles litter the area, placed about here
+in a random pattern.  To the south lies a large house with a dead fern on
+it's delapadated porch.  The Main Street Circle continues to the east and
+west.  
+~
+0 0 0
+D1
+~
+~
+0 0 4414
+D2
+~
+~
+0 0 4418
+D3
+~
+~
+0 0 4412
+S
+#4414
+Main Street Circle~
+~
+0 0 0
+D1
+~
+~
+0 0 4415
+D2
+~
+~
+0 0 4416
+D3
+~
+~
+0 0 4413
+S
+#4415
+Small Inn~
+~
+0 0 0
+D3
+~
+~
+0 0 4414
+S
+#4416
+Main Street Circle~
+~
+0 0 0
+D0
+~
+~
+0 0 4414
+D2
+~
+~
+0 0 4402
+S
+#4417
+Bar~
+Broken up chairs, bashed up barstools, and the remains of other unknown
+furniture are scattered about here.  Ancient rugs cover the floor, stained
+with the accumulated dust which has blown from the outside.  The counter,
+filled with broken bottles of booze and other poisons, is the only antique
+here which still gives the atmosphere of a bar.  The exit to the bar lies to
+the west.  
+~
+0 0 0
+D3
+~
+~
+0 0 4402
+S
+#4418
+Large Residence~
+~
+0 0 0
+D0
+~
+~
+0 0 4413
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

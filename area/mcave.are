@@ -1,0 +1,2152 @@
+#AREADATA
+Name Mutant Caves~
+Builders Roland~
+VNUMs 231 299
+Credits {B[ 45-60 ] Mutant Caves{x~
+Security 9
+RepopMsg (null)~
+End
+
+
+
+#MOBILES
+#231
+mutant guard~
+A {gM{yu{gt{ya{gn{yt{w Guard{x~
+A Guard is here, keeping watch.
+~
+A disgusting, lizard like apparition.  Hard to believe it is a sentient
+being, and not just a stupid animal.  It pierces your soul with its blood
+red eyes.  He looks quite strong.  
+~
+lizard~
+AB 0 V 0 0 0
+45 45 93d16+455 45d11+95 16d2+40 none
+-23 -23 -23 -14
+0 0 L I
+stand stand male 300
+AGXc ACDEFHKQV medium unknown
+#232
+a bear headed mutant~
+A {Bbear{w-Headed {GMutant{x~
+A strange looking mutant with the head of a bear screams at your intrusion
+~
+What a psycho looking freak!  The normal body of a man, but a strange
+bear like head.  He has a long brown snout, with sharp teeth.  He looks
+pretty tough 
+~
+bear~
+ABF 0 DFPZa 0 0 0
+45 45 227d15+909 45d10+85 15d3+57 bite
+-21 -21 -21 -11
+DEO 0 EI 0
+stand stand male 0
+AGV ABCDEFHJKUV medium unknown
+#233
+Slimey Cyclops Mutant Dwelling~
+A {cS{ml{ci{mm{ce{my{r Cyclops{x~
+A slimey looking cyclops jumps up at your entrance into his home!
+~
+Ewww, a one eyed pile of goo.  He's covered in a slimey substance from
+head to toe, watch out, he looks buff.  Not much to see.  A small chair sits
+against the wall.  A good sized table is in the center of the room.  Two
+torches are burning brightly on the walls.  A small, basic dwelling.  East
+leads back to the street.  
+~
+Titan~
+ABF 0 Da 0 0 0
+45 45 91d15+455 45d10+85 15d3+27 punch
+-21 -21 -21 -11
+0 B DF 0
+stand stand male 100
+AHMV ABCDEFGHIJK medium unknown
+#234
+a two headed man~
+a {YTwo-Headed{w man~
+A two-headed man stops arguing with himself as you enter
+~
+Yikes, this one takes the cake, two full grown human heads on one body. 
+Its hard to see how these two get along.  They look like a fierce opponent. 
+~
+Human~
+ABF 0 V 0 0 0
+46 46 93d15+465 46d10+85 15d3+28 bite
+-21 -21 -21 -12
+0 0 C 0
+stand stand none 300
+AHMV ABCDEFGHIJK medium unknown
+#235
+a crazy man with three arms~
+A {RCrazy man{w with {Ythree arms{x~
+A crazy looking man with three arms yells as you enter
+~
+Three arms!?  A smaller, under developed arm sticks out of his chest
+wielding a knife, what a psycho!  
+~
+Elf~
+ABF 0 J 0 0 0
+45 45 91d15+455 45d10+85 15d3+27 none
+-21 -21 -21 -11
+0 0 B Z
+stand stand male 300
+AHMV ABCDEFGHIJK medium unknown
+#236
+El'Khatil~
+{WEl'Khatil{x~
+El'Khatil stands here, waiting for you to make a purchase
+~
+One of the more normal looking mutants, if possilbe.  He appears to be a
+like-able old dwarf of some sorts.  
+~
+Dwarf~
+AB 0 J 0 0 0
+40 40 81d13+405 40d10+85 13d3+25 none
+-17 -17 -17 -9
+0 0 LQ R
+stand stand male 10
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 236 100~
+#237
+Gunteg~
+Gunteg~
+Gunteg stands here, waiting impatiently for you to make a purchase
+~
+A strange little man is Gunteg.  He always looks angry.  Better make a
+purchase so as not to become the target of his anger.  
+~
+Elf~
+AB 0 J 0 0 0
+40 40 81d13+405 40d10+85 13d3+25 none
+-17 -17 -17 -9
+0 0 B Z
+stand stand none 3000
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 237 100~
+#238
+Trezzlebub~
+Tezzlebub~
+Trezzlebub, the gnomish mutant awaits your purchase
+~
+A freakish little gnome. Has a few fingers missing, no doubt failed potion experierements.
+~
+Gnome~
+AB 0 J 0 0 0
+45 45 91d15+455 45d10+85 15d3+27 none
+-21 -21 -21 -11
+0 0 P R
+stand stand male 3000
+AHMV ABCDEFGHIJK medium unknown
+M GRALL 238 100~
+#239
+royal mutant guard~
+a {RRoyal {gM{yu{gt{ya{gn{yt{x {BGuard{x~
+One of the Mutant Kings Royal Guards stands here proudly
+~
+He is a giant monstrosity.  His arms are gigantic, he could easily crush
+you with his boot, he looks quite buff.  Better not mess with this one.  
+~
+Giant~
+AB 0 0 H 0 0
+50 50 101d16+506 50d10+85 16d3+30 crush
+-24 -24 -24 -14
+0 0 HI JP
+stand stand male 200
+AHMV ABCDEFGHIJK medium unknown
+#240
+a mad prisoner~
+a {BM{8a{Bd{R Pr{8ison{Rer{x~
+A prisoner is here, he seems to have gone quite mad
+~
+He is a normal looking elven youth.  He must of committed a crime against
+the King, now he spends his days in this small cramped cell.  He looks quite
+dangerous...  
+~
+Elf~
+ABF 0 J H 0 0
+50 50 101d16+506 50d10+85 16d3+30 bite
+-24 -24 -24 -14
+0 0 B Z
+stand stand male 1
+AHMV ABCDEFGHIJK medium unknown
+#241
+the mutant priest~
+{WT{whe {RM{rutant {RP{rriest{x~
+A ghastly apparition hunkers over the desk, writing furiously
+~
+A disgusting demon.  He appears to be quite powerful.  Safer to leave him
+be...  
+~
+Draconian~
+ABF 0 T CDEH 0 0
+55 55 114d19+1111 55d11+95 19d2+44 wrath
+-30 -30 -30 -19
+0 LQ HIP FGJ
+stand stand male 1000
+AHMV ABCDEFGHIJKPQ medium unknown
+M DEATH 233 100~
+#242
+the captain of the guard~
+{WThe {BCa{Wpta{Bin{W Of {BThe Guard{x~
+A large, bulky man stands huddled over the desk, mulling over guard placement
+~
+A huge, green skinned, freakish giant.  He appears *quite* strong.  Best
+to leave him to himself.  
+~
+Giant~
+ABF 0 0 H 0 0
+55 55 114d19+1111 55d11+95 19d2+44 slash
+-30 -30 -30 -19
+CH 0 HI JP
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 234 100~
+#243
+the kings advisor~
+{WT{whe {RK{rings {RA{rdvisor{x~
+The kings advisor stands here, looking at a scroll of decrees
+~
+A twisted little dog faced mutant.  He has sworn fealty to the King.  He
+looks like a tough one.  
+~
+kobold~
+ABF 0 J 0 0 0
+55 55 114d19+1111 55d11+95 19d2+44 punch
+-30 -30 -30 -19
+0 0 L C
+stand stand male 300
+ABHMV ABCDEFGHIJKQ medium unknown
+M DEATH 232 100~
+#244
+the mutant king~
+{GT{ghe {GM{gutant {YKing{x~
+The Mutant King sits here on his throne, pondering your intrusion
+~
+Half man, half dragon.  The mutant king is a rare breed indeed.  His rows
+upon rows of sharp teeth look as if they could tear through steel.  He is
+quite intimidating standing eight feet tall or more.  He is very strong and
+formidable.  
+~
+unique~
+ABF 0 JT DH 0 0
+55 55 111d18+1111 55d10+85 18d3+32 bite
+-27 -27 -27 -16
+0 0 BEH FI
+stand stand male 4000
+AHZ ACDEFGHIJKPQUVX medium unknown
+M DEATH 231 100~
+#245
+mutant servant~
+a {mM{cu{mt{ca{mn{ct{Y Servant{x~
+A mutant servant of the king is hurriedly running around here
+~
+He is a mishapen little creature.  Looks to be somewhat weaker than other
+mutants.  
+~
+modron~
+AG 0 J 0 0 0
+55 55 111d18+1111 55d10+85 18d3+32 bite
+-27 -27 -27 -16
+QR BMNPQ HIK 0
+stand stand either 250
+H ABCGHJK medium unknown
+#246
+a lowly mutant~
+a {Dlowly mutant{x~
+A lowly mutant wanders around here
+~
+He is a disgusting twist of what life should be, he looks somewhat powerful 
+~
+Human~
+AG 0 0 0 0 0
+45 45 91d15+455 45d10+85 15d3+27 none
+-21 -21 -21 -11
+0 0 0 0
+stand stand none 200
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#247
+a buff mutant~
+a {BBuff Mutant{x~
+A buff looking mutant is walking around here
+~
+He looks very strong and competent. Better not mess with this one.
+~
+Giant~
+AG 0 0 0 0 0
+55 55 111d18+1111 55d10+85 18d3+32 slap
+-27 -27 -27 -16
+0 0 HI JP
+stand stand male 200
+AHMV ABCDEFGHIJK medium unknown
+#248
+a winged mutant~
+a {Rw{ri{Rn{rg{Re{rd{x {Dmutant{x~
+A winged mutant is here, flying about the area
+~
+A horrible bat-like creature. He looks very tough.
+~
+bat~
+A 0 TZ 0 0 0
+60 60 121d20+1213 60d10+85 20d3+35 none
+-30 -30 -30 -18
+FH 0 0 S
+stand stand none 300
+AGV ACDEFHJKP medium unknown
+M DEATH 235 100~
+#249
+the mutant queen~
+{bThe Mutant Queen{x~
+The Queen of the mutants stands here, brushing her hair
+~
+Half of her body is normal, a beautiful elvish girl.  The other is a
+disgusting work of nature.  Green slimey skin, with large blotches of black.
+She appears quite strong for a woman.  
+~
+bat~
+ABF 0 TZ EH 0 0
+60 60 121d20+1213 60d10+85 20d3+35 slash
+-30 -30 -30 -18
+FH 0 0 S
+stand stand female 1000
+AGV ACDEFHJKP medium unknown
+#250
+teluon the bard~
+Teluon the bard~
+Teluon the bard stands here, he looks worried
+~
+~
+Human~
+A 0 0 0 0 0
+100 100 206d34+2021 100d11+95 34d2+74 none
+-62 -62 -62 -42
+0 0 0 0
+stand stand male 100
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#251
+mazuin the necromancer~
+Mazuin the necromancer~
+Mazuin, the necromancer stands here
+~
+~
+Human~
+ABG 0 0 H -1000 0
+107 200 500d2+20000 200d11+95 100d4+1000 none
+-134 -134 -134 -93
+0 0 0 0
+stand stand none 100
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#252
+asdfahgerhtaha~
+A {cG{Cu{cr{Cg{cl{Ci{cn{Cg {BWa{bt{wer{bf{Ball{x~
+A roaring waterfall spills over some rocks in the stream
+~
+~
+Human~
+AB 0 0 0 0 0
+250 0 45d134+24356 0d0+0 0d0+0 none
+0 0 0 0
+0 A 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M RANDOM 252 100~
+#0
+
+
+
+#OBJECTS
+#231
+sign~
+a sign~
+A small sign is tacked above the mouth of the cave~
+unknown~
+furniture 0 0
+0 0 0 0 0
+0 0 0 P
+E
+sign~
+{R {R {R {R {R {R {R {R {R {RWarning!{r
+Home of the mutants, enter at own risk!{x
+~
+#232
+rusty short sword~
+a Rusty Short-sword~
+A rusted sword lies forgotten on the ground~
+steel~
+weapon 0 AN
+sword 7 9 slash H
+40 5 400 P
+A
+18 3
+A
+19 3
+#233
+small silver key~
+a small {WSilvery{x key~
+A small metal key has been carelessly dropped on the floor here~
+silver~
+key A A
+0 0 0 0 0
+40 1 50 P
+#234
+silver chest~
+a {WSilver{w chest~
+A {WSilver{w chest sits in the middle of the room~
+silver~
+container 0 0
+100 ACD 233 100 100
+40 10 50 P
+#235
+a small gem ring~
+a Small {BGem{w Ring{x~
+A small ring has been dropped on the floor here~
+gold~
+jewelry AY AB
+0 0 0 0 0
+40 1 250 P
+A
+4 4
+A
+12 20
+A
+13 20
+#236
+large emerald~
+a Large {GEmerald{x~
+A large precious stone has been left on the ground here~
+Emerald~
+jewelry AIY AQ
+0 0 0 0 0
+40 4 600 P
+A
+1 4
+A
+13 40
+#237
+rusty key~
+a {8Rusty{x Key~
+A small, rusty key has been dropped on the ground here~
+unknown~
+key A A
+0 0 0 0 0
+40 1 30 P
+#238
+a plain metal key~
+a Plain Metal Key{x~
+A metal key has been dropped on the floor here~
+metal~
+key A A
+0 0 0 0 0
+40 1 30 P
+#239
+fresh pomegranate~
+a {WF{wr{We{ws{Wh{R Pomegranate{x~
+A delicious looking pomegranate has been dropped here~
+pomegranate~
+food 0 A
+2 4 0 0 0
+1 1 10 P
+#240
+a piece of vash de'kulash meat~
+a Piece of  {bVash De'Kulash{x~
+A tantalizing piece of meat has been dropped on the floor here~
+meat~
+food 0 A
+2 9 0 0 0
+1 1 35 P
+#241
+barrel of mutant ale~
+a Barrel of {GMutant Ale{x~
+A barrel of ale has been left on the ground here~
+unknown~
+drink 0 A
+10 10 'ale' 0 0
+35 4 100 P
+#242
+storm lantern~
+a {WS{wt{Wo{wr{Wm {YLantern{x~
+A brightly glowing lantern has been left here~
+Pewter~
+light A A
+0 0 999 0 0
+45 4 1500 P
+A
+13 50
+A
+12 50
+A
+20 -2
+#243
+a travellers backpack~
+a {CTraveller's Backpack{x~
+A large, brown backpack has been left on the ground here~
+leather~
+container Y AK
+150 A 0 70 20
+50 3 2000 P
+A
+1 3
+A
+2 3
+A
+5 3
+#245
+potion of pain be gone~
+a Potion of {rPain Be Gone{x~
+A little red potion vial has been dropped here~
+unknown~
+potion 0 AO
+35 'cure serious' 'cure serious' 'cure serious' 'cure light'
+45 1 1500 P
+#246
+potion of tricksters delight~
+a Potion of {rT{cr{gi{bc{mk{bs{rt{ce{gr{cs{Y Delight{x~
+A small, multicolored potion has been dropped here~
+unknown~
+potion 0 AO
+30 'lightning bolt' 'flamestrike' 'acid blast' 'colour spray'
+45 1 1000 P
+#247
+potion of combat readiness~
+a Potion of {rCombat {bReadiness{x~
+A small red and blue potion has been dropped on the ground here~
+unknown~
+potion 0 AO
+40 'armor' 'shield' 'haste' 'giant strength'
+45 1 2300 P
+#248
+potion of divine power~
+a {WP{wotion {YD{yi{wvi{yn{Ye{x {RPower{x~
+A glowing yellow potion has been left on the ground here~
+unknown~
+potion 0 AO
+50 'sanctuary' 'bless' 'frenzy' 'protection good'
+50 1 2700 P
+#249
+shiny golden key~
+a {WShiny {YG{yolden {WK{wey{x~
+A small, gold key has been left on the ground here~
+Gold~
+key A A
+0 0 0 0 0
+40 1 200 P
+#250
+small dirty key~
+a {8Small Dirty Key{x~
+A little metal key has been dropped on the ground here~
+metal~
+key 0 A
+0 0 0 0 0
+40 1 10 P
+#251
+a binding arm shackle~
+a {8Binding{R A{rrm {8Shackle{x~
+A tough, stell shackle has been dropped on the floor here~
+steel~
+armor B AM
+32 32 32 16 0
+50 4 250 P
+A
+19 5
+A
+18 5
+#252
+chains of misery~
+{8The {BC{bhains {WO{wf {RM{ri{Rs{re{Rr{ry{x~
+A set of heavy, rusty chains has been dropped on the ground here~
+steel~
+armor A AF
+30 30 30 18 0
+50 10 300 P
+A
+2 1
+A
+1 2
+A
+12 30
+A
+13 30
+#253
+small brass key~
+a Small {yBrass{w Key~
+A small, yellowish key has been left here~
+brass~
+key A A
+0 0 0 0 0
+50 1 30 P
+#254
+rusted manacles~
+{RR{rusted{8 Manacles{x~
+A pair of rusty manacles has been dropped on the floor here~
+Steel~
+armor A AH
+32 32 32 16 0
+50 6 300 P
+A
+12 10
+A
+4 3
+A
+3 3
+#255
+a small blue key~
+a {WS{wmall {BBlue{w Key{x~
+A small, blue key has been dropped on the ground here~
+unknown~
+key A A
+0 0 0 0 0
+50 1 45 P
+#256
+crimson robe of divinity~
+{RC{rrimson {RR{robe {WO{wf {YDivinity{x~
+A red robe has been left on the ground here~
+cloth~
+armor ABI AD
+35 35 35 18 0
+55 3 1200 P
+A
+13 15
+A
+1 1
+A
+19 4
+A
+18 4
+#257
+axe of the guard captain~
+{BAxe {WO{wf {BThe Guard Ca{Wpti{Ban{x~
+A gigantic axe has been dropped on the ground here~
+steel~
+weapon ABI AN
+axe 7 13 chop AG
+55 8 1000 P
+A
+19 4
+A
+18 3
+#258
+large gilded chest~
+a {WL{warge {YGilded {WC{whest{x~
+A large, gilded chest lies on the table here~
+Gold~
+container 0 0
+300 ACD 259 259 100
+40 0 0 P
+#259
+small gold key~
+a {WSmall {YG{yold {WKey{x~
+A small, gold key has been carelessly dropped here~
+gold~
+key A A
+0 0 0 0 0
+50 1 40 P
+#260
+a jewel encrusted dagger~
+a {MJewel {YE{yncrusted {RDagger{x~
+A small dagger is stuck into the ground here~
+Metal and Jewels~
+weapon AI AN
+dagger 7 13 pierce CD
+55 5 2300 P
+A
+1 1
+A
+19 5
+A
+18 5
+#261
+the crown of the mutant king~
+{WT{whe {YC{yrown {WO{wf{G T{ghe{R M{rutant {YK{ying{x~
+The royal crown of the mutant king lies here~
+gold~
+armor BI AE
+40 40 40 40 0
+55 5 2000 P
+A
+18 6
+A
+19 6
+A
+1 4
+A
+13 40
+#262
+small metallic key on a chain~
+a small {Dmetallic{Y key{w on a chain{x~
+A small key on a chain has been dropped on the ground here~
+steel~
+key 0 AC
+0 0 0 0 0
+1 1 200 P
+#263
+worn out leather boots~
+a worn out pair of {yleather boots{x~
+A pair of leather boots has been left here~
+leather~
+armor I AG
+29 29 29 15 0
+45 2 400 P
+A
+1 4
+A
+18 4
+#264
+a rusted breastplate~
+a {Drusted {bbreastplate{x~
+A rusty looking breastplate has been discarded here~
+unknown~
+armor I AD
+30 30 30 30 0
+50 5 400 P
+A
+1 4
+A
+2 4
+A
+13 30
+#265
+a silver amulet~
+a {WSilver Amulet{x~
+A silver amulet has been carelessly dropped on the ground here~
+silver~
+jewelry AY AC
+0 0 0 0 0
+50 2 500 P
+A
+13 50
+A
+12 50
+A
+5 4
+#266
+a silver brush~
+a {WSilver Brush{x~
+A silver handled brush has been dropped on the ground here~
+unknown~
+armor AI AO
+40 40 40 40 0
+55 3 250 P
+A
+19 6
+A
+13 50
+A
+1 5
+#267
+a giant burlap sack~
+a {YGiant Burlap Sack{x~
+A giant burlap sack is on the ground here~
+burlap~
+container I 0
+10000 ABCD 268 1000 1000
+102 10000 0 P
+#268
+a large key~
+a large key~
+A large key has been left here~
+steel~
+key I A
+0 0 0 0 0
+102 1 0 P
+#269
+a glowing red pill~
+{wA {YG{yl{Yo{yw{Yi{yn{Yg {RR{red {WP{will{x~
+A glowing, red orb has been carelessly left here~
+crystal~
+pill ABIY AO
+0 'quest pill' 'reserved' 'reserved' 'reserved'
+200 1 100000 P
+#270
+a shimmering blue steel katana~
+{wA {YS{yh{Yi{ym{Ym{ye{Yr{yi{Yn{yg{B Blue Steel {WKatana{x~
+A katana has been left on the ground here~
+Mithril~
+weapon ABIPY AN
+sword 100 100 slash ABCDEGH
+103 15 10000 P
+A
+1 30
+A
+5 30
+A
+3 30
+A
+4 30
+A
+2 30
+A
+13 5000
+A
+12 5000
+A
+18 500
+A
+19 500
+A
+24 -50
+A
+14 10000
+A
+17 -1000
+#271
+a decrepit girth~
+a {gdecrepit  {bgirth{x~
+A girth lies on the ground here, it is almost torn to shreds~
+unknown~
+armor ABI AL
+30 25 25 18 0
+50 2 300 P
+A
+4 2
+A
+13 20
+A
+3 2
+#272
+mithril arm band~
+{DMithril {wA{Wr{wm{B B{ba{Bn{bd{Bs{x~
+A pair of metallic arm bands have been dropped here~
+mithril~
+armor I AI
+25 25 25 19 0
+55 3 400 P
+A
+18 10
+A
+19 10
+A
+1 2
+#273
+a platinum shield~
+{wA {WPlatinum{C S{ch{Ci{ce{Cl{cd{x~
+A large, metallic shield has been dropped here~
+unknown~
+armor ABI AJ
+29 29 29 29 0
+55 5 0 P
+A
+2 3
+A
+18 10
+A
+1 2
+#274
+a shimmering blue steel katana~
+a {YS{yh{Yi{ym{Ym{ye{Yr{yi{Yn{yg{B Blue Steel {WK{wa{Wt{wa{Wn{wa{x~
+A beautifully made katana lies on the ground here, somehow, since its meltdrop~
+unknown~
+weapon AHIPU AN
+exotic 100 100 pierce ABCEGH
+104 4 1000000 P
+A
+24 -100
+A
+19 1000
+A
+18 1000
+A
+5 40
+A
+2 40
+A
+3 40
+A
+4 40
+A
+1 40
+A
+14 10000
+A
+12 10000
+A
+13 10000
+#279
+A giant key~
+a {YGIANT KEY{x~
+A {YGIANT KEY{w has been carelessly dropped here~
+unknown~
+key AI AO
+0 0 0 0 0
+1 5 25000 P
+#280
+jewel studded gem pouch~
+{YA J{ye{Yw{ye{Yl{R Studded {YGem {WP{wouch{x~
+{BRoland's {YJ{ye{Yw{ye{Yl{R Studded {YGem {WP{wouch has been carelessly dropped here!~
+leather~
+container AGHOY AO
+100 ACD 279 20 50
+1 1 50000 P
+#281
+a mithril anklet~
+a {WM{wi{Wt{wh{Wr{wi{Wl{b Anklet{x~
+A small, metallic anklet has been dropped here~
+leather~
+armor AI AS
+35 35 35 32 0
+55 56 1500 P
+A
+18 6
+A
+19 6
+A
+1 1
+#282
+ritualistic face paint~
+{MR{mitualistic {WF{wa{Wc{we {YP{ya{Yi{yn{Yt{x~
+Some paint lies on the ground here, drying~
+clay~
+armor 0 AR
+30 30 30 30 0
+50 1 100 P
+A
+18 7
+A
+19 7
+A
+2 1
+#283
+a wicked dragon tattoo~
+a {RW{ri{Rc{rk{Re{rd {GD{yr{Ga{yg{Go{yn{W T{wattoo{x~
+A flat, two dimensional glowing dragon floats in the air here~
+unknown~
+jewelry AUY AT
+0 0 0 0 0
+50 0 30000 P
+A
+18 2
+A
+19 4
+A
+17 -40
+#284
+a benevolent aura~
+{WAura {WO{wf {YD{yi{Yv{yi{Yn{ye {BP{bu{wrpo{bs{Be{x~
+A pulsating bluish aura floats above the ground here~
+unknown~
+armor AI AU
+55 55 55 54 0
+60 61 56 P
+A
+18 11
+A
+19 11
+A
+1 2
+#285
+a sandalwood revolver~
+a {YS{ya{Yn{yd{Ya{yl{Yw{yo{Yo{yd{R Revolver{x~
+Rolands big gun lies on the ground here~
+unknown~
+weapon BI AN
+exotic 31 17 blast D
+203 301 20180 P
+A
+19 29
+A
+18 29
+#286
+a faded pair of blue jeans~
+a {WFaded Pair of {BB{bl{Bu{be{B Jeans{x~
+A faded pair of blue jeans lie here~
+unknown~
+armor 0 AF
+0 0 0 0 0
+105 2 1000000 P
+#287
+a silk shirt~
+a {WS{wi{Wl{wk {WS{wh{Wi{wr{Wt{x~
+A silk shirt lies on the ground here~
+silk~
+armor 0 AD
+42 42 42 41 0
+45 46 41 P
+#288
+a pair of rawhide boots~
+a Pair of {RRawhide Boots{x~
+A pair of boots lies on the ground here~
+unknown~
+armor 0 AG
+0 0 0 0 0
+0 3 10000 P
+A
+17 -1000
+#289
+a long black duster~
+a {WLong {DBlack {BD{bu{Bs{bt{Be{br{x~
+A long black coat lies on the ground here~
+unknown~
+armor 0 AK
+0 0 0 0 0
+0 4 210000 P
+#290
+a pair of gun holsters~
+a {WP{wa{Wi{wr {WOf {YG{yun {YH{yolsters{x~
+A pair of gun holsters lie on the ground here~
+unknown~
+container Y AL
+100 0 0 2 100
+100 2 100000 P
+A
+20 -100
+#291
+one half of rolands yin-yang pendant ~
+{wThe {WYin{w half of {RRoland's {WYin{w-{DYang{w Pendant{x~
+The Yin half of Rolands Yin-Yang Pendant lies on the ground here~
+steel~
+jewelry AHOYZ AC
+0 0 0 0 0
+1 1 100000 P
+#292
+the yang half of rolands yin-yang pendant~
+{wThe {DYang{w half of {RRoland's {WYin{w-{DYang{w Pendant{x~
+The Yang half of Roland's Yin-Yang Pendant~
+steel~
+jewelry AHIOY AC
+0 0 0 0 0
+1 1 1000000 P
+#293
+starfire amulet~
+the {YStar{rfire {WAmulet{x~
+A brilliant glowing amulet lies on the ground here~
+unknown~
+jewelry AIY AC
+0 0 0 0 0
+1 2 100000 P
+#294
+wand of testing stuff~
+a wand of testing stuff~
+A wand is here, sac it now!~
+unknown~
+wand 0 AO
+100 5 5 'camouflage' 0
+105 1 1 P
+#295
+mark of the dragon~
+{bMark {wOf The {GD{gr{Ga{gg{Go{gn{x~
+A strange mark lies on the ground here~
+unknown~
+armor AHMYZ AT
+173 173 173 172 0
+202 203 206 P
+A
+18 500
+A
+19 500
+E
+mark~
+{D$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$Y/'$$$$P'a$$$$$$$$$$$$$$$$
+$$$$$$$$$",` /,/,mT$$$$ d$$$$$$$$$$$$$$$$$
+$$$$$l',` , '/d$$$$P^$a `^a`W$$$$$$$$$$$$$
+$$l', ` ,   |d$$$P^$'   _  _ ==-a$$$$$$$$$
+$l.`  .     \'i$`4'   _eP$$$$$$$$$$$$$$$$$
+$l.`  .     \'i$`4'   _eP$$$$$$$$$$$$$$$$$
+: ' ,              l /^' .,$oa$$$$$$$$$$$$
+b ' ,        .     (_ ,1$$$$$$'$$$$$$$$$$$
+$ , ,      .:       _$$$$$$$P $a$$$$$$$$$$
+$, ,`    .$Ly        lM"^ ,  ,$$$$$$$'$$$$
+$$, ,`   d$Liy      /'   edb $$$$$$$'$$$$$
+$$$$,,'. $$$Li     (    d$$$$$$$$$$'$$$$$$
+$$$$$$,' v$$$Li4.   `  `Q$$$$$$$P',$$$$$$$
+$$$$$$$$,$$$$$$$L44., . .     ,,:d$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$${x
+~
+E
+dragon~
+~
+#296
+a beanbag chair~
+a {bbeanbag{w chair~
+A giant blue beanbag chair lies on the ground here~
+unknown~
+furniture AI 0
+1 1000 EHK 1000 1000
+200 50 50000 P
+#297
+thin air~
+{CT{ch{Ci{cn {CA{ci{Cr{x~
+Swirling vaporous air floats above the ground here~
+Air~
+container AHIY A
+10000 A 0 10000 10000
+200 1 50000 P
+#298
+a glowing blue slot machine~
+a {YGlowing{B B{bl{Bu{be {WS{wlot {WMachine!{X~
+A {YGlowing{B B{bl{Bu{be {WS{wlot {WMachine!{X~
+unknown~
+slot_machine AB 0
+50 35000 5 25 0
+1 5000 100000 P
+#299
+cure for bullshit weaken~
+rolands cure for bullshit weaken~
+Meltdrop~
+unknown~
+pill 0 A
+600 'cancellation' 'cancellation' 'cancellation' 'cancellation'
+1 0 0 P
+#0
+
+
+
+#ROOMS
+#231
+{8The Mouth of a Cave{x~
+A black eyesore in the side of a rolling hill.  A disgusting stench wafts
+up from the cavity.  Strange sounds can be heard from deep within.  A small
+sign has been tacked above the cave.  North leads into the darkness.  
+~
+0 0 0
+D0
+~
+~
+0 0 232
+D2
+~
+~
+0 0 621
+S
+#232
+{8Into The Caves{x~
+Burning torches line the walls of the cave making it quite bright despite
+the forboding entrance.  It seems quite impossible, but alot of the cave
+appears to be man-made, or mutant-made.  A smaller hallway like shaft leads
+away north.  South leads back to civilazation.  
+~
+0 8 0
+D0
+~
+~
+0 0 233
+D2
+~
+~
+0 0 231
+S
+#233
+{8A Small Dark Shaft{x~
+The wide expanse of the cave has led to this crumpled dark hallway. 
+Torches are scarce now, yielding only a small amount of light.  A small
+wooden door lies to the east, the passage continues north.  
+~
+0 8 0
+D0
+~
+~
+0 0 235
+D1
+~
+~
+3 233 234
+D2
+~
+~
+0 0 232
+S
+#234
+{8A Small Treasure Room{x~
+Just a small, non-descript room.  A few torches are here and there. 
+Light glints off of a silvery box standing in the middle of the room.  One
+of the Mutants famed treasure rooms.  West leads back into the passage.  
+~
+0 8 0
+D3
+~
+~
+3 233 233
+S
+#235
+{8A Twist in the Shaft{x~
+The shaft takes an abrupt turn here, enjoy your last breath of fresh air
+as you are journeying away from the exit little by little.  The shaft
+continues east.  
+~
+0 8 0
+D1
+~
+~
+0 0 236
+D2
+~
+~
+0 0 233
+S
+#236
+{8End of the Shaft{x~
+The long shaft comes to a sudden halt here.  A small grate covers a set
+of stairs leading down further nto the caves.  It is locked up tight.  
+~
+0 8 0
+D3
+~
+~
+0 0 235
+D5
+~
+grate~
+4 237 237
+S
+#237
+{8The Mutant Dwellings{x~
+This is where the majority of mutants live, in tiny hollowed out homes
+far below the surface.  They feel safe, they feel accepted among their own
+kind.  The caves continues south.  
+~
+0 8 0
+D2
+~
+~
+0 0 238
+D4
+~
+grate~
+4 237 236
+S
+#238
+{8Approaching the Dwellings{x~
+You hear them more the further into the caves you go.  Footsteps,
+whispers, hisses.  They are all over now.  Many of them just want to be left
+in peace, but many still will fight to protect their homes and w hat little
+they own.  Tread carefully, for you are in their territory.  The caves
+continue east.  
+~
+0 8 0
+D0
+~
+~
+0 0 237
+D1
+~
+~
+0 0 239
+S
+#239
+{8A Makeshift Street{x~
+You step on what appears to be a street of sorts.  A smooth long narrow
+path leading into more darkness stretches out before you.  Lining the street
+are small doors, homes of the mutants.  The street continues north.  
+~
+0 8 0
+D0
+~
+~
+0 0 240
+D3
+~
+~
+0 0 238
+S
+#240
+{8Mutant Street{x~
+The makeshift street stretches onward.  The doors that line the street
+are all closed up and shut tight, they enjoy their privacy.  The area is
+damp, the strong scent of mildew floats around the air, this place has never
+seen the light of day, and probably never will.  The street continues on
+north.  A small dwelling is to the east.  
+~
+0 8 0
+D0
+~
+~
+0 0 242
+D1
+~
+~
+3 0 241
+D2
+~
+~
+0 0 239
+S
+#241
+{8A Mutant Dwelling{x~
+Not much to see.  A small chair sits against the wall.  A good sized
+table is in the center of the room.  Two torches are burning brightly on the
+walls.  A small, basic dwelling.  West leads back to the street.  
+~
+0 8200 0
+D3
+~
+~
+3 0 240
+S
+#242
+{8Mutant Street{x~
+The makeshift street stretches onward.  The doors that line the street
+are all closed up and shut tight, they enjoy their privacy.  The area is
+damp, the strong scent of mildew floats around the air, this place has never
+seen the light of day, and probably never will.  The street continues north,
+there are dwellings to the east and west.  
+~
+0 8 0
+D0
+~
+~
+0 0 245
+D1
+~
+~
+3 0 243
+D2
+~
+~
+0 0 240
+D3
+~
+~
+3 0 244
+S
+#243
+{8Mutant Dwelling{x~
+Not much to see.  A small chair sits against the wall.  A good sized
+table is in the center of the room.  Two torches are burning brightly on the
+walls.  A small, basic dwelling.  West leads back to the street.  
+~
+0 8200 0
+D3
+~
+~
+3 0 242
+S
+#244
+{8Mutant Dwelling{x~
+Not much to see.  A small chair sits against the wall.  A good sized
+table is in the center of the room.  Two torches are burning brightly on the
+walls.  A small, basic dwelling.  East leads back to the street.  
+~
+0 8200 0
+D1
+~
+~
+3 0 242
+S
+#245
+{8Mutant Street{x~
+You're nearing the end of this bizarre street, only one more dwelling
+lies to the east.  The street ends up ahead to the north.  
+~
+0 8 0
+D0
+~
+~
+0 0 247
+D1
+~
+~
+3 0 246
+D2
+~
+~
+0 0 242
+S
+#246
+{8Mutant Dwelling{x~
+Not much to see.  A small chair sits against the wall.  A good sized
+table is in the center of the room.  Two torches are burning brightly on the
+walls.  A small, basic dwelling.  West leads back to the street.  
+~
+0 8200 0
+D3
+~
+~
+3 0 245
+S
+#247
+{8The End of Mutant Street{x~
+The street comes to a halt with a solid wall of rock.  There is another
+grate covering some steps leading deeper into this godforsaken place.  Down
+will take you further into the Mutant Caves.  
+~
+0 8 0
+D2
+~
+~
+0 0 245
+D5
+~
+grate~
+4 238 248
+S
+#248
+{8The Mutant Market{x~
+This entire section of the caves is dedicated to the art of trading and
+bartering.  Lots of little stands and shops line the makeshift street.  If
+not for the freaks and mutants running around, you might mistake this for a
+normal market area.  The market continues south.  
+~
+0 8 0
+D2
+~
+~
+0 0 249
+D4
+~
+grate~
+4 0 247
+S
+#249
+{8On the Market{x~
+Hustle and bustle abound here.  Lots of strange people buying and selling
+strange things.  A small stand has been set up to the west.  The market
+continues south.  
+~
+0 8 0
+D0
+~
+~
+0 0 248
+D2
+~
+~
+0 0 251
+D3
+~
+~
+0 0 250
+S
+#250
+{8El'Khatil's Exotic Foods{x~
+Basically just a small cart with a tent, El'Khatil supplies most of the
+food here.  He has delicous foods from far and wide.  Sample some of his
+delicacies, you'll never eat anything else!  
+~
+0 8 0
+D1
+~
+~
+0 0 249
+S
+#251
+{8On the Market{x~
+This is the center of the mutant market.  People are darting busily
+about.  To the east lies a small potion shop.  A general store has opened
+up to the west.  The market continues north and south.  
+~
+0 0 0
+D0
+~
+~
+0 0 249
+D1
+~
+~
+0 0 252
+D2
+~
+~
+0 0 254
+D3
+~
+~
+0 0 253
+S
+#252
+{8Trezzlebub's Tremendous Potions{x~
+As you enter Trezzlebub's small, cramped tent, your nostrils are
+immmediately assaulted by the acrid odors of chemicals and other toxins. 
+This is the work area, shop, and home of the little chemist himself.  He
+sells all sorts of potions for all sorts of purposes.  West leads back to
+the market.  
+~
+0 8 0
+D3
+~
+~
+0 0 251
+S
+#253
+{8Small General Store{x~
+Many mutants who dare venture out of the sanctuary of their caves get
+supplies here.  Lanterns, ropes, backpacks, Gunteg has it all, for a price. 
+East leads back to the market.  
+~
+0 8 0
+D1
+~
+~
+0 0 251
+S
+#254
+{8End of Mutant Market{x~
+The wide expanse of the cave gives way to another small cramped hallway. 
+The market ends shorty up ahead.  The hustle and bustle have died down
+considerably.  No more shops line the cave walls.  The end of the market is
+south.  
+~
+0 0 0
+D0
+~
+~
+0 0 251
+D2
+~
+~
+0 0 255
+S
+#255
+{8Gateway to the Depths{x~
+The overtones of the caves have changed.  It has lost the dank, homey
+hideaway feel.  Few torches can be seen now, the darkness roams freely
+throughout this small, cramped room.  Another grate covers the floor, locked
+up tight.  North leads back to the Mutant Market.  
+~
+0 8 0
+D0
+~
+~
+0 0 254
+D5
+~
+grate~
+4 249 256
+S
+#256
+{8The Mutant Dungeon{x~
+Its dark, its damp, its putrid.  This is where the Mutant King has
+decided to keep those deemed a threat to his crown.  There is only one torch
+visible.  The dungeon continues eastward to the first cell.  
+~
+0 8 0
+D1
+~
+~
+0 0 257
+D4
+~
+~
+4 249 255
+S
+#257
+{8Cell Number One{x~
+You've come to the first cell.  It's basically a small, dark hole dug
+into the living earth with a metal door over it.  You can hear soft
+breathing from inside, or perhaps its a trick of the darkness.  The dungeon
+continues east.  The cell door is north, but is locked tight.  
+~
+0 8 0
+D0
+~
+cell~
+3 250 258
+D1
+~
+~
+0 0 259
+D3
+~
+~
+0 0 256
+S
+#258
+{8Inside the Cell{x~
+A small, cramped hole.  It reaks of disgusting unimaginable smells. 
+There is no light at all in here.  South leads back into the dungeon.  
+~
+0 8200 0
+D2
+~
+cell~
+3 250 257
+S
+#259
+{8Cell Number Two{x~
+The second cell is more of the same.  The plain metal cell door lies to
+the north, locked up tight.  Keeping another soul until it dies.  East leads
+to third and final cell of the Kings Dungeon.  
+~
+0 8 0
+D0
+~
+cell~
+3 253 260
+D1
+~
+~
+0 0 261
+D3
+~
+~
+0 0 257
+S
+#260
+{8Inside Cell Number Two{x~
+A small, cramped hole.  It reaks of disgusting unimaginable smells. 
+There is no light at all in here.  South leads back into the dungeon.  
+~
+0 8200 0
+D2
+~
+~
+3 253 259
+S
+#261
+{8Cell Number Three{x~
+The third and final cell.  There used to be more, were the Market is
+today, but the King decided it was easier to just kill alot of the
+trespassers who he disliked.  East leads to another set of steps.  The dark
+cell is to the north, tightly locked up.  
+~
+0 8 0
+D0
+~
+cell~
+3 255 262
+D1
+~
+~
+0 0 263
+D3
+~
+~
+0 0 259
+S
+#262
+{8Inside Cell Three{x~
+A small, cramped hole.  It reaks of disgusting unimaginable smells. 
+There is no light at all in here.  South leads back into the dungeon.  
+~
+0 8200 0
+D2
+~
+cell~
+3 255 261
+S
+#263
+{8Entrance to the Mutant Palace{x~
+A long, bright stairway leads down into the Mutant Kings Palace.  The
+work took years of hard labor, but he has an underground palace as vast and
+fine as any king above him.  Down leads into the Palace.  
+~
+0 8 0
+D3
+~
+~
+0 0 261
+D5
+~
+~
+3 0 264
+S
+#264
+{YPalace of the Mutant King{x~
+As you step into the Palace you forget all about being hundreds of feet
+underground.  The air is clean and fresh, somehow.  The room is bright and
+cheery.  A long red carpet trails away south.  Brightly burning wall sconces
+light up the dark gloom.  The great hall continues south.  
+~
+0 8 0
+D2
+~
+~
+0 0 265
+D4
+~
+~
+3 0 263
+S
+#265
+{YThe Great Hall{x~
+A beautiful hall carved from living rock.  Pillars and archways abound in
+this feat of engineering.  The luxurious red carpet continues.  Between each
+burning light is a painting now.  A landscape, a portrait, another
+landscape.  The hall continues south.  
+~
+0 8 0
+D0
+~
+~
+0 0 264
+D2
+~
+~
+0 0 266
+S
+#266
+{YA Turn In The Hall{x~
+The hall takes a sharp turn towards the east here.  The luxury continues
+as well.  A large pedestal prominately displays the bust of an old, weary
+lookng man.  A huge tapestry covers one of the larger walls.  It was
+perfectly sewn in brilliant colors, it depicts a fericious battle, which may
+or may not have taken place.  The hall continues east.  
+~
+0 8 0
+D0
+~
+~
+0 0 265
+D1
+~
+~
+0 0 267
+S
+#267
+{YThe Grand Hall{x~
+The luxurious hallway stretches on.  Another beautiful tapestry hangs
+here, this one pictures a beautiful stallion running free through fields of
+grass.  To the north, is a large oaken door.  It is shut up tight, someone
+does not wish to be disturbed.  The hallway continues east and west.  
+~
+0 0 0
+D0
+~
+~
+3 0 268
+D1
+~
+~
+0 0 269
+D3
+~
+~
+0 0 266
+S
+#268
+{RChambers of the Mutant Priest{x~
+You enter a good sized room, lined with large ancient looking
+bookshelves.  A large desk is in the middle of the room, it has several
+books open upon it.  These are the chambers of the Mutant Priest.  The only
+source of religion for those that dwell here.  South leads back into the
+grand hall.  
+~
+0 8200 0
+D2
+~
+~
+3 0 267
+S
+#269
+{YAnother Turn In The Hallway{x~
+The hall takes a sharp turn here.  A truly disturbing painting hangs on
+the east most wall.  It depicts a human sacrifice by a group of cloaked
+druids.  Another large wooden door is to the north.  Above it is a small
+sign that says "Captain Of The Guard".  The Captains chambers are to the
+north.  The hall continues west and south.  
+~
+0 8 0
+D0
+~
+~
+1 0 270
+D2
+~
+~
+0 0 271
+D3
+~
+~
+0 0 267
+S
+#270
+{BThe Captains Chambers{x~
+The quarters of a militant man if ever they existed.  Many weapons of
+destruction hang from the walls.  Swords, axes, spears, all in top
+condition.  A large desk stands in the center of the room.  It has a layout
+of the Mutant Caves, with X'es where the guards are posted.  South leads
+back into the Main Hall.  
+~
+0 8200 0
+D2
+~
+~
+1 0 269
+S
+#271
+{YEnd Of The Grand Hall{x~
+This is the end of the great hall.  South leads to a large spiral
+staircase leading down into the kings court.  
+~
+0 8 0
+D0
+~
+~
+0 0 269
+D2
+~
+~
+0 0 272
+S
+#272
+{YA Grand Spiral Staircase{x~
+Another amazing feat accomplished by these talented mutants.  A perfectly
+designed spiral staircase leads down into the Kings Court.  A large gilded
+rail wraps around the center spire.  Down will take you to the Kings Court. 
+~
+0 8 0
+D0
+~
+~
+0 0 271
+D5
+~
+~
+0 0 273
+S
+#273
+{YThe Kings Court{x~
+Another luxurious red carpet trails away to the north.  The walls of this
+gigantic hall are lined with marble and beautiful lanterns.  The hallway
+continues north.  
+~
+0 8 0
+D0
+~
+~
+0 0 274
+D4
+~
+~
+0 0 272
+S
+#274
+{YThe Kings Court{x~
+The beauty and grace of the palace continue here in the Kings Court.  A
+small wooden door lies to the west, it looks locked up tight.  The court
+continues north.  
+~
+0 8 0
+D0
+~
+~
+0 0 276
+D2
+~
+~
+0 0 273
+D3
+~
+~
+3 259 275
+S
+#275
+{YSmall Treasury{x~
+A small, plain room.  There is a large table in the center.  A giant
+chest is on top of the table.  East leads back into the Court.  
+~
+0 8 0
+D1
+~
+~
+3 259 274
+S
+#276
+{YThe Kings Court{x~
+The fabulous trek down the court continues.  The King has saved all of
+the best decor for his personal space.  The paintings on the wall would be
+considered masterpieces.  The thick, velvety red carpet is befitting a King
+such as the one who resides here.  A small wood door is to the east.  The
+court continues north.  
+~
+0 8 0
+D0
+~
+~
+0 0 278
+D1
+~
+~
+3 259 277
+D2
+~
+~
+0 0 274
+S
+#277
+{YA Small Treasury{x~
+A small, plain room.  There is a large table in the center.  A giant
+chest is on top of the table.  West leads back into the Court.  
+~
+0 8 0
+D3
+~
+~
+3 259 276
+S
+#278
+{YKings Court{x~
+You stand inside a large circular room.  The ceiling is domed thirty feet
+in the air.  Murals are painted all around the gigantic room.  This is where
+meetings with advisors are held.  North leads to the Kings throne room.  
+~
+0 8 0
+D0
+~
+~
+0 0 279
+D2
+~
+~
+0 0 276
+S
+#279
+{YThrone Room Of The Mutant King{x~
+A large, stupendous room.  Its impossible to believe it was carved into
+the earth.  Beautiful paintings line the walls.  A large sculpture of the
+King himself is in the corner.  A beautiful gilded throne sits in the center
+of the room.  South leads back into the court.  A small wooden door is to
+the north.  
+~
+0 8200 0
+D0
+~
+~
+4 262 280
+D1
+~
+~
+1 0 281
+D2
+~
+~
+0 0 278
+S
+#280
+{YThe Kings Treausre Room{x~
+Various objects are strewn about this plain, small room.  There is a
+table in the center which holds the kings most prized possesion, his Royal
+Crown.  South leads back to the Throne Room.  
+~
+0 8 0
+D2
+~
+~
+4 262 279
+S
+#281
+{YThe Royal Bedchamber{x~
+These are the Kings sleeping quarters.  A large bed is in the center of
+the room.  Two wonderfully carved tables are on either side.  A beautiful
+dresser with a giant mirror is against the southern most wall.  This is a
+bedroom truly fit for a King.  West leads back into the throne room.  
+~
+0 8200 0
+D3
+~
+~
+1 0 279
+S
+#282
+{CRolands Chambers{X~
+A {Ws{we{Wr{we{Wn{we and {Wt{wr{Wa{wn{Wq{wu{Wi{wl {yawe {bswirls{w through this rather large 
+chamber.  A {btrickling {Cs{ct{Cr{ce{Ca{cm{x cuts the room in two equal halves. 
+At the head of the {cs{Ct{cr{Ce{ca{cm{w is a {Wroaring {Bw{ba{ct{wer{cf{ba{Bll{w.  How the {cstream{w 
+exists there is anyones guess, but oddities such as that occur 
+in the presence of {Yimmortals{w.  The chamber is circular with a 
+domed ceiling.  Hanging from the center, almost forty feet above 
+the ground is a {yglistening {Wcrystal {Yc{yh{Ya{yn{Yd{ye{Yl{yi{Ye{yr{w suspended from a 
+legnth of {ygold{w chain. {YGlowing {ycandleabras{w adorn the walls spouting
+off {Mm{ma{Mg{mi{Mc {Bblue {rflames{w, making the room exquisitely {Ybright{w.  There 
+are no exits, an immortal may come and go as he pleases, any 
+{gwhere{w and any {btime{w.  Rest assured that if {Ryou{w are seeing such a 
+place, a {Ywonderful gift{w or {Dgrave trouble{w will soon your way come.{x  
+~
+0 525324 0
+O Roland~
+S
+#283
+{DRoland's Torture Chamber{x~
+Wow, you must of done something really stupid to end up in here.  Better
+bite your tongue next time.  The walls are oppressive and bleak.  The floor
+is uncomfortable.  You will die slowly in here as the hours and days pass. 
+You will feel it, unrelenting until Roland decides you have had enough.  
+~
+0 536077 9
+M -6000 H -6000
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 233 1 2
+D 0 234 3 2
+D 0 236 5 2
+D 0 237 4 2
+D 0 240 1 1
+D 0 241 3 1
+D 0 242 1 1
+D 0 242 3 1
+D 0 243 3 1
+D 0 244 1 1
+D 0 245 1 1
+D 0 246 3 1
+D 0 247 5 2
+D 0 248 4 2
+D 0 255 5 2
+D 0 256 4 2
+D 0 257 0 2
+D 0 258 2 2
+D 0 259 0 2
+D 0 260 2 2
+D 0 261 0 2
+D 0 262 2 2
+D 0 263 5 1
+D 0 264 4 1
+D 0 267 0 1
+D 0 268 2 1
+D 0 269 0 1
+D 0 270 2 1
+D 0 274 3 2
+D 0 275 1 2
+D 0 276 1 2
+D 0 277 3 2
+D 0 279 0 2
+D 0 279 1 1
+D 0 280 2 2
+D 0 281 3 1
+O 0 231 0 231
+M 0 231 1 232 10
+E 0 232 0 16
+M 0 231 2 233 10
+G 0 233 0
+O 0 234 0 234
+P 0 235 1 234 1
+P 0 236 1 234 1
+M 0 246 1 235 20
+M 0 247 1 235 20
+M 0 231 100 236 1
+G 0 237 0
+M 0 247 2 237 20
+M 0 246 3 237 20
+M 0 231 4 237 10
+E 0 232 0 16
+M 0 246 10 240 20
+M 0 232 1 241 1
+E 0 271 0 13
+M 0 248 1 242 20
+M 0 246 4 242 20
+M 0 247 6 242 20
+M 0 233 1 243 1
+E 0 263 0 8
+M 0 234 1 244 1
+E 0 265 0 3
+M 0 248 2 245 20
+M 0 235 1 246 1
+E 0 264 0 5
+M 0 231 100 247 1
+G 0 238 0
+G 0 238 0
+M 0 247 17 249 20
+M 0 236 1 250 1
+G 0 239 0
+G 0 241 0
+G 0 240 0
+M 0 238 1 252 1
+G 0 245 0
+G 0 246 0
+G 0 247 0
+G 0 248 0
+M 0 237 1 253 1
+G 0 242 0
+G 0 243 0
+M 0 246 18 254 20
+M 0 247 18 254 20
+M 0 239 100 255 1
+G 0 249 0
+M 0 239 100 257 1
+G 0 250 0
+M 0 240 1 258 3
+E 0 251 0 14
+M 0 239 100 259 1
+G 0 253 0
+M 0 240 2 260 3
+E 0 252 0 7
+M 0 239 100 261 1
+G 0 255 0
+M 0 240 3 262 3
+E 0 254 0 9
+M 0 245 1 264 15
+M 0 245 2 266 15
+M 0 241 1 268 1
+E 0 282 0 20
+E 0 256 0 5
+M 0 245 3 269 15
+M 0 242 1 270 1
+E 0 257 0 16
+E 0 272 0 10
+M 0 245 4 272 15
+M 0 245 5 273 15
+M 0 239 100 274 1
+G 0 259 0
+O 0 258 0 275
+P 0 260 1 258 1
+M 0 245 8 276 15
+M 0 245 7 276 15
+O 0 258 0 277
+P 0 273 1 258 1
+M 0 243 1 278 1
+E 0 281 0 21
+M 0 244 1 279 1
+E 0 262 0 3
+E 0 284 0 24
+O 0 261 0 280
+M 0 249 1 281 1
+E 0 266 0 17
+S
+
+
+
+#SHOPS
+236 0 19 0 0 0 100 100 0 23
+237 0 9 19 1 5 100 100 0 23
+238 10 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#231
+say {WAck, all the work i have done, gone in an instant.
+smile
+say {WI can feel the darkness enveloping my soul.
+say {WBut i am not afraid, there are other worlds than these...
+~
+#232
+say {WMy apologies sire!
+say {WI could not defend you from these intruders!{x
+~
+#233
+say {WIf only i had greater power!{x
+say {WCurse you $n ! Curse you for all eternity!{x
+mob cast curse $n
+~
+#234
+say {WAhh, well met $n!
+say {WYou've bested me, and such a whallop too{x
+cough
+say {WTime to leave this battlefield for the next...
+~
+#235
+emote {Wwings give up on it as it crashes to the ground dead
+~
+#236
+say Welcome, welcome $n!
+say Try my delicious foods!
+~
+#237
+poke $n
+say Hey, buy something or hit the road!
+say I don't have time for browsers!
+~
+#238
+say {WAhh, yes welcome!
+say Are you interested in any of my fine potions?
+~
+#252
+mob emote soothes your body and mind with its tranquil crashing water
+~
+#0
+
+#$

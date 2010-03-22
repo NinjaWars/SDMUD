@@ -1,0 +1,5788 @@
+
+[ 3001] Loki: none
+[ 1200] Loki: application
+[ 3398] Cypher: cry
+[16920] Mangan: food
+[0] Sephiroth: blade
+[0] Sephiroth: blade spells
+[0] Sephiroth: blade spell
+[1200] Kalicu: rub
+[1200] Kalicu: rub
+[1200] Kalicu: omni
+[1200] Kalicu: mpdump
+[1200] Kalicu: knight
+[1200] Kalicu: hero
+[3398] Kalicu: teir
+[40000] Kalicu: act
+[40000] Kalicu: ? form
+[16928] Mangan: dealer
+[16928] Mangan: wear-loc
+[16928] Mangan: wearloc
+[16928] Mangan: wear_loc
+[16928] Mangan: wear-loc
+[16928] Mangan: wear loc
+[17000] Mangan: ITEM_FURNITURE
+[17000] Mangan: ITEM_FURNITURE
+[40020] Giliath: spellup
+[40000] Kalicu: form
+[40039] Giliath: colour list
+[40047] Giliath: wear lock
+[40047] Giliath: wear-lock
+[40047] Giliath: wear-loc
+[40047] Giliath: wear-loc
+[0] Aldar: blade spells
+[0] Aldar: blade
+[2225] Kalicu: general
+[2225] Kalicu: 'general purpose'
+[2225] Kalicu: general purpose
+[9203] Roland: armorstat
+[9203] Roland: build
+[9203] Roland: builder
+[16933] Mangan: dig
+[40056] Kalicu: string obj
+[40000] Kalicu: wear-loc
+[16968] Mangan: wealth
+[17000] Mangan: blade
+[16964] Mangan: itemstats.
+[16967] Mangan: itemstaats
+[16967] Mangan: itemstarts
+[16967] Mangan: apply
+[16970] Mangan: wear-loc
+[16970] Mangan: wear_loc
+[16970] Mangan: wear_loc
+[16970] Mangan: wearloc
+[16970] Mangan: wear-loc
+[16966] Mangan: assemble
+[16966] Mangan: piece
+[3398] Kalicu: feed
+[3398] Kalicu: feed
+[3398] Kalicu: sate
+[3398] Kalicu: rename
+[3398] Kalicu: mpdump
+[20081] Kurvaak: counterattack
+[20081] Kalicu: counter
+[4269] Suraman: shop
+[4270] Suraman: act
+[4270] Suraman: shop
+[4270] Suraman: selling
+[327] Suraman: area_hell
+[4223] Suraman: ITEM_PORTAL
+[4223] Suraman: ITEM_PORTAL
+[16963] Mangan: general
+[2390] Roland: twohands
+[16976] Mangan: bed
+[16976] Mangan: container
+[2373] Roland: power
+[16970] Mangan: power
+[1290] Loki: powerweapons
+[1200] Loki: remort
+[40053] Kalicu: knight
+[40053] Kalicu: mortals
+[40053] Kalicu: mortal
+[40053] Kalicu: counter
+[40053] Kalicu: whirlwind
+[40052] Kalicu: applictaion
+[40052] Kalicu: prefix
+[1200] Kalicu: general purpose
+[2391] Roland: drow
+[2391] Roland: centuar
+[2391] Roland: container
+[3398] Loki: hecuva
+[2374] Roland: imp
+[50000] Roland: magic_item
+[40030] Kalicu: wear-loc
+[40030] Kalicu: wear-loc
+[40030] Kalicu: wear - loc
+[40030] Kalicu: wear-loc
+[40030] Kalicu: wear-loc
+[40030] Kalicu: wear-loc mayor
+[40030] Kalicu: wear-loc 
+[40030] Kalicu: wear-location 
+[1200] Loki: questi
+[40057] Kalicu: act
+[40057] Kalicu: act
+[16970] Mangan: power
+[16970] Mangan: powerit
+[16970] Mangan: wear-loc
+[40039] Kalicu: hero
+[40039] Kalicu: hero
+[50000] Roland: ent
+[16978] Mangan: do_prac
+[16978] Mangan: immolation
+[16970] Mangan: wear-loc
+[16970] Mangan: Wear-loc
+[16970] Mangan: aock
+[16970] Mangan: aclear
+[3198] Zuran: critical
+[2394] Roland: death_rising
+[1200] Loki: iquest
+[1200] Loki: story
+[19927] Xris: ward
+[3398] Xris: reward
+[3398] Xris: ward
+[1200] Loki: iquest
+[3716] Keji: firestorm
+[3716] Keji: fire storm
+[3014] Keji: guild
+[400] Keji: dragon skin
+[3054] Keji: tornado
+[40041] Giliath: hro
+[40041] Giliath: hero
+[3054] Keji: briarshild
+[3054] Keji: briar
+[40035] Kalicu: hero
+[3198] Keji: concentrate
+[3398] Keji: bet
+[3398] Keji: arena
+[1200] Giliath: juke
+[3398] Keji: whostring
+[40011] Kalicu: iznet
+[40011] Loki: wear-loc
+[454] Keji: thrust
+[3198] Keji: dragon
+[9209] Keji: dragon
+[3198] Keji: dice
+[40034] Giliath: mprog
+[40000] Kalicu: addaffect
+[40000] Kalicu: briar
+[40000] Kalicu: briar
+[40034] Giliath: liquids
+[40034] Giliath: liquid
+[3] Kalicu: MORT
+[3] Kalicu: MORTAL
+[3] Kalicu: MUD
+[2387] Roland: capacity
+[40000] Kalicu: multi
+[1200] Loki: multi
+[16970] Giliath: rub
+[1200] Giliath: juke
+[1200] Giliath: jukeb
+[40012] Kalicu: psi
+[40012] Kalicu: hero
+[40012] Kalicu: thrust
+[0] Rhael: imp
+[0] Rhael: dragon
+[0] Rhael: shockling
+[40011] Kalicu: potion
+[3757] Kalicu: multi
+[3757] Kalicu: multiplay
+[3757] Kalicu: multiplaying
+[3757] Kalicu: mu
+[3757] Kalicu: mul
+[3757] Kalicu: playing
+[3757] Kalicu: mort
+[3757] Kalicu: roleplay
+[3757] Kalicu: role
+[16970] Mangan: armorstat
+[16970] Mangan: stats
+[16970] Mangan: power
+[16970] Mangan: as
+[16970] Mangan: spec
+[16970] Mangan: build
+[16970] Mangan: abusy
+[16970] Mangan: chart
+[16970] Mangan: statch
+[16970] Mangan: power
+[40026] Kalicu: addaffect
+[40026] Kalicu: addaffect
+[40026] Kalicu: added affect
+[16970] Mangan: addaffect
+[40026] Kalicu: add
+[40026] Kalicu: addaffect
+[40026] Kalicu: addafect
+[40026] Kalicu: amount
+[16970] Mangan: amount
+[16970] Kalicu: point
+[16970] Kalicu: object
+[16970] Kalicu: extra
+[16970] Kalicu: extra
+[1200] Kalicu: ties
+[2380] Roland: violate
+[16925] Mangan: special
+[16925] Mangan: wear-loc
+[16925] Mangan: Wear-loc
+[0] Drega: shockl
+[0] Drega: critical
+[3700] Drega: immolation
+[3700] Drega: circus
+[40053] Kalicu: wear-loc
+[40053] Kalicu: wear loc
+[40053] Kalicu: wear-loc
+[40053] Kalicu: wear-loc
+[40053] Kalicu: wear-location
+[40053] Kalicu: location
+[40053] Kalicu: WEAR-LOC
+[40053] Kalicu: wear - loc
+[40053] Kalicu: wearlo
+[40053] Kalicu: wear-loc
+[40053] Kalicu: wiznewt
+[2366] Roland: wcho
+[2366] Roland: wecho
+[40035] Kalicu: copyover
+[40035] Kalicu: copy over
+[0] Toseland: crit
+[0] Toseland: counter
+[3700] Drega: channel
+[3014] Drega: guild
+[40106] Kalicu: dig
+[0] Glisk: dragon
+[0] Glisk: dragon
+[0] Glisk: whirlwind
+[40303] Roland: ITEM_PORTAL
+[40303] Roland: ITEM_PORTAL
+[40303] Roland: ITEM_PORTAL
+[40303] Roland: ITEM_PORTAL
+[40117] Kalicu: wear-loc
+[40117] Kalicu: wear-loc
+[40117] Kalicu: wear-loc
+[40117] Kalicu: wear-loc
+[40117] Kalicu: wear loc
+[40117] Kalicu: wear - loc
+[40117] Kalicu: wear-loc
+[40117] Kalicu: waer-loc
+[40117] Kalicu: wear-loc
+[40117] Kalicu: wear location
+[40117] Kalicu: wear-location
+[40117] Kalicu: wear-loc
+[40117] Giliath: wearloc
+[40117] Giliath: wear loc
+[0] Jasa: shockling
+[40307] Roland: mutant
+[40131] Kalicu: fountain
+[40100] Kalicu: hero
+[40125] Kalicu: wear-loc
+[0] Thorne: dragon
+[3700] Thorne: gifts
+[3700] Thorne: dragon
+[40307] Roland: dragon
+[40306] Roland: feed
+[201] Thorne: feed
+[3054] Omni: clans
+[3001] Stryder: fan
+[3001] Stryder: tower
+[3001] Stryder: fanatic
+[3700] Rinowa: rub
+[3700] Rinoa: slist
+[1200] Loki: reward
+[3001] Omni: immolation
+[0] Rinowa: rub
+[3721] Rinowa: channel
+[3721] Rinowa: ooc
+[3198] Rinowa: firebreath
+[3198] Rinowa: dragon wisdom
+[4222] Rinowa: draconic
+[4222] Rinowa: breath
+[427] Rinowa: translu
+[0] Stryder: mutant
+[3365] Stryder: battle
+[3001] Stryder: pir
+[19979] Rinowa: hero
+[19979] Rinowa: mangle
+[19990] Rinowa: blast
+[3398] Stryder: questeq
+[19976] Stryder: anger
+[19975] Stryder: remort
+[1200] Muska: remort
+[5267] Keji: wordl
+[3001] Omni: dir inklar
+[3001] Keji: wordl
+[228] Strife: summon familiar
+[3014] Scorpinoc: hero
+[10416] Scorpinoc: summon familiar
+[3014] Scorpinoc: acid rain
+[3198] Keji: call wild
+[3398] Keji: points
+[3398] Keji: icq
+[3398] Keji: iqp
+[3398] Keji: immquestpoints
+[16928] Mangan: poweritem
+[16928] Mangan: power
+[16928] Mangan: power
+[16928] Mangan: poer
+[16928] Mangan: power
+[16970] Mangan: Wear-loc
+[16970] Mangan: wear-loc
+[16970] Mangan: wearloc
+[16970] Mangan: Wear_loc
+[16970] Mangan: wear_loc
+[16970] Mangan: wear-loc
+[3398] Keji: rices
+[1200] Muska: knight
+[19914] Strife: vampire blast
+[3198] Strife: vampire blast
+[2354] Keji: reward
+[0] Samus: dragon
+[0] Samus: thrust
+[0] Samus: thrust
+[0] Samus: critical
+[0] Samus: counter
+[3700] Samus: 4x
+[3700] Samus: questitems
+[3700] Samus: speedwalk
+[3398] Samus: blade
+[3398] Samus: quest eq
+[3398] Samus: questeq
+[3398] Samus: qeq
+[3054] Keji: arena
+[3001] Samus: smurf
+[3001] Samus: smurfville
+[3001] Samus: run
+[3001] Samus: smurf
+[3398] Samus: aqp
+[3398] Samus: iqp
+[3398] Samus: 4x
+[19960] Requiem: mece
+[40310] Muska: 4x
+[3398] Samus: clanstart
+[3198] Samus: bet
+[3198] Samus: arena
+[3398] Samus: trivia
+[3398] Samus: triv
+[9201] Omni: clans
+[3365] Omni: immolation
+[2377] Keji: immolation
+[19910] Samus: track
+[3198] Samus: call wild
+[3198] Samus: wild
+[3014] Samus: remort
+[3014] Samus: multiclass
+[19911] Samus: arena
+[19926] Samus: clans
+[19935] Samus: thrust
+[19943] Samus: wild
+[2392] Keji: dragon
+[19971] Samus: arena
+[19971] Samus: vampire blast
+[19971] Samus: bet
+[3128] Rinowa: arena
+[3001] Ageku: market square
+[3398] Loki: addapply
+[3398] Loki: addaff
+[3397] Roland: bank
+[3397] Kalicu: rebirth
+[40516] Kalicu: story
+[3056] Mangan: gest
+[3045] Mangan: aco
+[0] Erigais: imp
+[3703] Erigais: rev
+[3703] Erigais: revenant
+[0] Erigais: shockling
+[206] Erigais: call wild
+[2103] Erigais: acid rain
+[3014] Karnac: direcs
+[3198] Erigais: dragon
+[3398] Karnac: shockling
+[2103] Erigais: lebel
+[3014] Erigais: fire storm
+[2102] Erigais: dragon
+[550] Mangan: marry
+[550] Mangan: divorce
+[550] Mangan: marr
+[550] Mangan: corner
+[550] Mangan: promopt
+[3031] Loki: midgaard
+[3031] Loki: wizlist
+[2911] Mangan: corner
+[40518] Kalicu: object
+[3031] Loki: repop
+[3365] Roland: home
+[1200] Loki: amrorstat
+[2354] Keji: stu
+[2354] Keji: stun
+[1200] Loki: prefix
+[1200] Kurvaak: prefix
+[40536] Kalicu: door
+[18010] Suraman: ITEM_FOUNTAIN
+[18010] Suraman: ITEM_FOUNTAIN
+[18010] Suraman: ITEM_FOUNTAIN
+[18010] Suraman: ITEM_FOUNTAIN
+[18001] Suraman: rpmpt
+[40559] Kalicu: wear-loc
+[40559] Kalicu: marry
+[40559] Kalicu: sedity
+[4202] Roland: mprog
+[4202] Roland: mprog
+[4202] Roland: sdlkf
+[4202] Roland: act
+[18018] Suraman: ITEM_FOUNTAIN
+[40564] Kalicu: resetr
+[0] Stryder: gryphon
+[0] Stryder: mutant
+[3001] Stryder: tower
+[19934] Stryder: stance
+[9753] Stryder: call wild
+[1200] Loki: seid
+[1200] Loki: msedit
+[1200] Loki: mpedit
+[1200] Loki: mpstat
+[40596] Kalicu: mprog
+[40596] Kalicu: mprog
+[40596] Kalicu: mprog
+[40530] Kalicu: setxp
+[40530] Kalicu: cheating
+[40303] Roland: vape
+[5380] Roland: oldstyle
+[5380] Roland: old
+[40613] Kalicu: form
+[40290] Kalicu: nochannels
+[40599] Furan: slist
+[40700] Loki: mpedit
+[3398] Furan: questitems
+[3398] Furan: questitems
+[16940] Furan: rename
+[3398] Keji: blade bless
+[1200] Furan: acolytes
+[1200] Furan: mortal
+[1200] Loki: build
+[40700] Roland: material
+[40700] Furan: wclass
+[40701] Furan: sector
+[40701] Furan: dig
+[40613] Kalicu: class all
+[3397] Kurvaak: addapply
+[40309] Roland: other
+[552] Mangan: v4
+[40312] Roland: story
+[40312] Roland: death rising
+[40312] Roland: death_rising
+[41076] Kalicu: loaf
+[3398] Kyrith: questitems
+[3398] Kyrith: gods armor
+[3758] Blizzard: dragon
+[3001] Omni: dit
+[3001] Kyrith: summon familiar
+[3001] Kyrith: vampire blast
+[1136] Yurn: guild
+[3198] Yurn: track
+[3198] Yurn: track
+[40699] Kalicu: furniture
+[40299] Giliath: marry
+[552] Mangan: armorstats
+[552] Mangan: mpstat
+[40313] Roland: anc
+[40699] Kalicu: clans
+[40699] Kalicu: protectors
+[40699] Kalicu: protector
+[40699] Kalicu: mprog
+[40699] Kalicu: questlevel
+[40699] Kalicu: builderlevel
+[40699] Kalicu: questlevel
+[40800] Mandorallen: marry
+[40299] Giliath: clans
+[40299] Giliath: mprog
+[40299] Giliath: mprog
+[3365] Furan: elder
+[3700] Laerlik: build level
+[40800] Mandorallen: reditor
+[16992] Mangan: wear-loc
+[16992] Mangan: wear loc
+[40839] Mandorallen: ?
+[17000] Mangan: container
+[17000] Mangan: rename
+[17000] Mangan: astat
+[17000] Mangan: alock
+[17000] Mangan: acolyte
+[17000] Mangan: ITEM_FOUNTAIN
+[17000] Mangan: ITEM_FOUNTAIN
+[17000] Mangan: ITEM_FOUNTAIN
+[9759] Mangan: 'call d'
+[40699] Kalicu: marry
+[40699] Kalicu: divorse
+[40699] Kalicu: mpdump
+[4202] Suraman: itwem
+[4202] Suraman: tiem
+[40041] Kalicu: wear-loc
+[40041] Kalicu: wear-locaton
+[40699] Kalicu: echop
+[41014] Kyrith: autoeasy
+[40613] Kalicu: wclass
+[20200] Loki: drow
+[40283] Giliath: damtype
+[40621] Kalicu: damt
+[40283] Giliath: wear-loc
+[40283] Giliath: wearl
+[40283] Giliath: wear l
+[40283] Giliath: wearl
+[40283] Giliath: wear_loc
+[40283] Giliath: wear loc
+[40283] Giliath: wearl
+[40200] Giliath: from
+[40200] Giliath: goc
+[3700] Avidlar: roleplay
+[3700] Avidlar: clans
+[3700] Avidlar: guild
+[3700] Avidlar: immolation
+[3700] Avidlar: classes
+[3700] Avidlar: transporation
+[3700] Avidlar: mock
+[3700] Avidlar: wizlist
+[3700] Avidlar: marry
+[3700] Avidlar: divorce
+[3700] Avidlar: corner
+[3700] Avidlar: dragon
+[3700] Avidlar: knight
+[3700] Avidlar: sorceror
+[3700] Avidlar: dragon
+[3700] Avidlar: vampire blast
+[3700] Avidlar: omni
+[3700] Avidlar: Dragon
+[40699] Kalicu: shopkeeper
+[40699] Kalicu: shopkeeper
+[4202] Suraman: ite,
+[4202] Suraman: potion
+[4202] Suraman: anger
+[4202] Suraman: blindrage
+[20200] Loki: mccp
+[20200] Loki: mccp
+[42000] Avidlar: sector
+[42000] Avidlar: sector
+[40897] Mandorallen: name
+[40897] Mandorallen: act
+[40897] Mandorallen: hadtimer
+[552] Mangan: dmaage
+[552] Mangan: promot
+[3398] Mangan: arena
+[611] Roland: prefix
+[611] Mangan: logins
+[611] Mangan: wiznnet
+[0] Edgar: drow
+[3198] Suland: guild
+[3198] Suland: rampage
+[18030] Suraman: builder
+[18030] Suraman: building
+[611] Suraman: pitem
+[611] Suraman: power item
+[42001] Avidlar: abusy
+[42001] Avidlar: aclear
+[4267] Suraman: pitem
+[4267] Suraman: power item
+[4267] Suraman: power_item
+[4264] Suraman: wtype
+[40599] Furan: vorpal blade
+[40599] Furan: blade
+[40599] Furan: vorpal
+[40704] Furan: dig
+[40725] Furan: slist
+[40725] Furan: bump
+[3397] Kurvaak: violate
+[20200] Kalicu: rename
+[20200] Kalicu: omni
+[20200] Lokine: clan misc
+[0] Blex: shockling
+[0] Blex: cryphon
+[0] Blex: gryphon
+[440] Muska: cry
+[440] Muska: copyover
+[3827] Muska: reast
+[20200] Lokine: promtp
+[3867] Muska: prefix
+[3801] Muska: sector
+[40263] Giliath: display
+[40263] Giliath: display
+[40731] Furan: oreset
+[40731] Furan: <dir> 
+[40727] Furan: spec
+[40727] Furan: rdesc
+[40727] Furan: room desc
+[40727] Furan: code
+[40727] Furan: building
+[40700] Furan: resurect
+[3398] Furan: questitems
+[3398] Furan: wiz2
+[20200] Mangan: promopt
+[40726] Furan: astat
+[40726] Furan: divorce
+[40726] Furan: marry
+[40726] Furan: rename
+[40726] Furan: spellup
+[40726] Furan: spellup
+[40726] Furan: corner
+[40726] Furan: omni
+[40701] Furan: health
+[40701] Furan: hp
+[40701] Furan: clans
+[40700] Furan: act
+[3365] Furan: rename
+[3365] Furan: rename
+[40713] Furan: rarea
+[40713] Furan: earea
+[40713] Furan: adeit
+[40736] Furan: extra
+[40736] Furan: type
+[40736] Furan: exitflags
+[40736] Furan: room flags
+[40736] Furan: mcreate
+[40736] Furan: create mob
+[40736] Furan: create mob
+[40736] Furan: 2.create
+[40736] Furan: 2.area
+[40736] Furan: sector
+[40736] Furan: act
+[40736] Furan: sex
+[40736] Furan: shields
+[40736] Furan: parts
+[40736] Furan: act2
+[40725] Kurvaak: repop
+[3031] Furan: whirlwind
+[40700] Furan: type
+[40700] Furan: material
+[40700] Furan: type
+[40700] Furan: v0
+[40700] Furan: v3
+[40702] Furan: v3
+[40702] Furan: 3
+[40702] Furan: v3
+[40702] Furan: condition
+[40702] Furan: special
+[40702] Furan: Special
+[40702] Furan: wtype
+[40750] Furan: value 1
+[40750] Furan: value 4
+[40750] Furan: owhere 40702
+[40702] Furan: obj
+[40702] Furan: obj
+[40702] Furan: obj create
+[40702] Furan: create obj
+[40750] Furan: corner
+[40750] Furan: prefix
+[2396] Furan: blade
+[2396] Furan: blade
+[2396] Furan: vorpal blade
+[2396] Furan: vorpal
+[2396] Furan: vorpal
+[2396] Furan: vorp
+[2396] Furan: vorp
+[2396] Furan: flaming
+[40750] Furan: containter
+[40736] Furan: wear-loc
+[40736] Furan: wear-loc
+[40799] Furan: owner
+[40799] Furan: obj
+[40798] Furan: type
+[40798] Furan: furn
+[40797] Furan: exit flags
+[40795] Furan: global jukebox
+[40795] Furan: extra
+[40795] Furan: spec
+[40795] Furan: extra
+[40795] Furan: flaming
+[40795] Furan: avnum
+[40795] Furan: avnum
+[40792] Furan: knockout
+[40274] Furan: knock 
+[40274] Furan: knock 
+[40792] Suraman: weaponm
+[40798] Furan: \dt
+[40798] Furan: dt
+[40798] Furan: damagettype
+[40798] Furan: damagetype
+[40798] Furan: \shields
+[40798] Furan: shields
+[40798] Furan: act
+[40798] Furan: wear-loc
+[40798] Furan: wear-loc
+[40798] Furan: part
+[40750] Furan: \reset
+[40798] Furan: unique
+[3758] Furan: 4x
+[3758] Furan: 4x
+[40599] Furan: cleave
+[40599] Furan: cleave
+[40798] Mangan: breath
+[40797] Mangan: ITEM_FOUNTAIN
+[40700] Furan: kni
+[40700] Furan: kni
+[40700] Furan: knight
+[16900] Mangan: ITEM_FOUNTAIN
+[16900] Mangan: ITEM_FOUNTAIN
+[16900] Mangan: ITEM_FOUNTAIN
+[16900] Mangan: ITEM_FOUNTAIN
+[16900] Mangan: ITEM_FURNITURE
+[16900] Mangan: furn
+[40797] Furan: form
+[40796] Furan: act
+[40796] Furan: wear-loc
+[40796] Furan: wear-loc
+[40796] Furan: wear-loc
+[40796] Furan: wear-loc
+[3259] Roland: thrust
+[50015] Xamot: arena
+[570] Mangan: sate
+[0] Gaebril: mutant
+[3758] Gaebril: mutant
+[641] Kalicu: prefix
+[641] Kalicu: clans
+[690] Mangan: promot
+[579] Mangan: damtype
+[579] Mangan: wealth
+[579] Mangan: armors
+[0] Jerome: mutnt
+[0] Jerome: mutant
+[3759] Jerome: mutnt
+[3759] Jerome: tracker
+[3759] Jerome: tracker basics
+[0] Cyblade: dragon
+[0] Cyblade: shockling
+[0] Aldar: titant
+[18033] Suraman: door
+[18033] Suraman: dealer
+[18047] Suraman: mprog
+[18053] Suraman: is_priest
+[18053] Suraman: ITEM_FURNITURE
+[18053] Suraman: ITEM_FURNITURE
+[18053] Suraman: furniture
+[1101] Kargal: olist
+[3398] Kargal: whostring
+[3398] Kargal: questitems
+[18054] Suraman: sect
+[1100] Kargal: spec
+[1100] Kargal: string obj
+[20200] Lokine: death rising
+[1127] Kargal: death rising
+[20200] Lokine: meteor
+[20200] Lokine: slap
+[20200] Kargal: remort
+[20200] Kargal: hero
+[20200] Kargal: berserker
+[20200] Lokine: immkiss
+[20200] Lokine: extra
+[20200] Kargal: aeditr
+[18033] Suraman: damt
+[18033] Suraman: damt
+[18021] Suraman: armorstats
+[18021] Suraman: armorstat
+[18021] Suraman: armorsta
+[18048] Suraman: global
+[1427] Roland: wclass
+[18058] Suraman: 'forging
+[18058] Suraman: forges
+[18045] Suraman: iquest
+[18045] Suraman: goc
+[18045] Suraman: gocial
+[2385] Kargal: blinding
+[2385] Kargal: sorcerer
+[3398] Kargal: whostring
+[3398] Kargal: questitems
+[0] Setzer: ogre
+[19906] Setzer: ancient
+[19906] Setzer: ogre
+[19906] Setzer: dragon
+[18056] Suraman: mprog
+[18056] Suraman: prog
+[18056] Suraman: jewelry
+[18056] Suraman: jewelry
+[1160] Kargal: act
+[1160] Kargal: affected
+[1104] Kargal: armorclass
+[1106] Kargal: spec
+[1104] Kargal: mprogh
+[1104] Kargal: mprog
+[1104] Kargal: mprog
+[1220] Giliath: phoen
+[1220] Giliath: phoenix
+[1233] Giliath: blackjack
+[1000] Kalicu: builderlevel
+[18058] Suraman: leech
+[40302] Avidlar: dragon
+[40302] Avidlar: Dragon
+[1105] Kargal: act2
+[1105] Kargal: wear-loc
+[1105] Kargal: wear-loc
+[1105] Kargal: wear_loc
+[1105] Kargal: WEAR-LOC
+[1105] Kargal: door
+[577] Mangan: act
+[18058] Suraman: extra
+[18058] Suraman: add
+[18058] Suraman: addaffect
+[1202] Giliath: gryphon
+[4233] Suraman: type
+[4273] Suraman: ITEM_PORTAL
+[4273] Suraman: ITEM_PORTAL
+[1435] Mangan: questitems
+[3721] Lokine: spec 
+[1022] Mangan: shop
+[1022] Mangan: keep
+[3198] Mangan: blackjack
+[40699] Kalicu: pheonix
+[40699] Kalicu: Pheonix
+[0] Marquoz: dragon
+[19920] Marquoz: ancient
+[0] Jarhad: feed
+[0] Jarhad: grip
+[0] Jarhad: whirlwind
+[0] Jarhad: rampage
+[19907] Marquoz: vampire blast
+[3758] Jarhad: global social
+[3715] Jarhad: dual wield
+[3715] Jarhad: secondary
+[3716] Jarhad: rp
+[3198] Jarhad: whirlwind
+[3198] Jarhad: arena
+[0] Yurian: gryphon
+[0] Yurian: phoenix
+[0] Yurian: rampage
+[3198] Jarhad: grip
+[0] Jessiah: fireling
+[0] Jessiah: imp
+[0] Jessiah: mutant
+[20200] Suraman: ancient
+[20200] Suraman: cheat
+[20200] Suraman: gryph
+[20200] Suraman: race_gryph
+[19918] Jarhad: freelance
+[4200] Suraman: whirlwind
+[19934] Yurian: berserker
+[19912] Jessiah: remort
+[19912] Jessiah: remort
+[19921] Jessiah: rank
+[1200] Giliath: goc
+[3198] Yurian: eyerub
+[2101] Yurian: counter
+[0] Jarome: dragon
+[237] Jarhad: stun
+[260] Jarhad: hp
+[260] Jarhad: life
+[260] Jarhad: money
+[274] Jarhad: whirlwind
+[19923] Jarhad: stun
+[3198] Jarhad: whirlwind
+[3398] Jarhad: whostring
+[18051] Roland: deahrising
+[0] Baodwyn: fireling
+[0] Baodwyn: dragon
+[0] Baodwyn: knight
+[0] Baodwyn: knight
+[0] Baodwyn: sorcerer
+[0] Baodwyn: shockling
+[0] Baodwyn: bladecraft
+[3712] Baodwyn: vorpal blade
+[3712] Baodwyn: pill
+[732] Mangan: knight
+[3717] Baodwyn: vorpal
+[3717] Baodwyn: sharp blade
+[3198] Baodwyn: ancient
+[3198] Aice: channel
+[3721] Mangan: goc
+[3054] Kane: guild
+[4215] Kane: freelance
+[1002] Marquoz: multi
+[15004] Mangan: freelance
+[19911] Baodwyn: whirlwind
+[3198] Baodwyn: counter
+[3198] Baodwyn: rampage
+[15011] Mangan: loner
+[15018] Mangan: spellup
+[3715] Mojojojo: revenant
+[3715] Mojojojo: revenant basics
+[15006] Mangan: qspell
+[3005] Baodwyn: empty
+[3715] Mojojojo: run
+[3398] Aice: ancient
+[3700] Raeld: rev
+[3700] Raeld: revenant
+[3734] Raeld: channel
+[3397] Raeld: guild
+[259] Raeld: ancient
+[3014] Raeld: guild
+[0] Sabre: iceling
+[3733] Sabre: dragon
+[0] Ageku: iceling
+[0] Dragus: shockling
+[3741] Sabre: rogue
+[3054] Keeler: dual
+[3054] Keeler: dual wield
+[3700] Dragus: classes
+[3700] Dragus: revenant
+[3700] Dragus: tracker
+[0] Dumani: fireling
+[18052] Ageku: battlefield
+[0] Dumani: rogue default
+[40000] Lokine: name
+[3758] Dumani: int
+[40000] Lokine: name
+[40000] Lokine: names
+[3700] Kapa: dragon
+[2115] Kane: counter
+[0] Shane: dragon
+[19919] Raeld: channel
+[606] Raeld: doub
+[19946] Raeld: cainite
+[19954] Raeld: vampire blast
+[19954] Raeld: 'vampire blast;
+[19954] Raeld: 'vampire blast'
+[19954] Raeld: 'vampire blast'
+[3398] Voral: questitems
+[3398] Voral: questitems
+[3398] Raeld: questitems
+[0] Indirian: pheonix
+[19952] Jessiah: multi
+[19960] Jessiah: clans
+[3034] Jessiah: clans
+[3034] Jessiah: iqp
+[3034] Jessiah: iq
+[19971] Jessiah: website
+[19971] Jessiah: site
+[11707] Keeler: tap
+[40699] Kalicu: counter
+[19939] Kane: counter
+[3198] Ibra: bladecraft
+[3198] Ibra: blade
+[2355] Yurian: knight
+[0] Odaeis: shockling
+[0] Odaeis: iceling
+[0] Odaeis: dragon
+[3700] Odaeis: shockling
+[3700] Odaeis: classes
+[3700] Odaeis: revenant
+[0] Odaeis: rampage
+[0] Odaeis: critical
+[3709] Odaeis: clans
+[0] Dredge: fireling
+[2314] Aice: clans
+[3198] Zazel: guild
+[3198] Zazel: guildmaster
+[3014] Zazel: stance
+[0] Draconus: ebendictions
+[2379] Aice: number 2
+[19958] Dredge: remort
+[3012] Avidlar: diety
+[20200] Avidlar: phoenix
+[20200] Avidlar: channel
+[0] Cyx: gryphon
+[3054] Suraman: pheonix
+[3054] Suraman: race_pheonix
+[3198] Dredge: counter
+[19989] Cyx: briarshield
+[3198] Jarome: berserker
+[0] Jarome: rogue default
+[3198] Jarome: gouge
+[40299] Giliath: clans
+[40299] Giliath: clans
+[2110] Sabre: rampage
+[2110] Sabre: thrust
+[609] Marquoz: trk
+[3001] Dumani: www
+[19933] Dumani: freelance
+[0] Hakavay: dragon
+[0] Hakavay: dragon
+[3011] Dumani: dual
+[19935] Dumani: hero
+[2105] Jarhad: remort
+[2359] Yurian: tier4
+[3054] Yurian: elder
+[3054] Yurian: sorcerer
+[4233] Suraman: ancient
+[3016] Dumani: gorup
+[3054] Yurian: cainite
+[1014] Kalicu: type
+[0] Neresyia: shockling
+[0] Neresyia: call wilf
+[0] Neresyia: call wild
+[0] Visian: gryphon
+[0] Visian: Gryphon
+[0] Visian: ogre
+[0] Visian: Gryphon
+[0] Kora: shockling
+[0] Kora: rogue
+[3198] Yurian: hero
+[3712] Kora: counter
+[3712] Kora: remort
+[3712] Kora: assassin
+[3398] Kora: iqp
+[3398] Kora: qpts
+[0] Yurian: dragon
+[0] Yurian: schockling
+[0] Yurian: henku
+[0] Yurian: phoenix
+[3001] Kora: config
+[3001] Suraman: clan price
+[3001] Suraman: clan_\price
+[3001] Suraman: clan_price
+[3001] Suraman: clanprice
+[3016] Kora: elder
+[3753] Kora: shockling
+[3198] Kora: eyerub
+[3054] Mangan: arena
+[2361] Baodwyn: elder
+[3054] Baodwyn: sorcerer
+[3198] Cyx: thrust
+[3198] Kora: dual
+[3198] Kora: dual wield
+[3054] Baodwyn: ancient
+[3054] Kora: rampage
+[3718] Visian: supplies
+[19907] Voral: dragon
+[3198] Jessiah: whirlwind
+[19930] Voral: rampage
+[19967] Jessiah: tracker
+[19930] Voral: firestorm
+[19967] Jessiah: clanlist
+[3398] Voral: eyerub
+[50000] Roland: ancient
+[3397] Visian: weaponmaster
+[1000] Kalicu: announce
+[3054] Dredge: knight
+[2110] Tyrant: channel
+[3011] Raeld: eye
+[3011] Raeld: eyerub
+[1020] Yurian: cost
+[1000] Tyrant: remort
+[50000] Raeld: arena
+[50015] Raeld: breath
+[0] Ezekiel: shockling
+[0] Ezekiel: drow
+[0] Ezekiel: shockling
+[0] Ezekiel: shockling
+[3758] Kapa: dragon
+[3758] Kapa: classes
+[40599] Suraman: wecho
+[40699] Kalicu: blackjack
+[1000] Tyrant: ancient
+[1002] Tyrant: grip
+[4233] Suraman: dtype
+[3198] Quede: gouge
+[1010] Yurian: ancient
+[3367] Yurian: ancient
+[3054] Dredge: fireling
+[3714] Lokar: counter
+[3198] Lokar: ressurect
+[3054] Giliath: money
+[19923] Quasam: devote
+[3040] Zaen: vampire blast
+[3198] Zaen: summon familiar
+[3054] Sabre: rampage
+[3721] Neresyia: dragon wisdom
+[3721] Neresyia: dragon
+[3712] Neresyia: summon familiar
+[0] Kain: mutant
+[0] Kain: mutant
+[0] Cirolian: dragon
+[0] Kain: rampage
+[0] Laric: fireling
+[0] Kain: grip
+[0] Sesshoumaru: stun
+[3024] Sesshoumaru: remort
+[2168] Mangan: multi
+[2168] Mangan: as
+[2168] Mangan: immr
+[3198] Zaen: counter
+[15018] Sesshoumaru: golden aura
+[3054] Mangan: double
+[19900] Roland: object
+[19900] Roland: ostat
+[1000] Lox: remort
+[3014] Zaphear: balance
+[3198] Zaphear: critical strike
+[3198] Zaphear: critical
+[19907] Lox: ressurect
+[19910] Lox: dirs
+[0] Cirolian: shockling
+[0] Guise: imp
+[0] Guise: detectin
+[0] Guise: imp
+[0] Guise: pheonix
+[0] Guise: revenant
+[3758] Guise: wis
+[3758] Guise: wisdemo
+[3758] Guise: stats
+[3758] Guise: stat
+[3198] Cirolian: call wild
+[1010] Dredge: questitems
+[3198] Cirolian: counter
+[2911] Guise: feed
+[3198] Guise: feed
+[3398] Cirolian: quest item
+[3398] Cirolian: quest aura
+[3398] Cirolian: aura
+[0] Seth: orc
+[0] Seth: imp
+[1210] Giliath: goc
+[3054] Calibus: guild
+[3398] Guise: freelance
+[3398] Guise: clans
+[3054] Zaen: rampage
+[3054] Guise: brk
+[40299] Mangan: corner
+[3001] Mangan: showclass
+[0] Sirrion: iceling
+[3001] Guise: tiers
+[0] Sirrion: shockling
+[0] Sirrion: mutant
+[3001] Guise: elder
+[3001] Guise: knight
+[3001] Guise: cainite
+[15024] Quede: rogue
+[1002] Mangan: otrans
+[1002] Yurian: ppk
+[40699] Kalicu: ruke
+[1002] Yurian: safe
+[20200] Aice: neon
+[3198] Aldar: call wild
+[2398] Raeld: balance
+[40543] Yurian: arena
+[40543] Yurian: challenge
+[3198] Guise: summon familiar
+[19907] Guise: gain convert
+[3198] Guise: weaponmaster
+[3198] Guise: counter
+[19978] Cyblade: hero
+[19923] Quasam: rub
+[19923] Quasam: rub
+[19923] Quasam: true
+[19923] Quasam: 'true sight'
+[0] Tristram: Dragon
+[0] Tristram: iceling
+[2354] Baodwyn: sorcerer
+[0] Bane: eyerub
+[3712] Bane: quest item
+[3712] Bane: qi
+[3398] Bane: questitems
+[3398] Bane: questi
+[3398] Bane: quest item
+[3398] Bane: questi
+[3398] Bane: questitems
+[0] Shikar: dragon
+[0] Shikar: dragon
+[0] Shikar: fireling
+[3198] Bane: stance
+[3014] Bane: morl
+[0] Beowulf: dragon
+[0] Beowulf: deraco
+[0] Kridjar: pheonix
+[1013] Baodwyn: bladecraft
+[1013] Baodwyn: immolation
+[1009] Suraman: tap
+[1009] Yurian: multi
+[15018] Bane: iq
+[15018] Bane: aq
+[15018] Bane: ip
+[3054] Bane: blue
+[50000] Bane: questitems
+[40598] Marquoz: counter
+[1002] Marquoz: ancient
+[1010] Suraman: summon famil
+[1009] Suraman: summon famil
+[3054] Bane: remort
+[3054] Bane: tattoo
+[19918] Bane: multi
+[19938] Bane: ancient
+[19942] Bane: multi
+[3198] Dredge: cainite default
+[19934] Bane: multi
+[19934] Bane: multi-play
+[19954] Bane: stance
+[4233] Suraman: reward
+[3198] Bane: camo
+[3198] Bane: camouflage
+[1002] Marquoz: clanlist
+[15017] Raeld: cainite
+[15017] Raeld: elder
+[3054] Guise: fireling
+[3198] Guise: vampiric embrace
+[3014] Dredge: counter
+[19926] Aldar: remort
+[19926] Aldar: dragon
+[11710] Quede: dragon
+[19926] Aldar: thrust
+[11769] Quede: remove align
+[1202] Giliath: aign
+[0] Marcos: phoenix
+[0] Marcos: revenant
+[3001] Quede: dragon
+[1002] Dredge: gift
+[3366] Dredge: cainite
+[3366] Dredge: cain
+[3366] Dredge: rampage
+[3756] Matias: ancien
+[3756] Matias: ancient
+[3756] Matias: ancients
+[3254] Kridjar: ancient
+[3254] Kridjar: ancients
+[0] Rico: revenant
+[3366] Dredge: knight
+[3366] Dredge: elder
+[3366] Dredge: default
+[3366] Dredge: spellgroup
+[3001] Carlos: freelance
+[3198] Quede: crit
+[2350] Quede: bloodba
+[3700] Matrin: global
+[2341] Quede: vice
+[2341] Quede: vise
+[2341] Quede: grip
+[19927] Aldar: copyover
+[3758] Cyrix: newi
+[3366] Dredge: tracker
+[19977] Zaen: dragon
+[203] Aice: sorcerer
+[2359] Zaen: fire storm
+[3054] Quasam: pool
+[19982] Quasam: eyerub
+[4274] Suraman: ITEM_PORTAL
+[3198] Bane: blackjack
+[0] Zaen: whirlwing
+[0] Zaen: whirl
+[0] Zaen: whirlwing
+[3014] Quede: nerv
+[3054] Quasam: gangland
+[3198] Zaen: call wild
+[3198] Zaen: dragon
+[0] Zaen: bladecraft
+[0] Zaen: acid rain
+[3198] Zaen: immolation
+[3198] Zaen: ancient
+[3198] Zaen: meteor rain
+[0] Zaen: pheonix
+[3198] Quasam: agin
+[3198] Quasam: nervestrike
+[3014] Quasam: nerve
+[3054] Kora: dragon wisdom
+[3054] Quasam: remort
+[3198] Kora: blackjack
+[3198] Kora: nervestrike
+[9209] Bane: arena
+[19905] Kora: imqp
+[3054] Quasam: dual
+[3054] Quasam: 'dual wield'
+[3198] Quasam: weaponmaster
+[3198] Quasam: blackjack
+[3198] Quasam: critical
+[19906] Kora: peck
+[19906] Kora: shockling
+[202] Kora: dragon
+[202] Kora: dragon
+[202] Zaen: acid rain
+[19919] Kora: circle
+[3366] Zaen: dex
+[3366] Zaen: stat
+[3366] Zaen: stats
+[3366] Zaen: dexterity
+[2312] Bane: rampage
+[1010] Yurian: sorc
+[0] Xaero: dragon
+[0] Xaero: drow
+[0] Xaero: shockling
+[19938] Guise: locker
+[3054] Guise: lockers
+[1010] Yurian: rogue
+[2378] Quede: hero
+[3198] Quede: shaman
+[1010] Cyblade: call wild
+[3198] Quede: call wild
+[2314] Bane: verbose
+[3398] Bane: questitems
+[19914] Baodwyn: dragon
+[2354] Zaen: whirlwing
+[2354] Zaen: whirlwind
+[3054] Mangan: arena
+[0] Stryder: iceling
+[0] Stryder: mutant
+[0] Stryder: pheonix
+[0] Ponnet: shockling
+[0] Ponnet: dragon
+[1010] Stryder: dual
+[19974] Stryder: gamestat
+[1010] Zaen: counter
+[0] Samus: dragon
+[2326] Mangan: invoke
+[3715] Samus: noexp
+[3014] Samus: battlefield
+[3014] Samus: batle
+[3014] Samus: battle
+[40615] Zaen: rocerer
+[1010] Zaen: arena
+[0] Zaen: elemental offensive
+[0] Zaen: enchanet
+[0] Samus: nervestrike
+[0] Samus: nerve
+[1000] Samus: hero
+[1000] Samus: hro
+[1000] Samus: legend
+[1000] Samus: ancient
+[1000] Samus: ancient
+[1010] Samus: questitems
+[1010] Samus: questeq
+[1010] Samus: quest equipment
+[1010] Samus: questequipment
+[9245] Mangan: ancient
+[2354] Yurian: blacklegion
+[1435] Aice: metero
+[1435] Aice: meteor
+[1435] Aice: sorcerer
+[609] Quede: call wild
+[203] Samus: clanstart
+[1010] Stryder: stnace
+[1010] Stryder: stance
+[1009] Samus: balance
+[19913] Samus: stance
+[1010] Stryder: stock
+[3759] Zuran: convert
+[1435] Aice: ancient
+[19970] Aldar: thrust
+[19969] Aldar: revenant
+[3398] Zuran: questitem
+[3398] Zuran: questitems
+[0] Broal: shockling
+[0] Broal: mutant
+[3759] Broal: stance
+[3001] Zuran: circle
+[3016] Zuran: ns
+[3001] Zuran: attacj
+[3001] Zuran: challenge
+[3001] Zuran: arena
+[0] Mortis: dragon
+[0] Mortis: dragon
+[0] Mortis: mutant
+[0] Mortis: fireling
+[3700] Mortis: rev
+[3700] Mortis: dragon
+[0] Mortis: orc
+[19935] Guise: hate
+[201] Flac: revenant
+[279] Cyx: global
+[279] Cyx: ooc
+[279] Cyx: arena
+[279] Cyx: challenge
+[20200] Kurvaak: mana shield
+[3198] Bane: stun
+[1010] Yurian: cainite
+[1010] Yurian: rogue
+[1010] Yurian: wticket
+[1010] Yurian: whoticket
+[9242] Quede: dragon skin
+[1009] Ponnet: vrugar
+[2102] Neresyia: ancient
+[19918] Neresyia: summon familiar
+[19923] Neresyia: freelance
+[19926] Neresyia: vampire blast
+[0] Aecyr: dragon
+[3712] Aecyr: ancient
+[604] Cirolian: carve
+[1010] Samus: critical
+[1010] Samus: gouge
+[1010] Samus: gouge
+[0] Aweqoo: shockling
+[3198] Janeev: rampage
+[3198] Janeev: stun
+[1435] Flac: pcolor
+[3014] Guise: locate person
+[3001] Guise: vampire blast
+[3758] Gaebril: iceling
+[19974] Guise: aqp
+[3398] Guise: iqp
+[3398] Guise: aqp
+[1010] Guise: quest replace
+[18021] Guise: blast
+[3001] Gaebril: guild
+[3054] Gaebril: guild
+[3054] Gaebril: guildmaster
+[3301] Gaebril: guild
+[3051] Gaebril: dirs
+[3198] Aweqoo: whirlwind
+[3731] Gaebril: policy
+[3198] Gaebril: rampage
+[3198] Guise: faerire fire
+[3198] Guise: lighting bolt
+[3198] Guise: ff
+[3198] Guise: faerie fie
+[2362] Quede: mana shield
+[2362] Quede: manashield
+[3398] Guise: religon
+[3398] Guise: religion
+[3198] Gaebril: rip
+[3198] Gaebril: whirlwind
+[3715] Roffelos: firelance
+[3715] Roffelos: freelance
+[2104] Guise: sorcerer
+[2104] Guise: sorcerer
+[3198] Guise: pex
+[3020] Guise: vambraces
+[18054] Guise: eyerub
+[2351] Guise: demon barbarian
+[2351] Guise: demon barbarian
+[3398] Gaebril: questitems
+[3398] Gaebril: questitems
+[2351] Guise: counter
+[1435] Aice: questitems
+[1435] Aice: blade
+[1435] Aice: ancients
+[4208] Gaebril: revenant
+[2109] Janeev: stun
+[3198] Gaebril: gangland
+[3054] Gaebril: rampage
+[3054] Gaebril: crit
+[3198] Gaebril: dragon
+[693] Guise: run
+[2312] Guise: ancient
+[2312] Guise: anc
+[2312] Guise: rev
+[2312] Guise: revenant
+[3198] Guise: counter
+[3012] Guise: prtal
+[3398] Quasam: ooc
+[3398] Quasam: global
+[3198] Quasam: crit
+[3054] Quasam: critical
+[3054] Quasam: crit
+[3054] Quasam: strike
+[19905] Flac: summon familar
+[19922] Flac: summon familiar
+[19930] Flac: familiar
+[19962] Flac: remort
+[11780] Gaebril: tracker
+[3198] Gaebril: counter
+[1010] Baodwyn: balance
+[40501] Gaebril: policy
+[40501] Gaebril: monk
+[40501] Gaebril: dice
+[1010] Yurian: 'mana shield'
+[1000] Yurian: assassin
+[3198] Yurian: blcakjack
+[3198] Yurian: blackjack
+[9242] Yurian: blackjack
+[2109] Yurian: tracker
+[3020] Janeev: channels
+[3020] Janeev: chann
+[3700] Janeev: config
+[2141] Janeev: null
+[3198] Rask: elemental offensive
+[3198] Rask: 'elemental offensive'
+[1832] Cyx: trans all
+[1832] Cyx: trans cyx
+[1832] Cyx: trans cyx healer
+[3198] Janeev: counter
+[3198] Janeev: rampage
+[9212] Janeev: rampage
+[3001] Roffelos: midgaar
+[3198] Roffelos: whirlwind
+[3198] Roffelos: critical strike
+[3198] Roffelos: rampage
+[202] Roffelos: ancient
+[2319] Gaebril: mutant
+[2361] Gaebril: mutant
+[3198] Roffelos: stun
+[0] Wolfyn: shockling
+[3198] Roffelos: sorcerer
+[204] Roffelos: assassin
+[207] Gaebril: firestorm
+[0] Azik: feed
+[604] Azik: carve
+[0] Aecyr: drow
+[0] Aecyr: ent
+[9207] Janeev: rank
+[19979] Azik: cancle
+[0] Xod: Pheonix
+[0] Xod: Pheonix
+[3198] Aecyr: summon fa
+[3001] Quasam: pcolor
+[3198] Quasam: bet
+[11749] Azik: reserved
+[1435] Aice: leader
+[2353] Yurian: pirces
+[40500] Roffelos: arena
+[3054] Neresyia: ancient
+[1010] Mangan: ancient
+[0] Kiara: iceling
+[2110] Neresyia: alliance
+[0] Kiara: imp
+[0] Kiara: drow
+[1010] Neresyia: questitems
+[1010] Neresyia: questitems
+[620] Neresyia: wager
+[3198] Flac: counter
+[19970] Flac: counter
+[70000] Aice: arena
+[70000] Mangan: clanp
+[3054] Guise: lighting bolt
+[3054] Guise: lighting bolt
+[3054] Guise: lighting
+[70000] Aice: reward
+[20200] Lokine: reward
+[1010] Guise: whostring
+[1010] Guise: sticket
+[1010] Guise: wticket
+[1010] Guise: ticket
+[1010] Guise: questitems
+[3398] Guise: questitems
+[3398] Guise: questitem
+[3198] Cirolian: strike
+[3041] Ethra: summon familiar
+[3700] Xantar: mana shield
+[3712] Xantar: remort
+[3198] Xantar: elemntal offensive
+[3198] Xantar: bladecraf
+[4200] Suraman: teir
+[11711] Guise: trk
+[11711] Guise: tracker
+[1010] Quede: iqp
+[2351] Guise: demons
+[1002] Suraman: race_drow
+[1002] Suraman: drow
+[2] Suraman: teir
+[1010] Quede: ancient
+[0] Xzibit: shockling
+[0] Xzibit: fireling
+[0] Setzer: dragon
+[3198] Janeev: blade bless
+[3198] Janeev: 'blade bless'
+[2103] Wriech: blackjack
+[2102] Wriech: blackjack
+[0] Rask: dragon
+[3366] Baodwyn: ier
+[2314] Cirolian: tir
+[9202] Wriech: nerve
+[3198] Wriech: counter
+[1010] Suraman: plkill
+[1010] Suraman: pl kill
+[19926] Terp: global
+[19979] Terp: dragon wisdom
+[3198] Janeev: clam
+[3398] Cirolian: questitems
+[3398] Cirolian: quest items
+[3398] Cirolian: aura
+[3398] Cirolian: quest aura
+[1010] Lancelot: questitems
+[3198] Janeev: shield lev
+[3198] Janeev: medieate
+[3198] Janeev: meditate
+[3198] Janeev: medetate
+[3198] Janeev: meditate
+[3054] Roffelos: rog
+[0] Kelven: ent
+[3198] Cyrix: shield lev
+[2301] Kelven: clans
+[3102] Ethra: feed
+[3054] Kelven: rp
+[3054] Kelven: roleplay
+[15005] Kelven: auctin
+[3054] Janeev: iqp
+[15019] Kelven: multiplay
+[15019] Kelven: multiplaying
+[3001] Roffelos: dual wield
+[3198] Azik: thrust
+[3014] Roffelos: blackjack
+[19923] Azik: 'call wild'
+[19923] Azik: call wild
+[3198] Azik: strike
+[1010] Baodwyn: ancient
+[19910] Janeev: ancient
+[9227] Stryder: ancient
+[9209] Stryder: ancient
+[1010] Stryder: ancient
+[1010] Stryder: anc
+[3198] Azik: nervestrike
+[3198] Azik: blackjack
+[0] Zaen: elemental offensive
+[0] Zaen: elemental
+[0] Zaen: enhancements
+[19942] Azik: circle
+[19939] Ethra: circle
+[207] Zaen: verbose
+[2102] Gaebril: gld
+[19907] Zaen: firestorm
+[3758] Carad: tracker
+[3758] Carad: berserker
+[3758] Carad: immolation
+[50000] Azik: tap
+[50021] Suraman: ITEM_PORTAL
+[50021] Suraman: ITEM_PORTAL
+[19989] Ethra: tierlook
+[40699] Mangan: qspell
+[40699] Mangan: spellup
+[3198] Aldar: call wild
+[3041] Aldar: rank
+[1009] Quede: anc
+[3398] Mangan: setxp
+[40299] Mangan: trnas
+[3052] Kridjar: ancient
+[0] Seth: imp
+[3398] Aice: wish
+[16901] Mangan: invoke
+[0] Stryder: strike
+[3255] Stryder: strike
+[3001] Wriech: strike
+[3251] Seth: imtod
+[3251] Seth: imotd
+[40501] Aice: clans
+[11712] Cyx: strike
+[3054] Flac: globle
+[0] Chewy: shockling
+[0] Chewy: shockling
+[0] Chewy: skill blackjack
+[3712] Chewy: gain convert
+[3024] Chewy: guild
+[3014] Chewy: thrust
+[3014] Chewy: skill thrust
+[3054] Flac: arena
+[3759] Chewy: new thalos
+[3733] Chewy: skill backstab
+[3734] Chewy: skill hide
+[3016] Chewy: thrust
+[20200] Kurvaak: gamble
+[3054] Ethra: blackjack
+[19936] Baodwyn: verbose
+[3398] Guise: questitems
+[3397] Guise: ginfo
+[50021] Mangan: clanprice
+[3397] Guise: clans
+[3397] Guise: clan list
+[19907] Guise: iq
+[19907] Guise: roulette
+[9252] Guise: meditate
+[3759] Carad: summon familiar
+[3759] Carad: familiar
+[3759] Carad: vampire blast
+[3398] Wriech: questitems
+[3398] Wriech: quest items
+[3054] Neresyia: shockling
+[2362] Neresyia: ice rain
+[613] Kalicu: convert
+[0] Neresyia: iceling
+[0] Neresyia: call wild
+[3198] Neresyia: mutant
+[3198] Janeev: quest points
+[3398] Janeev: iqp
+[3198] Ethra: critical attack
+[1020] Baodwyn: deposit
+[3198] Shajin: strike
+[19947] Shajin: call wild
+[3198] Shajin: ilusion
+[0] Rhael: shockling
+[2313] Cirolian: verbose
+[2313] Cirolian: verb
+[2313] Cirolian: vebo
+[2103] Ethra: stun
+[2110] Ethra: grip
+[2110] Ethra: grip
+[3054] Terp: immolation
+[3054] Terp: firestorm
+[2103] Ethra: firestorm
+[2104] Ethra: rampage
+[19971] Xile: vampire blast
+[50008] Raeld: arena
+[50008] Raeld: chaos
+[50008] Raeld: pk2
+[50004] Raeld: challenge
+[2307] Guise: remort
+[3198] Janeev: nerv
+[3198] Janeev: nervstrike
+[9213] Cirolian: verbose
+[1010] Stryder: clans
+[0] Linksarin: rampage
+[3398] Guise: revenant
+[3398] Guise: cainite
+[3398] Guise: shamn
+[3398] Guise: shaman
+[3398] Guise: elder
+[3398] Guise: invoker
+[2134] Quasam: gocial
+[2134] Quasam: gocial
+[2134] Quasam: global
+[3198] Ethra: anicnet
+[3198] Ethra: ancient
+[3713] Guise: multi
+[3713] Guise: multiplay
+[19905] Ethra: sor
+[3759] Linksarin: rampage
+[3014] Linksarin: hoemtown
+[1010] Zaen: mana shield
+[19918] Mangan: powerlevel
+[19934] Mangan: powerl
+[2110] Zaen: dragon wisdom
+[19918] Mangan: iznet
+[1010] Zaen: ancient
+[2103] Zaen: intelligence
+[2103] Zaen: stats
+[3398] Bane: questitems
+[3398] Bane: questitem
+[3398] Bane: assassin
+[3398] Bane: remort
+[3398] Bane: assassin
+[3398] Bane: clans
+[1010] Zaen: aqp
+[3001] Bane: shadowshield
+[3198] Kora: cainite
+[3198] Kora: cainite
+[3198] Kora: cain
+[3198] Kora: cainite
+[2377] Mangan: iq
+[2377] Mangan: mstat
+[1010] Zaen: immolation
+[2354] Zaen: mana shield
+[0] Lilith: iceling
+[2357] Zaen: verbose
+[9236] Neresyia: ice rain
+[3054] Ethra: sorcer
+[3700] Cyx: coins
+[3700] Cyx: coin
+[3700] Cyx: money
+[3759] Cyx: feed
+[70000] Aice: leader
+[3198] Cyx: counter
+[9227] Ethra: sharpen
+[2313] Ethra: sharpen
+[3198] Ethra: sharpen
+[3054] Ethra: sharpen
+[2128] Jarome: aice
+[3398] Ethra: ancient
+[2307] Gaebril: ancient
+[4243] Wriech: ancient
+[4243] Wriech: hero
+[2312] Ethra: autoquest
+[3054] Ethra: ancient
+[3001] Ethra: page
+[19989] Rask: breath
+[3005] Cyx: hero
+[9237] Wriech: ancient
+[3198] Neresyia: critical str
+[19978] Rask: stun
+[3054] Midor: stance
+[2103] Gaebril: bet
+[2103] Gaebril: arena
+[19936] Aecyr: quest flag
+[0] Quinn: mutant
+[3054] Ashcroft: revenant
+[2117] Cyblade: bid
+[2307] Wriech: iq
+[2307] Ethra: iq
+[2307] Wriech: immortal enchant
+[3366] Ashcroft: pj
+[749] Janeev: zone
+[3198] Ashcroft: resurect
+[2111] Ethra: immolation
+[3198] Ethra: bid
+[3366] Ashcroft: freelance
+[9210] Ethra: blade bless
+[9210] Ethra: blade
+[9210] Ethra: drain blade
+[9210] Ethra: flame blade
+[9210] Ethra: acid rain
+[9210] Ethra: immolation
+[9210] Ethra: vorpal blade
+[9210] Ethra: manashield
+[1010] Samus: camo
+[1010] Samus: gods armor
+[1010] Samus: gods
+[19996] Samus: blackjack
+[19996] Samus: blackjack
+[19996] Samus: gouge
+[9201] Samus: thrust
+[9207] Samus: circle
+[0] Gafrial: iceling
+[70000] Mangan: balance
+[70000] Mangan: aq
+[0] Jonah: drow
+[0] Jonah: drow
+[0] Jonah: dragon
+[0] Jonah: 'dragon'
+[0] Jonah: Dragon
+[40033] Gaebril: iq
+[2367] Janeev: rank
+[0] Yaweh: rampage
+[0] Yaweh: rampage
+[16968] Mangan: sharp
+[40000] Gaebril: mana shield
+[3001] Mangan: quest replace
+[3001] Mangan: iquest
+[40012] Gaebril: acid rain
+[40012] Gaebril: ice rain
+[70001] Zaen: clan price
+[40019] Gaebril: dragon
+[40019] Gaebril: dragon
+[3054] Wriech: beep
+[1009] Gaebril: shield levitation
+[3397] Mangan: assassin
+[3054] Mendar: berserker
+[3054] Mendar: berserker
+[3014] Mangan: dual
+[2307] Quasam: anceitn
+[3198] Zuran: ancient
+[3198] Zuran: ancient
+[3198] Zuran: call darkness
+[3198] Zuran: dark gift
+[1010] Quasam: meditation
+[9202] Midor: iqp
+[9202] Midor: remort
+[9202] Midor: ancient
+[1002] Gaebril: dragon
+[19960] Gaebril: frost blade
+[19960] Gaebril: drain blade
+[19960] Gaebril: bladecraft
+[19968] Gaebril: summon familiar
+[19939] Gaebril: firest
+[1002] Gaebril: dragon
+[2104] Gaebril: immolation
+[2104] Gaebril: manashield
+[2106] Gaebril: meteorswarm
+[3700] Tetra: counter
+[3020] Midor: ancient
+[70002] Aice: blind rage
+[40300] Roland: iq
+[1010] Suraman: aqpreform
+[1010] Baodwyn: tracker
+[1010] Samus: iqpreform
+[1010] Samus: aqpreform
+[1010] Samus: preform
+[1010] Samus: rampage
+[3054] Mangan: reform
+[1010] Quasam: ancient
+[1010] Zaen: ancient
+[2321] Quasam: prompy
+[1010] Samus: counter
+[1010] Samus: showclass
+[1010] Zaen: elemental offense
+[1022] Samus: yoshiyuki
+[1010] Zaen: strike
+[3014] Midor: sorceror
+[1009] Zaen: aqpreform
+[1010] Zaen: questitems
+[1010] Zaen: questitems
+[11748] Gaebril: freelance
+[3001] Baodwyn: iqpreform
+[1010] Baodwyn: iqpreform
+[308] Mangan: iqp
+[308] Mangan: iqpre
+[1010] Gaebril: fightstyle
+[1010] Quasam: questitems
+[1010] Baodwyn: cainite default
+[1010] Flac: arena
+[1010] Flac: arena
+[1010] Flac: challang
+[1010] Flac: challange
+[3366] Gaebril: manashield
+[3366] Gaebril: hitdiced
+[1010] Gaebril: whostring
+[1010] Gaebril: questitems
+[1010] Gaebril: qitem
+[1010] Gaebril: quest item
+[3366] Gaebril: cainite
+[3366] Gaebril: regen
+[3198] Gaebril: sharp
+[40736] Baodwyn: bladecraft
+[3700] Carad: master healing
+[3700] Carad: holy mace
+[50040] Baodwyn: blink
+[3054] Cyx: immolation
+[9254] Midor: counter
+[1010] Midor: questitems
+[1010] Midor: questitem
+[3198] Cyx: superior healing
+[3398] Aecyr: blade
+[3398] Aecyr: questi
+[3198] Cyx: blade bless
+[9235] Samus: nervestrike
+[3117] Aweqoo: global
+[2121] Roffelos: manbh
+[2121] Roffelos: manh
+[2121] Roffelos: mahn
+[1000] Suraman: blink
+[3014] Aweqoo: dual wield
+[1010] Samus: critical
+[1010] Samus: hero
+[1010] Samus: ancient
+[1010] Samus: legend
+[1010] Samus: 201
+[1010] Samus: 4 tier
+[3001] Stryder: ancient
+[3001] Stryder: iqp
+[376] Mangan: induct
+[363] Mangan: backup
+[1010] Zaen: clan commands
+[40518] Baodwyn: elemental
+[1010] Samus: channel
+[1010] Samus: gocial
+[50029] Roland: channel
+[1010] Quasam: questitems
+[1010] Quasam: ancient
+[1000] Quasam: pager
+[20200] Lokine: damt
+[20200] Lokine: attack table
+[20200] Lokine: attack_table
+[20200] Lokine: wtype
+[20200] Lokine: wclass
+[20200] Lokine: wclass
+[20200] Lokine: wclass
+[1009] Gafrial: tiar
+[40512] Baodwyn: gsocial
+[3054] Cyx: ambush
+[1010] Zaen: call darkness
+[3398] Mangan: qforge
+[1010] Zaen: website
+[1010] Zaen: death rising
+[3366] Baodwyn: bid
+[50002] Baodwyn: qforge
+[1000] Suraman: avatar
+[19926] Aecyr: ancient
+[19926] Aecyr: dark gift
+[3054] Aecyr: ambush
+[9227] Rask: ambush
+[70100] Baodwyn: immolation
+[3721] Slick: asssasinate
+[3014] Janeev: aqp
+[3014] Azik: aqp
+[3014] Azik: ancient
+[3047] Stryder: ambush
+[9252] Samus: freelance
+[9252] Samus: clans
+[1010] Samus: counter
+[2356] Samus: strike
+[1010] Aice: pj
+[3398] Janeev: ppk
+[70000] Janeev: aqp
+[3025] Janeev: preform
+[3025] Janeev: aqpreform
+[3398] Cirolian: ipq
+[3398] Janeev: cusader
+[70200] Janeev: memper
+[70000] Quasam: rank
+[70000] Zaen: clan list
+[70000] Zaen: clan rank
+[70000] Zaen: rank
+[0] Malone: dragon
+[1010] Quasam: tcik
+[40041] Mangan: itake
+[394] Mangan: setxp
+[2330] Samus: thrust
+[70200] Janeev: aqpreform
+[1009] Samus: mahn
+[1009] Samus: tor
+[1010] Stryder: ancients
+[1010] Stryder: ancient
+[5612] Samus: raid
+[19936] Gafrial: tiar
+[19936] Gafrial: shaman
+[70001] Zaen: clan commands
+[70001] Zaen: clan command
+[70001] Zaen: clan leader
+[3014] Janeev: ancient
+[3014] Janeev: ancient
+[3700] Myaere: revenant
+[3700] Myaere: rev
+[3712] Myaere: dragon
+[3001] Myaere: iqp
+[2359] Midor: cainite
+[2359] Midor: call darkness
+[2359] Midor: mutant
+[2355] Midor: dragon
+[9209] Cyx: aqp
+[9209] Baodwyn: sponsor
+[0] Midor: dragon
+[0] Midor: iceling
+[3198] Azik: vorpal blade
+[3198] Azik: 'vorpal blade'
+[19904] Azik: firestorm
+[2] Kelven: roleplay
+[3054] Slick: assasin
+[3054] Slick: assasinate
+[50024] Quasam: iqpreform
+[50024] Quasam: reform
+[50024] Midor: iqp
+[50024] Quasam: reform
+[50024] Quasam: iqpreform
+[0] Serrated: shockling
+[0] Serrated: shockling
+[0] Serrated: ragon
+[0] Serrated: dragon
+[0] Serrated: phoenix
+[0] Serrated: phoenix
+[0] Serrated: pheonix
+[0] Serrated: fireling
+[0] Serrated: iceling
+[0] Serrated: imp
+[3758] Serrated: strength
+[3758] Serrated: hp
+[3759] Serrated: sheild block
+[3721] Serrated: unclean
+[3718] Serrated: tnl
+[3398] Mangan: qpgive
+[3398] Mangan: arena
+[3398] Mangan: challenge
+[70000] Mangan: rename
+[11802] Mangan: astat
+[1015] Snav: dual wield 
+[11811] Janeev: furnish
+[0] Suland: elmental
+[0] Suland: 'elemental offense'
+[0] Suland: beuiling
+[3198] Roffelos: counter
+[70001] Zaen: qforge
+[3198] Snav: clans
+[3198] Suland: beuling
+[5600] Serrated: vrugar
+[1015] Serrated: mn
+[0] Mankind: ent
+[0] Mankind: drow
+[19935] Suland: rose
+[3012] Azik: induct
+[40699] Mangan: arena
+[40699] Mangan: alock
+[3001] Lavitz: clans
+[19904] Lavitz: ancient
+[70001] Zaen: ancient
+[1010] Gafrial: whirlwinf
+[1010] Gafrial: whirlwind
+[2310] Gafrial: whirl
+[2374] Roland: commandmend
+[70202] Janeev: pirce
+[9209] Azik: tap
+[3054] Janeev: backup
+[2911] Gaebril: ancient
+[2911] Gaebril: policy
+[1000] Levoriaz: aqpreform
+[0] Nestor: dragon
+[0] Nestor: ent
+[0] Nestor: iceling
+[0] Nestor: fireling
+[0] Nestor: dragon
+[0] Nestor: phenoix
+[0] Nestor: pheonix
+[0] Nestor: phoenix
+[0] Nestor: ent
+[0] Nestor: gryphon
+[0] Nestor: mutant
+[0] Nestor: shockling
+[3712] Nestor: dragon
+[3712] Nestor: dragons
+[3716] Nestor: multiplay
+[3716] Nestor: multi
+[3735] Nestor: multiplaying
+[3735] Nestor: mu
+[3735] Nestor: multi-play
+[201] Nestor: berserker
+[201] Nestor: berserker
+[203] Nestor: trainer
+[1010] Quasam: questitems
+[1010] Quasam: questitems
+[213] Edger: suppress
+[2102] Gafrial: rampage
+[2102] Gafrial: ram
+[2102] Gafrial: rampage
+[1010] Quasam: doubleqp
+[1010] Gafrial: counter
+[1010] Nestor: stun
+[1023] Nestor: warrior castle
+[4217] Nestor: ancient
+[19918] Nestor: ambush
+[19918] Nestor: ambush
+[19918] Nestor: am
+[19923] Nestor: hero
+[1438] Nestor: whirlwind
+[235] Nestor: whirlwind
+[235] Nestor: whirlwind
+[1010] Gafrial: critical
+[1010] Gafrial: critical strike
+[1010] Gafrial: sharpen
+[19963] Nestor: sharpen
+[3398] Zuran: questitems
+[1010] Zaen: ambush
+[0] Rustin: mutant
+[0] Rustin: fireling
+[0] Rustin: imp
+[0] Rustin: orc
+[40599] Cirolian: aution
+[3712] Kai: tnl
+[402] Wriech: bet
+[1000] Kai: battle fields
+[1000] Kai: loki battle fields
+[11811] Janeev: rank
+[3198] Suland: resign
+[3014] Azik: frost blade
+[3014] Azik: blade
+[3014] Azik: 'frost blade'
+[3014] Azik: blade bless
+[3001] Gafrial: tiad
+[3198] Azik: sharpen
+[3198] Azik: rampage
+[0] Datan: fireling
+[0] Datan: shockling
+[0] Datan: dragon
+[0] Datan: pheonix
+[0] Datan: pheonix
+[0] Datan: call wild
+[0] Datan: remort
+[1010] Janeev: repent
+[1010] Gafrial: shield levitation
+[1010] Zaen: blacklegion
+[1010] Zaen: ancient
+[70100] Baodwyn: loot
+[40300] Roland: loot
+[20200] Kurvaak: loot
+[70201] Cyx: ambush
+[0] Cujo: rampage
+[3398] Cujo: area_maerkai
+[3014] Cujo: area_maerkai
+[3014] Cujo: maerkai
+[1439] Midor: gamble
+[3398] Gaebril: immolation
+[9202] Midor: home furnish
+[2911] Gaebril: assasin
+[40335] Roland: dragon
+[40335] Roland: dtype
+[1010] Nestor: stun
+[610] Nestor: tenilwyn forest
+[19996] Nestor: freeman
+[19992] Nestor: ambush
+[19992] Nestor: amb
+[1010] Nestor: train convert
+[3398] Cyx: questitems
+[3398] Cyx: whostrin
+[3398] Cyx: whostring
+[3398] Cyx: cloak
+[3398] Cyx: ancient
+[3014] Cyx: aqpreform
+[3014] Gaebril: collors
+[0] Flamebringer: imp
+[0] Flamebringer: drow
+[0] Flamebringer: clackjack
+[0] Flamebringer: blackjack
+[2397] Gaebril: restore mana
+[0] Alphabeta: pheonix
+[3398] Stryder: qforce
+[1010] Stryder: ancient
+[1010] Stryder: qpgive
+[70000] Zaen: board
+[659] Quede: summon fam
+[3198] Kurvaak: elemental offense
+[19943] Snav: showclass
+[1436] Suraman: stock
+[1436] Suraman: aether
+[1010] Zaen: blacklegion
+[1010] Gafrial: drain blade
+[4272] Mangan: prefix
+[1010] Zaen: arena
+[3014] Gafrial: blackjack
+[1010] Gafrial: summon familiar
+[1010] Zaen: feed
+[1010] Gafrial: leech
+[2374] Midor: clan rank
+[2374] Midor: rank
+[3198] Quede: leech
+[3001] Gafrial: cainite
+[3001] Gafrial: invigorate
+[360] Mangan: act
+[3001] Gafrial: iter
+[3001] Gafrial: blackjack
+[359] Mangan: changer
+[20200] Lokine: changer
+[1000] Snav: show
+[611] Midor: arena
+[19926] Gafrial: global
+[19926] Gafrial: global social
+[19926] Gafrial: channels
+[19926] Gafrial: channel
+[2911] Cyx: hail
+[0] Cujo: dual wield
+[3255] Cujo: area_battle_fields
+[0] Azul: phoenix
+[0] Azul: pheonix
+[3700] Azul: revanant
+[3700] Azul: revenant
+[3700] Azul: rev
+[3700] Azul: classes
+[3721] Azul: revenant
+[3712] Azul: multiplaying
+[3712] Azul: multi
+[1010] Zaen: lokine
+[1010] Zaen: loki
+[1010] Zaen: story
+[1439] Zaen: leech
+[401] Kai: mender
+[1002] Mendar: ancient
+[1002] Mendar: anceitn
+[388] Mangan: ancient
+[388] Mangan: spellup
+[390] Mangan: satan
+[390] Mangan: repent
+[1010] Kai: circle
+[40565] Snav: scrool
+[1009] Mendar: ancient
+[3700] Gafrial: dark gift
+[3700] Gafrial: call dark
+[3700] Gafrial: templar
+[1010] Gafrial: invig
+[1010] Gafrial: invigorate
+[1010] Gafrial: divine fury
+[3398] Quede: questitems
+[3398] Suraman: ancient
+[712] Seth: dragon
+[4233] Suraman: mult
+[4233] Suraman: multipl
+[3398] Quede: ancient
+[70100] Baodwyn: kingdom
+[1010] Cirolian: flame of the ancients
+[1010] Stryder: freelance
+[1010] Stryder: loner
+[2336] Samus: balance
+[2341] Samus: qforge
+[9211] Samus: fire rain
+[3398] Samus: iqp
+[3398] Samus: aqp
+[3398] Samus: questor
+[2330] Samus: hero
+[1020] Samus: locker
+[1000] Gafrial: temp
+[1010] Samus: locker
+[1010] Gafrial: invig
+[1010] Gafrial: invigorate
+[1010] Samus: gquest
+[1010] Samus: monkey
+[1010] Samus: iquest
+[1009] Samus: ancient
+[2383] Quede: bet
+[1021] Quede: dragon
+[1010] Midor: ancient
+[603] Gafrial: ancient
+[70200] Janeev: channel
+[401] Gafrial: super
+[401] Gafrial: superior healing
+[2118] Gafrial: protection voodoo
+[0] Morgrim: bladecraft
+[1010] Midor: furnish
+[1010] Midor: homefurnish
+[1010] Midor: home furnish
+[3398] Gaebril: leech
+[18071] Suraman: wear-lo
+[18071] Suraman: wear-loc
+[50003] Cyx: arena
+[50003] Cyx: challenge
+[50003] Cyx: accept
+[3398] Cyx: aqp
+[3398] Cyx: iqp
+[70201] Cyx: cost
+[70201] Cyx: iqp
+[3198] Cujo: dual wield
+[3054] Cujo: vampire blast
+[3105] Cujo: area_mutant
+[3001] Gaebril: ancient
+[40334] Roland: lord
+[40334] Roland: rank
+[0] Samus: strike
+[0] Samus: ambush
+[3013] Samus: track
+[3198] Samus: strike
+[3108] Samus: tire
+[1010] Midor: imm quest
+[9212] Mendar: blind rage
+[18060] Samus: strike
+[3198] Snav: warrior class
+[3198] Snav: warriorclass
+[3198] Snav: class warrior
+[3198] Snav: class all
+[3198] Snav: gian list
+[3198] Snav: gain list
+[3700] Xod: classes
+[3700] Xod: rev
+[4207] Kai: circle
+[1002] Snav: aqp
+[18067] Snav: staff
+[1010] Wriech: anctient
+[3398] Cyx: iqp
+[3398] Cyx: iqps
+[3398] Cyx: qps
+[3398] Cyx: aqpreform
+[3398] Azik: whostring
+[3700] Tenkai: remort
+[3700] Tenkai: upgrade
+[3014] Samus: ancient
+[19979] Samus: meteor storm
+[3198] Samus: call wild
+[3198] Samus: ambush
+[3052] Samus: track
+[1010] Quede: questitems
+[3053] Samus: uc
+[3054] Janeev: clans
+[2377] Samus: quest equipment
+[2377] Samus: questeq
+[2377] Samus: quest eq
+[2377] Samus: questitems
+[2377] Samus: quest items
+[3700] Samus: backup
+[40585] Zuran: rev
+[3054] Zuran: call darkness
+[0] Lyrralt: fireling
+[3700] Lyrralt: revenenat
+[3700] Lyrralt: reve
+[3700] Lyrralt: reveant
+[3700] Lyrralt: revenant
+[0] Roach: Shockling
+[3001] Scorpinoc: guilds
+[3367] Scorpinoc: guild
+[3005] Scorpinoc: exarea
+[19904] Scorpinoc: acid rain
+[1002] Wriech: builder 
+[19905] Scorpinoc: rampage
+[19950] Scorpinoc: circle
+[19950] Scorpinoc: hero
+[19950] Scorpinoc: 201
+[19950] Scorpinoc: hero
+[19950] Scorpinoc: reorll
+[2116] Scorpinoc: clans
+[2117] Scorpinoc: rulz
+[2117] Scorpinoc: multi-play
+[9207] Kwen: blackjack
+[3054] Scorpinoc: dircs
+[9209] Scorpinoc: site
+[1213] Giliath: ancient
+[1213] Giliath: ancient
+[1014] Cirolian: master hal
+[1014] Cirolian: master heal
+[1014] Cirolian: master
+[2102] Blake: grip
+[2102] Blake: grip
+[0] Jasa: orc
+[0] Jasa: shockling
+[0] Jasa: dragon
+[0] Jasa: iceling
+[0] Jasa: phoenix
+[0] Jasa: ent
+[0] Jasa: gryphon
+[0] Jasa: mutant
+[0] Jasa: rampage
+[3015] Kalicu: corner
+[3001] Scorpinoc: clans
+[3198] Roffelos: clans
+[604] Samus: boulder
+[3011] Kai: claymore
+[1000] Kai: bed
+[1002] Kai: global
+[1000] Kai: gaal
+[2352] Gafrial: iqp
+[2352] Gafrial: aqp
+[20200] Kurvaak: ancient
+[1010] Gafrial: clans
+[1009] Mendar: multiplaying
+[3398] Yerius: morph
+[3398] Yerius: nervestrike
+[3398] Yerius: remort
+[0] Illysith: shockling
+[3712] Illysith: revenant
+[3398] Bane: questitems
+[3054] Illysith: guild
+[0] Zerikai: ent
+[0] Zerikai: imp
+[3700] Zerikai: summon fam
+[3700] Zerikai: feed
+[1000] Levoriaz: www
+[3054] Nephos: battle
+[3054] Nephos: fields
+[3054] Nephos: battle fields
+[3198] Yerius: feed
+[40699] Giliath: clan list
+[3398] Samus: questitems
+[3398] Samus: questitems
+[3398] Samus: quest items
+[3398] Samus: questtems
+[3033] Samus: meteor storm
+[3033] Samus: meteor
+[3033] Samus: rage
+[3014] Scorpinoc: call wild
+[3198] Nephos: revenant default
+[2911] Samus: iqpreform
+[3001] Samus: ancient
+[19906] Nephos: ressurect
+[19907] Nephos: find familiar
+[19907] Nephos: find familar
+[19912] Nephos: clans
+[400] Nephos: pill
+[18009] Nephos: vampire blast
+[2300] Scorpinoc: hero
+[2300] Scorpinoc: 201
+[1009] Zaen: master healing
+[401] Nephos: ancient
+[1010] Gafrial: sharp
+[1010] Gafrial: sharp blade
+[1010] Gafrial: sharpen blade
+[1010] Gafrial: vorpal
+[3001] Nephos: summon fam
+[1010] Scorpinoc: call darkness
+[2367] Quede: invig
+[40699] Zaen: divine
+[385] Mangan: darkmaster
+[0] Larik: shield levitation
+[0] Larik: eyerub
+[3715] Larik: tatoo
+[3713] Larik: power
+[9242] Mendar: multiplaying
+[3721] Larik: channels
+[3198] Larik: bladecraft
+[607] Scorpinoc: call wild
+[3198] Larik: shield levitation
+[9209] Suland: mana shi
+[3198] Larik: eyerub
+[3398] Larik: quest items
+[3398] Larik: questitems
+[463] Scorpinoc: bariar shield
+[463] Scorpinoc: briarshield
+[3010] Larik: camp
+[3700] Thanos: leech
+[3700] Thanos: dark gift
+[3700] Thanos: rampage
+[3700] Thanos: thrust
+[2326] Dumani: repop
+[1010] Gafrial: ask
+[1000] Gafrial: deon
+[1000] Gafrial: demons
+[1000] Gafrial: tiers
+[3700] Aramon: propmy
+[1000] Baodwyn: carve
+[1010] Baodwyn: invigorate
+[1010] Stryder: ancient
+[3001] Stryder: ancient
+[0] Golgatha: fireling
+[0] Golgatha: dragon
+[40364] Roland: ancient
+[20200] Kurvaak: bane
+[1010] Stryder: leader
+[1010] Stryder: guild
+[1010] Stryder: leader
+[2362] Quede: manashield
+[2362] Quede: manas hield
+[2362] Quede: manas hield
+[2362] Quede: manas
+[2362] Quede: mana s
+[9245] Samus: call darkness
+[9245] Samus: protection voodoo
+[9245] Samus: vorpal blade
+[9245] Samus: invigorate
+[9245] Samus: acid rain
+[2365] Scorpinoc: assassin
+[2365] Scorpinoc: knight
+[9242] Samus: rampage
+[3713] Jimih: remort
+[3744] Jimih: remort
+[657] Scorpinoc: arena
+[40000] Scorpinoc: challange
+[3198] Samus: stun
+[9214] Samus: brew
+[1010] Snav: clans
+[1010] Snav: enlist
+[1010] Snav: guilds
+[1010] Snav: guild
+[3198] Samus: blind rage
+[3198] Samus: meteor storm
+[3198] Samus: mana shield
+[1010] Zaen: rank
+[0] Scorpinoc: mutant
+[0] Scorpinoc: tiatn
+[3054] Cyx: ns
+[1009] Cirolian: rebirth
+[3054] Quede: ancient
+[1009] Cirolian: divine
+[0] Terentia: fireling
+[1009] Cirolian: clan rank
+[1009] Cirolian: rank
+[0] Terentia: bladecraft
+[0] Terentia: bladecraft
+[0] Terentia: elemental offense
+[0] Terentia: shield levitation
+[1010] Quede: immola
+[388] Mangan: 202
+[388] Mangan: immrules
+[388] Mangan: irules
+[3054] Quede: immolation
+[3054] Quede: immolation
+[3714] Krull: stance
+[3700] Scorpinoc: feed
+[19991] Kai: stry
+[40373] Cyx: huny
+[363] Mangan: ITEM_PORTAL
+[363] Mangan: ITEM_PORTAL
+[363] Mangan: ITEM_PORTAL
+[363] Mangan: ITEM_PORTAL
+[70300] Roland: obj
+[396] Mangan: object
+[3398] Gaebril: webpage
+[3398] Samus: dragon
+[3398] Gaebril: dragon
+[3054] Scorpinoc: blind rage
+[3014] Samus: cainite
+[3014] Samus: call darkness
+[3001] Samus: mana shield
+[3001] Samus: templar
+[3001] Samus: templar
+[3001] Samus: blade bless
+[1010] Scorpinoc: questitems
+[1010] Scorpinoc: questitem
+[3398] Samus: nodisarm
+[3014] Samus: qforge
+[3398] Samus: quest replace
+[3054] Quede: protection voodoo
+[3198] Samus: seventh
+[3198] Samus: sixth
+[3198] Samus: sixth
+[11810] Samus: furnish
+[1010] Quede: questitems
+[353] Suland: questitem
+[3001] Suland: vrugar
+[0] Asyn: shockling
+[3709] Danny: pill
+[3739] Danny: aqp
+[3198] Turox: grip
+[0] Daede: nervestrike
+[3715] Daede: clanlist
+[3715] Daede: clans
+[3758] Daede: remort
+[1010] Zaen: clan commands
+[1010] Zaen: worship
+[3198] John: grip
+[3198] John: grip
+[0] Tyrath: shockling
+[0] Tyrath: revenant
+[0] Tyrath: rampage
+[0] Vajor: elemental offense
+[0] Vajor: bladecraft
+[3700] Vajor: revenant
+[3700] Vajor: shield leviation
+[0] Scourge: shockling
+[0] Scourge: fireling
+[1009] Cirolian: multi
+[1009] Cirolian: multi-play
+[3714] Tyrath: classes
+[3714] Tyrath: revenant
+[3198] Scourge: eyerub
+[3198] Scourge: bladecraft
+[3198] Scourge: elemental offense
+[19918] Daede: dual wield
+[0] Lacynos: dragon
+[0] Astaire: mutant
+[0] Astaire: ent
+[0] Astaire: revenant
+[19926] Scourge: dragon wisdom
+[20200] Giliath: jukr
+[20200] Giliath: juke
+[1010] Quede: ancient
+[3700] Astaire: class all
+[3700] Astaire: monk
+[3716] Lacynos: dragon
+[3716] Lacynos: dragons
+[3758] Astaire: remort
+[205] Astaire: dual
+[3198] Mathias: grip
+[19911] Mathias: free
+[19911] Mathias: freelance
+[19911] Mathias: clans
+[0] Elwin: dragon
+[0] Elwin: elemental
+[0] Elwin: elemental offense
+[3712] Elwin: explore
+[3198] Elwin: bladecraft
+[3198] Elwin: blade
+[3198] Elwin: drain blade
+[3198] Elwin: drain
+[206] Elwin: battlefied
+[206] Elwin: battlefield
+[19907] Elwin: lost soul
+[19907] Elwin: soul
+[3198] Scourge: firestorm
+[1010] Gafrial: book
+[1010] Gafrial: books
+[2125] Daede: blackjack
+[1010] Gafrial: drow
+[0] Vakal: dragon
+[0] Vakal: DRagon
+[0] Vakal: Dragon
+[0] Vakal: iceling
+[0] Vakal: mutant
+[1010] Gafrial: tiers
+[0] Angelkiss: imp
+[0] Angelkiss: imp
+[3198] Zerikai: feed
+[3198] Danny: circle
+[1010] Zerikai: questitems
+[1010] Zerikai: questitems
+[1010] Zerikai: blde
+[1010] Zerikai: blade
+[3054] Zerikai: hours
+[716] Zerikai: reven
+[719] Zerikai: leech
+[719] Zerikai: remort
+[40380] Scorpinoc: floatind disc
+[0] Loi: iceling
+[0] Loi: eyerub
+[0] Loi: gouge
+[0] Loi: blackjack
+[0] Loi: nervestrike
+[0] Loi: rogue default
+[0] Loi: counter
+[3758] Loi: rogue
+[3758] Loi: fireling
+[3758] Loi: classes
+[3758] Loi: wis
+[3758] Loi: stats
+[19971] Danny: stats
+[2307] Cyx: stats
+[9222] Scourge: frost blade
+[1010] Wriech: pueblo
+[3198] Scourge: blade
+[3198] Scourge: blade bless
+[3198] Scourge: 'blade bless
+[19995] Scourge: acid rain
+[19995] Scourge: vorpal
+[1009] Cirolian: grip
+[1009] Cirolian: sharpen
+[3366] Gaebril: blind rage
+[3198] Turox: dual wield
+[0] Tyrath: drow
+[0] Tyrath: classes
+[0] Tyrath: fireling
+[0] Laric: imp
+[0] Eterared: mutant
+[0] Eterared: dragon
+[3759] Eterared: die
+[3759] Eterared: Kill
+[3759] Eterared: die
+[3721] Eterared: loki
+[3721] Eterared: gods
+[3721] Eterared: dragon
+[3721] Eterared: revenant
+[3712] Kharis: remort
+[3712] Eterared: spellup
+[0] Vakal: classes
+[0] Xanith: dragon
+[0] Xanith: shockling
+[0] Xanith: nervestrike
+[3758] Xanith: wis
+[3758] Xanith: wisdom
+[3758] Xanith: stats
+[3198] Xanith: nervestrike
+[3198] Xanith: blackjack
+[355] Quede: vorpal
+[0] Tanlin: dragon
+[0] Tanlin: dragon
+[0] Tanlin: pheonix
+[0] Tanlin: ent
+[0] Sabin: Dragon
+[0] Sabin: Shockling
+[4202] Xanith: hungry
+[4202] Xanith: food
+[3700] Sabin: Dragon
+[0] Sardaukar: Pheonix
+[0] Sardaukar: Dragon
+[1010] Scorpinoc: ancient
+[1010] Scorpinoc: hero
+[3746] Sardaukar: dragon
+[4200] Xanith: freelance
+[4200] Xanith: pkj
+[4207] Xanith: counter
+[4208] Xanith: gocial
+[4211] Xanith: ancient
+[0] Waledan: tracker
+[3009] Sardaukar: devote
+[3009] Sardaukar: deities
+[0] Waledan: blackjack
+[3005] Sardaukar: guilds
+[3005] Sardaukar: guild
+[3700] Waledan: dual
+[3752] Waledan: tracker
+[3752] Waledan: revenant
+[3755] Waledan: classes
+[1010] Sardaukar: questitems
+[3717] Waledan: blackjack
+[3717] Waledan: crit
+[18009] Sardaukar: style
+[18009] Sardaukar: stance
+[4214] Xanith: multi
+[1009] Sardaukar: elemental canyon
+[1009] Sardaukar: roland
+[19901] Sardaukar: trials
+[19902] Sardaukar: Cainite
+[19902] Sardaukar: Elder
+[3700] Elei: story
+[3700] Elei: dragon
+[3700] Elei: Dragon
+[1010] Sardaukar: counter
+[1002] Sardaukar: devout
+[18021] Sardaukar: style
+[18021] Sardaukar: stance
+[19915] Sardaukar: divin protection
+[19915] Sardaukar: divine protection
+[3717] Lokine: ITEM_PORTAL
+[3198] Gratch: counter
+[0] Talus: rampage
+[0] Talus: whirlwind
+[0] Talus: sharpen
+[3715] Talus: hero
+[3715] Talus: remort
+[1000] Talus: guild
+[1010] Sardaukar: whirlwind
+[1010] Sardaukar: rampage
+[1010] Talus: dual
+[19906] Talus: dual wield
+[1010] Talus: whirldwind
+[1010] Talus: stun
+[3054] Sargonist: questitems
+[19926] Talus: stun
+[0] Dyne: phoenix
+[0] Dyne: pheonix
+[4234] Synaa: dual
+[4234] Synaa: dual_wield
+[4234] Synaa: "dual wield"
+[4234] Synaa: dual wield
+[0] Dyne: orc
+[3700] Kandar: remort
+[3712] Kandar: shockling
+[1002] Talus: rank
+[1010] Sardaukar: rampage
+[3724] Dyne: revanant
+[3724] Dyne: classes
+[19934] Waledan: cainite
+[19934] Waledan: sorcerer
+[3014] Kandar: midgaard
+[41052] Mangan: staff
+[3001] Kandar: gaalstrom
+[3198] Waledan: gouge
+[19931] Waledan: gouge
+[40000] Loi: druids
+[0] Roderick: dragon
+[602] Waledan: circle
+[1002] Talus: knight
+[0] Sammael: classes
+[1002] Talus: berserker
+[619] Sardaukar: tattoo
+[19963] Talus: message
+[3759] Roderick: revenant
+[3759] Roderick: revenent
+[3198] Dyne: grip
+[3746] Roderick: revenant
+[3759] Roderick: vampire blast
+[3759] Roderick: blast
+[202] Roderick: clans
+[202] Roderick: freelance
+[3054] Loi: classes
+[3054] Loi: rom basics
+[208] Roderick: guild
+[3011] Dyne: dual wield
+[3198] Loi: rev
+[3198] Loi: reverant
+[3198] Loi: tracker
+[3198] Loi: rogue
+[1010] Zaen: sorcerer
+[3398] Roderick: hero
+[3398] Roderick: remort
+[3001] Roderick: leech
+[3198] Roderick: eyerub
+[1002] Sardaukar: rampage
+[40541] Sardaukar: devote
+[1010] Suland: reform
+[0] Affin: mutant
+[0] Affin: fireling
+[1010] Sardaukar: sharpen
+[0] Affin: blackjack
+[0] Affin: eyerub
+[3700] Affin: toggle
+[3700] Affin: tog
+[3700] Affin: show
+[3054] Waledan: shockling
+[3717] Affin: fireling
+[3005] Waledan: shadow
+[3056] Affin: store
+[9236] Sardaukar: negation
+[3254] Affin: store
+[1020] Affin: money
+[0] Zelucifer: dragon
+[0] Zelucifer: dragon
+[0] Zelucifer: dark elf
+[19935] Gimp: verbose
+[1010] Sardaukar: clans
+[19943] Gimp: stun
+[4229] Affin: learn
+[19942] Gimp: whirl
+[1010] Affin: questitems
+[0] Zelucifer: eyerub
+[0] Zelucifer: blackjack
+[3700] Zelucifer: critical
+[3700] Zelucifer: nerve
+[3758] Zelucifer: stat
+[3700] Zortyn: building
+[1] Waledan: iqp
+[3398] Waledan: questitems
+[3398] Waledan: questitems
+[3758] Uline: ogre
+[3718] Uline: lvl
+[3729] Uline: religon
+[3727] Uline: worship
+[3732] Uline: iqp
+[3736] Uline: imm quest
+[20200] Lokine: imm quest
+[3736] Uline: imm quest
+[3736] Uline: queset
+[3101] Uline: global
+[1417] Uline: ogre
+[1417] Uline: reace
+[1417] Uline: ogre
+[1417] Uline: og
+[1413] Uline: berserker
+[1413] Uline: knight
+[40373] Midor: qforge
+[1435] Uline: qforge
+[1435] Uline: qforge
+[279] Uline: freelance
+[279] Uline: loner
+[1436] Uline: convert
+[5614] Uline: sharpen
+[1438] Uline: whirl
+[1438] Uline: whirlwind
+[5626] Uline: whirl
+[1438] Uline: rampage
+[1438] Uline: summon familiar
+[0] Sark: shockling
+[3759] Sark: ventriliquate
+[1010] Quede: iq
+[0] Daedrel: revenant
+[0] Daedrel: dragon
+[0] Tasu: Dragon
+[19997] Turox: rebirth
+[19997] Turox: remort
+[3198] Turox: grip
+[207] Tantorian: pill
+[3398] Turox: questitems
+[3398] Turox: wticket
+[3398] Turox: questitems
+[3054] Turox: channels
+[3054] Turox: channel
+[3398] Turox: questitems
+[0] Locust: dragon
+[40699] Locust: fighting
+[0] Kemuru: iceling
+[0] Kemuru: mutant
+[1002] Locust: wizlist
+[0] Daxloth: dragon
+[0] Daxloth: bladecraft
+[1000] Baodwyn: dragon
+[3198] Xanith: blackjack
+[2102] Xanith: lunge
+[2103] Xanith: stock
+[3198] Xanith: reincarnation
+[3198] Xanith: eyerub
+[2102] Xanith: gouge
+[2102] Xanith: gogue
+[2104] Xanith: blackjack
+[19934] Roderick: feed
+[2148] Xanith: grip
+[0] Ender: dragon
+[1010] Quede: convert
+[3108] Daxloth: money
+[11802] Ender: homes
+[3398] Daxloth: iquest
+[1010] Zaen: full heal
+[1010] Sardaukar: assassin
+[607] Sardaukar: reversed
+[70100] Baodwyn: classes
+[70100] Baodwyn: classes
+[3014] Baodwyn: blackjack
+[41052] Mangan: wear-loc
+[0] Cid: gryphon
+[41060] Mangan: filename
+[0] Xandra: demons
+[0] Xandra: race demon
+[0] Xandra: dragon
+[0] Xandra: imp
+[0] Xandra: feed
+[0] Xandra: revenant
+[0] Phobos: mutant
+[0] Phobos: gryphon
+[0] Phobos: pheonix
+[0] Phobos: dragon
+[0] Xandra: drow
+[0] Xandra: peonix
+[0] Xandra: pheonix
+[0] Xandra: phoenix
+[0] Xandra: eyerub
+[1010] Gafrial: stones
+[3714] Xandra: dual wield
+[3753] Xandra: feed
+[20200] Panamon: immrules
+[3198] Daxloth: divine
+[3013] Xandra: vampire blast
+[3013] Xandra: leech
+[3198] Daxloth: shield levitation
+[20200] Panamon: omni
+[20200] Roland: marry
+[20200] Panamon: marry
+[3001] Xandra: quest time
+[3024] Xandra: call dark
+[19905] Loi: alchemy
+[3366] Xandra: clans
+[3398] Xandra: iqp
+[3398] Xandra: saves
+[3366] Xandra: clans
+[3366] Xandra: clans
+[20200] Panamon: spellup
+[20200] Panamon: spellup
+[3054] Roderick: start clan
+[20200] Panamon: start clan
+[0] Ankiseth: shockling
+[0] Ankiseth: eyerub
+[0] Ankiseth: nervestrike
+[19938] Loi: bard
+[19938] Loi: assassin
+[19938] Loi: nebwie
+[19945] Loi: weaponmaster
+[19945] Loi: circle
+[18053] Ankiseth: dirs
+[5617] Uline: bet
+[5617] Uline: wager
+[3398] Loi: questitems
+[5647] Uline: rp
+[19955] Loi: macros
+[19955] Loi: triggers
+[19955] Loi: trigger
+[3700] Ariel: revenant
+[3700] Ariel: cainite
+[0] Artaxus: fireling
+[225] Invictus: filter
+[225] Invictus: anon
+[3054] Artaxus: summon familiar
+[3054] Artaxus: familiar
+[2314] Scourge: blade
+[2314] Scourge: 'blade bless
+[19975] Loi: global
+[19975] Loi: global social
+[19978] Loi: shaman
+[19978] Loi: berserker
+[9234] Danny: damroll
+[1010] Midor: questitems
+[1010] Midor: quest item
+[1010] Midor: questitems
+[1010] Midor: questitem
+[0] Solandri: imp
+[0] Solandri: imp
+[0] Solandri: dragon
+[0] Solandri: shockling
+[0] Solandri: gryphon
+[3758] Solandri: stats
+[3758] Solandri: classes
+[3758] Solandri: feed
+[3758] Solandri: revenant
+[3758] Solandri: classes
+[3758] Solandri: wizlist
+[3758] Solandri: revenant
+[3758] Solandri: rogue
+[3759] Solandri: spellup
+[3759] Solandri: levelup
+[0] Malkarin: hecuva
+[0] Malkarin: pheonix
+[3700] Solandri: trian
+[0] Malkarin: phoenix
+[0] Malkarin: dragon
+[0] Solandri: rogue
+[0] Solandri: tracker
+[0] Solandri: Revenant
+[3700] Malkarin: classes
+[3710] Solandri: leech
+[3710] Solandri: dragon
+[3724] Solandri: kurvaak
+[3026] Solandri: godly
+[0] Solandri: drow
+[1010] Baphomet: cainite
+[1010] Baphomet: cainite
+[1010] Baphomet: templar
+[1010] Baphomet: elder
+[1010] Baphomet: tracker
+[3054] Danny: levels
+[1010] Baphomet: questitems
+[3366] Baphomet: assassin
+[3366] Baphomet: berserker
+[3366] Baphomet: rogue
+[3365] Baphomet: loki
+[3710] Jayd: weld
+[3710] Jayd: dual
+[3710] Jayd: duel wield
+[3710] Jayd: duel
+[1002] Malkarin: cainite
+[1002] Malkarin: sorceror
+[1002] Malkarin: sorcerer
+[3721] Jayd: second wield
+[3721] Jayd: wield2
+[3721] Jayd: grip
+[3054] Danny: repair
+[0] Prophecy: counter
+[0] Prophecy: critical strike
+[0] Prophecy: nervestrike
+[0] Prophecy: blackjack
+[0] Prophecy: eyerub
+[0] Prophecy: gouge
+[0] Prophecy: counter
+[0] Prophecy: rogue default
+[3700] Prophecy: circle
+[3758] Prophecy: stat
+[3758] Prophecy: stats
+[1010] Quede: iq
+[3011] Loi: dual wield
+[3011] Loi: dual
+[0] Akiel: dragon
+[3700] Akiel: iceling
+[603] Akiel: tower
+[3198] Zerikai: summon familiar
+[261] Akiel: vampire bla
+[261] Akiel: 'vampire bla
+[0] Zelucifer: dragon
+[0] Zelucifer: dragon
+[0] Zelucifer: whirlwind
+[0] Zelucifer: rampage
+[3716] Zelucifer: remort
+[3716] Zelucifer: iqp
+[0] Telios: blackjack
+[3040] Zelucifer: iqp
+[0] Zacharius: elemental offense
+[1009] Samus: ancient
+[1009] Samus: hero
+[1009] Samus: 202
+[3042] Zacharius: vorpal blade
+[3042] Zacharius: shocking blade
+[3042] Zacharius: blade
+[3042] Zacharius: bladedictions
+[3042] Zacharius: firestorm
+[3042] Zacharius: blade bless
+[3042] Zacharius: mana shield
+[3042] Zacharius: 'mana shield'
+[3042] Zacharius: blade
+[382] Stryder: book
+[9233] Roderick: hero
+[3198] Roderick: counter
+[3014] Roderick: mahn
+[3700] Morphious: reve
+[3714] Malakai: prefix
+[3198] Zacharius: creatoin
+[3714] Malakai: assassin
+[1009] Mendar: colour list
+[9206] Roderick: dual
+[0] Marekak: grip
+[0] Marekak: critical strike
+[0] Marekak: counter
+[1010] Panamon: corner
+[40039] Gafrial: 2.faer
+[0] Kaurick: fireling
+[0] Palvo: Revenant
+[1] Panamon: whostring
+[9215] Snav: lodestone
+[9221] Panamon: reveal
+[1022] Sardaukar: ancient
+[3759] Anakte: pill
+[3398] Cyx: questitems
+[3361] Scourge: chapel
+[3361] Scourge: church
+[3361] Scourge: repent
+[3014] Cyx: repent
+[9209] Prophecy: ambush
+[9213] Prophecy: thrust
+[9242] Prophecy: channel
+[4208] Zerikai: vampire blast
+[3198] Zerikai: eyerub
+[3198] Zelucifer: grip
+[9207] Prophecy: challenge
+[3198] Zelucifer: revenant
+[3198] Zelucifer: rev
+[0] Mortok: fireling
+[3054] Xanith: hero
+[1011] Malakai: elder
+[1011] Malakai: elder
+[1011] Malakai: loner
+[0] Mortok: feed
+[1010] Gafrial: empower potion
+[1011] Malakai: sorcerer
+[1011] Malakai: sorceror
+[1438] Uline: critical strike
+[1438] Uline: crit
+[1023] Snav: critical strike
+[19905] Quicksilver: colout
+[1010] Stryder: promote
+[1000] Stryder: rank
+[2377] Roderick: push
+[481] Samus: sharpen
+[0] Elim: shockling
+[0] Elim: eyerub
+[70000] Quasam: priv
+[70000] Quasam: pice
+[1010] Samus: shield levitation
+[1010] Mendar: questpoints
+[1010] Mendar: qs
+[1010] Mendar: templar
+[70000] Zaen: invigorate
+[3198] Elim: eyerub
+[1010] Mendar: blind rage
+[1010] Mendar: blindrage
+[1000] Sardaukar: Lerion
+[3198] Elim: feed
+[1000] Sardaukar: nosummon
+[1000] Sardaukar: config
+[1000] Samus: arena
+[9245] Sardaukar: duel
+[9245] Sardaukar: dual
+[9245] Sardaukar: challenge
+[1000] Samus: blade bless
+[1000] Samus: blind rage
+[1000] Samus: meteor storm
+[1000] Samus: acid rain
+[1000] Samus: restore mana
+[1000] Samus: mana shield
+[1000] Samus: brew
+[1000] Snav: arena
+[3054] Prophecy: cainite
+[9216] Prophecy: damroll
+[1010] Samus: pitem
+[1010] Samus: p-item
+[11712] Zacharius: roll
+[11712] Zacharius: invoker
+[11712] Zacharius: sorceror
+[11712] Zacharius: sorc
+[1002] Zelucifer: balance
+[1002] Zelucifer: story
+[3198] Zelucifer: stun
+[3198] Zelucifer: stun
+[0] Balista: hencuva
+[3712] Balista: dark_vision
+[3712] Balista: dark vision
+[3712] Balista: vision
+[0] Sardaukar: Imp
+[0] Sardaukar: Gryphon
+[3001] Balista: revenant
+[607] Zelucifer: stun
+[9217] Snav: eyerub
+[3198] Balista: eyerub
+[19904] Balista: summon familiar
+[19904] Balista: summons familiar
+[19904] Balista: summon familiar
+[1010] Midor: questitems
+[9212] Snav: lodestone
+[1010] Stryder: sharpen
+[1010] Midor: dragon
+[353] Stryder: horde
+[3198] Mathias: grip
+[1010] Samus: pitem
+[9238] Scorpinoc: sorc
+[9242] Samus: leader
+[9242] Samus: promote
+[1010] Samus: challenge
+[1010] Samus: arena
+[50000] Kalicu: arena
+[9227] Roderick: leech
+[1009] Malkarin: drakyri
+[3700] Scorpinoc: multi play
+[3700] Scorpinoc: multi
+[1010] Stryder: quest sell
+[1000] Veovis: class str
+[1000] Veovis: class all
+[1000] Veovis: class warrior
+[3014] Cyx: ancient
+[1010] Malkarin: enveno,
+[3198] Turox: stun
+[1010] Veovis: guild
+[2102] Veovis: grip
+[2102] Veovis: grip
+[1010] Midor: loot
+[3054] Ronin: drow
+[0] Brujah: pheonix
+[3198] Brujah: cainite
+[0] Sardaukar: imp
+[0] Sardaukar: Gryphon
+[3198] Sardaukar: call wild
+[3014] Samus: arena
+[1010] Samus: qforge
+[3014] Sardaukar: thrust
+[3014] Sardaukar: ambush
+[3054] Roderick: arena
+[3054] Roderick: challenge
+[1010] Samus: clanstart
+[3054] Roderick: berserker
+[3054] Roderick: shaman
+[3054] Roderick: assassin
+[3054] Roderick: cainite
+[3054] Roderick: sorcerer
+[3366] Roderick: rampage
+[19923] Balista: dark_vision
+[9209] Snav: arena
+[19962] Balista: vampire blast
+[19911] Brujah: reserect
+[1010] Snav: grip
+[1010] Wriech: invigorate
+[3198] Roderick: weaponmaster
+[3033] Zelucifer: vorpal
+[3001] Balista: iqp
+[3198] Balista: leech
+[40560] Snav: display
+[40582] Snav: berserker
+[40585] Snav: teir
+[40585] Snav: berserker
+[40585] Snav: shaman
+[1010] Samus: ancient
+[3759] Xoragath: feed
+[3198] Xoragath: vampire blast
+[3198] Xoragath: leech
+[3054] Prophecy: leech
+[9254] Prophecy: challenge
+[3398] Cyx: leech
+[2319] Quicksilver: leech
+[3054] Prophecy: leech
+[3054] Prophecy: damge
+[3054] Prophecy: pitted
+[3054] Prophecy: objects
+[2330] Quicksilver: remort
+[3054] Prophecy: revenant
+[3054] Prophecy: mock
+[1010] Wriech: gocial
+[3054] Roderick: ancient
+[9212] Veovis: shaman
+[9212] Veovis: revenant
+[9212] Veovis: bishop
+[9212] Veovis: templar
+[0] Testing: bladecraft
+[0] Testing: blade
+[1010] Zaen: questitems
+[2362] Roderick: announcement
+[3398] Roderick: rampage
+[2312] Prophecy: leech
+[3001] Prophecy: rogue
+[0] Prophecy: feed
+[0] Prophecy: eyerub
+[0] Prophecy: counter
+[0] Prophecy: feed
+[19970] Brujah: freelance
+[3759] Roderick: feed
+[3755] Prophecy: stun
+[19939] Prophecy: leech
+[3198] Prophecy: summon fam
+[3198] Prophecy: weakend
+[3054] Roderick: marriage
+[3054] Roderick: marry
+[0] Kaosdragon: imp
+[3198] Balista: counter
+[3198] Balista: counter
+[3198] Zelucifer: counter
+[3198] Prophecy: vampire blast
+[3198] Prophecy: clam
+[2162] Quicksilver: summonable
+[9236] Zelucifer: balance
+[3198] Prophecy: counter
+[0] Gendel: benediciton
+[1002] Marquoz: board
+[3198] Prophecy: counter
+[3198] Prophecy: leech
+[2311] Prophecy: assassin
+[2312] Prophecy: counter
+[2351] Prophecy: ancient
+[2351] Prophecy: counter
+[202] Prophecy: assassin
+[3198] Prophecy: blackjack
+[19907] Prophecy: nervestrike
+[3198] Prophecy: gouge
+[3700] Torn: rampage
+[3700] Torn: circle
+[3700] Torn: sharpen
+[3700] Torn: ambush
+[3198] Prophecy: gain points
+[3198] Prophecy: nervestrike
+[3054] Prophecy: critical
+[3054] Prophecy: critical strike
+[9207] Waledan: rod
+[9207] Waledan: staff
+[9207] Waledan: staff
+[3398] Prophecy: restring ticket
+[1010] Stryder: dragon
+[2314] Samus: firel
+[3264] Samus: assassinate
+[3264] Samus: shadowalk
+[3198] Waledan: nerv
+[3198] Waledan: nervestrike
+[3013] Waledan: repair
+[3011] Stryder: aqp
+[9218] Waledan: ancient
+[1010] Samus: ancient
+[604] Samus: ancient
+[1002] Samus: rampage
+[1002] Samus: sharpen
+[9201] Roderick: meteor
+[3713] Yurn: tiewr
+[3040] Yurn: shre
+[3041] Yurn: dual
+[3366] Mordread: religion
+[692] Yurn: area_battlefields
+[1014] Samus: reserved
+[1010] Zelucifer: sharpen
+[19904] Mordread: circle
+[1002] Samus: blind rage
+[1002] Samus: meteor storm
+[1002] Samus: manashield
+[1002] Samus: blade bless
+[1002] Samus: restore mana
+[1010] Samus: shield lev
+[1010] Samus: levi
+[1010] Samus: shield lev
+[1010] Samus: sharp
+[1010] Samus: blade
+[3054] Roderick: knight
+[3198] Gendel: revenant default
+[3700] Fern: hero
+[3700] Fern: mortal
+[3398] Prophecy: iqp
+[3001] Prophecy: immqueest
+[3198] Prophecy: eyerub
+[3198] Prophecy: fireblind
+[3198] Prophecy: blackack
+[3198] Prophecy: blackjack
+[1023] Stryder: loot
+[3005] Yurn: aqp
+[3014] Yurn: guild
+[19906] Yurn: freelance
+[19919] Yurn: grip
+[19919] Yurn: grip
+[19919] Yurn: grip
+[19918] Yurn: freelance
+[3198] Yurn: stun
+[3198] Yurn: stun
+[3198] Yurn: stun
+[3198] Yurn: rampage
+[3198] Yurn: ram
+[19923] Yurn: stun
+[3398] Levoriaz: questitems
+[40049] Prophecy: pray
+[3054] Prophecy: gouge
+[400] Gendel: summon familiar
+[1010] Gafrial: transo
+[1010] Mendar: blind rage
+[2354] Gendel: tnl
+[9209] Waledan: assassin
+[9209] Waledan: berserker
+[3054] Mordread: gouge
+[3054] Prophecy: challenge
+[3054] Prophecy: arena
+[2310] Zelucifer: terms
+[3054] Danny: freelance
+[3054] Balista: vampires
+[3054] Balista: revenant
+[3054] Balista: revenent
+[2356] Mordread: sorcerer
+[0] Mordread: elemental offense
+[19942] Gza: wager
+[2387] Prophecy: templar
+[19912] Quicksilver: elder
+[3014] Samus: invigorate
+[3014] Balista: vorpal blade
+[3014] Waledan: vorpal
+[3398] Prophecy: ancient
+[3198] Balista: leech
+[1010] Samus: familiar
+[1010] Samus: summon famil
+[3054] Balista: familiar
+[353] Zelucifer: arena
+[3025] Balista: dragonm
+[3025] Balista: dragon
+[3054] Zelucifer: berserker
+[2311] Balista: sharpen
+[2311] Balista: lih
+[2311] Balista: cainit3
+[2311] Balista: cainit
+[2311] Balista: cainite
+[18008] Gza: dragon
+[50015] Gafrial: challenge
+[50015] Gafrial: challe
+[50015] Gafrial: chal
+[50015] Gafrial: arena
+[50015] Gafrial: arena
+[50015] Gafrial: challenge
+[1009] Gafrial: protection voodoo
+[19934] Quicksilver: blackjack
+[19934] Quicksilver: black jack
+[19934] Quicksilver: 'black jack
+[0] Balista: dragon
+[0] Balista: dragon
+[0] Balista: pheonix
+[3198] Veovis: rampage
+[2310] Quicksilver: nerve
+[2310] Quicksilver: nervestrike
+[3198] Veovis: eyerub
+[1010] Veovis: stun
+[3198] Balista: whirlwind
+[50022] Panamon: alock
+[2103] Balista: knight
+[1010] Mordread: bladecraft
+[1010] Mordread: blade
+[0] Buddha: dragon
+[1010] Samus: leech
+[2104] Xanith: hero
+[2104] Xanith: ancient
+[2104] Xanith: rebirth
+[1010] Cirolian: whostring
+[2359] Gendel: hero
+[2359] Gendel: hro
+[3198] Balista: thrust
+[1010] Mordread: religion
+[3001] Balista: iqp
+[19912] Psyfer: guild
+[2314] Waledan: bid
+[0] Rocko: iceling
+[3700] Rocko: iceling
+[2311] Waledan: icel
+[3700] Rocko: iceling
+[3700] Rocko: icelink
+[3700] Rocko: iceling
+[3198] Zelucifer: restore mana
+[3198] Zelucifer: leech
+[3014] Zelucifer: tracker
+[2102] Balista: clans
+[2102] Balista: guild
+[2102] Balista: guilds
+[19975] Waledan: resurect
+[19910] Rocko: double
+[50010] Balista: arena
+[19901] Rocko: blackjack
+[50002] Waledan: hidden
+[3365] Prophecy: game slots
+[40334] Prophecy: quick
+[1427] Prophecy: vorpal
+[1021] Gendel: bed
+[1010] Laric: multiplay
+[3014] Balista: call wild
+[3014] Balista: call wild
+[3014] Balista: 2.call
+[3014] Quicksilver: ambush
+[3014] Quicksilver: strike
+[3014] Quicksilver: thrust
+[3005] Quicksilver: arena
+[1010] Quicksilver: questitems
+[1010] Quicksilver: questitems
+[1010] Quicksilver: questitems
+[1010] Quicksilver: arna
+[1010] Quicksilver: arena
+[1010] Quicksilver: challenfe
+[1010] Quicksilver: challenge
+[1010] Quicksilver: arena
+[1010] Quicksilver: arena
+[1010] Quicksilver: fight
+[3054] Roderick: Cainit
+[3054] Roderick: Cainite
+[1010] Cirolian: multy-play
+[3054] Prophecy: ancient
+[3054] Prophecy: gouge
+[2377] Quicksilver: ancient
+[3054] Prophecy: channel
+[2314] Waledan: cainite
+[2314] Waledan: elder
+[3398] Prophecy: rank
+[3120] Prophecy: qforege
+[3120] Prophecy: qforge
+[3005] Prophecy: ns
+[3005] Prophecy: bane
+[3133] Prophecy: blade bless
+[3133] Prophecy: blind rage
+[3015] Kherion: guild
+[9210] Zaen: questlevel
+[1010] Zaen: questor
+[2105] Slick: moretier
+[2105] Slick: invigorate
+[2105] Slick: dark gift
+[2105] Slick: call darkness
+[2105] Slick: [L]
+[3014] Slick: arena
+[3014] Slick: chalenge
+[1010] Rocko: evenom
+[9242] Rocko: nerve
+[9242] Rocko: nervestrike
+[1010] Rocko: tiers
+[3101] Prophecy: reform
+[3100] Prophecy: story
+[3131] Prophecy: rampage
+[3131] Prophecy: ambush
+[3131] Prophecy: strike
+[3131] Prophecy: immolation
+[3131] Prophecy: firestorm
+[3398] Prophecy: whostring
+[0] Erebus: race_demon
+[0] Erebus: race demon
+[0] Erebus: 2.demon
+[0] Erebus: revenant default
+[16021] Cypher: leveling
+[1010] Cypher: rampage
+[18008] Gza: rampage
+[3054] Prophecy: mutli
+[3054] Prophecy: multiplay
+[3054] Prophecy: multi-play
+[9209] Balista: drow
+[3198] Balista: ambush
+[3198] Balista: call wild
+[0] Danny: iceling
+[3700] Waledan: reform
+[3759] Waledan: reform
+[1010] Quicksilver: ancient
+[3198] Balista: clans
+[1010] Quicksilver: wizlist
+[1010] Quicksilver: wizlist
+[1010] Quicksilver: clan list
+[3700] Devyn: gsoc
+[1010] Danny: meditation
+[3198] Danny: dragon wisdom
+[3120] Prophecy: strike
+[1010] Quicksilver: aqp
+[1010] Quicksilver: call wild
+[1010] Quicksilver: ambush
+[1010] Quicksilver: call darkness
+[1010] Quicksilver: immolation
+[3054] Roderick: call darkness
+[0] Tsion: bladecraft
+[3014] Gza: area_war
+[1010] Wriech: whostring
+[20200] Roland: whostring
+[3034] Prophecy: gouge
+[3700] Ghrim: channel
+[3001] Hetar: area_wyn
+[3001] Hetar: area_battle
+[3198] Ghrim: grip
+[3198] Ghrim: skill grip
+[3198] Ghrim: skill_grip
+[3005] Hetar: grip
+[3366] Ghrim: inklar
+[3366] Ghrim: dirs
+[3366] Ghrim: area inklar
+[1010] Kalicu: onoarg
+[1010] Danny: bladecraft
+[1010] Danny: shield levit
+[1010] Suland: cwho
+[19979] Danny: firestorm
+[3700] Quicksilver: bag
+[3700] Quicksilver: invigorate
+[3700] Quicksilver: holy mace
+[1010] Danny: sharp plade
+[1010] Danny: sharp blade
+[2307] Danny: frost balde
+[2307] Danny: frost blade
+[364] Danny: acid rain
+[361] Danny: mana shield
+[0] Zheul: race_minotaur
+[3014] Zheul: pirate
+[18032] Shiroken: hero
+[390] Suland: repent
+[3198] Roderick: eyerub
+[611] Malinko: challenge
+[611] Malinko: arena
+[1010] Kai: cnovert
+[3398] Levoriaz: www
+[3398] Levoriaz: webpage
+[3014] Malinko: ezra
+[0] Eggo: phe
+[0] Eggo: pheonix
+[216] Eggo: thrust
+[212] Eggo: lone
+[1010] Eggo: whostring
+[40058] Eggo: ambush
+[19914] Eggo: super
+[19914] Eggo: resist
+[1009] Eggo: goc
+[3013] Mangan: nerve
+[1010] Gza: ram
+[364] Danny: mana shield
+[2351] Danny: verbose
+[3015] Psyfer: guild
+[3054] Psyfer: solt
+[1010] Mordread: curation
+[3198] Prophecy: gouge
+[3398] Prophecy: qforge
+[3005] Prophecy: vorpal
+[481] Prophecy: drain
+[18056] Prophecy: evil
+[9209] Quicksilver: ambush
+[1010] Prophecy: thrust
+[3054] Prophecy: temp
+[3398] Prophecy: blind rage
+[3054] Prophecy: negative
+[3398] Prophecy: rampage
+[41052] Hetar: multi
+[41052] Hetar: ruls
+[2911] Hetar: juke
+[2911] Hetar: channel
+[3398] Hetar: questitems
+[3398] Prophecy: ancient
+[0] Jeneva: fireling
+[0] Jeneva: iceling
+[0] Jeneva: pheonix
+[0] Jeneva: phoenix
+[0] Jeneva: fireling
+[0] Jeneva: revenant
+[0] Jeneva: revenant
+[3700] Jeneva: classes
+[320] Zheul: reward
+[343] Zheul: elfer
+[1010] Stryder: remort
+[3398] Prophecy: goc
+[3398] Prophecy: quest quit
+[3398] Palverz: quet
+[3398] Prophecy: questitems
+[3398] Prophecy: quest items
+[2310] Quicksilver: mana shield
+[1010] Quicksilver: shield levitation
+[0] Ghrim: icelin
+[0] Ghrim: iceling
+[0] Ghrim: iceling
+[3198] Gza: ancient
+[3014] Zelucifer: shaman
+[3014] Zelucifer: leech
+[3198] Prophecy: gain point
+[1010] Eggo: gain convert
+[1010] Eggo: convert
+[1010] Eggo: strike
+[0] Eggo: wraith
+[0] Eggo: dragon
+[3759] Morngrym: revenant
+[3716] Morngrym: revenant basics
+[3716] Morngrym: transpotation
+[0] Drakmorden: dragon
+[1010] Suland: reform
+[0] Jessalyn: dragon
+[0] Jessalyn: iceling
+[3700] Jessalyn: gambl
+[3700] Jessalyn: gamble
+[1010] Quicksilver: leet
+[3398] Levoriaz: ancient
+[19970] Zheul: ancinet
+[19970] Zheul: ancient
+[3759] Morngrym: ventrilaquate
+[3398] Morngrym: request
+[3198] Morngrym: feed
+[3366] Prophecy: hec
+[1010] Zaen: blacklegion
+[1010] Zaen: blacklegion
+[3054] Snav: meditate
+[1010] Quicksilver: shield levitation
+[3198] Prophecy: eyerub
+[3198] Prophecy: rub
+[3198] Morngrym: summonable
+[3054] Ghrim: holy mace
+[3398] Prophecy: rampage
+[19906] Morngrym: shocking graspp
+[19907] Morngrym: giant strenght
+[19931] Morngrym: summon familiar
+[19930] Morngrym: summon familiar
+[3198] Morngrym: summon familiar
+[3198] Morngrym: leech
+[3054] Rocko: counter
+[3198] Morngrym: eyerub
+[2307] Rocko: www
+[2307] Rocko: shaman
+[2307] Rocko: shaman
+[2307] Rocko: berserker
+[1010] Quicksilver: mplat
+[1010] Zaen: rampage
+[1021] Stryder: p-item
+[1010] Stryder: questeq
+[1010] Stryder: quest sell
+[9212] Kahn: berserker
+[3054] Prophecy: qeust
+[3398] Hetar: iqp
+[3700] Sanddman: www
+[3198] Sardaukar: acid rain
+[3398] Prophecy: quote
+[201] Palverz: weild
+[201] Palverz: weild sec
+[201] Palverz: wield sec
+[3054] Azik: heux
+[3020] Roliz: cammand
+[0] Stridar: fireling
+[0] Stridar: phe
+[0] Stridar: phoe
+[0] Stridar: dragon
+[1002] Sardaukar: global
+[1009] Sardaukar: strike
+[20200] Kalicu: jute
+[20200] Kalicu: juke
+[1000] Sardaukar: ancient
+[41023] Stryder: ancient
+[11811] Janeev: furnish
+[1010] Sardaukar: iqp
+[1004] Sardaukar: classes
+[1010] Sardaukar: questitems
+[19996] Sardaukar: stance
+[19996] Sardaukar: style
+[1014] Sardaukar: arena
+[1014] Sardaukar: challenge
+[1009] Sardaukar: sys
+[1009] Sardaukar: config
+[1009] Sardaukar: toggle
+[1009] Sardaukar: chall
+[1010] Sardaukar: challenge
+[3001] Cuthbert: bane
+[3398] Cuthbert: whostring
+[3014] Janeev: shields
+[3054] Cuthbert: rank
+[1010] Zheul: Valley of Death
+[1010] Zheul: area_Valley of Death
+[1010] Zheul: questitems
+[1010] Zheul: questitems'
+[1010] Zheul: questitems
+[1010] Zheul: items
+[3366] Cuthbert: stake
+[3054] Cuthbert: prefix
+[1010] Stryder: remort
+[1010] Sardaukar: freelance
+[1010] Sardaukar: multiplay
+[1010] Sardaukar: multi
+[1010] Sardaukar: clans
+[41045] Stryder: ruler
+[41045] Stryder: multi
+[41045] Stryder: multi-play
+[1010] Kalicu: clans
+[1010] Sardaukar: sys
+[1010] Sardaukar: syslog
+[3054] Cuthbert: rub
+[3054] Cuthbert: eyerub
+[1010] Cuthbert: rage
+[1010] Zheul: recall clan
+[70300] Zheul: cost
+[70300] Zheul: clan cost
+[1010] Zheul: clanprices
+[1010] Zheul: clanprice
+[1010] Zheul: clan price
+[2330] Morngrym: leech
+[3398] Morngrym: request
+[2331] Morngrym: berserker
+[3198] Morngrym: leech
+[366] Morngrym: berserker
+[3198] Morngrym: grip
+[0] Argoth: ent
+[3758] Argoth: newbnie
+[18047] Argoth: qwuest
+[3710] Jasa: mana shjield
+[3710] Jasa: mana shield
+[3710] Jasa: mana shield
+[3398] Gza: iqp
+[3398] Gza: qeq
+[3700] Jasa: guilds
+[3014] Jasa: direect
+[3398] Jasa: questitems
+[3398] Jasa: questitem
+[3398] Jasa: blade of the ancients
+[3398] Jasa: blade of ancients
+[3398] Jasa: blade ancients
+[3398] Jasa: ancients
+[1010] Midor: collide
+[0] Hurley: ent
+[3198] Hurley: artifact
+[70201] Janeev: class all
+[3054] Cuthbert: call darkness
+[19934] Janeev: hly
+[19934] Janeev: divine
+[19950] Janeev: gods
+[19950] Janeev: gods armor
+[1010] Zheul: tied
+[19912] Morngrym: kick dirt
+[3001] Janeev: ancient
+[9201] Morngrym: whirl
+[1010] Zheul: anc
+[3034] Quicksilver: wisdom
+[0] Arudaur: mutant
+[0] Arudaur: fireling
+[0] Arudaur: weaponmaster
+[3700] Arudaur: global
+[1002] Arudaur: multiclass
+[1002] Arudaur: remort
+[274] Arudaur: freelance
+[1002] Arudaur: bed
+[652] Arudaur: rebirth
+[652] Arudaur: remort
+[1010] Mendar: fireling
+[1010] Mendar: firel
+[3198] Janeev: invigorate
+[3198] Janeev: invigorate
+[3014] Ghrim: drow
+[401] Arudaur: trigger
+[1009] Cuthbert: charmie
+[0] Ghrim: dragon
+[1010] Zheul: sorcf
+[1010] Zheul: sorc
+[1010] Zheul: sorccer default
+[3014] Zheul: meteor
+[3014] Zheul: meteor storm
+[3014] Zheul: blind rage
+[3054] Drakmorden: aqp
+[1010] Mordread: kyorlites
+[1010] Mordread: kyorl
+[9209] Arudaur: tiers
+[3398] Hetar: on
+[3266] Hetar: bane
+[3398] Aecyr: kyro
+[3398] Aecyr: kyr
+[3398] Cyx: questitems
+[1010] Mordread: bladecraft
+[1010] Mordread: sorcerer default
+[20200] Roland: ancient
+[1010] Sardaukar: murder
+[50009] Sardaukar: gouge
+[1010] Sardaukar: ancient
+[1010] Sardaukar: aqp
+[9222] Morngrym: money
+[9222] Morngrym: mock
+[3054] Roland: multi
+[3010] Morngrym: global
+[3010] Morngrym: goosip
+[3198] Morngrym: ram
+[3198] Morngrym: rampage
+[3398] Gza: bet
+[3398] Gza: wager
+[3198] Ghrim: shield levitation
+[3366] Hetar: arena
+[2307] Hetar: ignore
+[3361] Hetar: repent
+[3198] Zheul: cainne
+[3198] Zheul: cainite
+[3198] Morngrym: sharpen
+[3398] Cyx: immolation
+[3398] Cyx: juke
+[3398] Cyx: play list
+[3198] Wildfire: blackjack
+[1010] Arudaur: gain list
+[1010] Arudaur: whirlwind
+[1010] Arudaur: critical strike
+[1010] Arudaur: critical
+[1010] Arudaur: strike
+[1009] Arudaur: ancient
+[1009] Arudaur: anc
+[1002] Arudaur: sharpen
+[1010] Arudaur: whostring
+[1010] Arudaur: wticket
+[3716] Tober: bs
+[3005] Gza: iqp
+[9248] Zheul: depoit
+[1010] Sardaukar: cost
+[1010] Sardaukar: sosts
+[1010] Sardaukar: costs
+[1010] Sardaukar: rank
+[1010] Sardaukar: ancient
+[1010] Sardaukar: manashield
+[1010] Sardaukar: manashield
+[1010] Sardaukar: mana shield
+[1010] Sardaukar: restore mana
+[1010] Sardaukar: resotre
+[1010] Sardaukar: meteor
+[1010] Sardaukar: vorpal
+[1010] Sardaukar: sharpen
+[1010] Sardaukar: blade
+[1010] Sardaukar: thoth
+[1010] Sardaukar: proog
+[1010] Sardaukar: proof
+[1010] Sardaukar: hero
+[3001] Janeev: config
+[3014] Roland: rp
+[3121] Wildfire: familiar
+[3398] Cyx: rank
+[3398] Wildfire: rogue
+[3398] Wildfire: rog
+[3054] Darkside: guild
+[1010] Sardaukar: board
+[1010] Sardaukar: roleplay
+[3198] Hetar: call wild
+[3198] Hetar: 'call wild'
+[3198] Hetar: wild'
+[3198] Hetar: wild
+[3014] Hetar: bid
+[3014] Hetar: arena
+[18052] Bink: multi
+[19996] Gza: call wild
+[19996] Gza: 'call wild'
+[1009] Ghrim: bet
+[1023] Ghrim: wager
+[18057] Bink: questitems
+[18057] Bink: questitems flame
+[18057] Bink: area_mutant
+[18057] Bink: area gall
+[18057] Bink: area gaal
+[1010] Gza: ambush
+[3398] Cyx: aqp
+[3198] Wildfire: eye
+[3398] Cyx: dragon
+[0] Arrakus: dragon
+[0] Arrakus: shockling
+[3758] Arrakus: convert
+[3758] Arrakus: anew
+[3759] Arrakus: learn
+[3759] Arrakus: convert
+[3759] Arrakus: trains
+[3759] Arrakus: trainin
+[209] Arrakus: ancient
+[209] Arrakus: ancient
+[209] Arrakus: anceint
+[209] Arrakus: hero
+[209] Arrakus: heros
+[209] Arrakus: status
+[209] Arrakus: anc
+[70000] Dagon: has taken to killing anything in sight no matter how big or small. He has so many {RInflections{x in his {yFlesh{x that he looks like a human scratching post. 
+[70000] Dagon: has No {RLove {xNo {Wwoman{x and he Never will. 
+[70000] Dagon: has a {RHeart{x of {DStone{x.mind of {BT{co{BR{cm{BE{cn{BT{x and {DH{Ra{DT{Re{g.......
+[3054] Taylow: guild
+[600] Morngrym: read
+[3198] Arrakus: vampire blast
+[3198] Arrakus: vampireblast
+[1002] Arrakus: rp
+[1002] Arrakus: boards
+[604] Morngrym: boulder
+[3016] Bink: reward
+[2307] Cuthbert: stun
+[2350] Morngrym: rampage
+[2314] Morngrym: stun
+[2314] Morngrym: whirl
+[2355] Morngrym: circle
+[3198] Morngrym: grip
+[3198] Morngrym: ideas
+[0] Elsdragon: dragon
+[0] Elsdragon: ent
+[0] Elsdragon: elem
+[0] Elsdragon: elemental
+[0] Elsdragon: prtect
+[0] Elsdragon: eyerub
+[0] Elsdragon: mele
+[0] Elsdragon: mela
+[2311] Morngrym: arena
+[3700] Remieres: config
+[3398] Cuthbert: rpbackgroundquest
+[3398] Cuthbert: rpbackground
+[3398] Cuthbert: rpb
+[3398] Cuthbert: rp
+[3398] Cuthbert: rpbkquest
+[3398] Cuthbert: rpimmquest
+[3398] Cuthbert: rpbackground
+[3398] Cuthbert: rpbackgroundimmquest
+[3005] Jasa: iqp
+[3398] Jasa: questitems
+[40306] Jasa: knight
+[40306] Jasa: cainite
+[3014] Jasa: dragon
+[3054] Jasa: mana shield
+[2105] Bink: remort
+[2105] Bink: reclass
+[2105] Bink: remort
+[0] Trin: imp
+[70001] Dagon: multi
+[70001] Dagon: multi play
+[70001] Dagon: multiplay
+[70001] Dagon: multi-play
+[3398] Kalicu: tital
+[1010] Gza: ko
+[1010] Gza: kylo
+[19976] Widowmaker: dual
+[19976] Widowmaker: dual wield
+[3398] Dagon: story
+[0] Widowmaker: dragon
+[1010] Zheul: ignore
+[70001] Dagon: colorcode
+[1002] Arrakus: ancient
+[19947] Arrakus: dual wield
+[3398] Cuthbert: rpbackground
+[3398] Cuthbert: rpimmquest
+[18057] Bink: replace
+[18057] Bink: quest replace
+[18057] Bink: quest blade
+[18057] Bink: questblade
+[1010] Cuthbert: reform
+[1010] Cuthbert: reform
+[1010] Zheul: reform
+[1010] Zheul: reform
+[1010] Samus: plk
+[1010] Samus: leader
+[3712] Morngrym: spellup
+[0] Direach: pheonix
+[0] Direach: dragon
+[607] Direach: pirate
+[1010] Direach: questitems
+[1009] Direach: vrugar
+[1010] Sardaukar: global
+[3700] Direach: rev
+[3700] Direach: revenant
+[3054] Direach: leech
+[3014] Gza: ten
+[602] Jasa: dragon
+[0] Jasa: dragon
+[0] Jasa: iceling
+[0] Jasa: pheonix
+[3054] Jasa: leech
+[19910] Jasa: leech
+[0] Eldrad: iceling
+[0] Eldrad: fireling
+[0] Eldrad: imp
+[0] Nkari: mutant
+[0] Nkari: mutant
+[0] Nkari: iceling
+[0] Kaneda: dragon
+[0] Kaneda: mutant
+[0] Kaneda: thrust
+[3759] Kaneda: blind rage
+[238] Kaneda: track
+[5619] Nkari: stun
+[3398] Kaneda: questitems
+[3398] Kaneda: questitem
+[3398] Kaneda: blade
+[3398] Kaneda: questitem
+[4204] Kaneda: strike
+[4204] Kaneda: loot
+[19955] Eldrad: summon familiar
+[3398] Bink: rampage
+[3198] Eldrad: vampire blast
+[1009] Widowmaker: ancient
+[3013] Bink: multiplay
+[2133] Zheul: assassinate
+[1010] Ghrim: ward
+[1010] Zheul: ward
+[11712] Nkari: whirlwind
+[11711] Nkari: rampage
+[3398] Kaneda: questitems
+[18011] Kaneda: call wild
+[1010] Samus: ass
+[1010] Samus: assassinate
+[1010] Samus: swalk
+[3398] Cuthbert: swalk
+[3398] Cuthbert: assass
+[3198] Kaneda: camou
+[18058] Kaneda: blacksmith
+[3054] Kaneda: blackjack
+[1010] Widowmaker: area_kalicu
+[1002] Gotenks: sez he cheated to get it''
+[1010] Mordread: ward
+[20200] Kurvaak: drow
+[3367] Kaneda: call wild
+[1020] Gotenks: banl
+[1010] Widowmaker: iqp
+[1010] Widowmaker: area maer
+[3033] Widowmaker: manual
+[1010] Widowmaker: cash
+[1010] Widowmaker: blade of the ancients
+[1010] Widowmaker: questitems
+[1010] Widowmaker: quest items
+[1010] Widowmaker: quest_items
+[1010] Widowmaker: points
+[1010] Widowmaker: quest points
+[1010] Stryder: questitems
+[1010] Stryder: quest items
+[1010] Stryder: questitem
+[3398] Stryder: qforge
+[3398] Stryder: qforge
+[1010] Widowmaker: tattoo
+[1010] Widowmaker: questitems
+[1010] Widowmaker: questitem
+[1010] Widowmaker: quest items
+[276] Gza: quest items
+[276] Gza: questitems
+[276] Gza: questitem
+[1010] Widowmaker: prefix
+[2130] Eldrad: leech
+[9238] Eldrad: fire rain
+[0] Gandril: dragon
+[0] Gandril: dragon
+[0] Gandril: dragon
+[0] Gandril: shield levitation
+[0] Gandril: 'shield levetation'
+[3001] Gandril: battle field
+[3001] Gandril: battle
+[3001] Gandril: pirate
+[3001] Gandril: speedwalks
+[3001] Gandril: speedwaalk
+[3001] Gandril: speedwalk
+[3001] Gandril: speed
+[3001] Gandril: walk
+[3001] Gandril: rum
+[3001] Gandril: run
+[9209] Kaneda: ambush
+[3054] Arrakus: gain list
+[19989] Arrakus: arena
+[1010] Arrakus: eye
+[1010] Arrakus: eyerub
+[2307] Eldrad: brage
+[1011] Stryder: brage
+[4233] Suraman: randlcna
+[4233] Suraman: randlcan
+[70001] Mendar: ward
+[1000] Stryder: freelance
+[1000] Stryder: loner
+[41055] Mangan: swalk
+[1010] Stryder: bingo
+[0] Sydo: shockling
+[3398] Sydo: brugar
+[3398] Sydo: vrugar
+[1010] Gza: challenge
+[3054] Morngrym: global
+[3054] Cuthbert: quote
+[1010] Quicksilver: ward
+[0] Hwoarang: dragon
+[1010] Hwoarang: questitems
+[1010] Hwoarang: 'questitems'
+[3198] Kaneda: cry
+[3054] Remieres: website
+[3054] Remieres: homepage
+[3054] Remieres: mangan
+[1010] Gza: race_mutant
+[2314] Kaneda: circle
+[2314] Kaneda: knight
+[0] Kaneda: fireling
+[3712] Kaneda: quest points
+[3054] Remieres: soulstones
+[1438] Nkari: sharpen
+[1010] Gotenks: spell_mysti
+[1010] Gotenks: mysti
+[1010] Gotenks: mystic
+[1010] Zaen: ward
+[1010] Zaen: shadow walk
+[1010] Zaen: dracfe
+[2395] Nkari: eyerub
+[324] Stryder: wared
+[324] Stryder: ward
+[1010] Stryder: mutant
+[1009] Gotenks: kyro
+[0] Nkari: drow
+[243] Morngrym: flame strike
+[18067] Kaneda: huamn
+[0] Wildfire: pho
+[0] Wildfire: phe
+[0] Wildfire: pheonix
+[3014] Remieres: secondary
+[1010] Stryder: arena
+[1010] Stryder: bet
+[19971] Wildfire: brage
+[19971] Wildfire: hro
+[19971] Wildfire: hreo
+[19971] Wildfire: hero
+[41055] Mangan: brage
+[1010] Wildfire: whirl
+[1010] Wildfire: whirlwind
+[551] Wildfire: stun
+[3014] Kaneda: speed
+[1010] Arrakus: lighting bolt
+[4263] Arrakus: passdoor
+[1014] Sardaukar: assassinate
+[1014] Sardaukar: ass
+[1010] Samus: brage
+[9212] Wildfire: channel
+[0] Edge: keku
+[0] Edge: iceling
+[0] Edge: pheonix
+[0] Edge: dragon
+[0] Edge: elemental offense
+[0] Edge: bladecraft
+[0] Edge: bladecraft
+[0] Edge: enchatment
+[9232] Wildfire: assassinate
+[3005] Edge: trash
+[41055] Mangan: setxp
+[1014] Sardaukar: style
+[1014] Sardaukar: stance
+[1010] Samus: freelance
+[1002] Samus: arena
+[1002] Samus: arena
+[1010] Suland: ancient
+[1010] Suland: arena
+[1010] Suland: bet
+[1010] Suland: arena
+[1010] Sardaukar: blackjack
+[18054] Edge: bladecraft
+[249] Edge: ass
+[249] Edge: anc
+[249] Edge: hero
+[249] Edge: experence
+[249] Edge: story
+[249] Edge: story
+[249] Edge: hero
+[249] Edge: hr
+[249] Edge: guil
+[249] Edge: guild
+[18052] Edge: description 0
+[18052] Edge: description -
+[0] Kaneda: master healing
+[0] Kaneda: iceling
+[0] Kaneda: fireling
+[3759] Kaneda: restore mana
+[0] Kaneda: phoenix
+[1020] Widowmaker: ancient
+[3198] Kaneda: grip
+[9255] Wildfire: freelance
+[3054] Arudaur: ward
+[1002] Arudaur: alliance
+[18054] Edge: creation points
+[1010] Wildfire: eye
+[1010] Wildfire: rampage
+[3398] Gza: qforge
+[1009] Kalicu: qforge
+[3198] Arudaur: huntertrain hp
+[1010] Zaen: tital
+[1010] Zaen: shadowwalk
+[1010] Samus: swalk
+[50014] Samus: rank
+[353] Samus: wrath
+[18057] Edge: clans
+[18055] Edge: clan re
+[18053] Edge: backup
+[3759] Morngrym: backup
+[248] Edge: rouge
+[248] Edge: rougue
+[1010] Samus: qreform
+[1010] Samus: reform
+[3361] Stryder: repent
+[3715] Morngrym: feed
+[3721] Morngrym: feed
+[0] Shay: fireling]
+[18052] Edge: ancient
+[0] Shay: fireling
+[18052] Edge: anc
+[0] Shay: drow
+[0] Shay: camo
+[3713] Shay: fireling
+[1010] Kurvaak: brage
+[1010] Quicksilver: ward
+[762] Mangan: ward
+[70001] Quicksilver: swalk
+[1009] Samus: leader
+[3398] Cyx: swalk
+[0] Kyte: shockling
+[0] Kyte: tracker
+[0] Rhaegar: iceling
+[0] Rhaegar: dragon
+[3712] Rhaegar: shockling
+[3712] Kyte: tracker
+[0] Kyte: eyebrub
+[0] Kyte: revenant
+[3397] Kyte: shove
+[3397] Kyte: pull
+[3198] Kyte: vampire blast
+[0] Intona: nervestrike
+[0] Intona: bladecraft
+[3020] Intona: levelup pill
+[3198] Intona: weaponmaster
+[3198] Intona: shield levetation
+[3198] Intona: shield levitation
+[3198] Intona: poison shield
+[3198] Intona: poisonshield
+[4204] Intona: dragon wisdom
+[4204] Intona: dragon wisdom
+[3198] Intona: freeman
+[2111] Intona: vorpal blade
+[3054] Intona: blade bless
+[3198] Intona: weaponmaster
+[1010] Kahn: knight
+[4207] Intona: firestorm
+[3198] Edge: gamble
+[3198] Edge: black jack
+[1010] Gogeta: cai
+[1010] Gogeta: dark gift
+[1002] Samus: mana shield
+[40500] Arudaur: brage
+[40500] Arudaur: brag
+[3700] Bayne: ok
+[3700] Bayne: kp
+[3198] Morngrym: eyerub
+[3198] Morngrym: feed
+[0] Vladimir: fireling
+[1010] Widowmaker: ancient
+[1010] Widowmaker: tiers
+[3054] Tiamat: rampage
+[3054] Arudaur: cainite
+[3054] Arudaur: reve
+[3198] Intona: blade bless
+[3198] Intona: eyerub
+[3001] Intona: mana shield
+[3198] Tiamat: eyerub
+[3054] Intona: cainite
+[3054] Intona: ancient
+[3054] Intona: anc
+[3054] Intona: assassin
+[3397] Arudaur: ancient
+[3054] Intona: sorcerer
+[3054] Intona: templar
+[1010] Tiamat: dragon wisdom
+[378] Intona: global
+[208] Arudaur: ambush
+[208] Arudaur: ambush
+[1010] Arudaur: strike
+[2314] Intona: acid rain
+[0] Intona: iceling
+[3744] Intona: iceling
+[3746] Intona: leech
+[3746] Intona: feed
+[3746] Intona: circle
+[3198] Intona: sorcerer
+[16024] Shay: freelance
+[16024] Shay: free lance
+[16024] Shay: free 
+[3397] Adventus: breath
+[3398] Noghir: questitems
+[3398] Noghir: questitems
+[3398] Noghir: questitems
+[1010] Arudaur: call wild
+[0] Yerius: dragon
+[1010] Karnak: ancient
+[0] Intona: dragon
+[3700] Intona: immolation
+[3700] Intona: divine
+[3700] Intona: gods armor
+[1010] Gogeta: tmp
+[2312] Intona: holy mace
+[2314] Intona: immolation
+[3001] Stryder: clna
+[1010] Stryder: roll
+[1010] Stryder: damroll
+[1002] Arudaur: counter
+[1002] Arudaur: drag
+[1002] Arudaur: dragon
+[1002] Arudaur: nervestrike
+[1002] Arudaur: call darkness
+[3198] Intona: mana shield
+[2354] Intona: immolation
+[50010] Arudaur: arena
+[3700] Intona: bishop
+[3700] Intona: tracker
+[3700] Intona: templar
+[3700] Intona: sorcerer
+[3700] Intona: elder
+[1010] Arudaur: alliance
+[1010] Arudaur: freelance
+[3198] Intona: blackjack
+[1010] Samus: dink
+[3398] Noghir: ancient
+[3398] Noghir: questites
+[3398] Noghir: questitemss
+[3398] Noghir: questitems
+[838] Mangan: guild
+[1010] Samus: assassin default
+[1010] Samus: assassin default
+[1010] Samus: assassin
+[3759] Nkari: dark_vision
+[18008] Morngrym: templar
+[0] Morngrym: imp
+[3721] Morngrym: holy mace
+[3713] Morngrym: floating disk
+[3759] Morngrym: creat spr
+[0] Dameclese: fireling
+[3712] Morngrym: spellup
+[0] Dameclese: iceling
+[0] Dameclese: Iceling
+[0] Dameclese: dragon
+[3716] Morngrym: immolation
+[0] Dameclese: eyerub
+[0] Dameclese: eyerub
+[0] Dameclese: counter
+[0] Dameclese: conter
+[0] Dameclese: counter
+[0] Dameclese: sharpen
+[0] Dameclese: grip
+[0] Dameclese: whirlwind
+[0] Dameclese: rampage
+[3700] Dameclese: pill
+[0] Dameclese: critical
+[0] Dameclese: critical strike
+[0] Dameclese: grip
+[3758] Dameclese: stat
+[3758] Dameclese: attrib
+[3758] Dameclese: attributes
+[3758] Dameclese: dex
+[3758] Dameclese: stats
+[3758] Dameclese: dex
+[3717] Dameclese: loku
+[3717] Dameclese: loki
+[3398] Cuthbert: quest sell
+[19992] Widowmaker: decap
+[1010] Arudaur: anc
+[3198] Remieres: other
+[3198] Intona: counter
+[2307] Intona: critical
+[3054] Kaneda: dragon
+[1010] Samus: sharpen
+[2311] Intona: critical strike
+[817] Mangan: ancient
+[3198] Eldrad: vampiric embrace
+[1009] Samus: ward
+[1009] Samus: ward
+[9252] Shay: legin
+[1010] Cuthbert: ward
+[2354] Adventus: brage
+[2354] Adventus: ward
+[1000] Samus: dark gift
+[1000] Samus: call darkness
+[3198] Morngrym: meditation
+[3198] Morngrym: meditat
+[3198] Matthias: bladecraft
+[3054] Matthias: ancient
+[3054] Matthias: ancient
+[3054] Matthias: 201
+[3054] Matthias: spell_loc
+[0] Sinner: drow
+[0] Sinner: feed
+[0] Sinner: fireling
+[0] Sinner: bladecraft
+[0] Sinner: call wild
+[3198] Zyvre: blacklegion
+[733] Zyvre: ancient
+[3700] Darkstone: newbei
+[2105] Zyvre: ward
+[0] Thinker: blad
+[0] Thinker: bladecraft
+[355] Matthias: acid rain
+[1010] Zaen: ward
+[1010] Zaen: ward
+[1010] Snav: shield levitation
+[790] Samus: fail
+[220] Dameclese: class all
+[220] Dameclese: bishop
+[4211] Morngrym: dragonskn
+[4211] Morngrym: dragonskin
+[4211] Morngrym: dragon skin
+[3025] Gendahan: dirs
+[4211] Morngrym: shield lev
+[4211] Morngrym: shield levitation
+[238] Dameclese: party
+[248] Dameclese: dual
+[3198] Gendahan: blackjack
+[233] Dameclese: stun
+[3014] Gendahan: quto
+[3014] Gendahan: autoq
+[3198] Matthias: nerve
+[3198] Matthias: nervestrike
+[41055] Mangan: setxp
+[41055] Mangan: prefix
+[41055] Mangan: rename
+[1010] Samus: promote
+[1010] Samus: blacksmith
+[1010] Samus: ward
+[1010] Samus: brage
+[1010] Samus: blind rage
+[1010] Samus: meteor storm
+[1010] Samus: acid rain
+[353] Samus: invigorate
+[353] Samus: immolation
+[1010] Samus: ancient
+[1010] Samus: hero
+[1010] Samus: hro
+[1010] Samus: tp
+[1010] Samus: trivia
+[9205] Nkari: verb
+[3014] Lavitz: feed
+[3054] Matthias: sor
+[3054] Matthias: sorceror
+[3054] Matthias: class sor
+[3001] Morngrym: incognito
+[0] Sanguine: ent
+[20200] Lokine: name
+[41055] Mangan: rename
+[1010] Quicksilver: iqp
+[0] Tanj: iceling
+[3700] Tanj: leech
+[0] Sanguine: dragon
+[0] Sanguine: dragon
+[0] Sanguine: drow
+[3759] Sanguine: track
+[604] Sanguine: cyblade
+[3198] Sanguine: track
+[3054] Sanguine: drow
+[70100] Nkari: dragon
+[0] Srettel: mutant
+[3014] Srettel: showskill
+[0] Quavon: bladecraft
+[0] Quavon: blade
+[0] Quavon: elemntal offense
+[0] Quavon: elemental
+[3700] Quavon: ancient
+[3700] Quavon: elder
+[3759] Quavon: immolation
+[3759] Quavon: gods
+[3759] Quavon: dragon wisdom
+[40029] Giliath: wear-lock
+[40029] Giliath: wear-loc
+[19922] Matthias: infrared
+[19922] Matthias: spell infrared
+[19922] Matthias: spell aRM
+[20081] Cuthbert: jukebox
+[2911] Arudaur: juke
+[1009] Cuthbert: corpse
+[3014] Morngrym: corpse
+[19907] Morngrym: firestorm
+[19907] Morngrym: firestrom
+[19907] Morngrym: fire strom
+[19907] Morngrym: fire storm
+[1010] Samus: mahn tor
+[1010] Samus: mahn
+[1010] Arudaur: blackjack
+[1010] Arudaur: kill
+[1010] Arudaur: kill stealing
+[3054] Nkari: arena
+[279] Dameclese: dual
+[274] Dameclese: swalk
+[269] Dameclese: stun
+[269] Dameclese: stun
+[1010] Scorpious: invig
+[1010] Scorpious: invigorate
+[3005] Zyvre: lemtorak
+[2311] Adventus: cri
+[2307] Adventus: critical strike
+[70100] Nkari: ancient
+[70100] Nkari: global
+[1010] Dagon: global
+[353] Nkari: vorpal
+[3398] Nkari: qforge
+[1010] Scorpious: sharpen
+[0] Remieres: beneditions
+[0] Remieres: benedition
+[3198] Eldrad: cry
+[2359] Remieres: bot
+[2359] Remieres: trigger
+[749] Quicksilver: dragon
+[749] Quicksilver: dragn
+[0] Remieres: bladecraft
+[1013] Quicksilver: ancient
+[1010] Quicksilver: reform
+[0] Shay: dragon
+[0] Shay: phoen
+[0] Shay: phoen
+[0] Shay: pheon
+[0] Shay: ph
+[0] Shay: shield lev
+[0] Shay: shield levitation
+[0] Shay: class combat
+[0] Shay: class priest
+[9242] Shay: bladecra
+[9242] Shay: blade
+[3054] Shay: holy ma
+[0] Runic: pheonix
+[0] Runic: phoenix
+[0] Runic: fireling
+[19904] Runic: rampage
+[19904] Runic: whirlwind
+[3398] Gogeta: acolyte
+[40336] Shay: mana shield
+[3054] Remieres: autopeed
+[18047] Shay: blade
+[40335] Shay: invigorate
+[40000] Giliath: clans
+[3198] Shay: immol
+[3054] Eldrad: guild
+[2911] Stryder: juke
+[3054] Kaneda: arena
+[3054] Kaneda: assassinate
+[3054] Kaneda: assassin
+[3054] Kaneda: nervestrike
+[3054] Kaneda: nerv
+[3014] Remieres: elemental canyon
+[3014] Remieres: canyon
+[3054] Remieres: animal
+[0] Zaeth: dragon
+[3758] Zaeth: wis
+[3758] Zaeth: int
+[3710] Zaeth: uatopeek
+[3734] Zaeth: IQP
+[3759] Zaeth: critical strike
+[3759] Zaeth: criticalstrike
+[3398] Eldrad: ancient
+[838] Cuthbert: ns
+[3700] Kaneda: pho
+[3700] Kaneda: phoenix
+[0] Kaneda: drow
+[3054] Shay: invigorate
+[3054] Remieres: hero
+[3054] Remieres: ancient
+[3005] Remieres: kargaranth
+[1010] Remieres: mana shield
+[1010] Remieres: manashield
+[1002] Matthias: power level
+[1002] Matthias: power
+[1010] Matthias: hour
+[1010] Matthias: hours
+[3398] Halbarad: guild
+[3398] Halbarad: alliance
+[3398] Halbarad: clans
+[3398] Halbarad: hunter clan
+[3398] Cuthbert: strike
+[1010] Remieres: deposit
+[3714] Zaeth: eyerub
+[1014] Zaeth: stry
+[1014] Zaeth: stryder
+[1014] Zaeth: elder
+[1014] Zaeth: eldar
+[1014] Zaeth: cainite
+[1014] Zaeth: knight
+[1014] Zaeth: thrust
+[3700] Angelus: rev
+[1010] Zaeth: counter
+[3366] Wildfire: demons
+[3366] Wildfire: 2.demon
+[0] Darkstar: dragon
+[0] Darkstar: ph
+[0] Darkstar: pheonix
+[3721] Darkstar: power
+[1010] Zaeth: sharpen
+[1010] Remieres: swalk
+[3054] Darkstar: reform
+[3054] Darkstar: form
+[1010] Quicksilver: whostring
+[1010] Zaeth: rampage
+[0] Wildfire: dragon
+[326] Kalicu: ancient
+[40374] Kalicu: ancient
+[3398] Kalicu: promt
+[3054] Kaneda: teir
+[3367] Kaneda: channel
+[1430] Cuthbert: dragon
+[3054] Shay: ancient
+[3054] Shay: ancient
+[0] Shay: dragon
+[3054] Eldrad: call darkness
+[3054] Eldrad: call gift
+[3054] Darkstar: channels
+[3054] Darkstar: spellup
+[3001] Darkstar: home buy
+[19904] Darkstar: levle
+[19918] Darkstar: acidic
+[19926] Darkstar: customize
+[1010] Darkstar: strike
+[1010] Darkstar: questitems
+[1010] Darkstar: quest items
+[19915] Wildfire: dragon
+[19915] Wildfire: dragon wisdom
+[19946] Darkstar: erstore
+[19946] Darkstar: restore
+[19950] Darkstar: ier
+[19950] Darkstar: brage
+[19951] Darkstar: swalk
+[19952] Darkstar: critical
+[19952] Darkstar: strike
+[1010] Gogeta: iqp
+[1010] Gogeta: convert
+[3398] Cuthbert: donateclan
+[19922] Samus: donateclan
+[1002] Zaeth: dragn
+[386] Gogeta: clot
+[1000] Darkstar: ass
+[9209] Zaeth: grip
+[19952] Darkstar: counter
+[3198] Morngrym: super
+[3198] Morngrym: superior healing
+[3198] Morngrym: blade bless
+[3040] Morngrym: superior
+[2355] Cuthbert: rampate
+[2355] Cuthbert: rampage
+[19971] Darkstar: nervestrike
+[19974] Darkstar: circle
+[19974] Darkstar: counter
+[19979] Darkstar: assassins
+[19979] Darkstar: assassin
+[1010] Darkstar: hero
+[3398] Cuthbert: drow
+[2330] Balista: remort
+[2330] Balista: tier 2
+[0] Brinth: iceling
+[0] Brinth: phoenix
+[3714] Atersidus: circle
+[3138] Zaeth: call lightning'
+[366] Giliath: clans
+[607] Zaeth: drow
+[1010] Samus: elder
+[1010] Samus: eldar
+[1010] Samus: firestorm
+[1010] Gogeta: cai
+[3054] Zaeth: dark gift
+[3054] Zaeth: call darkness
+[1010] Samus: vamp blast
+[1010] Samus: vampire blast
+[1010] Samus: blast
+[18053] Edge: copy
+[70300] Sardaukar: dragon
+[70300] Sardaukar: dragon
+[3013] Sardaukar: assassinate
+[3198] Zaeth: shield levitation
+[3198] Zaeth: shield levitation
+[3025] Zaeth: shield levitation
+[9204] Zaeth: slist
+[4269] Samus: anger
+[3054] Samus: familiar
+[0] Zaeth: iceling
+[0] Zaeth: fireling
+[0] Zaeth: imp
+[3198] Zaeth: all
+[3198] Zaeth: dragon skin
+[3054] Samus: loot
+[3198] Baruch: dual
+[3198] Baruch: dual wield
+[3013] Baruch: pkj
+[1010] Cuthbert: whirlwind
+[677] Kaneda: gouge
+[677] Kaneda: eyerub
+[677] Kaneda: eye
+[1010] Darkstar: clans
+[1010] Darkstar: drak
+[611] Darkstar: reform
+[611] Darkstar: aq
+[611] Darkstar: iqp
+[1009] Zaeth: cin
+[9238] Eldrad: dragon
+[70100] Kaneda: channel
+[3014] Zaeth: sixth attack
+[9242] Matthias: firestorm
+[9242] Matthias: firestorm
+[3009] Danny: drain blade
+[1010] Quicksilver: questitems
+[1010] Quicksilver: sticket
+[40039] Remieres: key
+[1010] Quicksilver: colow
+[1010] Quicksilver: colow
+[1010] Quicksilver: questitem
+[3198] Morngrym: frost blade
+[11702] Morngrym: dragon skin
+[11702] Morngrym: dragonskin
+[3398] Gogeta: questitems
+[3398] Gogeta: questitems
+[606] Morngrym: divine fury
+[606] Morngrym: divine
+[19955] Baruch: scrool
+[3198] Morngrym: sharp
+[3198] Morngrym: mast
+[3198] Morngrym: master healing
+[3033] Baruch: convert
+[3398] Morngrym: quest buy
+[3398] Morngrym: quest points
+[1] Giliath: brod
+[1] Giliath: clanlist
+[3005] Zuran: blacjack
+[3005] Zuran: brage
+[1010] Quicksilver: leader
+[1010] Quicksilver: clan leader
+[1010] Quicksilver: clanleader
+[1009] Quicksilver: colow
+[3020] Deathlok: money
+[3033] Deathlok: arena
+[19969] Deathlok: tracker
+[19969] Deathlok: stryder
+[3198] Danny: strike
+[3198] Deathlok: track
+[350] Deathlok: verbose
+[2318] Deathlok: blackjack
+[3198] Deathlok: acid rain
+[1010] Bink: counter
+[41015] Deathlok: thrust
+[41015] Deathlok: tracker
+[3198] Deathlok: meditation
+[3198] Deathlok: ambus
+[3198] Deathlok: call wild
+[3198] Deathlok: meditate
+[3198] Deathlok: far sight
+[3198] Deathlok: ambush
+[11739] Deathlok: toggle
+[11748] Deathlok: sex
+[3014] Bink: leech
+[3014] Bink: areatree
+[3014] Bink: area tree
+[4229] Cuthbert: anger
+[1010] Zyvre: critical
+[3198] Deathlok: ambush
+[3198] Deathlok: eyerub
+[3700] Skyler: revenant
+[3758] Skyler: arena
+[3758] Skyler: chaos
+[3714] Skyler: purge
+[0] DarkRainz: dark gift
+[19907] Cuthbert: remort
+[19907] DarkRainz: remort
+[3700] DarkRainz: clans
+[3700] DarkRainz: ancient
+[3700] DarkRainz: leech
+[3700] DarkRainz: secondary
+[3198] DarkRainz: eyerub
+[3198] DarkRainz: feed
+[3198] DarkRainz: page
+[3198] DarkRainz: eyerub
+[3398] DarkRainz: flame of
+[3398] DarkRainz: questitems
+[3398] DarkRainz: ankelt
+[3398] DarkRainz: anklet
+[3398] DarkRainz: blade
+[3398] DarkRainz: questblade
+[3398] DarkRainz: questitems
+[1010] Zaen: clan list
+[1010] Zaen: clead
+[3001] DarkRainz: quest points
+[19907] DarkRainz: remort
+[3054] DarkRainz: circle
+[3398] DarkRainz: quest flame
+[3198] DarkRainz: class all
+[3198] DarkRainz: vampire blast
+[3054] DarkRainz: dual
+[0] Everil: dragon
+[3700] Everil: rev
+[3700] Everil: class all
+[3700] Everil: classes
+[3700] Everil: revenant
+[3700] Everil: remort
+[3700] Everil: mutilcass
+[3700] Everil: muticlass
+[3700] Everil: dual
+[3700] Everil: dualclass
+[3713] Everil: deities
+[3198] DarkRainz: leech
+[3734] Everil: teier
+[3758] Everil: dragon
+[3758] Everil: dragon
+[19905] Everil: grip
+[1009] Everil: trian
+[3198] Everil: eyerub
+[19910] Everil: multi-play
+[19910] Everil: multiplay
+[19919] Everil: critical strike
+[3198] Everil: iqp
+[3198] Everil: aqp
+[3198] Everil: balance
+[1010] Everil: questitems
+[1010] Everil: quest items
+[1010] Everil: questitems
+[1010] Everil: questitem
+[19990] Everil: rank
+[19990] Everil: clanrank
+[19990] Everil: clan rank
+[19990] Everil: clans
+[3198] Everil: sixth attack
+[3198] Everil: sharpen
+[1021] Everil: repair
+[19939] Everil: claw
+[19992] Everil: hero
+[19992] Everil: heros
+[19992] Everil: avatar
+[19992] Everil: hero
+[3198] Everil: counter
+[1009] Everil: clan command
+[1009] Everil: clan commands
+[1009] Everil: clancommands
+[3366] Danny: dragon wisdom
+[3398] Danny: wisdom
+[1010] Everil: clans
+[1000] Matthias: clan_legion
+[1010] Zaen: multi-pla
+[1010] Zaen: multi
+[2331] Cuthbert: verbose
+[2331] DarkRainz: verbose
+[3198] Everil: grip
+[20200] Roland: questitems
+[1010] Suland: reform
+[1010] Widowmaker: leech
+[1010] Widowmaker: questitems
+[1010] Widowmaker: protection of the ancients
+[1010] Widowmaker: rank
+[3398] Stryder: qforge
+[3398] Cuthbert: whirlwind
+[3011] Samus: blacksmith
+[3398] Stryder: qforge
+[20200] Roland: blacklegion
+[3005] Kalicu: ancient
+[3398] Gotenks: qforge
+[0] Gema: iceling
+[0] Gema: iceling
+[0] Gema: orc
+[0] Gema: ent
+[3015] Gema: guild
+[1010] Deathlok: questitems
+[3198] Everil: counter
+[3198] Everil: whirlwind
+[9258] Everil: rev
+[9258] Everil: revant
+[9258] Everil: revenant
+[2307] Everil: stun
+[3054] Deathlok: war of the ancients
+[3054] Deathlok: tracker
+[3054] Deathlok: knight
+[3054] Deathlok: dragon
+[3054] Deathlok: iceling
+[19996] Deathlok: mazuin
+[40519] Deathlok: full
+[40518] Deathlok: rank
+[4271] Remieres: air
+[3198] Everil: rampage
+[40596] Deathlok: sharpen
+[3014] Deathlok: mule
+[40587] Deathlok: multiplay
+[3397] Deathlok: hunter basics
+[1010] Widowmaker: whisper
+[1010] Scorpious: rank
+[20200] Kurvaak: rank
+[617] Everil: brew
+[1009] Widowmaker: death roulette
+[9260] Everil: clam
+[19939] Deathlok: arena
+[19939] Deathlok: chal
+[3054] Deathlok: challenge
+[3005] Deathlok: accept
+[3005] Deathlok: duel
+[18054] Darkrainz: challenge
+[18054] Darkrainz: arena
+[18054] Darkrainz: chaos
+[3014] Everil: berserker
+[3014] Everil: familiar
+[3014] Everil: summon familiar
+[3014] Deathlok: levels
+[365] Everil: vampire blast
+[352] Everil: blackjack
+[1010] Cuthbert: sharpen
+[356] Everil: leech
+[364] Cuthbert: strike
+[3700] Deathlok: knight
+[3758] Deathlok: dragon
+[1010] Widowmaker: questitems
+[2315] Widowmaker: leader
+[382] Widowmaker: boomk
+[382] Widowmaker: book
+[18048] Widowmaker: gem
+[18048] Widowmaker: gems
+[40594] Widowmaker: lodestone
+[2319] Srettel: assassin
+[9238] Matthias: rod
+[20200] Lokine: imoptd
+[3054] Everil: knight
+[2911] Everil: juke
+[2911] Everil: jukebox
+[3054] Everil: ancient
+[20200] Lokine: rpbackgroundimmquest
+[1009] Remieres: goc
+[1009] Darkstar: blackjack
+[3198] Gendahan: blackjack
+[3198] Gendahan: iqp
+[3398] Gendahan: sirs
+[3398] Gendahan: dirs
+[3398] Gendahan: questitems
+[3700] Faloden: shockling
+[3700] Faloden: classes
+[1002] Matthias: gayte
+[380] Suland: wiznt
+[1002] Kai: mahn-tor
+[1002] Kai: website
+[18046] Kai: gangland
+[366] Everil: circle
+[366] Everil: nervestrike
+[380] Adventus: summon fam
+[380] Adventus: 'summon fam'
+[3005] Adventus: leech
+[395] Lokine: hutner
+[19963] Hamlet: stun
+[1010] Hamlet: grip
+[19907] Hamlet: stun
+[19907] Hamlet: stun
+[19929] Hamlet: stun
+[3054] Kaneda: arena
+[1010] Cuthbert: rank
+[3198] Adventus: eyerub
+[3398] Cuthbert: channel
+[1010] Gogeta: rp
+[0] Fenix: dragon
+[378] Matthias: rp
+[1000] Suland: accept
+[3398] Cuthbert: promote
+[3398] Cuthbert: surrender
+[352] Adventus: blackjac
+[3014] Adventus: counter
+[20200] Lokine: kyrolites
+[3398] Cyx: blackjack
+[3014] Adventus: counter
+[3198] Adventus: crit
+[3198] Adventus: crit
+[1010] Remieres: triggers
+[0] Flayer: hpbbit
+[0] Flayer: ent
+[0] Flayer: dragon
+[2319] Adventus: wizlist
+[3030] Flayer: battle
+[2316] Matthias: renewal?
+[2316] Matthias: renewal
+[2316] Matthias: renew
+[0] Scarface: shockling
+[0] Scarface: ent
+[1010] Quicksilver: breath
+[3398] Kaneda: questitems
+[3398] Kaneda: quest_itme
+[3398] Kaneda: quest_item
+[3398] Kaneda: questeq
+[3198] Adventus: ass
+[3198] Everil: stars
+[19905] Flayer: grip
+[0] Scarface: gryphon
+[3126] Jin: revenant
+[19931] Flayer: tracker
+[0] Zechs: fireling
+[0] Zechs: gbo
+[0] Zechs: mutant
+[3025] Zechs: imp
+[0] Xeno: pheonix
+[3001] Adventus: site
+[3005] Adventus: lemtorak
+[20200] Lokine: rp
+[3198] Matthias: skill_haggle
+[3198] Matthias: skill_haggle
+[1009] Quicksilver: keyword
+[1000] Deathlok: ward
+[1010] Remieres: brage
+[1010] Cirolian: wticket
+[2314] Scarface: invigorate
+[3054] Flayer: dragon
+[0] Gamma: drow
+[0] Gamma: orc
+[0] Gamma: gryphon
+[0] Gamma: shockling
+[0] Gamma: iceling
+[3040] Player: revenant
+[0] Vertag: imp
+[0] Vertag: mutant
+[19942] Matthias: global
+[657] Srettel: swalk
+[2311] Srettel: ancient
+[2311] Srettel: anc
+[2311] Srettel: ward
+[41055] Mangan: blade
+[41055] Mangan: grip
+[41055] Mangan: thrust
+[3398] Cyx: applications
+[3198] Matthias: dual
+[3198] Matthias: dual wield
+[20200] Roland: ancient
+[41055] Mangan: addapply
+[1010] Remieres: brage
+[1010] Remieres: rage
+[0] Scarface: phoenix
+[0] Scarface: pheonix
+[0] Scarface: gryphon
+[3005] Yerius: empowering
+[386] Mangan: dealer
+[20200] Roland: thrust
+[0] Valzar: iceling
+[20200] Mangan: reform
+[20200] Roland: thrust
+[3714] Drienne: copyover
+[20200] Lokine: imtod
+[3366] Drienne: faeriefog
+[659] Drienne: speedwalk
+[19947] Palp: freelance
+[4202] Palp: clanlist
+[3198] Palp: stun
+[604] Palp: carve
+[3198] Drienne: shield levi
+[18060] Drienne: 'truesight'
+[18060] Drienne: true
+[3014] Drienne: atm
+[3198] Drienne: hidden
+[19907] Srettel: shadow walk
+[19927] Srettel: nervestrike
+[0] Khayyin: dragon
+[0] Khayyin: ogre
+[0] Khayyin: critical strike
+[0] Khayyin: critical
+[0] Khayyin: whirlwind
+[0] Khayyin: eyerub
+[3712] Khayyin: pill
+[4224] Zyvre: freelance
+[3005] Adventus: ancient
+[1010] Quicksilver: freeland
+[1010] Quicksilver: freelance
+[3054] Drienne: prayt
+[3054] Drienne: pray
+[3054] Drienne: circle
+[277] Drienne: shield levitate
+[277] Drienne: shield levitat
+[18054] Drienne: meditat
+[18054] Drienne: meditation
+[3054] Drienne: damroll
+[3054] Drienne: show
+[3054] Drienne: global
+[3054] Drienne: bane
+[2166] Drienne: dragon
+[2167] Drienne: double
+[2167] Drienne: sixth
+[2167] Drienne: charge
+[18083] Palp: stance
+[415] Palp: rambage
+[415] Palp: rampage
+[3014] Kirash: dice
+[20200] Mangan: religion
+[20200] Mangan: guild
+[20200] Mangan: alliance
+[20200] Mangan: loner
+[20200] Mangan: freelance
+[20200] Mangan: whirl
+[20200] Mangan: clans
+[20200] Mangan: blast
+[20200] Mangan: vamp blest
+[20200] Mangan: vamp blast
+[41055] Mangan: sharp
+[41055] Mangan: guild
+[41055] Mangan: circle
+[41055] Mangan: 4x
+[41055] Mangan: sharp
+[40518] Palp: remort
+[0] Palp: iceling
+[1010] Srettel: iqp'
+[1010] Srettel: iqp
+[1010] Srettel: ancient
+[3054] Srettel: pj
+[41055] Mangan: addapply
+[1010] Srettel: ward
+[1010] Srettel: leech
+[1010] Mangan: hero
+[1010] Mangan: 201
+[18089] Palp: assassin
+[1010] Srettel: ambush
+[1009] Suland: clans
+[3014] Adventus: reform
+[1010] Srettel: clan leader
+[2307] Palp: arena
+[2307] Palp: chall
+[2316] Yerius: frost blade
+[41055] Mangan: firest
+[41055] Mangan: rub
+[3398] Kirash: ancient
+[1010] Remieres: web
+[1010] Remieres: site
+[70001] Zaen: lokine
+[1010] Srettel: givepoint
+[3198] Kirash: grip
+[3198] Kirash: stun
+[353] Matthias: levelup
+[353] Matthias: newbie pill
+[3198] Kirash: rampage
+[11706] Kirash: blacklegion
+[3398] Kirash: questitems
+[3398] Kirash: questitem
+[1010] Karnak: yuatja
+[1435] Gogeta: powersurge
+[361] Matthias: earthrise
+[361] Matthias: imp
+[1010] Widowmaker: verose
+[353] Lokine: spec
+[353] Lokine: addaff
+[40000] Stryder: aqp
+[0] Sushi: ent
+[0] Sushi: pheonix
+[3712] Frost: cainite
+[3744] Frost: iceling
+[1010] Stryder: claneq
+[1010] Srettel: quest items
+[1010] Srettel: questitems
+[1010] Srettel: questitems
+[1010] Srettel: quest blade
+[3198] Gandril: elemental
+[1010] Srettel: qforge
+[1010] Stryder: stock
+[353] Lokine: clans
+[1000] Mangan: ward
+[20200] Roland: dragon
+[41055] Mangan: multi
+[353] Quicksilver: equp
+[1434] Gogeta: powersurge
+[1435] Gogeta: qforge
+[1010] Srettel: arena
+[1010] Scorpious: arena
+[3700] Selina: revenant
+[19953] Cyblade: call wild
+[20200] Roland: arena
+[3315] Srettel: mistblend
+[70300] Gogeta: channels
+[70300] Gogeta: clan gossip
+[3398] Srettel: rank
+[3398] Srettel: promote
+[70200] Cyx: preform
+[3014] Srettel: bet
+[1435] Gogeta: clan rules
+[366] Matthias: rp
+[379] Suland: rank
+[371] Samus: invigorate
+[70300] Samus: clan gossip
+[70300] Samus: channel
+[70300] Samus: powersurge
+[70300] Samus: ward
+[18085] Herakou: double exp
+[18085] Herakou: double
+[70300] Gogeta: stupid
+[3054] Srettel: bane
+[3398] Srettel: powersurge
+[676] Dagon: induct
+[676] Dagon: clead
+[676] Dagon: clan leader
+[3054] Yurian: classes
+[3054] Yurian: remort
+[346] Dagon: blackjack
+[2314] Dehak: ancient
+[1000] Dehak: climb
+[3054] Herakou: create scrolls
+[3054] Calgar: pill
+[3054] Vorador: revenant
+[9218] Cyblade: reven
+[9218] Cyblade: rev
+[9218] Cyblade: revenant
+[9218] Cyblade: tracker
+[3198] Cyblade: beguilding
+[40518] Cyblade: ambush
+[3398] Dehak: mistblend
+[3198] Vorador: remort
+[3198] Vorador: leech
+[0] Cydin: dragon
+[0] Cydin: fireling
+[0] Cydin: elg
+[3198] Aldar: strike
+[1010] Dehak: reform
+[1010] Dehak: quesr
+[0] Nirknot: ogre
+[0] Nirknot: ogre
+[0] Dougar: rampage
+[3198] Dougar: dual
+[18049] Vorador: mith
+[4204] Dougar: stun
+[1000] Samus: feed
+[4209] Dougar: dmg
+[3011] Samus: blacksmith
+[3198] Dougar: rampage
+[3001] Samus: rank
+[3001] Samus: leader
+[3001] Samus: rank
+[3001] Samus: promote
+[3198] Dougar: sharpen
+[3198] Vorador: leech
+[40518] Drienne: ancient
+[3198] Dougar: sharpen
+[3198] Dougar: crit
+[3198] Dougar: critical
+[3198] Drienne: dragon skin
+[3198] Drienne: dragon
+[3014] Drienne: empty
+[3054] Vorador: hunger
+[3398] Herakou: iqp
+[3054] Drienne: iquest
+[9254] Aldar: remort
+[0] Brutus: Dragon
+[0] Brutus: Dragon
+[70100] Matthias: dragon
+[19974] Aldar: items
+[3198] Enigma: grip
+[3198] Enigma: sharpen
+[9260] Vorador: forgw
+[9203] Enigma: rampage
+[3198] Enigma: duel
+[3014] Enigma: deul
+[9260] Vorador: board
+[0] Mobeus: dragon
+[1010] Dehak: multiplay
+[2311] Flayer: sorceror
+[2104] Aldar: thrust
+[2104] Aldar: thrust
+[70300] Samus: qpgive
+[70300] Samus: mock
+[3014] Aldar: loner
+[0] Malek: mutant
+[0] Malek: ogre
+[0] Malek: race_demon
+[3001] Kirash: furnish
+[3054] Calgar: pool
+[3198] Mangan: qforge
+[40334] Dehak: ?????????????????????????????
+[3198] Cyblade: summon familiar
+[3054] Dougar: dragon
+[2149] Flayer: vampblast
+[1010] Widowmaker: goc
+[1010] Matthias: ancient
+[1010] Matthias: ancient
+[70100] Matthias: global
+[70100] Matthias: ooc
+[70100] Matthias: channel
+[70100] Matthias: arena
+[70100] Matthias: arena
+[1010] Matthias: mock
+[1010] Matthias: ancient
+[345] Cyblade: leech
+[376] Cyblade: circle
+[3001] Aldar: drow
+[1010] Darkstar: assassin
+[1010] Darkstar: remort
+[1010] Darkstar: swalk
+[9254] Vorador: ancient
+[9254] Vorador: multi
+[3054] Aldar: toggle
+[2105] Vorador: nerve
+[3014] Flayer: elemental
+[3014] Flayer: elemental canyon
+[0] Cyblade: blackjack
+[0] Baal: phoe
+[0] Baal: phoenix
+[0] Baal: rampage
+[0] Baal: ram
+[3726] Matthias: ack
+[0] Selly: fireling
+[0] Selly: shockling
+[1010] Matthias: global
+[0] Ezra: dragon
+[0] Ezra: shcokling
+[19947] Enigma: global
+[370] Enigma: nervestrike
+[370] Enigma: nerve
+[370] Enigma: striek
+[370] Enigma: strike
+[376] Enigma: nervestrike
+[0] Turtle: iceling
+[0] Demogrim: classes
+[0] Demogrim: iceling
+[0] Demogrim: shockling
+[0] Demogrim: fireling
+[0] Demogrim: imp
+[3758] Demogrim: imp
+[3758] Demogrim: imp
+[1010] Dehak: dark vision
+[50015] Kurvaak: guild
+[2307] Darkstar: untitle
+[2351] Darkstar: thrust
+[2351] Darkstar: blacjkac
+[2351] Darkstar: blacjack
+[2351] Darkstar: blackjack
+[0] Fallacy: iceling
+[0] Fallacy: dragon
+[0] Azranaru: drow
+[3759] Fallacy: evolution
+[204] Fallacy: briar
+[204] Fallacy: shields
+[204] Fallacy: armor class
+[211] Fallacy: gannam
+[3198] Fallacy: gan
+[19910] Fallacy: convert
+[19912] Fallacy: ancient
+[19915] Fallacy: class all
+[19915] Fallacy: gain convert
+[19926] Fallacy: circle
+[3014] Turtle: elemental
+[3014] Turtle: elemental
+[19926] Fallacy: ass
+[19927] Fallacy: ass
+[3198] Fallacy: rampage
+[19955] Fallacy: powerlevel
+[19955] Azranaru: earthrise
+[19955] Fallacy: earthrise
+[1010] Dehak: earthrise
+[19955] Azranaru: earthrise
+[19958] Fallacy: ass
+[3005] Fallacy: ciro
+[362] Enigma: aqp
+[365] Enigma: nerv
+[1010] Remieres: write
+[19992] Enigma: spam
+[3198] Enigma: trigger
+[0] Shinji: mutant
+[3198] Shinji: eyerub
+[11803] Shinji: money
+[11803] Shinji: exchange
+[3399] Shinji: tattoo
+[16005] Shinji: stance
+[4206] Shinji: berserker
+[4205] Shinji: clanlist
+[4205] Shinji: clans
+[320] Remieres: brage
+[3014] Flayer: warriors castle
+[3398] Cyx: sticket
+[1002] Scarface: cure plague
+[3054] Fallacy: freelance
+[3054] Fallacy: free
+[1002] Remieres: negation
+[3054] Fallacy: thrust
+[9207] Enigma: ancient
+[9207] Enigma: ancient
+[3054] Fallacy: nervestrike
+[3054] Fallacy: assassinate
+[3054] Fallacy: blackjack
+[374] Cyblade: crit
+[3198] Aldar: remort
+[3198] Piroshkiel: feed
+[3198] Piroshkiel: feed
+[3014] Aldar: templar
+[3054] Azranaru: nercestrike
+[3054] Azranaru: nervestrike
+[1010] Kurvaak: drow
+[1010] Matthias: iquest
+[386] Dehak: dice
+[386] Dehak: dicedealer
+[252] Dehak: potion
+[3709] Nighthawk: wizn show
+[1010] Dehak: invigorate
+[2392] Nighthawk: freelance
+[1002] Arudaur: nervestrike
+[1002] Arudaur: blackjack
+[1010] Arudaur: assassin
+[1010] Arudaur: assassinate
+[16912] Piroshkiel: door
+[3005] Piroshkiel: fareast
+[3005] Piroshkiel: guild
+[3005] Piroshkiel: guild master
+[3198] Piroshkiel: leech
+[3198] Piroshkiel: leech
+[3198] Piroshkiel: hp
+[0] Quickening: race_drow
+[0] Quickening: drow
+[41052] Piroshkiel: soulstone
+[1009] Arudaur: ancient
+[1009] Arudaur: iqp
+[1009] Arudaur: aqp
+[1010] Dehak: consent
+[1010] Dehak: surrender
+[1010] Dehak: ns
+[1010] Dehak: donateclan
+[1010] Kai: convert
+[3054] Piroshkiel: anonymous
+[3700] Piroshkiel: specialty
+[19974] Piroshkiel: vampire blast
+[3198] Monty: global
+[1010] Kai: critical strike
+[3198] Monty: ooc
+[3198] Monty: channel
+[1010] Zyvre: arena
+[41045] Piroshkiel: creation point
+[41045] Piroshkiel: creation points
+[41045] Piroshkiel: customazation
+[2102] Piroshkiel: blackjack
+[1010] Piroshkiel: points
+[604] Stryder: boulder
+[20200] Mangan: squire
+[20200] Mangan: knight
+[20200] Mangan: guil
+[20200] Mangan: guild
+[0] Turtle: orc
+[0] Turtle: mutant
+[3045] Perrin: guild
+[19911] Perrin: class all
+[0] Castor: bladecraft
+[3700] Castor: evolve
+[3700] Castor: remort
+[1010] Perrin: knight
+[1010] Matthias: areas_
+[20200] Mangan: punload
+[3001] Mangan: wecho
+[3001] Mangan: bonus
+[41055] Mangan: mplist
+[41055] Mangan: mpstat
+[1010] Zyvre: camouflage
+[3758] Preditor: eis
+[3758] Preditor: wis
+[3758] Preditor: wisdom
+[3758] Preditor: stat
+[1010] Preditor: grip
+[1010] Preditor: grip
+[1010] Zyvre: bane
+[16013] Preditor: dual
+[0] Mordecai: shockling
+[0] Mordecai: mutant
+[364] Matthias: whirlwind
+[364] Matthias: stun
+[364] Matthias: skill stun
+[365] Preditor: ctier
+[1010] Zyvre: arena
+[1010] Zyvre: bet
+[1010] Zyvre: whostring
+[1009] Preditor: ancient
+[3198] Janeev: creation points
+[0] Marduk: mutant
+[0] Marduk: iceling
+[0] Marduk: stun
+[611] Marduk: gaalstrom
+[1010] Marduk: revenant
+[1010] Marduk: tracker
+[1010] Marduk: remort
+[1010] Marduk: hero
+[1010] Marduk: whirlwind
+[353] Marduk: berserker
+[362] Marduk: rampage
+[3054] Marduk: whirlwind
+[352] Marduk: clans
+[0] Zio: dragon
+[0] Zio: 'dragon'
+[0] Zio: iceling
+[0] Zio: pheonix
+[0] Zio: heucuve
+[0] Zio: Pheo
+[0] Zio: phoenix
+[0] Zio: pheonxi
+[0] Zio: shockling
+[0] Zio: eyerub
+[3758] Zio: wisdome
+[3758] Zio: wis
+[3758] Zio: wisdom
+[3758] Zio: int
+[3758] Zio: constitution
+[3709] Zio: pill
+[3712] Zio: levels
+[3734] Zio: gods
+[3734] Zio: gods armor
+[3734] Zio: 'gods armor'
+[3009] Zio: vorpal
+[3009] Zio: blade
+[16047] Zio: flamestriker
+[1022] Azik: clan command
+[3759] Azik: feed
+[3700] Stryker: tiers
+[3700] Stryker: tiers
+[9201] Arudaur: blackjack
+[1010] Kai: blackjack
+[0] Stheike: dragon
+[3014] Turtle: arena
+[3721] Turtle: wizet
+[0] Baegarn: mutant
+[0] Baegarn: dragon
+[40346] Arudaur: show
+[1010] Turtle: iqp
+[1020] Turtle: bank buy
+[1010] Perrin: ooc
+[1010] Dehak: earthrise
+[3014] Turtle: would
+[18057] Turtle: iquest
+[18057] Turtle: iqp
+[18057] Turtle: questpoints
+[2385] Arudaur: iqp
+[1010] Turtle: iqp
+[1010] Turtle: questi
+[1010] Turtle: quest sell
+[2385] Arudaur: aqp
+[2387] Arudaur: quest points
+[2387] Arudaur: quest point
+[2387] Arudaur: immquest points
+[2387] Arudaur: points
+[0] Hikenin: mutant
+[0] Hikenin: whirlwind
+[0] Hikenin: shrpen
+[3758] Hikenin: constitution
+[3739] Hikenin: roland clan hills
+[3739] Hikenin: roland clan halls
+[3397] Hikenin: money
+[1002] Arudaur: anc
+[19971] Perrin: questeq
+[19971] Perrin: ancient
+[20200] Lokine: reform
+[3198] Arudaur: reform
+[372] Perrin: dragon
+[0] Perrin: dragon
+[3001] Hikenin: iquest
+[40374] Arudaur: pitem
+[40374] Arudaur: p-item
+[1010] Turtle: iqp
+[1010] Turtle: aqp
+[1010] Turtle: reform
+[0] Saxi: reve
+[0] Saxi: revenant default
+[1010] Kurvaak: ogre
+[2110] Hikenin: dual wield
+[3398] Hikenin: questitems
+[0] Pocar: pixe
+[262] Pocar: Muska
+[1010] Cirolian: ancient
+[1009] Marduk: rampage
+[1009] Marduk: counter
+[0] Teylak: shockling
+[3758] Teylak: iceling
+[3250] Teylak: guild
+[0] Fredricone: iceling
+[0] Fredricone: shield levitation
+[0] Fredricone: bladecraft
+[1010] Cyx: verbose
+[1000] Azik: upgrade
+[19947] Azik: vampiric blast
+[19947] Azik: vampire blast
+[3198] Azik: feed
+[1010] Dehak: rank
+[1010] Dehak: ranks
+[70100] Matthias: rank
+[1010] Matthias: implementor
+[70100] Matthias: clan list
+[1010] Matthias: iq
+[1010] Matthias: iquest
+[3198] ImmTester: earthr
+[1010] Matthias: race_titan
+[1010] Dehak: questitems
+[1010] Matthias: whostring
+[1010] Matthias: wticket
+[1010] Matthias: quest eq
+[1010] Dehak: multiplay
+[1010] Dehak: multi-play
+[1002] Kai: hro
+[1002] Kai: teir
+[1002] Kai: wizlist
+[1002] Kai: hero
+[2364] Krusty: forge\
+[2364] Krusty: 2.forge
+[3700] Matthias: paradox
+[3700] Alamar: tracker
+[3700] Alamar: tracker default
+[3700] Xirji: rev
+[3025] Xirji: guild
+[3014] Xirji: dual
+[3700] Lavos: gocial
+[3700] Lavos: global social
+[3711] Lavos: ptier
+[19905] Lavos: stun
+[19947] Lavos: grip
+[19977] Lavos: remort
+[18008] Lavos: sharpen
+[18009] Lavos: revenant
+[18058] Lavos: mithril
+[18058] Lavos: smith
+[0] Aiko: pheonix
+[3700] Xirji: dragon
+[0] Xirji: dragon
+[19914] Aiko: teir
+[19914] Aiko: tir
+[3014] Aiko: area_fran
+[19944] Aiko: gouge
+[1022] Lavos: duel
+[1022] Lavos: chall
+[9250] Lavos: rampage
+[18010] Aiko: nerve
+[9236] Lavos: critical strike
+[1010] Kai: cast cure
+[0] Rukum: shockling
+[0] Rukum: shockling'
+[0] Rukum: iceling
+[3005] Lavos: locker
+[3198] Rukum: weapin
+[3198] Rukum: tracker
+[3198] Rukum: tracker default
+[3198] Rukum: tracker default
+[3198] Rukum: dex
+[9245] Lavos: arena
+[9206] Aiko: counter
+[3054] Lavos: hero
+[3054] Lavos: ancient
+[3198] Xirji: summon familiar
+[3198] Xirji: vampire blast
+[3735] Manuvil: critical
+[3367] Lavos: rogue
+[3367] Lavos: strike
+[3367] Lavos: arena
+[3198] Rukum: call wild
+[9227] Aiko: call wild
+[9227] Aiko: wild
+[9255] Rukum: ambush
+[0] Geiddin: comabt
+[3054] Aiko: die
+[1010] Matthias: skill earthrise
+[1010] Matthias: earthrise
+[41055] Mangan: mprog
+[3398] Cirolian: uest
+[0] Zooboomoopoo: phoenix
+[0] Zooboomoopoo: pheonix
+[0] Zooboomoopoo: ph
+[0] Zooboomoopoo: ent
+[0] Zooboomoopoo: blade
+[0] Zooboomoopoo: bladecraft
+[0] Zooboomoopoo: elemental offense
+[0] Zooboomoopoo: elemental
+[0] Zooboomoopoo: eyerub
+[0] Xenom: mutant
+[0] Xenom: drow
+[0] Xenom: imp
+[0] Xenom: gryphon
+[0] Xenom: ent
+[0] Izlude: dragon
+[3198] Xenom: eyerub
+[3712] Izlude: pheonix
+[3397] Xenom: convert
+[1010] Matthias: void
+[1010] Matthias: arena
+[3198] Izlude: eyerub
+[3198] Izlude: grip
+[40590] Lavos: leeech
+[40590] Lavos: leech
+[3759] Lavos: strike
+[3198] Lavos: hero
+[3198] Lavos: ancient
+[360] Aiko: questitems
+[360] Aiko: quest items
+[371] Aiko: bs
+[1010] Matthias: assassine
+[1010] Matthias: assassin
+[1010] Matthias: assassin
+[0] Havinin: fireling
+[18009] Aiko: ancient
+[18009] Aiko: hero
+[3198] Aiko: sharpen
+[3001] Kalicu: yoshiuki
+[3014] Havinin: tracker
+[3014] Havinin: trk
+[3014] Lavos: email
+[3014] Lavos: contact
+[3014] Aiko: mordor
+[3398] Aiko: blade
+[325] Lavos: ancient
+[609] Lavos: ancient
+[1010] Lavos: questitems
+[1010] Lavos: quest items
+[1010] Lavos: status
+[0] Izzahn: ward
+[3759] Izzahn: drain blade
+[3759] Aiko: feed
+[3198] Geiddin: arena
+[0] Jasa: dragon
+[18040] Charman: tuer
+[1010] Matthias: assassin default
+[1010] Matthias: weaponsmater
+[380] Charman: immola
+[380] Charman: immolation
+[11714] Charman: 202
+[11714] Charman: ancie
+[18057] Nighthawk: area_battle
+[1002] Kai: goc
+[1010] Dehak: induct
+[1010] Dehak: leader
+[3398] Matthias: qforge
+[1010] Matthias: xxx
+[1010] Matthias: ethos
+[1010] Matthias: rp
+[1010] Matthias: ethos
+[1010] Matthias: profile
+[3714] Mangan: vape
+[1010] Terp: questitems
+[0] Zeranix: ent
+[0] Zeranix: ent
+[0] Zeranix: gryphon
+[3717] Zeranix: pill
+[1010] Matthias: grip
+[1010] Matthias: skill_grip
+[1010] Matthias: skill grip
+[18006] Zeranix: newbiezones
+[18006] Zeranix: zones
+[0] Warlin: mutant
+[0] Warlin: dragon
+[0] Warlin: shockling
+[1010] Gogeta: strike
+[1010] Gogeta: invigorate
+[1010] Matthias: recruit
+[1010] Matthias: promote
+[3700] Tholomyes: tracker
+[3198] Tholomyes: call wild
+[3198] Tholomyes: thrust
+[0] Agroamar: ent
+[0] Agroamar: iceling
+[0] Agroamar: imp
+[0] Agroamar: bladecraft
+[3714] Agroamar: restore mana
+[3714] Agroamar: immolation
+[3714] Agroamar: holy mace
+[3714] Agroamar: master healing
+[3049] Agroamar: dark gift
+[3049] Agroamar: comouflage
+[3198] Agroamar: blade
+[3198] Agroamar: craft
+[3014] Agroamar: elemental offense
+[3054] Agroamar: battle
+[3054] Agroamar: loki
+[3398] Agroamar: vrugar
+[3398] Agroamar: whostring
+[41052] Xanith: levels
+[3054] Xanith: counter
+[0] Kindra: dragon
+[0] Kindra: fireling
+[611] Agroamar: asn
+[1424] Agroamar: remort
+[0] Katar: shockling
+[0] Katar: dragon
+[1002] Katar: levels
+[18060] Argus: rampage
+[18060] Argus: crit
+[1002] Katar: calss
+[1002] Katar: classes
+[18057] Argus: earring
+[18057] Argus: earring of the ancient
+[18057] Argus: blade of the ancients
+[0] Breki: iceling
+[3198] Breki: ancient
+[3198] Breki: swalk
+[40590] Argus: brage
+[40590] Argus: ward
+[40590] Argus: earthr
+[5618] Argus: leech
+[40580] Argus: leech
+[40581] Argus: ancient
+[40581] Argus: elder
+[3001] Yurian: clans
+[3398] Saxi: vrugar
+[3398] Krusty: rank

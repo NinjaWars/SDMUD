@@ -1,0 +1,2101 @@
+#AREADATA
+Name City of Inklar~
+Builders Giliath Kalicu~
+VNUMs 40000 40060
+Credits {B[ 30-50 ] City of Inklar{x~
+Security 9
+RepopMsg (null)~
+End
+
+
+
+#MOBILES
+#40000
+gate guard~
+A {YG{ya{Yt{ye {YG{yu{Ya{yr{Yd{x~
+A tall {YG{yate {YG{yuard{x stands here
+~
+As you look at the Gate Guard he glare's back at you boldly.
+A Gate Guard would be a loyal and great ally and a, terrible foe.
+~
+Human~
+AB 0 a 0 1000 0
+47 47 98d16+475 47d11+95 16d2+38 pound
+-24 -24 -24 -15
+I B FP G
+stand stand none 40000
+K J medium unknown
+F for AHMV
+F par ABCDEFGHIK
+#40001
+villager~
+A local {RVillager{x~
+A local {RVillager{x is here wandering about looking for food in every crack and cranny she can find.
+~
+As you wander by this local  you see an angry glint in his eye say you want to test me too?
+You are much better tojust walk off then to fight him.
+~
+Human~
+AFG 0 a 0 0 0
+43 43 87d14+391 43d9+60 13d3+22 slash
+-18 -18 -18 -9
+C E G K
+stand stand female 215
+N J small unknown
+F for AHMV
+F par ABCDEFGHIK
+#40002
+dog~
+A large {Dblack {xdog.~
+A large {Dblack {xdog is here, growling.
+~
+As you get closer to a little child to get directions, a large black dog leaps at you and begins to growl
+~
+Human~
+A 0 0 0 100 2
+40 40 81d13+364 40d9+60 12d3+21 bite
+-16 -16 -16 -7
+E A B G
+stand stand none 300
+G J small unknown
+F for AHMV
+F par ABCDEFGHIK
+#40003
+young villager~
+A young villager ~
+A young villager is here, warming his hands by a {Rf{ri{Rr{re.{x
+~
+A young villager is here on his knee's and holding your leg begging for a few coins. As you finally shake him off you see him cry with his family cursing at you. 
+~
+Human~
+AB 0 a 0 1000 0
+43 43 87d14+391 43d9+60 13d3+22 pound
+-18 -18 -18 -9
+CI E H K
+stand stand male 215
+c J medium fire
+F for AHMV
+F par ABCDEFGHIK
+#40004
+priest~
+A {RRed Robed {xpriest.~
+A {RRed Robed {xpriest is here.
+~
+A zealous priest newly come to the Order of Ink looks up at you, his head in prayer.
+~
+Human~
+AB 0 A D 1000 3
+42 42 87d15+425 42d11+95 15d2+35 slash
+-21 -21 -21 -12
+N N B K
+stand stand male 200
+N J medium ice
+F for AHMV
+F par ABCDEFGHIK
+#40005
+temple guard~
+A temple guard~
+A Temple Guard is here guarding the temple of Ink.
+~
+As you come near to the temple guard you have a feeling you should leave VERY quickly!!
+~
+Human~
+AF 0 a 0 1000 2
+47 47 98d16+475 47d11+95 16d2+38 slash
+-24 -24 -24 -15
+0 N AB K
+stand stand male 40
+K J medium unknown
+F for AHMV
+F par ABCDEFGHIK
+#40006
+begger~
+a bagger~
+A bagger stands here begging
+~
+As you walk around you notice that this town is'nt as great as it looked.
+There are beggers everywere , and poverty almost everywere the only place thaht looks ok is the west side and the temple.
+~
+Human~
+AB 0 0 0 150 0
+42 42 85d14+382 42d9+60 13d3+22 cleave
+-17 -17 -17 -8
+CIN AB FK E
+stand stand female 2
+K J medium unknown
+F for AHMV
+F par ABCDEFGHIK
+#40007
+record kepper~
+A record keeper.~
+A record keeper is here recording thing's.
+~
+You look here and see a wealth man working hard and sweating, he is
+rushing in hopes of getting promoted.  
+~
+Human~
+A 0 A C 0 0
+42 42 85d14+382 42d9+60 13d3+22 slap
+-17 -17 -17 -8
+CI X C Z
+stand stand male 700
+K J small unknown
+F for AHMV
+F par ABCDEFGHIK
+#40008
+secretary~
+A {YSecretary{x~
+A secretary is here running all around the office.
+~
+A secretary is here raging about the work she has to do!  She looks like
+she could take down a Dragon.  
+~
+Human~
+AB 0 a D 100 3
+45 45 93d16+455 45d11+95 16d2+37 none
+-23 -23 -23 -14
+I N J K
+stand stand female 400
+0 J medium unknown
+F for AHMV
+F par ABCDEFGHIK
+#40010
+mayor~
+The {YMa{Ry{Yor{X of Inklar~
+The busy {YMa{Ry{Yor {xis here working at her desk
+~
+A beautiful woman sits here working at an Oak desk.  She smiles warmly at
+you and askes you to sit down beside her.  
+~
+Human~
+AB 0 V CDE 960 0
+50 50 104d17+506 50d11+95 17d2+40 slash
+-27 -27 -27 -16
+CI X K C
+stand stand female 1000
+H J small fire
+F for AMV
+F par ABCDEFGHIK
+#40011
+city guard~
+A {DC{Wity G{Duard{x~
+A large guard stands blocking your way.
+~
+He looks down apon you and grunts, you wonder whats wrong but deside not
+to ask him.  
+~
+Human~
+AB 0 a C 199 5
+48 48 97d16+437 48d9+60 15d3+25 cleave
+-21 -21 -21 -11
+I I P H
+stand stand male 130
+C J medium ice
+F for AHMV
+F par ABCDEFGHIK
+#40021
+dwarf~
+{GA {yD{Dw{ya{Dr{yf {RB{re{Rr{rs{Re{rr{Rk{re{Rr{x~
+A dwarf stands here holding his mighty axe.
+~
+A dwarf stands here looking in the window of the weapon shop, he turns to
+you and pats you on the back and says shale we enter friend?  Or might i ask
+if you are an enemy?  
+~
+Dwarf~
+ABFG 0 J 0 999 0
+40 40 405d13+364 40d9+60 12d3+50 cleave
+-16 -16 -16 -7
+CIN H LQ R
+stand stand male 389
+AHMV ABCDEFGHIJK medium stone
+#40022
+baby dragon~
+{YT{Rh{Ye {GB{ya{Gb{yy {RD{rr{Ra{rg{Ro{rn {Wo{bf {DI{Wn{Dk{X~
+A baby Dragon stares up, at you just by the sight of it you know its the child of Ink.
+~
+The most frightening the a man could hope for,The child of a dragon.  At
+the sight of her golden scales you think about attacking but notice she is
+thinking the same thing.  
+~
+unique~
+ABG 0 JTa DH 890 0
+50 50 354d17+1011 50d11+95 17d2+48 bite
+-27 -27 -27 -16
+N R BEH FI
+stand stand female 1000
+AHZ ACDEFGHIJKPQUVX medium scales
+#40023
+old man~
+An {CO{cl{Cd {xMan~
+An elderly {Cm{ca{Cn {xstands here, thinking about the old days
+~
+Standing by his window this old man has been living here since he was
+born and knows every corner of the town.  He lights his pipe and sends smoke
+rings out the window into the distance...  
+~
+Human~
+AB 0 0 0 500 0
+45 45 455d15+410 45d9+60 14d3+55 punch
+-19 -19 -19 -9
+CFIN 0 E F
+stand stand male 50
+V AB medium flesh
+F for AHM
+F par CDEFGHIJK
+#40031
+elf ranger~
+{gA {yt{ga{yl{gl {ye{gl{yv{ge{yn {gr{ya{gn{yg{ge{yr{X~
+An elven ranger bends down to examine a trail.
+~
+An elves ranger bends down to examine a foot print, he quickly glances at
+your shoes and compares them to the track he is following.  
+~
+Elf~
+ABG 0 J 0 0 0
+42 42 298d15+425 42d11+95 15d2+43 pierce
+-21 -21 -21 -12
+0 A B Z
+stand stand male 235
+AHMV ABCDEFGHIJK medium flesh
+#40032
+father~
+A proud {DF{Wa{Dt{Wh{De{Wr{X~
+A proud father look's down kindly on his children.
+~
+A middle-aged man stands here, staring into the sky
+He looks down at you and says good day my boy.
+~
+Human~
+AB 0 K H 200 0
+47 47 333d16+949 47d11+95 16d2+46 pierce
+-24 -24 -24 -15
+D B L K
+stand stand male 200
+V J medium flesh
+F for AHM
+F par ABCDEFGHIK
+#40033
+mother~
+A loyal {YM{yo{Yt{yh{Ye{yr{X~
+A loyal mother stands here holding one of her children
+~
+A very loyal mother and a loving wife, she stands here gazing into her husdands eye's. She looks at you thoughfully and ask's if you need anything.
+~
+Human~
+AB 0 a C 1000 0
+48 48 340d17+969 48d11+95 17d2+47 slash
+-25 -25 -25 -15
+I B I HK
+stand stand female 300
+V J small flesh
+F for AHM
+F par ABCDEFGHIK
+#40035
+crafty raven~
+A {yC{gr{ya{gf{yt{gy {WR{Daven{x~
+A crafty {WR{Daven {xis here, edging toward your pocket
+~
+An ancient raven that has been stealing from the people of this city for
+generations.  Even now he eyes potential victims with the sharpness of
+youth.  
+~
+Human~
+AB 0 T 0 0 0
+42 42 212d14+849 42d10+85 14d3+54 peck
+-19 -19 -19 -10
+F 0 E F
+stand stand none 50
+W P medium flesh
+F for AHMV
+F par ABCDEFGHIJK
+#40036
+child~
+A small {CC{mh{Ci{ml{Cd{X~
+A small child looks up at his father with hope in his eye's.
+~
+A small child looks at you almost willing for the fight ahead.  He looks
+at his parent's ready to defend them.  Do you really want to kill him? 
+After all look at all that courage that would be wasted.  
+~
+Human~
+AB 0 a I 260 0
+43 43 435d14+391 43d9+60 13d3+53 smash
+-18 -18 -18 -9
+I B I K
+stand stand male 102
+V D medium flesh
+F for AHM
+F par ABCEFGHIJK
+#40039
+local resident~
+A {WL{Docal {YR{yesident{x~
+A local {Yr{ye{Ys{yi{Yd{ye{Yn{yt {xis here, wandering the city.
+~
+She has lived in this city all her life and knows it like the back of her
+hand.  
+~
+Human~
+AB 0 0 0 0 0
+44 44 445d14+401 44d9+60 13d3+54 punch
+-18 -18 -18 -9
+0 0 0 HI
+stand stand female 0
+0 BC medium unknown
+F for AHMV
+F par ADEFGHIJK
+#40042
+tourist~
+A {CT{co{Cu{cr{Ci{cs{Ct{x~
+An {Ga{gn{Gn{go{Gy{gi{Gn{gg {Ct{co{Cu{cr{Ci{cs{Ct {xis here, asking stupid questions
+~
+A tourist from another land, who knows nothing of the customs here at
+all.  He is running around bothering the locals with pathetic questions.  
+~
+Human~
+ACG 0 0 0 0 0
+44 44 445d14+401 44d9+60 13d3+54 charge
+-18 -18 -18 -9
+FIN 0 I 0
+stand stand male 100
+V BG medium flesh
+F for AHM
+F par ACDEFHIJK
+#40045
+great high priest~
+The Great {WH{Digh {YP{yriest{x~
+A high priest looks up, furious at your entry
+~
+~
+Human~
+ABF 0 0 D 1000 0
+50 50 101d16+506 50d10+85 16d3+30 pound
+-24 -24 -24 -14
+0 0 H Z
+stand stand male 150
+0 J medium unknown
+F for AHMV
+F par ABCDEFGHIK
+#40046
+great high priestess~
+The {WG{Dreat {YH{yi{Yg{yh {GP{gr{Gi{ge{Gs{gt{Ge{gs{Gs{x~
+The {Yh{yi{Yg{yh {xpriestess is meditating here
+~
+A calm and reserved women the high priestess well respected and liked.
+~
+Human~
+AB 0 W D 1000 0
+50 50 101d16+506 50d10+85 16d3+30 thrust
+-24 -24 -24 -14
+FIK 0 H D
+stand stand female 300
+V 0 medium unknown
+F for AHM
+F par ABCDEFGHIJK
+#40047
+dragon priest~
+The {RD{rr{Ra{rg{Ro{rn {YP{yr{Yi{ye{Ys{yt{x~
+A {Yp{yr{Yi{ye{Ys{yt {xthat is known to communicate with the {Rd{rr{Ra{rg{Ro{rn {xis here.
+~
+A great priest and mage.  He stares darkly at you, a shiver runs down
+your spine.  
+~
+Human~
+AB 0 0 D 0 0
+48 48 97d16+485 48d10+85 16d3+29 none
+-23 -23 -23 -13
+CIK 0 H I
+stand stand male 200
+V 0 medium unknown
+F for AHM
+F par ABCDEFGHIJK
+#40048
+barkeeper~
+A {yB{ga{yr{gk{ye{ge{yp{ge{yr{x~
+A barkeeper stands here serving ale to drunkin City Guards.
+~
+A tall man serving drinks looks down on you and says: Want a drink buddy?
+He looks at you with a puzzled look and then peers at you.  
+~
+Human~
+AB 0 0 0 198 0
+45 45 93d16+455 45d11+95 16d2+37 none
+-23 -23 -23 -14
+0 0 0 0
+stand stand male 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40050
+armourer of inklar~
+{WI{Dnklar's {YA{yrmourer{x~
+The Armourer of Inklar is here, examining a shield.
+~
+A man wise in the ways of metal and it's properties stands here look at
+a new shield he has made and hoping you will pay a good price for it.  
+~
+Human~
+AB 0 0 0 0 0
+50 50 101d16+455 50d9+60 15d3+26 none
+-22 -22 -22 -12
+0 ACD 0 0
+stand stand none 0
+V 0 medium unknown
+F for AHM
+F par ABCDEFGHIJK
+#40051
+inklar's weaponsmith~
+{YI{ynklar's {WW{Deaponsmith~
+{YI{ynklar's {WW{Deaponsmith{x stands here, putting a new item up for sale.
+~
+~
+Human~
+AB 0 0 0 0 0
+50 50 101d16+455 50d9+60 15d3+26 none
+-22 -22 -22 -12
+0 ABCDEFGHIMNOPQRSTXYZ 0 0
+stand stand none 500000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40052
+inklar's mage~
+{YI{ynklar's {GM{ga{Gg{ge~
+A mysterious mage stands here, casting charms and spells over a staff.
+~
+In his youth a mighty mage of power, now just an old shopkeeper, but his
+old strength is still visable in his eyes.  
+~
+Human~
+AB 0 0 0 0 0
+50 50 101d16+455 50d9+60 15d3+26 none
+-22 -22 -22 -12
+0 CD 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40053
+potion seller~
+The {GP{go{Gt{gi{Go{gn{Gs{ge{Gl{gl{Ge{gr{x~
+The local potion seller is here, mixing strange liquids.
+~
+Another strange shopkeeper, long ago this man was a healer and today
+still his talents are with him.  
+~
+Human~
+AB 0 0 0 0 0
+50 50 101d16+455 50d9+60 15d3+26 none
+-22 -22 -22 -12
+0 CD 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#40054
+swarm~
+A {Ds{cw{Da{cr{Dm{X of {FP{Yi{Fx{Yi{Fe{Ys{X~
+A swarm of pixies flutter around your head
+~
+A swarm of Pixies buzz around you chattering evil spell's and spell's of
+protection on each other.  Maybe they're going to attack you....  
+~
+Pixie~
+ACFGH 0 EJTV 0 -100 0
+41 41 291d14+415 41d11+95 14d2+42 bite
+-20 -20 -20 -12
+DI H BP Z
+stand stand female 150
+AHMV ABCDEFGHIJKP medium flesh
+#40056
+foreign merchant~
+A {WF{Doreign {gM{Ge{gr{Gc{gh{Ga{gn{Gt{x~
+A foreign {gm{Ge{gr{Gc{gh{Ga{gn{Gt{x stands here, waiting to see the mayor.
+~
+A wealthy merchant from a far away place, he has come here to request the
+right to do buisness in the city of Inklar.  He is obviously annoyed with
+having been made to wait.  
+~
+Human~
+AB 0 0 0 500 0
+45 45 227d15+909 45d10+85 15d3+57 charge
+-21 -21 -21 -11
+FIK 0 I H
+stand stand male 350
+0 B medium flesh
+F for AHMV
+F par ACDEFGHIJK
+#40058
+foreign merchant~
+A {WF{Doreign {gM{Ge{gr{Gc{gh{Ga{gn{Gt{x~
+A foreign {Gme{gr{Gc{gh{Ga{gn{Gt{x is here, waiting for a conference with the Mayor
+~
+A wealthy merchant from a far away place, he paces around waiting for a
+debate with the mayor.  
+~
+Human~
+AB 0 V 0 500 0
+44 44 89d14+445 44d10+85 14d3+27 charge
+-20 -20 -20 -11
+0 0 E H
+stand stand male 600
+V J medium unknown
+F for AHM
+F par ABCDEFGHIK
+#40059
+knight holy~
+A {WHoly {DKnight{X~
+A Holy Knight stands here ready to protect the mayor with his life.
+~
+A large knight stands here looking menacing and yet begin's to hatch an
+idea on how he should attack.  Could he be considering to kill you?!  
+~
+Human~
+ABF 0 DFa CD 1000 0
+50 50 354d17+1011 50d11+95 17d2+48 slash
+-27 -27 -27 -16
+CI B G K
+stand stand male 250
+V D medium flesh
+F for AHM
+F par ABCEFGHIJK
+#0
+
+
+
+#OBJECTS
+#40000
+staff of inklar~
+the {YS{yt{Ya{Yf{yf{x of {yI{Yn{yk{Yl{ya{yr{x~
+A staff floats here begining to look dangerous~
+fire~
+weapon ABHKY AN
+polearm 5 17 pound B
+49 50 3590 P
+A
+18 3
+A
+19 3
+#40001
+crown ~
+crown of the {YI{yn{Yk{yl{ya{Yr{x~
+A beautiful {YG{yo{Yl{yd{Ye{yn{x crown is here.~
+fire~
+armor AH AE
+45 45 45 44 0
+49 50 300000 R
+#40002
+death~
+{DD{be{Da{bt{Dh {bG{Di{bg{Da{bs{x~
+A sword with the death mark lies here.~
+fire~
+weapon ABG AN
+dagger 5 16 pierce AD
+47 48 3400 P
+A
+18 3
+A
+19 3
+#40003
+p-item bloody beast face~
+a {RBl{ro{Ro{rd{Ry {rB{Re{Ya{rs{Rt's {rf{Ra{rc{Re{x ~
+The face of the dreaded Galiant Beast is here.~
+ice~
+armor AB AR
+42 42 42 41 0
+45 46 41 P
+A
+13 150
+A
+19 3
+A
+4 -2
+A
+1 2
+#40004
+crate~
+a {ycrate{x is here~
+A crate is sitting here in  the far corner.~
+wood~
+container M P
+50 ACDE 40055 1 30
+0 40 3 P
+#40005
+diamond mail~
+{DD{Wiamon{Dd{X {Wp{Dlatemai{Wl{X~
+Glittering armor lies here.~
+diamond~
+armor GIY AD
+46 46 46 45 0
+50 51 54 P
+A
+13 200
+A
+1 3
+A
+5 -1
+#40006
+glowing blade~
+blade of the {YI{yn{Yk{yl{Ya{yr{x~
+A {Yglowing{x blade with a dragons symbol lies here.~
+ice~
+weapon ABIK AN
+exotic 5 16 slash AB
+45 46 3360 P
+A
+13 100
+A
+18 3
+A
+19 3
+#40007
+silver armor~
+{DSil{Wver{x guards armor.~
+You see something {Dsil{Wver {Xin the corner of you eye.~
+silver~
+armor ABK AD
+45 45 45 44 0
+49 50 53 P
+A
+17 -20
+A
+13 300
+#40008
+green~
+a {GG{gree{Gn{x cloak~
+A {GG{gree{Gn{x cloak lies here unwanted.~
+whool~
+armor Y AC
+45 45 45 44 0
+48 49 52 P
+A
+2 7
+A
+5 3
+#40011
+lance elven~
+{D({Ce{DL{Cv{DE{Cn{D){x {WKal{Dicu's Myt{Whril Lan{Dce{x~
+A Holy Lance floats here looking dangerous.~
+fire~
+weapon ABGK AN
+polearm 21 17 thrust ADEG
+202 203 13770 P
+A
+13 4000
+A
+18 1200
+A
+19 1300
+#40012
+axe~
+an {YI{gn{Yk{gl{Ya{gr{Yi{ga{Yn{x battle axe~
+A long axe is sitting here in the grown~
+iron~
+weapon BG AN
+exotic 5 15 chop G
+43 44 3170 P
+A
+13 100
+A
+18 3
+A
+19 3
+#40013
+red~
+a long {RRed{X robe~
+A long robe lies here.~
+silk~
+armor ABK AI
+40 40 40 39 0
+43 44 400 P
+A
+4 5
+#40014
+high hat~
+a {CH{Wig{Ch{x priest's hat ~
+A {YGlowing{X hat of a priest floats here~
+leather~
+armor AGK AE
+45 45 45 44 0
+48 49 52 P
+A
+13 102
+A
+17 -1
+#40019
+ale~
+(no short description)~
+(no description)~
+unknown~
+food 0 0
+0 0 0 0 0
+41 0 0 P
+#40020
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#40021
+dwaven axe~
+{DA {Wd{Dw{Wa{Dv{We{Dn {Wi{Dr{Wo{Dn {Wa{Dx{We{X~
+A dwarven long axe lies here.~
+iron~
+weapon AB AN
+axe 5 14 cleave G
+40 41 3000 P
+A
+19 3
+A
+18 3
+A
+1 2
+#40022
+golden scales~
+{YA {yb{Ya{yb{Yy {yD{Yr{ya{Yg{yo{Yn{ys {Yg{yo{Yl{yd{Ye{yn {Ys{Yc{Ya{yl{Ye{ys{X~
+The glimmering scales of the great Inks child.~
+dragon scales~
+armor A AD
+46 46 46 45 0
+50 51 54 P
+A
+1 3
+A
+2 3
+A
+13 120
+A
+12 3
+#40025
+key~
+the {YH{yigh {WT{Demple {xKey~
+A silver key lies here~
+unknown~
+key B AO
+0 0 0 0 0
+1 1 0 P
+#40031
+glasses~
+a pair of {CO{cl{Cd{X glasses~
+A pair of old glasses lie here collecting {ydust{x,whoever wore them was very wise.~
+glass~
+armor A AR
+38 38 38 37 0
+40 3 120 P
+A
+4 1
+A
+3 1
+#40032
+ring ruby ~
+a {rr{Re{rd {RR{ru{Rb{ry{X set ring. ~
+A {Yg{Wl{Yi{Wt{Yt{We{Yr{Wi{Yn{Wg{x ring lies here~
+ruby~
+jewelry AG AB
+0 0 0 0 0
+47 48 43 P
+A
+1 1
+A
+13 50
+#40033
+bow~
+{yA {gf{yi{gn{ye {ge{yl{gv{ye{gn {yb{go{yw{X~
+A Finely crafted magical bow of an elven ranger lies here.~
+pine~
+weapon G AN
+exotic 5 14 pierce A
+40 13 2960 P
+A
+18 3
+A
+19 3
+#40034
+dragon strength~
+{RD{rr{Ra{rg{Ro{rn {CS{ct{Cr{ce{Cn{cg{Ct{ch{x~
+A glass bottle holding a potion of strength~
+glass~
+potion N A
+46 'sanctuary' 'haste' 'giant strength' 'heal'
+46 3 10000 P
+#40036
+potion of healing~
+a {GP{go{Gt{gi{Go{gn {xof {WH{Dealing{x~
+A {Ygolden {Gp{go{Gt{gi{Go{gn {xlies here~
+unknown~
+potion 0 AO
+45 'heal' 'heal' 'cure poison' 'cure blindness'
+40 1 1000 P
+#40037
+glass of ale~
+a {WG{Dlass {xof {CA{cl{Ce{x~
+A tall {Wg{Dlass {xof {Ca{cl{Ce{x~
+glass~
+drink 0 AO
+10 10 'ale' 0 0
+1 1 50 P
+#40038
+elvish wine~
+a {GG{gl{Ga{gs{Gs {xof {WF{Dine {YW{yi{Yn{ye{x~
+A {Gg{gl{Ga{gs{Gs {xfilled with a {Ygolden {xliquid lies here.~
+glass~
+drink 0 AO
+5 5 'elvish wine' 0 0
+1 1 60 P
+#40043
+claymore~
+{eC{Dl{ea{Dy{em{Do{er{De{X~
+A claymore lies here collecting dust.~
+steel ~
+weapon A AN
+sword 6 14 divine A
+50 51 3530 P
+A
+13 100
+A
+18 7
+A
+17 -1
+#40044
+platinum leggings blue~
+{WA set of {bblue Platinum {WLeggings{X~
+A pair of shiny leggings lie here.~
+platinum~
+armor ABG AF
+38 38 38 37 0
+40 41 3045 P
+A
+17 -2
+A
+19 1
+A
+18 1
+A
+20 1
+#40045
+quickening~
+{GE{Dl{Gv{De{Gn {Db{yo{Do{yt{Ds {Yo{Df {Dq{yu{gi{Dc{yk{ge{Dn{yi{gn{D{gg{X~
+A Pair of enchanted elven boots of quickening~
+enchanted leather~
+armor ABG AG
+40 40 40 39 0
+43 15 47 P
+A
+2 3
+A
+18 2
+#40053
+flaming~
+{DA {RFl{Da{rm{Ri{Dn{rg {RS{Dw{ror{Dd {RO{rf {DC{Rh{ra{Dos{X ~
+A long firey sword floats here~
+fire~
+weapon ABGH AN
+exotic 21 17 wrath ABGH
+201 202 13750 P
+A
+19 19
+A
+18 19
+A
+1 2
+A
+2 3
+#40055
+a rusty key~
+a {yrusty{x key~
+A long key.~
+unknown~
+key G A
+0 0 0 0 0
+1 0 0 P
+#40056
+shield of inklar~
+an {GI{gn{Gk{gl{Ga{gr {YS{yhield{x~
+--==An Inklarian Shield Divine Protection==--~
+steel~
+armor AGIK AJ
+42 42 42 41 0
+45 4 2000 P
+#40057
+emerald~
+a {GE{gm{Ge{gr{Ga{gl{Gd{X ring.~
+A {Wg{Yl{Wi{Yt{Wt{Ye{Wr{Yi{Wn{Yg {gg{Gr{ge{Ge{gn{X ring lies here in a small chasm.~
+emerald~
+jewelry A AB
+0 0 0 0 0
+48 4 500 P
+#40058
+no name~
+a fine Inklarian {ycigar{X.~
+A musty smelling cigar lies here.~
+tabacoo~
+trash G A
+0 0 0 0 0
+1 1 5 P
+#40059
+releaser of dragons spirit~
+the {WR{Deleaser of the {RD{rr{Ra{rg{Ro{rn{R's {YS{yp{Yi{yr{Yi{yt{x~
+A strange red food lies here, glowing oddly.~
+unknown~
+pill AY AO
+60 'dragon skin' 'dragon wisdom' 'giant strength' 'reserved'
+45 2 2000 P
+#40060
+releaser of divine powers~
+the {WR{Deleaser {xof {YD{yivine {YP{yowers{x.~
+A glowing waffer sits here, hiding many powers.~
+non-metal~
+pill AGY AO
+60 'frenzy' 'sanctuary' '' ''
+45 1 1500 P
+#0
+
+
+
+#ROOMS
+#40000
+Entrance To The City of Inklar~
+Before you is the great city and fortress of Inklar.  Here those who
+worship the great dragon Ink live.  The endless rows of houses spread out
+before you and the golden sunlight reflects of the polished stone towers of
+the Temple.  The noise of people talking and laughing through the city comes
+to your ears and you hope that somewhere there is a good tavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 40001
+D1
+~
+~
+0 0 657
+D2
+~
+~
+0 0 2300
+S
+#40001
+Crossroads into the Merchant Section~
+The sound of people hard at work comes from the west and east and you get
+the impression that you have entered the merchant quarter.  You have heard
+that this city has many shops, maybe you should explore and find something
+useful.  
+~
+0 0 0
+D0
+~
+~
+0 0 40012
+D1
+~
+~
+0 0 40002
+D2
+~
+~
+0 0 40000
+D3
+~
+~
+0 0 40007
+S
+#40002
+The East Merchant Road~
+You hear the sounds of metal being worked and shaped.  To east obviously
+lies some kind of weaponshop or armoury.  Potential customors travel in and
+out of the shop looking please with their purchases.  
+~
+0 0 0
+D1
+~
+~
+0 0 40003
+D3
+~
+~
+0 0 40001
+S
+#40003
+The East Merchant Road~
+As you enter this part of the merchants row your see potion shops armouries and poorer people walking around searching for food.And spare parts to build there rags.
+~
+0 0 0
+D0
+~
+~
+0 0 40006
+D1
+~
+~
+0 0 40004
+D3
+~
+~
+0 0 40002
+S
+#40004
+The End of the East Merchant Road~
+The last shop on the street lies to the north.  There is a shield hanging
+above the door and a sign reading 'Vetch's Armoury'.  You see through the
+door a man behind a counter examing a new shield.  Looks like there ay be
+some good buys in there...  
+~
+0 0 0
+D0
+~
+~
+0 0 40005
+D3
+~
+~
+0 0 40003
+S
+#40005
+Inklar's Armory ~
+There is a young man behind the counter infront of you, inspecting some
+new products.  The walls are lined with shields and chain mail, gauntlets
+and helms.  The smell of the metal being worked in the back of the store
+drifts in, this armoury seems to be in constant production.  
+~
+0 1024 0
+D2
+~
+~
+0 0 40004
+S
+#40006
+Inklar's Weaponshop~
+Many asorted weapon hang on the walls.  Spears, axes, swords, daggers,
+every weapon imaginable gleams out on all sides.  The clang of money falling
+into a jar comes from the counter, and there the weaponsmith is counting out
+his considerable earning for the day.  He looks up happily as you come in,
+eager for another customer.  
+~
+0 0 0
+D2
+~
+~
+0 0 40003
+S
+#40007
+The West Merchant Road~
+You see stores ahead to the west, the buildings are strange and there are
+runes on the doors.  You feel as if these are some of the more obscure
+stores in town.  Some magic seems to come from them and you feel the urge to
+investigate further.  
+~
+0 0 0
+D1
+~
+~
+0 0 40001
+D3
+~
+~
+0 0 40008
+S
+#40008
+The West Merchant Road~
+A small shop lies to the north and runes of a strange language are on the
+door and frame.  You see inside that an old man is casting charms and spells
+on an old staff or walking stick.  
+~
+0 0 0
+D0
+~
+~
+0 0 40009
+D1
+~
+~
+0 0 40007
+D3
+~
+~
+0 0 40010
+S
+#40009
+A Small Magic Shop~
+This small shop is filled with strange and mysterious items, smoke rises
+from somewhere and follows you around as you walk towards the counter,
+several items on the wall spin or make noises as you approach.  Every couple
+of seconds a brilliant flash comes from the corner of the store and you can
+barely make out the man at the counter who seems to smile at you as you
+approach.  
+~
+0 1024 0
+D2
+~
+~
+0 0 40008
+S
+#40010
+The End of the West Merchant Road~
+Some mysterious odors and noises come from the shop to the north. 
+Vapours drift out the open door and inside you see a man mixing up a
+colourful mix in a small bottle.  
+~
+0 0 0
+D0
+~
+~
+0 0 40011
+D1
+~
+~
+0 0 40008
+S
+#40011
+The Local Potion Shop~
+Cauldrons of many colours, shapes and sizes line the walls to either side
+and more than one of them is brewing some strange and smelly potion.  Vials
+sit on shelfes and are currently being restocked by the potion seller.  
+~
+0 1024 0
+D2
+~
+~
+0 0 40010
+S
+#40012
+Main Road~
+As you walk around in this tunnle, you notice no vandalism on the walls but happy children and there families looking happy with thier purchase's maybe you will too.
+You look around but see no stores as you try and ask for directions everyone ignores you, guess your stuck, but you feel the desire to explore so you continue onwards
+ 
+~
+0 0 0
+D0
+~
+~
+0 0 40013
+D2
+~
+~
+0 0 40001
+S
+#40013
+The Southern Residential Crossroads~
+As you enter this area you notice many rich families talking about their
+wealth and good luck.  Younger villagers talk enthusiasticly about their
+schoolwork.  As one of them looks at you they mutter 'Another filthy beggar!
+' You get the feeling you are not wanted here.  
+~
+0 0 0
+D0
+~
+~
+0 0 40018
+D1
+~
+~
+0 0 40014
+D2
+~
+~
+0 0 40012
+D3
+~
+~
+0 0 40016
+S
+#40014
+The South Village Homes~
+As you come into this area you see some youngsters fighting over an
+apple, and there old folks warming there hands over a fire watching there
+children intently.  
+~
+0 0 0
+D1
+~
+~
+0 0 40015
+D3
+~
+~
+0 0 40013
+S
+#40015
+A Villager's Home~
+You have returned to the rich part of town but quickly feel you should
+leave.  You are getting taunted from all sides and being called a beggar! 
+You can't take it anymore run!!  
+~
+0 0 0
+D3
+~
+~
+0 0 40014
+S
+#40016
+The South Village Homes~
+A row of old rat infested homes is here.  You see families crying as they
+try to comfort there children who are about to be a sacrificed to Inklar.  
+~
+0 0 0
+D1
+~
+~
+0 0 40013
+D3
+~
+~
+0 0 40017
+S
+#40017
+A Villager's Home~
+A poor old man is here lying on his death bed as his family tries to
+comfort him by saying things such as "don't worry Inklar will protect your
+soul".  You feel a tear in your eye begin to fall down your cheek, better
+leave before they see you.  
+~
+0 0 0
+D1
+~
+~
+0 0 40016
+S
+#40018
+Main Road~
+As you look around you notice even richer families a forget about all the poverty on the other side of the city.There is one diffrence though, these families seem to treat you as an equal.
+~
+0 0 0
+D0
+~
+~
+0 0 40019
+D2
+~
+~
+0 0 40013
+S
+#40019
+Southern Residential Crossroads~
+Ah...  Back in the slums.  Hard to think you were just wandering around
+in the rich part of town and now your back here.  Maybe you should look
+around for a shop and find some directions for the area.  You have a feeling
+your being watch from around corners and everywere else, 'better keep up my
+guard you say to yourself' and raise you shield 
+~
+0 0 0
+D0
+~
+~
+0 0 40024
+D1
+~
+~
+0 0 40021
+D2
+~
+~
+0 0 40018
+D3
+~
+~
+0 0 40020
+S
+#40020
+South Village Homes~
+The villger's homes tend to be small and plain, some families are richer
+that others and some are poorer.  The houses to the north and south seem to
+be deserted, but one lies to the west that seems occupied.  
+~
+0 0 0
+D1
+~
+~
+0 0 40019
+D3
+~
+~
+0 0 40022
+S
+#40021
+South Village Homes~
+The houses to the north and south are closed to you, and no lights appear
+in their windows, to the east though there is a larger house and firelight
+is coming out of it's windows.  The main road lies to the west and the local
+villagers are still wandering around, hopefully doing their work.  
+~
+0 0 0
+D1
+~
+~
+0 0 40023
+D3
+~
+~
+0 0 40019
+S
+#40022
+A Villager's Home~
+This is a local villager's home, the floors are wood and the walls are
+made of simple grey stone, although not a poor family the inhabitants of
+this house obviously are not wealthy merchants.  
+~
+0 0 0
+D1
+~
+~
+0 0 40020
+S
+#40023
+A Villager's Home~
+A small but comfortable house, a warm fire burns inside a stone
+fireplace.  The family that lives here is slightly better off than most, but
+there are still mny families that go without food and shelter, even during
+winter.  
+~
+0 0 0
+D3
+~
+~
+0 0 40021
+S
+#40024
+Main Road~
+Signs of poverty are clear all around you and you realize that the City
+of Inklar is not a paradise by any standards.  Some of your distrust may be
+taken away after you find a tavern.  
+~
+0 0 0
+D0
+~
+~
+0 0 40025
+D2
+~
+~
+0 0 40019
+S
+#40025
+Entrance to The Mayor's Offices~
+As you look around you see busy secretary's running around.  As you look
+up you see a large {RR{re{Rd {rD{Rr{ra{Rg{ro{Rn{x symbol hanging on the far
+wall over the mayors office 
+~
+0 0 0
+D1
+~
+~
+0 0 40026
+D2
+~
+~
+0 0 40024
+D3
+~
+~
+0 0 40027
+S
+#40026
+A Waiting Room~
+As you enter a room you are looked at as if you are an assassin with all
+of your armor on.  You might just as well take a seat while you wait for
+your turn because the secretary sure looks busy.  
+~
+0 0 0
+D0
+~
+~
+0 0 40033
+D3
+~
+~
+0 0 40025
+S
+#40027
+A Chamber of Records~
+This is were all the criminals files are kept.  You see quite a few
+pictures of people here.  With bloody faces and ragged close 
+~
+0 0 0
+D0
+~
+~
+0 0 40028
+D1
+~
+~
+0 0 40025
+S
+#40028
+A Chamber of Records~
+When you enter this untidy room you see many file's and paper here.  And
+a man who looks as though hes a big slob!  I dont think you should mess with
+him, or you might get squashed!  
+~
+0 0 0
+D0
+~
+~
+0 0 40029
+D2
+~
+~
+0 0 40027
+S
+#40029
+A Secretary's Workplace~
+Many workers are running around here, preparing for the coming
+celebration of the dragon.  Sacrifices, food, drink, fireworks, everything
+possible to make Ink content.  
+~
+0 0 0
+D1
+~
+~
+0 0 40030
+D2
+~
+~
+0 0 40028
+S
+#40030
+The Mayor of Inklar's Office~
+Here works the Mayor of Inklar.  She stands here pretending to be busy,
+he hopes that this years celebration to Ink will be enough to keep her town
+in the Dragon's 'good book'.  She is the richest, most important, and most
+understanding person in Inklar.  A born leader.  
+~
+0 0 0
+D0
+~
+~
+0 0 40032
+D1
+~
+~
+0 0 40031
+D3
+~
+~
+0 0 40029
+S
+#40031
+A Secretary's Worplace~
+When you enter you see a thick cloud of smoke and here the scratching of
+quills on paper.  You also notice a Red Dragon's symbol in this room.  
+~
+0 0 0
+D2
+~
+~
+0 0 40033
+D3
+~
+~
+0 0 40030
+S
+#40032
+The Main Road~
+This area just after the mayors office is totally given to the Dragons
+praise almost more so then the temple itself.  
+~
+0 0 0
+D0
+~
+~
+0 0 40035
+D1
+~
+~
+0 0 40034
+D2
+~
+~
+0 0 40030
+S
+#40033
+A Storage Room~
+As you look around this room you see boxes on either side.  You look at
+them and notice that a alot of them say " for Inklars celebration" Maybe you
+can find something in one of them?  
+~
+0 0 0
+D0
+~
+~
+0 0 40031
+D2
+~
+~
+0 0 40026
+S
+#40034
+The Local Tavern~
+A bunch of drunk local's are here sitting around a large round bar table.
+Look back at you and tell you to come have a drink.  
+~
+0 0 0
+D3
+~
+~
+0 0 40032
+S
+#40035
+Crossroads of The City Guard Barracks~
+While you walk pass this place you see guards walking back and forth
+carrying there weapons and tools high.  They turn to each other and mutter "
+wanna take this wimp?"  
+~
+0 0 0
+D0
+~
+~
+0 0 40038
+D1
+~
+~
+0 0 40036
+D2
+~
+~
+0 0 40032
+D3
+~
+~
+0 0 40037
+S
+#40036
+City Guard Barracks~
+In this room guards are doing drills and training new moves.  You hear
+one of them scream {RCLIM{YHAZZA{RRD{x!!!  , then pelt a punching bag with a
+flury of attacks.  They all tunr to look at you and begin to grin.  
+~
+0 0 0
+D3
+~
+~
+0 0 40035
+S
+#40037
+City Guard Barracks~
+In this room you see many City Guards siting arounf a table and drinking
+rum.  They look at you and say...  Hick wanna drInK?  They might do
+something stupid better watch out.  
+~
+0 0 0
+D1
+~
+~
+0 0 40035
+S
+#40038
+The Road to the Temple~
+A long golden road leads from here to the temple, the temple looks very
+large from were you are.  Wanna get closer and look around?  
+~
+0 0 0
+D0
+~
+~
+0 0 40039
+D2
+~
+~
+0 0 40035
+S
+#40039
+The Entrance to the Temple of Ink~
+Hallways spread out before you and the smell of sacrifices being burned
+comes to your nose.  The sound of prayers and chants come down the passage
+towards you, you shiver as a priest goes by worshiping what he calls 'The
+{RG{rr{Re{ra{Rt {rD{Rr{ra{Rg{ro{Rn{x' 
+~
+0 0 0
+D0
+~
+~
+4 40025 40041
+D1
+~
+~
+0 0 40042
+D2
+~
+~
+0 0 40038
+D3
+~
+~
+0 0 40040
+S
+#40040
+The Outer Temple~
+A curved hallway leads east, it is lit by many torches and more of the
+strange chants can be heard, louder this time.  You get the feeling that you
+arn't aloud in here, it seems to be a place of private rituals and worship. 
+Who knows what the punishment may be for wandering the forbiddon halls,
+maybe YOU will be the next sacrifice to {RI{rn{Rk{x!  
+~
+0 0 0
+D0
+~
+~
+0 0 40043
+D1
+~
+~
+0 0 40039
+S
+#40041
+The Inner High Temple~
+The walls are made of marble and there are candles arranged in a cricle. 
+In the middle of these sit the Great High Priest and Priestess of Inklar. 
+The Priest stands up suddenly and with {Rr{Ya{Rg{Ye {xin his eyes he
+charges!  The Priestess does not break consentration as the Priest charges. 
+~
+0 0 0
+D0
+~
+~
+4 40025 40048
+D2
+~
+~
+4 40025 40039
+S
+#40042
+The Outer Temple~
+A torch-lit hallway leads north and the room ahead seems to be the source
+of the chanting.  That mysterious sound sends a shiver down your spine and
+your blood runs cold.  Dare you go on?  
+~
+0 0 0
+D0
+~
+~
+0 0 40044
+D3
+~
+~
+0 0 40039
+S
+#40043
+The Sacrificial Altar~
+Here priests or local villagers come to make sacrifices to Ink.  A fire
+constantly burns here, revealing the room in a red light that flickers and
+causes the shadows to jump and move all around you.  You shiver, there is
+something sinister about this room, about the entire temple, you must find a
+way out!  
+~
+0 0 0
+D2
+~
+~
+0 0 40040
+D3
+~
+~
+0 0 40047
+S
+#40044
+The Room of Worship~
+Here stand 3 priests in a circle, there hands raised upwards to the
+heavens, the chanting continues and a firey mist hovers between the priests.
+They themselves are wreathed in flames but are not burnt at all.  The power
+eminating from the room is overpowering, some kind of ancient magic is
+hidden within these walls!  
+~
+0 0 0
+D1
+~
+~
+0 0 40045
+D2
+~
+~
+0 0 40042
+S
+#40045
+The Rear East Temple~
+The torch light flickers here and you can barely make out the strange
+markings on the walls and floors.  The torch goes out and the room is thrown
+into darkness.  You remember an old saying you heard once 'Too light a
+candle is to cast a shadow' you feel as is you should not light the room.  
+~
+0 0 0
+D0
+~
+~
+0 0 40046
+D3
+~
+~
+0 0 40044
+S
+#40046
+The Rear Temple~
+A the last room in the east wing of the temple, the floor is hard and
+bare, the entire room is rather spartan and unattractive.  Dust has
+collected on every shelf and stone, it has obviously not been used for a
+long time.  
+~
+0 0 0
+D2
+~
+~
+0 0 40045
+S
+#40047
+Rear West Temple~
+All that is in this far corner of the temply is a bunch of tree's with
+priest's walking around talking about tehre latest sacrifies.  Some clap and
+some are struck dumbfounded as they say i must do something like that to
+proove myself worthy!  
+~
+0 0 0
+D1
+~
+~
+0 0 40043
+S
+#40048
+Main Road Outside the Temple~
+There is a road leading to and from the temple.  You wonder what it's
+like inside.  
+~
+0 0 0
+D0
+~
+~
+0 0 40049
+D2
+~
+~
+4 0 40041
+S
+#40049
+The Northern Residential Crossroads~
+This is a famous crossroad road in Inklar, you see people waking on
+either sides saying to there children don't open that tell we get home. 
+This must be another rich area.  
+~
+0 0 0
+D0
+~
+~
+0 0 40054
+D1
+~
+~
+0 0 40052
+D2
+~
+~
+0 0 40048
+D3
+~
+~
+0 0 40050
+S
+#40050
+The North Village Homes~
+A middle class family and there dog leave to the west.  The door is
+slightly open.  A little boy runs back to close it he turns around and looks
+at you with a deranged look on his face then runs off.  
+~
+0 0 0
+D1
+~
+~
+0 0 40049
+D3
+~
+~
+0 0 40051
+S
+#40051
+A Villager's Home~
+As you get nearer to this house a black dog growls at you gritting its
+teeth, you better make a run for it!  A family apologises to you and call's
+there dog back.  You think to your self " heh....  Stupid dog i should kill
+you" 
+~
+0 0 0
+D1
+~
+~
+0 0 40050
+S
+#40052
+North Village Homes~
+A tall house stands here, with a sign saying "The Satan's house" you
+look into it a remember an old tale about someone with tha name.  You
+remember your mother telling you something about a devil when you say that
+name.  
+~
+0 0 0
+D1
+~
+~
+0 0 40053
+D3
+~
+~
+0 0 40049
+S
+#40053
+A Villager's Home~
+This is a middle class families house, there is fine furniture and the
+smell of fresh cooking around the house.  There are many colourful cloaks on
+a hanger close to the open door you have just enter through.  
+~
+0 0 0
+D3
+~
+~
+0 0 40052
+S
+#40054
+The Main Road~
+The stones beneath your feet are in bad repair but that does not tarnish
+the view of the temple to the south or of the silver gate to the far north. 
+People are wandering around here, a dog is roaming the streets, a very
+friendly setting.  
+~
+0 0 0
+D0
+~
+~
+0 0 40056
+D2
+~
+~
+0 0 40049
+S
+#40055
+North Village Homes~
+This house looks as if it belongs to the riches person in Inklar,The
+Mayor The walls are made of Golden painted Oak, and the floors a covered in
+a silver silk carpet.  But you notice the guards getting restles so you
+better move on.  
+~
+0 0 0
+D1
+~
+~
+0 0 40056
+D3
+~
+~
+0 0 40057
+S
+#40056
+Northern Residential Crossroads~
+The beginning of the northern residential section.  A similar mix of
+class and personalities as the southern group.  The northern section is not
+nearly as busy as it has no merchant quarter.  
+~
+0 0 0
+D0
+~
+~
+0 0 40060
+D1
+~
+~
+0 0 40058
+D2
+~
+~
+0 0 40054
+D3
+~
+~
+0 0 40055
+S
+#40057
+A Villager's Home~
+A middle class family lives here dining well in the candle lite,the
+floors are made of wood and the walls a greyish stone.  There is a fire
+burning in the corner in a stone fire place, obviously a more well off
+family in the city of Inklar.  
+~
+0 0 0
+D1
+~
+~
+0 0 40055
+S
+#40058
+North Village Homes~
+A row of long but small homes line's this way.  They actually look like
+stables.  You see a stable boy walking and talking to the animals as he
+feeds them.  
+~
+0 0 0
+D1
+~
+~
+0 0 40059
+D3
+~
+~
+0 0 40056
+S
+#40059
+A Villager's Home~
+You see a man fiddling with piece's of metal and making armor and
+weapons.  Your guessing that this is the house of the armourer of Inklar. 
+He tells you to drop by his store later, and gives you a warm smile.  
+~
+0 0 0
+D3
+~
+~
+0 0 40058
+S
+#40060
+The Northern Gates of The City of Inklar~
+Here the northern gates stand, guarded by the tall {YG{yate {YG{yuards {x
+who stand at attention here.  The golden light of the setting sun shines off
+the silver gates and the city to the south looks truely beautiful.  
+~
+0 262144 0
+D0
+~
+~
+0 0 2360
+D2
+~
+~
+0 0 40056
+S
+#0
+
+
+
+#SPECIALS
+M 40035 spec_thief
+S
+
+
+
+#RESETS
+D 0 40039 0 2
+D 0 40041 0 2
+D 0 40041 2 2
+D 0 40048 2 2
+M 0 40000 4 40000 2
+E 0 40044 0 7
+M 0 40000 4 40000 2
+E 0 40044 0 7
+M 0 40050 1 40005 1
+G 0 40056 0
+G 0 40007 0
+M 0 40051 1 40006 1
+G 0 40006 0
+G 0 40012 0
+M 0 40021 1 40006 1
+E 0 40006 0 16
+M 0 40052 1 40009 1
+G 0 40060 0
+G 0 40059 0
+M 0 40053 1 40011 1
+G 0 40036 0
+G 0 40034 0
+M 0 40031 3 40012 3
+E 0 40033 0 16
+M 0 40031 2 40012 3
+E 0 40033 0 16
+M 0 40003 4 40015 4
+M 0 40001 4 40018 4
+M 0 40011 5 40019 5
+E 0 40012 0 16
+M 0 40003 4 40023 4
+M 0 40056 2 40026 2
+M 0 40056 2 40026 2
+M 0 40008 4 40026 1
+M 0 40008 1 40028 1
+E 0 40008 0 9
+M 0 40008 1 40029 1
+M 0 40008 1 40029 1
+G 0 40008 0
+M 0 40008 1 40029 1
+E 0 40008 0 5
+M 0 40010 1 40030 1
+E 0 40001 0 6
+E 0 40002 0 16
+E 0 40005 0 5
+M 0 40008 4 40030 1
+M 0 40059 1 40030 1
+E 0 40043 0 16
+M 0 40008 4 40031 1
+M 0 40001 4 40032 4
+O 0 40004 0 40033
+P 0 40003 1 40004 1
+M 0 40048 1 40034 1
+G 0 40037 0
+G 0 40038 0
+M 0 40011 5 40035 5
+E 0 40012 0 16
+M 0 40011 5 40035 5
+E 0 40012 0 16
+M 0 40004 6 40039 3
+E 0 40013 0 10
+M 0 40004 6 40039 3
+E 0 40013 0 10
+M 0 40004 6 40039 3
+E 0 40013 0 10
+M 0 40045 1 40041 1
+E 0 40014 0 6
+M 0 40046 1 40041 1
+M 0 40022 1 40041 1
+E 0 40022 0 5
+G 0 40055 0
+M 0 40004 6 40043 3
+E 0 40013 0 10
+M 0 40004 6 40043 3
+E 0 40013 0 10
+M 0 40004 6 40043 3
+E 0 40013 0 10
+M 0 40047 1 40044 1
+E 0 40025 0 9
+M 0 40001 1 40047 1
+E 0 40000 0 16
+M 0 40054 1 40048 1
+M 0 40002 2 40049 2
+M 0 40042 3 40050 3
+M 0 40023 2 40051 1
+E 0 40031 0 20
+M 0 40039 6 40052 1
+O 0 40008 0 40053
+M 0 40023 2 40053 1
+E 0 40031 0 20
+M 0 40032 1 40053 1
+E 0 40058 0 17
+E 0 40032 0 2
+M 0 40033 1 40053 1
+E 0 40057 0 1
+M 0 40036 1 40053 1
+E 0 40045 0 8
+M 0 40011 5 40054 5
+E 0 40012 0 16
+M 0 40003 4 40057 1
+M 0 40042 3 40058 3
+M 0 40003 4 40059 4
+M 0 40000 4 40060 2
+M 0 40000 4 40060 2
+S
+
+
+
+#SHOPS
+40048 0 0 0 0 0 80 95 6 20
+40050 0 0 0 0 0 90 85 7 18
+40051 0 0 0 0 5 90 85 7 18
+40052 0 0 0 0 0 90 85 7 18
+40053 0 0 0 0 0 90 85 7 18
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

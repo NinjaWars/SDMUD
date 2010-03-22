@@ -1,0 +1,872 @@
+#AREADATA
+Name City3~
+Builders Giliath~
+VNUMs 1200 1299
+Credits [000-000] OLC    New Area~
+Security 9
+RepopMsg The sound of {Yw{yi{Yn{yg{Y's{x beating against the air come to your ears as the flyers return to their homes...~
+End
+
+
+
+#MOBILES
+#1200
+kenku guild master~
+The {CK{ce{Cn{ck{Cu{x Guildmaster~
+The ancient {Ck{ce{Cn{ck{Cu{x guildmaster stands here, sharing his knowledge...
+~
+One of the oldest kenku alive, he has seen many great events in the
+history of the world and now he prepares young kenku for their journey
+outside.  
+~
+Kenku~
+ABJKb 0 FJLT 0 500 0
+20 80 81d7+2021 20d15+600 6d5+46 slice
+-15 -15 -15 -11
+0 0 I 0
+stand stand male 0
+AHMV ABCDEFGHIJKP medium unknown
+#1201
+kenku bartender~
+the {gB{ya{gr{yt{ge{yn{gd{ye{gr{x~
+The local {gb{ya{gr{yt{ge{yn{gd{ye{gr{x is standing here serving out drinks...
+~
+~
+Kenku~
+AB 0 FJLT 0 0 0
+50 200 201d17+5556 50d15+600 13d5+76 none
+-52 -52 -52 -41
+0 CDT I 0
+stand stand none 0
+AHMV ABCDEFGHIJKP medium unknown
+#1202
+kenku potion master~
+The {cO{Cl{cd{x Kenku Potionseller~
+An old {Ck{ce{Cn{ck{Cu{x stands here, selling potions...
+~
+One of the eldars of the kenku this old potionseller has been producing
+his wares here for decades.  
+~
+Kenku~
+AB 0 FJLT 0 0 0
+50 200 201d17+5556 50d15+600 13d5+76 charge
+-52 -52 -52 -41
+0 CDT I 0
+stand stand male 0
+AHMV ABCDEFGHIJKP medium unknown
+#1204
+no name~
+(no short description)~
+(no long description)
+~
+~
+Human~
+A 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#1205
+kenku armourer~
+{bK{Ce{bn{Ck{bu{x Armourer~
+A {bk{Ce{bn{Ck{bu{x armourer stands before you...
+~
+~
+Kenku~
+AB 0 FJLT 0 500 0
+50 50 505d16+455 50d9+60 15d3+60 slice
+-22 -22 -22 -12
+0 0 I 0
+stand stand none 500
+AHMV ABCDEFGHIJKP small unknown
+#1206
+armourer~
+(no short description)~
+(no long description)
+~
+~
+Kenku~
+AB 0 FJLT 0 500 0
+50 200 201d17+5556 50d15+600 13d5+76 slice
+-52 -52 -52 -41
+0 0 I 0
+stand stand male 0
+AHMV ABCDEFGHIJKP medium unknown
+#1207
+kenku weapon seller~
+{WK{Be{Wn{Bk{Wu{x Weaponseller~
+A small {WK{Be{Wn{Bk{Wu{x is showing off his weaponary
+~
+~
+Kenku~
+AB 0 FJLT 0 500 0
+50 50 505d16+455 50d9+60 15d3+60 thrust
+-22 -22 -22 -12
+0 0 I 0
+stand stand male 500
+AHMV ABCDEFGHIJKP small unknown
+#1290
+huan hound of valinor~
+{GH{guan{x, the {RH{ro{Ru{rn{Rd{x of {cV{Ca{clin{Co{cr{x~
+{GH{guan{x, the {RH{ro{Ru{rn{Rd{x of {cV{Ca{clin{Co{cr{x crouches here by the throne...
+~
+The ancient hound of valinor, compainion of beren and luthien on their
+legendary quest.  
+~
+dog~
+AB 0 DEFa CDEH 1000 0
+202 1500 809d68+30601 202d15+600 51d5+228 crush
+-236 -236 -236 -195
+EFHIJKOP 0 CD 0
+stand stand male 2000
+AGV D huge unknown
+F par ACEFHJKUV
+#0
+
+
+
+#OBJECTS
+#1200
+kenku ale~
+a {gG{yl{ga{ys{gs{x of Ale~
+A {gg{yl{ga{ys{gs{x of strong kenku ale is going to waste here...~
+glass~
+drink 0 AO
+10 10 'ale' 0 0
+0 1 100 P
+#1201
+glass wine~
+a Glass of {YW{yi{Yn{ye{x~
+A glass of imported {We{el{Wv{ei{Ws{eh{x wine...~
+glass~
+drink 0 AO
+10 10 'elvish wine' 0 0
+0 1 150 P
+#1202
+potion of healing~
+a {GN{gewbie{x Healing Potion~
+A small glimering potion lies here...~
+liquid~
+potion 0 AO
+5 'cure light' 'cure light' 'cure poison' 'cure blindness'
+2 1 500 P
+#1203
+potion~
+a {YK{ye{Yn{yk{Yu{x Potion~
+An ancient potion for young {Yk{ye{Yn{yk{Yu{ys{x...~
+unknown~
+potion 0 AO
+10 'haste' 'bless' 'armor' 'reserved'
+10 1 1000 P
+#1205
+kenku helm~
+{bK{Ce{cn{bk{Cu {cH{be{Cl{cm{x~
+A light kenku {Wh{De{Wl{Dm{x~
+unknown~
+armor Y AE
+15 15 15 15 0
+10 11 14 P
+#1206
+kenku mail~
+{CK{be{Cn{bk{Cu {bM{Ca{bi{Cl{x~
+A dull {Wc{Dh{Wa{Di{Wn-{Dm{Wa{Di{Wl{x coat~
+unknown~
+armor Y AD
+19 19 19 16 0
+15 16 11 P
+#1207
+kenku gauntlets~
+{CK{be{Cn{bk{Cu {CG{ba{Cu{bn{Ct{bl{Ce{bt{Cs{x~
+A pair of {Ck{be{Cn{bk{Cu {Cg{ba{Cu{bn{Ct{bl{Ce{bt{Cs{x lies here~
+unknown~
+armor Y AH
+17 17 17 16 0
+15 16 11 P
+#1209
+kenku short sword~
+{CK{ce{bn{Bk{Cu{x Short {WS{Dw{Wo{Dr{Wd{x~
+A short, light sword lies here...~
+unknown~
+weapon IY AN
+sword 2 13 slash C
+15 16 950 P
+#1210
+kenku long bow~
+{GK{ge{Gn{gk{Gu{x Long Bow~
+A long wooden {Gb{go{Gw{x lies here...~
+unknown~
+weapon S AN
+exotic 2 13 pierce E
+15 10 1000 P
+#1211
+kenku dagger~
+{YK{ye{Yn{yk{Yu{x Dagger~
+A thin dagger has been thrust into the ground here...~
+unknown~
+weapon 0 AO
+dagger 1 2 pierce C
+1 2 120 P
+#0
+
+
+
+#ROOMS
+#1200
+Kenku Recall~
+This room is filled with kenku, appearing out of nowhere and then
+launching off into the sky.  This is the recall room for the kenku.  Placed
+on top of the highest peak in kenku territory it over sees everything.  
+~
+0 4 0
+D1
+~
+~
+0 0 1201
+D2
+~
+~
+0 0 1203
+D5
+~
+~
+0 0 1202
+S
+#1201
+The Edge (Rest Point)~
+A rest point for long distance flyers, here you can rest your wings and
+look out over the kenku peak.  
+~
+0 0 0
+D3
+~
+~
+0 0 1200
+S
+#1202
+A Plateau~
+This is one of the plateaus of the kenku, here you can rest from your
+long journey, or continue on, either west to the kenku guildmaster or east
+towards the common skies.  
+~
+0 0 0
+D1
+~
+~
+0 0 1233
+D3
+~
+~
+0 0 1232
+D4
+~
+~
+0 0 1200
+S
+#1203
+In the Air~
+You are in the air, just south of kenku recall.  Here the winds are
+strong and powerful, but they are not crosswinds and are easy to handle. 
+Down below you can see a great plateau.  
+~
+0 0 0
+D0
+~
+~
+0 0 1200
+D5
+~
+~
+0 0 1204
+S
+#1204
+Diving~
+Here you are diving down the winds, swooping lower to the ground with
+every second.  You can feel the air become warmer as you decend, approaching
+the plateau, the air is rushing past you and you feel the great joy of
+flying.  
+~
+0 0 0
+D4
+~
+~
+0 0 1203
+D5
+~
+~
+0 0 1205
+S
+#1205
+The Lower Air Currents~
+You have reached the lower air currents, and are circling above the
+plateau, you can see huts and small buildings on the ground surrounded,
+there seems to be some organazation to it, they are arranged in rows, but
+you cannot see more from up here.  
+~
+0 0 0
+D1
+~
+~
+0 0 1206
+D4
+~
+~
+0 0 1204
+D5
+~
+~
+0 0 1207
+S
+#1206
+The Healers Peak~
+Here a Kenku priestess uses her divine power to heal the hurts of her
+people.  The wounded stand before her, watching awe as their cuts close and
+their curses are dispelled.  She is a master of her craft, and unlike the
+ancient guildmaster she has a full life ahead of her.  A whole life with
+which to care for her people.  
+~
+0 0 0
+D3
+~
+~
+0 0 1205
+S
+#1207
+The Plateau~
+The rocks feel odd against your feet, as you are used to a life of
+flying, it is awkward yet you are adapting fast.  To the west is the market
+area, and the sounds of buisness reach your ears.  
+~
+0 0 0
+D2
+~
+~
+0 0 1209
+D3
+~
+~
+0 0 1208
+D4
+~
+~
+0 0 1205
+S
+#1208
+The Merchant Area~
+This street runs west and east with small shops to the north and south,
+many kenkus are leaping in and out of shops, coming back out looking far
+better armed or in the case of one building, drunk.  You see a sign, The
+Iron Claw Tavern, you will have to look into that later.  
+~
+0 0 0
+D0
+~
+~
+0 0 1210
+D1
+~
+~
+0 0 1207
+D2
+~
+~
+0 0 1211
+D3
+~
+~
+0 0 1212
+S
+#1209
+The Plateau~
+In the middle of the great Plateau you feel a calm come over you, the
+wind, bringing the sound of wingbeats, blows against your face.  The high
+mountains that surround you have an ancient feeling about them...  This is a
+place of power and majesty that many people can only dream of 
+~
+0 0 0
+D0
+~
+~
+0 0 1207
+D1
+~
+~
+0 0 1216
+S
+#1210
+The Potion Master~
+Only one more can possibly describe this room...  Potions.  On every
+shelf, every table, every flat surface is covered in frothing brews, or
+creamy liquids or small clear vials containing some terrible poison perhaps?
+~
+0 0 0
+D2
+~
+~
+0 0 1208
+S
+#1211
+The Iron Claw Tavern~
+A small tavern, a large croud is gathered around the bar, others are
+spread out in smaller groups, laughing and talking.  A very drunk kenku is
+doing an odd dance on one of the tables...  You decide not to have whatever
+he ordered.  
+~
+0 0 0
+D0
+~
+~
+0 0 1208
+S
+#1212
+The Merchant Area~
+This street runs west and east with small shops to the north and south,
+many kenkus are leaping in and out of shops, coming back out looking far
+better armed or in the case of one building, drunk.  You see a sign, The
+Iron Claw Tavern, you will have to look into that later.  
+~
+0 0 0
+D0
+~
+~
+0 0 1213
+D1
+~
+~
+0 0 1208
+D2
+~
+~
+0 0 1214
+D3
+~
+~
+0 0 1215
+S
+#1213
+The Armoury~
+A kenku stands in the middle of the room, inspecting his items and
+telling people too buy his most expensive things.  He rushes back and forth
+between customers, finally he notices you and comes rushing over, babbling
+about his bargains.  
+~
+0 0 0
+D2
+~
+~
+0 0 1212
+S
+#1214
+The Weapon Shop~
+The wooden wall is covered with kenku weaponary of all kinds.  The stone
+floor is ruff against your feet, the air seems hot and stuffy.  A
+smaller-than-average kenku is sitting behind a low desc, he grins at you and
+invites you to see his wares.  
+~
+0 0 0
+D0
+~
+~
+0 0 1212
+S
+#1215
+Feeding Area~
+Here you can buy food that does not lighten your wallet much, the food
+here is quick and cheap, low quality fuel for long journeys by air.  In the
+older days such places were everywhere, because their used to be many
+messangers between peoples all over the world.  
+~
+0 0 0
+D1
+~
+~
+0 0 1212
+S
+#1216
+The Edge (Rest Point)~
+You have come to the edge of the great plateau, and the lower Kenku lands
+are far below.  The wind whistles in your ears as strong updrafts shoot up
+from below.  Beneath you can see dim figures, sweeping down or struggling up
+through the air.  
+ 
+~
+0 0 0
+D3
+~
+~
+0 0 1209
+D5
+~
+~
+0 0 1217
+S
+#1217
+The Plunge~
+The wind is a powerful force here, as you sweep through the air,
+suspended between the peak and the land below you.  The joy of flight is on
+you as you sweep through the air, feeling the power of the wind battling
+against you.  
+~
+0 0 0
+D1
+~
+~
+0 0 1218
+D4
+~
+~
+0 0 1216
+S
+#1218
+Entry To The Combat Area~
+You have turned sharply from the plunge and you are now entering the
+Avian, Gryphon, Kenku, and Phoenix training area.  Here you can test your
+combat ability and grow stronger in the ways of battle.  
+~
+0 0 0
+D2
+~
+~
+0 0 1219
+D3
+~
+~
+0 0 1217
+S
+#1219
+Flying~
+The air is full of enemies and friends alike, twisting and battling.  The
+small kenkus charging bravely, the giant avians' wings slam the air, the
+harsh screams of the gryphons as they do battle, and the firey phoenixs
+soaring through the air with grace and speed.  
+~
+0 0 0
+D0
+~
+~
+0 0 1218
+D1
+~
+~
+0 0 1220
+D2
+~
+~
+0 0 1220
+S
+#1220
+Flying Hard~
+The air is full of enemies and friends alike, twisting and battling.  The
+small kenkus charging bravely, the giant avians' wings slam the air, the
+harsh screams of the gryphons as they do battle, and the firey phoenixs
+soaring through the air with grace and speed.  
+~
+0 0 0
+D0
+~
+~
+0 0 1219
+D2
+~
+~
+0 0 1227
+D3
+~
+~
+0 0 1222
+S
+#1221
+~
+~
+0 0 0
+D0
+~
+~
+0 0 1219
+S
+#1222
+Turning Towards the Peak~
+You see a great mountain peek loom in front of you, yet you can deal with
+that later.  The land beneath you is torn and broken as if some ancient
+disaster happened here, the rocks are split and shattered, blackened as if
+by a great fire.  What could have caused that?  
+~
+0 0 0
+D1
+~
+~
+0 0 1220
+D2
+~
+~
+0 0 1223
+S
+#1223
+Before the Peak~
+Here a great mountain peak rises up and you are forced to bank quickly to
+the side, watching the smooth stone as you pass by.  Some of it has strange
+carvings on it, an ancient script that no current historian has been able to
+read.  They believe that the language has left the mortal worlds, and the
+immortals do not speak of it.  
+~
+0 0 0
+D0
+~
+~
+0 0 1222
+D1
+~
+~
+0 0 1231
+D2
+~
+~
+0 0 1224
+S
+#1224
+Ground (Rest Point)~
+Here you can rest from your flying and fighting.  You settle on the
+ground, taking a break from your training in combat.  A few others are
+relaxing here, others fly overhead, not bothering to rest.  Show-offs.  
+~
+0 0 0
+D0
+~
+~
+0 0 1223
+D2
+~
+~
+0 0 1226
+D3
+~
+~
+0 0 1225
+S
+#1225
+View~
+Walking down a path from the watch tower you come to a public viewing
+area, where anyone from the inside may gaze out and behold the splender of
+the day.  Far off in the distance the dark wings of carrion birds wheel and
+swirve, circling over some battlefield perhaps.  Their harsh cries pierce
+the cool air.  
+~
+0 0 0
+D1
+~
+~
+0 0 1224
+S
+#1226
+Watch Station~
+Here is the only opening in the mountain range that surrounds the land of
+the 4 peoples, Avians, Gryphons, Kenkus, and Phoenixes.  It is a great watch
+tower where many keen eyes look out into the air beyond, searching for some
+enemy or lost friend flying towards them in the morning.  The watchmen here
+are strong, large gryphons pearched on their powerful limbs.  
+~
+0 0 0
+D0
+~
+~
+0 0 1224
+S
+#1227
+Crosswinds~
+Here there is a tough wind and you are forced to struggle hard just to
+keep your balance in the fierce gusts.  Fighting your enemies and the wind
+at the same time is a new experiance for many here.  
+~
+0 0 0
+D0
+~
+~
+0 0 1220
+D1
+~
+~
+0 0 1228
+D2
+~
+~
+0 0 1229
+S
+#1228
+The Mountain Side~
+Here the mountain side blocks your path, climbing all the way to the star
+currents, or so the phoenix legends say.  The phoenix story tellers delite
+in the story of Valyn, a brave yet over-confident phoenix who tried to fly
+over the ridge in the ancient times of this world, before the great war.  He
+fell from the sky like a bolt of lightning, and shattered the ground where
+he hit.  
+~
+0 0 0
+D3
+~
+~
+0 0 1227
+S
+#1229
+Swift Currents~
+The winds are less dangerous here but there are still moving at a good
+pace.  You feel yourself becoming more hardened and skilled the more you
+fight here, don't forget to head back to the guildmaster so he can teach you
+new skills!  
+~
+0 0 0
+D0
+~
+~
+0 0 1227
+D3
+~
+~
+0 0 1231
+S
+#1230
+The Upwind Turn~
+~
+0 4 0
+S
+#1231
+Rounding The Peak~
+The mountain peak is beside you, as you round it the wind trys to hurl
+you against it, your wing grazes the stone as you battle against the wind. 
+Gradually you fight against it, and you make it past.  
+~
+0 0 0
+D1
+~
+~
+0 0 1229
+D3
+~
+~
+0 0 1223
+S
+#1232
+The Guildmaster of Kenku Peak~
+Before you stands the great guildmaster of our race, he is very large for
+a kenku, and because of that they say he was never able to fly.  So he took
+up this task, passing down his knowledge and experiance to teach skills and
+abilities to you.  
+~
+0 1024 0
+D1
+~
+~
+0 0 1202
+S
+#1233
+The Main Currents~
+Here the air is filled with the small kenku, either coming in from the
+lower air below or speeding in from the west, on some errand to the common
+skies.  Some are flying for pure enjoyment, doing turns and stunts to
+impress the unlookers.  Others fly quickly and with a purpose, some flying
+lazily to their next destination.  
+~
+0 0 0
+D3
+~
+~
+0 0 1202
+D5
+~
+~
+0 0 1234
+S
+#1234
+Sweeping Down~
+The wind whistles in your ears as you plunge down through the air, your
+wings not flapping, held tight against your body as you dive.  You reach an
+incredable speed as you fall, until you bring up your wings to slow yourself
+almost to a halt.  
+~
+0 0 0
+D1
+~
+~
+0 0 1235
+D4
+~
+~
+0 0 1233
+S
+#1235
+Rounding The Mountain~
+Your flight is disrupted as a mountain looms in your path, you turn
+sharply to avoid it, almost grazing the rocks as you pass.  The Mountain is
+damaged on one side, as you can see as you turn around it.  Broken, maybe,
+in some ancient battle that split the stone and ravaged the rock.  You pass
+the mountain and continue on your path.  
+~
+0 0 0
+D0
+~
+~
+0 0 1236
+D3
+~
+~
+0 0 1234
+S
+#1236
+Entering the Common Sky~
+The air is filled with a flying creatures of all kind sweeping through
+the air, avians shaking the air with might strokes from their wide wings,
+the tiny kenkus darting past, barely visable in their quick flight, the
+bright pheonixes full of colour and magisty, flying gracefully through the
+ever changing currents, and the bizarre gryphons, full of strength and
+vigor, bird and lion halves are both are wheeling through the air.  
+~
+0 0 0
+D2
+~
+~
+0 0 1235
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 1202 1 1210 1
+G 0 1202 0
+G 0 1203 0
+M 0 1201 1 1211 1
+G 0 1201 0
+G 0 1200 0
+M 0 1205 1 1213 1
+G 0 1205 0
+G 0 1207 0
+G 0 1206 0
+M 0 1207 1 1214 1
+G 0 1209 0
+G 0 1210 0
+G 0 1211 0
+M 0 1200 1 1232 1
+S
+
+
+
+#SHOPS
+1201 0 0 0 0 0 100 100 1 25
+1202 0 0 10 0 0 100 100 1 25
+1205 0 0 9 0 0 100 100 1 24
+1206 0 0 0 9 0 100 100 1 22
+1207 0 0 0 5 0 100 100 1 24
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

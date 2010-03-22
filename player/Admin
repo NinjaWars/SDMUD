@@ -1,0 +1,459 @@
+#PLAYER
+Name Admin~
+Id 1152506087
+LogO 1152506167
+Vers 6
+Prom {W<{r%h{W/{R%H{whp {m%m{W/{M%M{wm {y%v{W/{Y%V{wmv {g({B%X{wtnl{g) {y({W%q{y){W>{x~
+Race Human~
+CName Admin~
+TRR 0
+Tpld 1
+MkMd 0 0
+Extra 0
+Sex 1
+Clas Mage~
+Levl 216
+Tier 0
+Ctier 1
+Sec 12
+Plyd 80
+Scro 35
+Room 3700
+Hmtown 0
+HMV 286 10891 146 9029 340 2680
+Plat 0
+Gold 0
+Silv 0
+Exp 216000
+Stance -1 0 0 0 0 0 0 0 0 0 0
+Act CDEFGHJQ
+ShBy EFH
+Comm NOYb
+Verb G
+Pos  8
+Prac 470
+Trai 255
+Alig 1000
+Hit 22
+Dam 22
+ACs -110 -110 -110 -90
+Attr 13 17 13 13 13
+AMod 0 4 4 0 4
+Balance 0
+Shares 0
+Pass !#/)zW¥§C‰JJ€Ã~
+Titl ~
+Pnts 40
+TSex 1
+Pkdt 0
+Pkkl 0
+LLev 0
+Reca 0
+HMVP 10741 9029 2680
+Alos 0
+Awin 0
+Tdth 0
+Tkll 0
+Twin 0
+Cnd 0 48 48 48
+Lasthost 127.0.0.1
+Boards 18 Announce 0 Changes 0 General 0 Clan 0 Ideas 0 Jokes 0 Market 0 Petition 0 Personal 0 RP 0 Quests 0 Weddings 0 Bugs 0 Council 0 Permissions 0 Punishments 0 Gods 0 Mud 0 
+Sk 1 'heroes feast'
+Sk 1 'acid blast'
+Sk 1 'animate'
+Sk 1 'armor'
+Sk 1 'blindness'
+Sk 1 'brage'
+Sk 1 'burning hands'
+Sk 1 'call lightning'
+Sk 1 'calm'
+Sk 1 'call darkness'
+Sk 1 'leech'
+Sk 1 'camouflage'
+Sk 1 'cancellation'
+Sk 1 'charm person'
+Sk 1 'chill touch'
+Sk 1 'colour spray'
+Sk 1 'concentration'
+Sk 1 'control weather'
+Sk 1 'cry'
+Sk 1 'cure blindness'
+Sk 1 'cure critical'
+Sk 1 'cure disease'
+Sk 1 'cure light'
+Sk 1 'cure poison'
+Sk 1 'cure serious'
+Sk 1 'curse'
+Sk 1 'detect evil'
+Sk 1 'detect good'
+Sk 1 'detect hidden'
+Sk 1 'detect invis'
+Sk 1 'detect magic'
+Sk 1 'detect poison'
+Sk 1 'dispel magic'
+Sk 1 'divine protection'
+Sk 1 'divine fury'
+Sk 1 'dragon skin'
+Sk 1 'dragon wisdom'
+Sk 1 'energy drain'
+Sk 1 'faerie fire'
+Sk 1 'megafaerie fire'
+Sk 1 'faerie fog'
+Sk 1 'farsight'
+Sk 1 'fireproof'
+Sk 1 'fireshield'
+Sk 1 'fear'
+Sk 1 'fly'
+Sk 1 'gate'
+Sk 1 'swalk'
+Sk 1 'gods armor'
+Sk 1 'giant strength'
+Sk 1 'haste'
+Sk 1 'heal'
+Sk 1 'iceshield'
+Sk 1 'identify'
+Sk 1 'immolation'
+Sk 1 'infravision'
+Sk 1 'invisibility'
+Sk 1 'know alignment'
+Sk 1 'lightning bolt'
+Sk 1 'locate object'
+Sk 1 'magic missile'
+Sk 1 'mana shield'
+Sk 1 'ward'
+Sk 1 'mass healing'
+Sk 1 'mass invis'
+Sk 1 'master healing'
+Sk 1 'divine healing'
+Sk 1 'scry'
+Sk 1 'detect scry'
+Sk 1 'restore megamana'
+Sk 1 'meteor storm'
+Sk 1 'nexus'
+Sk 1 'pass door'
+Sk 1 'plague'
+Sk 1 'poison'
+Sk 1 'portal'
+Sk 1 'protection evil'
+Sk 1 'protection good'
+Sk 1 'refresh'
+Sk 1 'restore mana'
+Sk 1 'resurrect'
+Sk 1 'sanctuary'
+Sk 1 'shield'
+Sk 1 'shocking grasp'
+Sk 1 'shockshield'
+Sk 1 'acidshield'
+Sk 1 'poisonshield'
+Sk 1 'briarshield'
+Sk 1 'sleep'
+Sk 1 'slow'
+Sk 1 'stone skin'
+Sk 1 'summon'
+Sk 1 'superior healing'
+Sk 1 'teleport'
+Sk 1 'transport'
+Sk 1 'voodoo'
+Sk 1 'weaken'
+Sk 1 'word of recall'
+Sk 1 'vampire blast'
+Sk 1 'earthrise'
+Sk 1 'powersurge'
+Sk 1 'mistblend'
+Sk 30 'dagger'
+Sk 30 'sword'
+Sk 1 'lore'
+Sk 1 'scrolls'
+Sk 1 'staves'
+Sk 1 'wands'
+Sk 30 'recall'
+Sk 30 'flee'
+Gr 'rom basics'
+Gr 'mage basics'
+Gr 'mage default'
+Gr 'beguiling'
+Gr 'combat'
+Gr 'curative'
+Gr 'detection'
+Gr 'enhancement'
+Gr 'healing'
+Gr 'illusion'
+Gr 'maladictions'
+Gr 'protective'
+Gr 'shielding'
+Gr 'transportation'
+Gr 'weather'
+Affc 'armor'   0  42  25 -30  17          0
+Affc 'sanctuary'   6  39  19   0   0        128
+Affc 'acidshield'   6  40  39   0   0         32
+Affc 'shockshield'   6  40  39   0   0         16
+RoomRLE      0 3700 1 61834 -1
+End
+
+#O
+Vnum 3032
+Nest 0
+Cond 0
+Wear -1
+Lev  5
+Cost 9
+End
+
+#O
+Vnum 2140
+Nest 1
+Cond 0
+Wear -1
+Lev  5
+Cost 0
+End
+
+#O
+Vnum 2140
+Nest 1
+Cond 0
+Wear -1
+Lev  5
+Cost 0
+End
+
+#O
+Vnum 2140
+Nest 1
+Cond 0
+Wear -1
+Lev  5
+Cost 0
+End
+
+#O
+Vnum 2140
+Nest 1
+Cond 0
+Wear -1
+Lev  5
+Cost 0
+End
+
+#O
+Vnum 2140
+Nest 1
+Cond 0
+Wear -1
+Lev  5
+Cost 0
+End
+
+#O
+Vnum 2140
+Nest 1
+Cond 0
+Wear -1
+Lev  5
+Cost 0
+End
+
+#O
+Vnum 2140
+Nest 1
+Cond 0
+Wear -1
+Lev  5
+Cost 0
+End
+
+#O
+Vnum 2122
+Nest 1
+Cond 0
+Wear -1
+Cost 810
+End
+
+#O
+Vnum 2120
+Nest 1
+Cond 0
+Wear -1
+Cost 810
+End
+
+#O
+Vnum 2120
+Nest 1
+Cond 0
+Wear -1
+Cost 810
+End
+
+#O
+Vnum 9224
+Nest 1
+Cond 0
+Wear -1
+Lev  5
+Cost 200
+End
+
+#O
+Vnum 9222
+Nest 0
+Cond 0
+Wear 0
+Lev  5
+Cost 250
+End
+
+#O
+Vnum 2121
+Nest 0
+Cond 0
+Wear 19
+Cost 860
+End
+
+#O
+Vnum 2121
+Nest 0
+Cond 0
+Wear 16
+Cost 860
+End
+
+#O
+Vnum 2129
+Nest 0
+Cond 0
+Wear 2
+Cost 1
+End
+
+#O
+Vnum 2129
+Nest 0
+Cond 0
+Wear 1
+Cost 1
+End
+
+#O
+Vnum 2123
+Nest 0
+Cond 0
+Wear 12
+Cost 1
+End
+
+#O
+Vnum 2137
+Nest 0
+Cond 0
+Wear 18
+Cost 1
+End
+
+#O
+Vnum 2132
+Nest 0
+Cond 0
+Wear 15
+Cost 1
+End
+
+#O
+Vnum 2132
+Nest 0
+Cond 0
+Wear 14
+Cost 1
+End
+
+#O
+Vnum 2134
+Nest 0
+Cond 0
+Wear 13
+Cost 1
+End
+
+#O
+Vnum 2130
+Nest 0
+Cond 0
+Wear 23
+Cost 1
+End
+
+#O
+Vnum 2126
+Nest 0
+Cond 0
+Wear 8
+Cost 1
+End
+
+#O
+Vnum 2125
+Nest 0
+Cond 0
+Wear 7
+Cost 1
+End
+
+#O
+Vnum 2128
+Nest 0
+Cond 0
+Wear 6
+Cost 1
+End
+
+#O
+Vnum 2131
+Nest 0
+Cond 0
+Wear 24
+Cost 1
+End
+
+#O
+Vnum 2136
+Nest 0
+Cond 0
+Wear 10
+Cost 1
+End
+
+#O
+Vnum 2135
+Nest 0
+Cond 0
+Wear 9
+Cost 1
+End
+
+#O
+Vnum 2124
+Nest 0
+Cond 0
+Wear 5
+Cost 1
+End
+
+#O
+Vnum 2127
+Nest 0
+Cond 0
+Wear 4
+Cost 1
+End
+
+#O
+Vnum 2127
+Nest 0
+Cond 0
+Wear 3
+Cost 1
+End
+
+#END

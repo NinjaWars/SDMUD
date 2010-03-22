@@ -1,0 +1,1591 @@
+#AREADATA
+Name Kargaranth~
+Builders Roland~
+VNUMs 5600 5655
+Credits [070-080] Roland Kargaranth~
+Security 9
+RepopMsg (null)~
+End
+
+
+
+#MOBILES
+#5600
+an ice goblin~
+an {cIce Goblin{x~
+An {cIce Goblin{x stands here gnawing on some sort of meat
+~
+A hideous looking blue skinned monster.  It has sharp fangs and beady red
+eyes.  He doesn't look too powerful.  
+~
+Goblin~
+AB 0 JV 0 -300 0
+70 70 141d23+1415 70d10+85 23d3+40 bite
+-37 -37 -37 -22
+0 I P NSXY
+stand stand male 1500
+AHMV ABCDEFGHIJK medium unknown
+#5601
+a barbarian wife woman large strong~
+a {WBar{wbar{Wian{C Wife{x~
+A barbarian wife stands here, tidying up her home
+~
+Though rather large and muscular, she is still quite striking.  She looks
+moderately strong.  
+~
+Human~
+A 0 V 0 300 0
+70 70 141d23+1273 70d9+60 21d3+35 beating
+-35 -35 -35 -20
+EJ I 0 0
+stand stand female 4500
+AHMV ABCDEFGHIJK medium unknown
+#5602
+adiel shopkeeper merchant~
+{rAdiel the Merchant{x~
+Adiel the merchant stands here, eyeing you cautiosly
+~
+He is a stout man with a gruff beard.  Though he has chosen to be a
+merchant, he looks quite grim and strong.  
+~
+Human~
+AB 0 0 0 500 0
+70 70 145d24+1415 70d11+95 24d2+54 punch
+-41 -41 -41 -26
+0 0 0 0
+stand stand male 500000
+AHMV ABCDEFGHIJK medium unknown
+#5603
+gurahg the armor shopkeep~
+Gurahg the armor shopkeep~
+Gurahg the armor shopkeep stands here awaiting your request
+~
+A tall, gentle giant is Gurahg.  He appears quite good natured, but
+strong nonetheless.  
+~
+Human~
+AB 0 0 0 500 0
+70 70 141d23+1415 70d10+85 23d3+40 beating
+-37 -37 -37 -22
+0 0 0 0
+stand stand male 500000
+AHMV ABCDEFGHIJK medium unknown
+#5604
+{xHurungh the weapons dealer~
+{xHurungh the weapons dealer~
+Hurungh the  weapons dealer stands here, displaying various daggers
+~
+A burly oaf of a barbarian warrior is Hurungh.  He sells weapons in his
+spare time, most of it is spent hunting in the wild.  
+~
+Human~
+A 0 0 0 500 0
+70 70 145d24+1415 70d11+95 24d2+54 beating
+-41 -41 -41 -26
+0 0 0 0
+stand stand none 500000
+AHMV ABCDEFGHIJK medium unknown
+#5605
+a barbarian fisherman~
+a barbarian fisherman~
+A barbarian fisherman is here, fishing
+~
+He is a large bulky man with a long beard.  
+~
+Human~
+AB 0 V 0 200 0
+70 70 141d23+1415 70d10+85 23d3+40 beating
+-37 -37 -37 -22
+0 0 0 0
+stand stand male 400
+AHMV ABCDEFGHIJK medium unknown
+#5606
+a barbarian hunter~
+a Barbarian Hunter ~
+A barbarian hunter is here, tracking his prey 
+~
+He is a tall, burly man with a bushy beard.  He's wearing several furs to
+keep warm.  
+~
+Human~
+A 0 V 0 200 0
+85 85 171d28+1545 85d9+60 26d3+42 none
+-45 -45 -45 -27
+0 0 0 0
+stand stand male 30
+AHMV ABCDEFGHIJK medium unknown
+#5607
+a snow rabbit~
+a snow rabbit~
+A cute fluffy snow rabbit dances through the underbrush here
+~
+~
+Human~
+A 0 V 0 0 0
+80 80 161d26+1455 80d9+60 24d3+40 bite
+-42 -42 -42 -25
+FGK 0 0 0
+stand stand none 300
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#5608
+a large bear~
+a large bear~
+A large brown bear is here, looking for food
+~
+~
+bear~
+A 0 V 0 0 0
+80 80 161d26+1455 80d9+60 24d3+40 beating
+-42 -42 -42 -25
+DEO 0 EI 0
+stand stand none 300
+AGV ABCDEFHJKUV medium unknown
+#5609
+a barbarian villager~
+a barbarian villager~
+A barbarian villager walks about the village here
+~
+~
+Human~
+A 0 V 0 200 0
+85 85 171d28+1545 85d9+60 26d3+42 punch
+-45 -45 -45 -27
+EJ 0 0 0
+stand stand either 50
+AHMV ABCDEFGHIJK medium unknown
+#5610
+a barbarian hunter~
+a barbarian hunter~
+A barbarian hunter is here, tracking his prey
+~
+~
+Human~
+A 0 V 0 300 0
+85 85 171d28+1545 85d9+60 26d3+42 beating
+-45 -45 -45 -27
+EJ 0 0 0
+stand stand male 40
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M GRALL 5600 30~
+#5649
+test mob~
+test mob~
+Test mob
+~
+~
+Human~
+A 0 0 0 0 0
+0 0 1d1+10000000 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#5600
+a frozen cloak~
+a {CF{cr{Co{cz{Ce{cn {mCloak{x~
+A frost covered cloak lies on the the ground here~
+unknown~
+armor I AK
+63 63 63 62 0
+70 4 1500 P
+A
+13 150
+A
+24 -2
+A
+18 18
+A
+19 19
+A
+2 2
+#5601
+large red axe fleshripper~
+{rF{Rl{Ye{ys{wh{Wr{wi{yp{Yp{Re{rr{x~
+A large red axe lies on the ground here~
+unknown~
+weapon AB AN
+axe 8 14 chop BDE
+70 5 20000 P
+A
+1 4
+A
+19 20
+A
+18 20
+A
+23 -2
+#5602
+a feather earring~
+a {yFeather{W Ea{wrri{Wng{x~
+A long feather attacked to a small earring lies on the ground here~
+unknown~
+armor AI AV
+63 63 63 62 0
+70 3 15300 P
+A
+18 15
+A
+19 15
+A
+12 250
+#5603
+an iron band~
+an {DIron {WBand{x~
+An iron band lies on the ground here~
+unknown~
+armor 0 AS
+63 63 63 62 0
+70 4 12000 P
+A
+18 16
+A
+19 16
+A
+13 140
+A
+2 -1
+A
+5 3
+#5604
+a plain brown table~
+a plain {ybrown table{x~
+A plain {ybrown table{w sits in the middle of the hut~
+wood~
+furniture 0 0
+4 1000 D 500 500
+1 50 0 P
+#5605
+a gold band~
+a {YGold{W B{wand{x~
+A rather plain looking gold band has been dropped here~
+gold~
+jewelry Y AB
+0 0 0 0 0
+70 2 20000 P
+A
+12 300
+A
+4 5
+A
+3 5
+#5606
+a wooden chest~
+a {ywooden chest{x~
+A large {ywooden chest{x  lies in the corner, it is thoroughly rotted~
+wood~
+container A 0
+500 0 0 100 75
+1 30 100 P
+#5607
+a large hunting knife~
+a {WLarge{R H{ru{Rn{rt{Ri{rn{Rg {BK{bnife{x~
+A large, sharp knife is stuck into the ground here~
+steel~
+weapon AI AN
+dagger 8 15 pierce ADG
+70 4 5000 P
+A
+13 100
+A
+2 3
+A
+18 16
+A
+19 16
+#5608
+a battered wooden chair~
+a battered {ywooden chair{x~
+A battered {ywooden{x chair sits next to the table~
+wood~
+furniture 0 0
+1 1000 E 400 400
+1 10 500 P
+#5609
+frozen deer meat~
+{cF{Cr{co{Cz{ce{Cn {rDeer Meat{x~
+Some frozen meat is lying on the ground here~
+unknown~
+food 0 A
+3 5 0 0 0
+1 1 240 P
+#5610
+a brightly burning torch~
+a {YBrightly {RB{yu{Rr{yn{Ri{yn{Rg {yTorch{x~
+A brightly burning torch has been dropped here~
+wood~
+light A A
+0 0 50 0 0
+5 4 500 P
+#5611
+a water skin~
+a {cwater {yskin{x~
+An airtight water skin lies on the ground here~
+unknown~
+drink 0 AL
+10 10 'water' 0 0
+5 4 400 P
+#5612
+a worn leather backpack~
+a worn {yleather {b backpack{x~
+A worn leather backpack lies on the ground here~
+leather~
+container I AK
+100 A 0 100 50
+70 5 1000 P
+A
+2 -1
+A
+14 400
+#5613
+a warm bedroll~
+a {ywarm {g bedroll{x~
+A warm bedroll lies on the ground here~
+furs~
+furniture AB A
+1 1000 L 600 600
+70 10 5000 P
+#5614
+chain mail armor~
+{DChain-mail Armor{x~
+A set of chain-mail armor lies on the ground here~
+unknown~
+armor A AD
+67 67 67 66 0
+75 9 5000 P
+A
+1 2
+A
+19 10
+A
+18 10
+#5615
+enchanted leather armor~
+{yE{Yn{yc{Yh{ya{Yn{yt{ye{Yd{y Leather{b Armor{x~
+Some glowing leather armor rests on the ground here~
+leather~
+armor AI AD
+67 67 67 66 0
+75 5 3000 P
+A
+4 3
+A
+3 3
+A
+12 400
+#5616
+a barbarian spear~
+a {WBar{wbar{Wian{B S{bp{Be{ba{Br{x~
+A large spear is stuck into the ground here~
+unknown~
+weapon A AN
+staff 8 15 thrust DGH
+70 4 1000 P
+A
+1 2
+A
+19 14
+A
+18 14
+#5617
+a barbarian mace~
+a {WBar{wbar{Wian{R M{ra{Rc{re{x~
+A large, well crafted mace lies on the ground here~
+unknown~
+weapon 0 AN
+mace 8 16 pound BFG
+75 90 5000 P
+A
+18 14
+A
+19 14
+A
+2 -2
+A
+1 4
+A
+13 100
+#5618
+a barbarian flail~
+a {WBar{wbar{Wian{M F{ml{Ma{mi{Ml{x~
+A large flail lies on the ground here~
+unknown~
+weapon 0 AN
+flail 8 15 thwack ABG
+70 71 5000 P
+A
+19 15
+A
+18 15
+A
+5 4
+#5619
+a rawhide bracer~
+a {yRawhide Bracer{x~
+A leathery looking bracer lies on the ground here~
+rawhide~
+armor A AM
+67 67 67 66 0
+75 76 1000 P
+A
+13 100
+A
+2 3
+A
+19 15
+A
+18 15
+#5620
+rawhide boots~
+a pair of {yRawhide Boots{x~
+(no description)~
+rawhide~
+armor A AG
+67 67 67 66 0
+75 76 1000 P
+A
+14 50
+A
+19 20
+A
+18 20
+A
+1 3
+#5621
+a fur cap~
+a {rfur{y cap{x~
+A fur cap has been dropped on the ground here~
+unknown~
+armor A AE
+67 67 67 66 0
+75 76 1500 P
+A
+18 15
+A
+19 15
+A
+2 3
+A
+13 150
+#5622
+warm fur pants~
+some warm {rfur{y pants{x~
+Some warm looking fur pants have been dropped on the ground here~
+fur~
+armor A AF
+67 67 67 66 0
+75 76 2000 P
+A
+18 15
+A
+19 15
+A
+13 175
+#0
+
+
+
+#ROOMS
+#5600
+{CSnowy Trail{x~
+The temperature begins to plummet into frosty depths.  The air is dry and
+very cold.  The mountains are visible in the distance, rising majestically
+into the air, their peaks hidden by the clouds above.  The small snow dusted
+trail leads away to the north.  It is dotted with footprints here and there.
+~
+0 4 0
+D0
+~
+~
+0 0 5601
+D2
+~
+~
+0 0 5652
+S
+#5601
+{CSnowy Trail{x~
+The air grows colder and colder with each step.  Fierce gales of wind
+sting the face as they whip up snow and toss it about.  The wintry climate
+chills the bones of those not conditioned to it.  The small snowy trail
+continues on north.  
+~
+0 0 0
+D0
+~
+~
+0 0 5602
+D2
+~
+~
+0 0 5600
+S
+#5602
+{CSnowy Trail{x~
+The foothills of a large mountain come to a halt near the path.  A long,
+arduous mountain trail begins to the east.  It climbs high into the frozen
+peaks and valleys of the nearby mountain.  
+~
+0 0 0
+D1
+~
+~
+0 0 5603
+D2
+~
+~
+0 0 5601
+S
+#5603
+{CMountain Trail{x~
+The trail begins on a sharp incline, heading high into the mountain.  The
+wind gusts about making it all the more difficult.  The chilled air burns
+the throat and lungs of those not used to breathing it.  It doesnt seem
+possible, but it grows ever more colder with each step.  The trail continues
+to the north.  
+~
+0 0 5
+D0
+~
+~
+0 0 5604
+D3
+~
+~
+0 0 5602
+S
+#5604
+{CMountain Trail{x~
+The snow has drifted a few feet deep in some places.  The trail is still
+pretty much devoid of snow, but not tracks.  Many large bootprints are
+running back and forth, and a few paw tracks.  North leads further up into
+the mountain.  
+~
+0 0 5
+D0
+~
+~
+0 0 5605
+D2
+~
+~
+0 0 5603
+S
+#5605
+{CMountain Trail{x~
+The trail dissappears and hugs tightly against the mountainside.  It is
+no more than two feet wide in some places.  A small cliffside leads up to a
+plateau of sorts.  The beginings of a long frozen cave are to the east.  
+~
+0 0 0
+D1
+~
+~
+0 0 5607
+D2
+~
+~
+0 0 5604
+D4
+~
+~
+0 0 5606
+S
+#5606
+{CMountain Plateau{x~
+The mountain levels off a bit after a bit of a climb.  This plateau is
+covered with snow in varying depths, drifting almost three feet high in some
+places.  A small well forged trail leads to the west.  
+~
+0 4 0
+D3
+~
+~
+0 0 5618
+D5
+~
+~
+0 0 5605
+S
+#5607
+{cI{Cc{ce {CC{ca{Cv{ce{x~
+The walls, the floor, the ceiling are made of solid ice.  Light dances
+around the reflective surfaces and bounces from wall to wall at dizzying
+angles.  Large frozen stalagtites hang from the ceiling, some look ready to
+fall, but have probably been that way for hundreds of years.  The cave
+continues to the east.  
+~
+0 8 5
+D1
+~
+~
+0 0 5608
+D3
+~
+~
+0 0 5605
+S
+#5608
+{cI{Cc{ce {CC{ca{Cv{ce{x~
+The mirror like maze that is the ice cave continues here.  The floor is
+very slippery, but not impossible to tread.  The walls and ceiling reflect
+light perfectly making for difficult navigation.  Exits seem to lead off in
+all directions.  
+~
+0 8 5
+D1
+~
+~
+0 0 5609
+D3
+~
+~
+0 0 5607
+S
+#5609
+{cI{Cc{ce {CC{ca{Cv{ce{x~
+The mirror like maze that is the ice cave continues here.  The floor is
+very slippery, but not impossible to tread.  The walls and ceiling reflect
+light perfectly making for difficult navigation.  Exits seem to lead off in
+all directions.  
+~
+0 0 0
+D0
+~
+~
+0 0 5608
+D1
+~
+~
+0 0 5610
+D2
+~
+~
+0 0 5610
+D3
+~
+~
+0 0 5608
+S
+#5610
+{cI{Cc{ce {CC{ca{Cv{ce{x~
+The mirror like maze that is the ice cave continues here.  The floor is
+very slippery, but not impossible to tread.  The walls and ceiling reflect
+light perfectly making for difficult navigation.  Exits seem to lead off in
+all directions.  
+~
+0 0 0
+D0
+~
+~
+0 0 5609
+D1
+~
+~
+0 0 5608
+D3
+~
+~
+0 0 5609
+D5
+~
+~
+0 0 5611
+S
+#5611
+{cI{Cc{ce {CC{ca{Cv{ce{x~
+The mirror like maze that is the ice cave continues here.  The floor is
+very slippery, but not impossible to tread.  The walls and ceiling reflect
+light perfectly making for difficult navigation.  Exits seem to lead off in
+all directions.  
+~
+0 0 0
+D0
+~
+~
+0 0 5608
+D1
+~
+~
+0 0 5612
+D2
+~
+~
+0 0 5609
+D4
+~
+~
+0 0 5610
+S
+#5612
+{cI{Cc{ce {CC{ca{Cv{ce{x~
+The mirror like maze that is the ice cave continues here.  The floor is
+very slippery, but not impossible to tread.  The walls and ceiling reflect
+light perfectly making for difficult navigation.  Exits seem to lead off in
+all directions.  
+~
+0 8 0
+D0
+~
+~
+0 0 5613
+D1
+~
+~
+0 0 5615
+D2
+~
+~
+0 0 5614
+D3
+~
+~
+0 0 5611
+S
+#5613
+{CI{cc{Ce {CG{co{Cb{cl{Ci{cn {BHome{x~
+A small section of the cave has been worn down and hollowed out by the
+tireless efforts of an ice goblin.  A small blackened circle lies in the
+center, probably a safe place for the fire to burn away.  South leads back
+out into the ice cave.  
+~
+0 9 0
+D2
+~
+~
+0 0 5612
+S
+#5614
+{CI{cc{Ce {CG{co{Cb{cl{Ci{cn {BHome{x~
+A small section of the cave has been worn down and hollowed out by the
+tireless efforts of an ice goblin.  A small blackened circle lies in the
+center, probably a safe place for the fire to burn away.  North leads back
+out into the ice cave 
+~
+0 9 0
+D0
+~
+~
+0 0 5612
+S
+#5615
+{cI{Cc{ce {CC{ca{Cv{ce{x~
+The mirror like maze that is the ice cave continues here.  The floor is
+very slippery, but not impossible to tread.  The walls and ceiling reflect
+light perfectly making for difficult navigation.  Exits seem to lead off in
+all directions.  
+~
+0 9 0
+D0
+~
+~
+0 0 5616
+D1
+~
+~
+0 0 5610
+D2
+~
+~
+0 0 5617
+D3
+~
+~
+0 0 5612
+S
+#5616
+{CI{cc{Ce {CG{co{Cb{cl{Ci{cn {BHome{x~
+A small section of the cave has been worn down and hollowed out by the
+tireless efforts of an ice goblin.  A small blackened circle lies in the
+center, probably a safe place for the fire to burn away.  South leads back
+out into the ice cave 
+~
+0 9 0
+D2
+~
+~
+0 0 5615
+S
+#5617
+{CI{cc{Ce{C G{co{Cb{cl{Ci{cn {BHome{X~
+A small section of the cave has been worn down and hollowed out by the
+tireless efforts of an ice goblin.  A small blackened circle lies in the
+center, probably a safe place for the fire to burn away.  North leads back
+out into the ice cave 
+~
+0 9 0
+D0
+~
+~
+0 0 5615
+S
+#5618
+{cKargaranth Village{x~
+Black plumes of smoke rise into the frosty air.  The village is in plain
+sight now, many huts and villagers can be seen milling around.  This the
+barbarian village of Kargaranth, so named for the serpent god that, in
+barbarian myth, lead Kuhngaar the Brave to the village site over five
+hundred years ago.  
+~
+0 0 0
+D1
+~
+~
+0 0 5606
+D3
+~
+~
+0 0 5619
+S
+#5619
+{cKargaranth Village{x~
+The snow here is compacted by the heavy footfalls of the gargantuan
+barbarians.  It is a straight road running west through the village, only
+defined by the extraordinary amount of tracks running through it.  There are
+barbarian huts to the north and south.  The road continues west.  
+~
+0 0 0
+D0
+~
+~
+3 0 5620
+D1
+~
+~
+0 0 5618
+D2
+~
+~
+3 0 5621
+D3
+~
+~
+0 0 5622
+S
+#5620
+{yBarbarian Hut{x~
+This home is much larger on the inside than it appeared outside.  The
+walls are decorated with different furs from different slain beasts, as much
+to show off the trophy items as they are to insulate and keep the hut warm. 
+A roaring fire crackles in the hearth.  The hut is spotless.  The barbarians
+wifely duties are as neccessary as the husbands.  She knows her role is as
+important as his in surviving this harsh climate.  South leads back to the
+village road.  
+~
+0 8 0
+D2
+~
+~
+3 0 5619
+S
+#5621
+{yBarbarian Hut{x~
+This home is much larger on the inside than it appeared outside.  The
+walls are decorated with different furs from different slain beasts, as much
+to show off the trophy items as they are to insulate and keep the hut warm. 
+A roaring fire crackles in the hearth.  The hut is spotless.  The barbarians
+wifely duties are as neccessary as the husbands.  She knows her role is as
+important as his in surviving this harsh climate.  North leads back to the
+village road.  
+~
+0 8 0
+D0
+~
+~
+3 0 5619
+S
+#5622
+{cKargaranth Village{x~
+The snow here is compacted by the heavy footfalls of the gargantuan
+barbarians.  It is a straight road running west through the village, only
+defined by the extraordinary amount of tracks running through it.  There are
+barbarian huts to the north and south.  The village road continues west and
+back east.  
+~
+0 0 0
+D0
+~
+~
+3 0 5623
+D1
+~
+~
+0 0 5619
+D2
+~
+~
+3 0 5624
+D3
+~
+~
+0 0 5625
+S
+#5623
+{yAbandoned Hut{x~
+The family that occupied this hut went on a hunting trip together.  They
+became lost in the wilderness as a blizzard rolled in and froze to death in
+the unforgiving tundra.  This hut remains as a monument to their deaths and
+will never be torn down unless by the elements themselves.  South leads back
+to the village road.  
+~
+0 8 0
+D2
+~
+~
+3 0 5622
+S
+#5624
+{yBarbarian Hut{x~
+This home is much larger on the inside than it appeared outside.  The
+walls are decorated with different furs from different slain beasts, as much
+to show off the trophy items as they are to insulate and keep the hut warm. 
+A roaring fire crackles in the hearth.  The hut is spotless.  The barbarians
+wifely duties are as neccessary as the husbands.  She knows her role is as
+important as his in surviving this harsh climate.  South leads back to the
+village road.  
+~
+0 8 0
+D0
+~
+~
+3 0 5622
+S
+#5625
+{cVillage Intersection{x~
+The only two roads in the village combine and intersect here.  The main
+road continues to the west.  Another is running north and south where a few
+merchants have set up supply shops.  
+~
+0 0 0
+D0
+~
+~
+0 0 5627
+D1
+~
+~
+0 0 5622
+D2
+~
+~
+0 0 5628
+D3
+~
+~
+0 0 5626
+S
+#5626
+{cKargaranth Village{x~
+The snow here is compacted by the heavy footfalls of the gargantuan
+barbarians.  It is a straight road running west through the village, only
+defined by the extraordinary amount of tracks running through it.  There is
+barbarian hut to the north.  The road contiues west and back to the east.  
+~
+0 4 0
+D0
+~
+~
+3 0 5636
+D1
+~
+~
+0 0 5625
+D3
+~
+~
+0 0 5634
+S
+#5627
+{cSmaller Road{x~
+This smaller road has a few huts that serve as supply shops.  Merchants
+seem to pop up wherever there is profit to be had, even in such harsh
+conditions as these.  The road continues to the north and south.  There is a
+small shop to the east.  
+~
+0 0 0
+D0
+~
+~
+0 0 5635
+D1
+~
+~
+0 0 5632
+D2
+~
+~
+0 0 5625
+S
+#5628
+{cSmaller Road{x~
+This smaller road has a few huts that serve as supply shops.  Merchants
+seem to pop up wherever there is profit to be had, even in such harsh
+conditions as these.  The road continues to the north and south.  There is a
+small shop to the west.  
+~
+0 0 0
+D0
+~
+~
+0 0 5625
+D2
+~
+~
+0 0 5630
+D3
+~
+~
+0 0 5629
+S
+#5629
+{bSupply Shop{x~
+The shop is extremely cold despite the fire burning in the corner.  The
+shopkeeper likes to keep the door open to show everyone he is open.  The
+merchant who runs this place, Adiel, set up here a few years ago and has not
+left since.  He took himself a wife and lives in the back of the shop.  He
+often buys the skins and furs the hunters return with.  East leads back to
+the road.  
+~
+0 8 0
+D1
+~
+~
+0 0 5628
+S
+#5630
+{cSmaller Road{x~
+This smaller road has a few huts that serve as supply shops.  Merchants
+seem to pop up wherever there is profit to be had, even in such harsh
+conditions as these.  The road continues to the north.  There is a small
+shop to the east.  To the south are the outskirts of the village, beyond
+which is barren wilderness.  
+~
+0 0 0
+D0
+~
+~
+0 0 5628
+D1
+~
+~
+0 0 5631
+S
+#5631
+{rArmor Shop{x~
+Many types of leather and chain mail armor hang on the walls.  Although
+the threat of war or battle here is scarce, sometimes hunting wild animals
+can go awry and its nice to have some protection.  West leads back to the
+village road.  
+~
+0 8 0
+D3
+~
+~
+0 0 5630
+S
+#5632
+{gWeapons Shop{x~
+Many weapons are hanging on the walls and are attached to various
+shelves.  Most of the weapons are forged by the barbarians themselves.  Not
+the prettiest or flashiest, but they are strong, well made and get the job
+done.  They sell them to Hurungh, who in turn sells them to travelers.  West
+leads back to the road.  
+~
+0 8 0
+D3
+~
+~
+0 0 5627
+S
+#5633
+{DCaught In The Barbarians Net!!!{x~
+You've been foolishly captured in the trappers net, time to recall.  
+~
+0 4 3
+S
+#5634
+{cThe Hunting Grounds{x~
+These are the barbarian hunting grounds.  Here they kill snow rabbits,
+bears, and the occasional fox or wolf.  All about you are the signs of the
+lurking barbarians, broken branches, large footprints.  Exits lead off in
+many directions.  
+~
+0 0 0
+D0
+~
+~
+0 0 5637
+D1
+~
+~
+0 0 5626
+D2
+~
+~
+0 0 5639
+D3
+~
+~
+0 0 5638
+S
+#5635
+{cSmaller Road{x~
+The road ends here.  To the north is nothing but wilderness and barren
+wasteland.  The road is back south.  
+~
+0 0 0
+D2
+~
+~
+0 0 5627
+S
+#5636
+{yBarbarian Hut{x~
+This home is much larger on the inside than it appeared outside.  The
+walls are decorated with different furs from different slain beasts, as much
+to show off the trophy items as they are to insulate and keep the hut warm. 
+A roaring fire crackles in the hearth.  The hut is spotless.  The barbarians
+wifely duties are as neccessary as the husbands.  She knows her role is as
+important as his in surviving this harsh climate.  South leads back to the
+village road.  
+~
+0 0 0
+D2
+~
+~
+3 0 5626
+S
+#5637
+{cThe Hunting Grounds{x~
+These are the barbarian hunting grounds.  Here they skill snow rabbits,
+bears, and the occasional fox or wolf.  All about you are the signs of the
+lurking barbarians, broken branches, large footprints.  Exits lead off in
+many directions.  
+~
+0 0 0
+D2
+~
+~
+0 0 5634
+D3
+~
+~
+0 0 5640
+S
+#5638
+{cThe Hunting Grounds{x~
+These are the barbarian hunting grounds.  Here they skill snow rabbits,
+bears, and the occasional fox or wolf.  All about you are the signs of the
+lurking barbarians, broken branches, large footprints.  Exits lead off in
+many directions.  
+~
+0 0 0
+D0
+~
+~
+0 0 5640
+D1
+~
+~
+0 0 5634
+D2
+~
+~
+0 0 5641
+D3
+~
+~
+0 0 5642
+S
+#5639
+{cThe Hunting Grounds{x~
+These are the barbarian hunting grounds.  Here they skill snow rabbits,
+bears, and the occasional fox or wolf.  All about you are the signs of the
+lurking barbarians, broken branches, large footprints.  Exits lead off in
+many directions.  
+~
+0 0 0
+D0
+~
+~
+0 0 5634
+D3
+~
+~
+0 0 5641
+S
+#5640
+{cThe Hunting Grounds{x~
+These are the barbarian hunting grounds.  Here they skill snow rabbits,
+bears, and the occasional fox or wolf.  All about you are the signs of the
+lurking barbarians, broken branches, large footprints.  Exits lead off in
+many directions.  
+~
+0 0 0
+D1
+~
+~
+0 0 5637
+D2
+~
+~
+0 0 5638
+D3
+~
+~
+0 0 5643
+S
+#5641
+{cThe Hunting Grounds{x~
+These are the barbarian hunting grounds.  Here they skill snow rabbits,
+bears, and the occasional fox or wolf.  All about you are the signs of the
+lurking barbarians, broken branches, large footprints.  Exits lead off in
+many directions.  
+~
+0 0 0
+D0
+~
+~
+0 0 5638
+D1
+~
+~
+0 0 5639
+D3
+~
+~
+0 0 5644
+S
+#5642
+{cThe Hunting Grounds{x~
+These are the barbarian hunting grounds.  Here they skill snow rabbits,
+bears, and the occasional fox or wolf.  All about you are the signs of the
+lurking barbarians, broken branches, large footprints.  Exits lead off in
+many directions.  
+~
+0 0 0
+D0
+~
+~
+0 0 5643
+D1
+~
+~
+0 0 5638
+D2
+~
+~
+0 0 5644
+D3
+~
+~
+0 0 5645
+S
+#5643
+{cThe Hunting Grounds{x~
+These are the barbarian hunting grounds.  Here they skill snow rabbits,
+bears, and the occasional fox or wolf.  All about you are the signs of the
+lurking barbarians, broken branches, large footprints.  Exits lead off in
+many directions.  
+~
+0 0 0
+D1
+~
+~
+0 0 5640
+D2
+~
+~
+0 0 5642
+S
+#5644
+{cThe Hunting Grounds{x~
+These are the barbarian hunting grounds.  Here they skill snow rabbits,
+bears, and the occasional fox or wolf.  All about you are the signs of the
+lurking barbarians, broken branches, large footprints.  Exits lead off in
+many directions.  
+~
+0 0 0
+D0
+~
+~
+0 0 5642
+D1
+~
+~
+0 0 5641
+S
+#5645
+{cA Frozen Trail{x~
+The grounds are left behind.  A frozen over trail leads away to the west,
+heading towards a large frozen lake.  
+~
+0 4 0
+D1
+~
+~
+0 0 5642
+D3
+~
+~
+0 0 5646
+S
+#5646
+{cA Frozen Trail{x~
+The grounds are left behind.  A frozen over trail leads away to the west,
+heading towards a large frozen lake.  
+~
+0 0 0
+D1
+~
+~
+0 0 5645
+D3
+~
+~
+0 0 5647
+S
+#5647
+{cOn The Frozen Lake{x~
+This lake has had a solid frozen surface for hundreds of years.  Some
+fish are actually thriving beneath the icy surface.  The barbarians dig
+holes and catch many a fish here.  The lake continues west, north and south.
+~
+0 0 0
+D0
+~
+~
+0 0 5650
+D1
+~
+~
+0 0 5646
+D2
+~
+~
+0 0 5651
+D3
+~
+~
+0 0 5648
+S
+#5648
+{cOn The Frozen Lake{x~
+The ice begins to spider web in some places, it would be safer to go back
+at this point, the ice is very unstable and could crack at any minute.  East
+leads back to land, the lake continues west.  
+~
+0 0 0
+D1
+~
+~
+0 0 5647
+D3
+~
+~
+0 0 5649
+S
+#5649
+{CINTO THE FROSTY WATER!{X~
+The Ice CRAAAAAACCKS and CREAAAAAKSSSS and shatters.
+ 
+You fall into the icy cold water beneath. It overwhelms your
+senses and threatens to black you out. Better recall
+before hypothermia sets in
+~
+0 4 0
+S
+#5650
+{cOn The Frozen Lake{x~
+This lake has had a solid frozen surface for hundreds of years.  Some
+fish are actually thriving beneath the icy surface.  The barbarians dig
+holes and catch many a fish here.  
+~
+0 0 0
+D2
+~
+~
+0 0 5647
+S
+#5651
+{cOn The Frozen Lake{x~
+This lake has had a solid frozen surface for hundreds of years.  Some
+fish are actually thriving beneath the icy surface.  The barbarians dig
+holes and catch many a fish here.  
+~
+0 0 0
+D0
+~
+~
+0 0 5647
+S
+#5652
+{CA Cold Pathway{x~
+The snow begins to fall harder here.  The temperature grows quite cold. 
+The trail presses on however.  
+~
+0 0 0
+D0
+~
+~
+0 0 5600
+D2
+~
+~
+0 0 5653
+S
+#5653
+{CA Cold Pathway{x~
+The snow begins to fall harder here.  The temperature grows quite cold. 
+The trail presses on however.  
+~
+0 0 0
+D0
+~
+~
+0 0 5652
+D3
+~
+~
+0 0 5654
+S
+#5654
+{CA Cold Pathway{x~
+The snow begins to fall harder here.  The temperature grows quite cold. 
+The trail presses on however.  
+~
+0 0 0
+D1
+~
+~
+0 0 5653
+D3
+~
+~
+0 0 5655
+S
+#5655
+{CA Cold Pathway{x~
+The snow begins to fall harder here.  The temperature grows quite cold. 
+The trail presses on however.  
+~
+0 0 0
+D1
+~
+~
+0 0 5654
+D2
+~
+~
+0 0 639
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+D 0 5619 0 1
+D 0 5619 2 1
+D 0 5620 2 1
+D 0 5621 0 1
+D 0 5622 0 1
+D 0 5622 2 1
+D 0 5623 2 1
+D 0 5624 0 1
+D 0 5626 0 1
+D 0 5636 2 1
+M 0 5600 100 5613 1
+E 0 5600 0 12
+M 0 5600 100 5614 1
+G 0 5601 0
+M 0 5600 100 5616 1
+E 0 5602 0 25
+M 0 5600 100 5617 1
+E 0 5603 0 21
+M 0 5609 100 5618 2
+M 0 5601 100 5620 1
+O 0 5604 0 5620
+E 0 5605 0 2
+O 0 5604 0 5621
+M 0 5601 100 5621 1
+M 0 5609 100 5622 2
+O 0 5606 0 5623
+P 0 5607 1 5606 1
+O 0 5604 0 5624
+O 0 5608 0 5624
+M 0 5601 100 5624 1
+M 0 5609 100 5626 2
+M 0 5602 1 5629 1
+G 0 5609 0
+G 0 5610 0
+G 0 5611 0
+G 0 5612 0
+G 0 5613 0
+M 0 5609 100 5630 2
+M 0 5603 1 5631 1
+G 0 5614 0
+G 0 5615 0
+M 0 5604 1 5632 1
+G 0 5616 0
+G 0 5617 0
+G 0 5618 0
+M 0 5609 100 5635 2
+M 0 5601 100 5636 1
+M 0 5607 100 5637 1
+M 0 5608 100 5637 1
+M 0 5606 100 5638 2
+M 0 5608 100 5638 2
+M 0 5610 1 5638 1
+M 0 5607 100 5638 2
+M 0 5607 100 5639 1
+M 0 5608 100 5639 1
+M 0 5608 100 5640 1
+M 0 5607 100 5640 1
+M 0 5606 100 5641 2
+E 0 5620 0 8
+M 0 5606 100 5642 2
+M 0 5606 100 5643 2
+E 0 5619 0 14
+M 0 5607 100 5644 1
+M 0 5608 100 5644 1
+M 0 5605 100 5647 2
+M 0 5605 100 5648 2
+M 0 5605 100 5650 2
+E 0 5621 0 6
+M 0 5605 100 5651 2
+E 0 5622 0 7
+S
+
+
+
+#SHOPS
+5602 19 1 12 15 17 100 100 0 23
+5603 0 9 0 0 0 100 100 0 23
+5604 5 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#5600
+mob echo {RThe Hunter trips his trap and sends a net in motion under your feet!{x
+mob trans $n 5633
+~
+#0
+
+#$

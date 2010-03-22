@@ -1,0 +1,6 @@
+USER       PID %CPU %MEM   VSZ  RSS TTY      STAT START   TIME COMMAND
+sdmud     6134  0.0  0.1  4528 1860 ?        S    Apr28   9:12 ./genmud
+sdmud    28111  0.0  0.1  6708 1608 ?        SN   May06   0:00 /bin/csh ./startsd
+sdmud    28135  0.1  0.9 23816 9996 ?        SN   May06   1:27 sdmud 7000 state 3
+sdmud    18728  0.0  0.0  5784  896 ?        SN   05:35   0:00 sh -c ps ux > ../data/text/ps.txt
+sdmud    18729  0.0  0.0  4012  744 ?        RN   05:35   0:00 ps ux

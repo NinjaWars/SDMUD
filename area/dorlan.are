@@ -1,0 +1,1581 @@
+#AREADATA
+Name Tree of Death~
+Builders Mangan~
+VNUMs 41000 41059
+Credits {Y[100-150] Tree of Death{x~
+Security 1
+RepopMsg The tree sways as death itself awakens.~
+End
+
+
+
+#MOBILES
+#41000
+dark soul~
+a {Ddark soul{x~
+A {Ddark soul{x is sneaking around here.
+~
+This dark soul is sneaking around waiting for the perfect time to attack.
+Unless your with some kind of soul slayer, you might wanna stay away from
+this thing.  
+~
+Human~
+AG 0 0 0 -1000 0
+150 150 752d50+6061 150d10+85 50d3+162 drain
+-91 -91 -91 -60
+FK 0 G C
+stand stand either 0
+0 0 tiny unknown
+F for AHMV
+F par ABCDEFGHIJK
+#41001
+hiding small vampire~
+a {Dh{gi{Wd{gi{Dn{Wg {Dv{Ram{Dp{Rir{De{x~
+A small {Dv{Ram{Dp{Rir{De{x is {Dh{gi{Wd{gi{Dn{Wg {xhere.
+~
+This vampire is hiding from you, whether it is scared or wanting to
+attack you can't tell.  It seems to be very small in size compared to the
+other things in this tree.  
+~
+Human~
+AG 0 0 0 -1000 0
+115 115 577d38+3484 115d10+85 38d3+127 bite
+-68 -68 -68 -43
+CFHKN 0 MQ C
+stand stand either 0
+AHMV ABCDEFGHIJKV small unknown
+#41002
+large vampire~
+a large {Dv{ram{Dp{rir{De{x~
+A {Dv{ram{Dp{rir{De {xof large size is here.
+~
+This vampire is huge in size.  It sends you a deep grin then rushes
+behind some branches.  This just gets creepier and creepier as you
+continue...  
+~
+Human~
+AG 0 0 0 -1000 0
+125 125 627d41+5049 125d10+85 41d3+137 bite
+-75 -75 -75 -49
+CDFGHINO 0 MQ C
+stand stand either 0
+AHMV ABCDEFGHIJK medium unknown
+#41003
+flaming demon fire flame~
+a {rf{yl{ra{ym{ri{yn{rg {Rde{Dm{Ron{x~
+A {Rde{Dm{Ron {xis here {rf{yl{ra{ym{ri{yn{rg{x.
+~
+This demon has seems to be flaming.  A fire covers his head, shoulders,
+and both arms.  It's fingers have a dark black color to them, as if they've
+been burned.  
+~
+Demon~
+AG 0 Va 0 -1000 0
+135 135 677d45+5453 135d10+85 45d3+147 flame
+-82 -82 -82 -53
+BCDFGH H 0 CINSY
+stand stand either 0
+AHMV ABCGHIJK medium unknown
+#41004
+huge demon~
+a huge {rde{Dm{ron{x~
+A huge {rde{Dm{ron {xis here.
+~
+This huge demon stand before you.  It is a dark red with a black middle. 
+This might symbolize the turning of undead to demon.  With a quick glance
+towards you, it runs off into the tree.  
+~
+Demon~
+AG 0 Va 0 -1000 0
+145 145 727d48+5857 145d10+85 48d3+157 blast
+-88 -88 -88 -57
+BCFIN H 0 CINSY
+stand stand either 0
+AHMV ABCGHIJK medium unknown
+#41005
+second sun~
+the {Ysun{x~
+The {Ysecond sun {xof the realms is here.
+~
+There seems to be two suns in this realm.  Perhaps this is the doings of
+some immortal guardian.  Whatever it is, it'll be best not to touch it.  The
+sun rests on tree here, without lighting it on fire.  
+~
+Human~
+AB 0 0 0 0 0
+165 660 661d56+23325 165d15+600 42d5+191 flame
+-191 -191 -191 -158
+0 BHJ LQ CI
+stand stand none 0
+0 0 huge unknown
+F for AHMV
+F par ABCDEFGHIJK
+#41006
+Cilaku Guard Lair~
+{DC{Yi{yl{Ya{Dk{yu{x~
+{DC{Yi{yl{Ya{Dk{yu{x stands here guarding {DM{Ga{Dn{Gg{Da{Gn{D'{Gs {DL{ra{Di{rr{x.
+~
+This powerful dragon is guarding all who oppose the almighty Mangan.  For
+those of you who don't belong, it'll be best to leave now while you still
+can.  
+~
+unique~
+AB 0 JT 0 -666 0
+10000 0 1d1+0 666d15+600 167d5+692 divine
+-800 -800 -800 -664
+CFGIMO AB BEH FI
+stand stand male 0
+AHZ ACDEFGHIJKPQUVX huge unknown
+#41007
+Dorlan Guardian Tree Death Titan~
+{DD{Bo{Dr{Bl{Da{Bn{x~
+{DD{Bo{Dr{Bl{Da{Bn{x, {cGua{Wrd{cian {xof the {gTree {xof {DD{re{Ra{rt{Dh{x is here.
+~
+Dorlan is here watching over the Tree of Death.  He has cast a shadow
+around it, for then the sun will light up nothing beyond the tree's
+branches.  This powerful titan has a blue fire in his black eyes.  
+~
+Titan~
+AB 0 Da 0 0 0
+210 840 841d71+31816 210d15+600 53d5+236 wrath
+-246 -246 -246 -203
+CEFGIN B DF 0
+stand stand male 418
+AHMV ABCDEFGHIJK medium unknown
+#0
+
+
+
+#OBJECTS
+#41000
+dark shadow~
+a {Ddark shadow{x~
+A {Ddark shadow {xis here.~
+unknown~
+jewelry SY AU
+0 0 0 0 0
+150 151 146 P
+A
+19 30
+A
+17 -15
+#41001
+flaming soul~
+a {Rf{yl{Ra{ym{Ri{yn{Rg {Dsoul{x~
+A {Rf{yl{Ra{ym{Ri{yn{Rg {Dsoul{x is here.~
+unknown~
+light 0 A
+0 0 999 0 0
+150 0 0 P
+A
+18 30
+A
+17 -15
+#41002
+demonstone stone~
+a {Rdemon{dstone{x~
+A {Rdemon's {Dstone {xis here.~
+unknown~
+demon_stone SY AO
+0 0 0 0 0
+0 1 0 P
+#41003
+kalicu realm room portal~
+a portal to {DK{Ya{yl{Di{yc{Yu{y's {DR{ye{Ya{Dl{ym{x~
+A portal to {DK{Ya{yl{Di{yc{Yu{y's {DR{ye{Ya{Dl{ym{x is on the ground here.~
+unknown~
+portal 0 0
+999 0 0 40699 0
+0 0 0 P
+#41004
+portal giliath throne room~
+a portal to {CG{ci{Cl{ci{Ca{ct{Ch{c'{Cs {YT{yh{Yr{yo{Yn{ye {xroom~
+A portal to {CG{ci{Cl{ci{Ca{ct{Ch{c'{Cs {YT{yh{Yr{yo{Yn{ye {xroom is here.~
+unknown~
+portal 0 0
+999 0 0 40299 0
+0 0 0 P
+#41005
+soulstone stone~
+a {Dsoul{Wstone{x~
+A {Wstone {xof a {Dsoul {xis here.~
+unknown~
+warp_stone SY AO
+0 0 0 0 0
+0 1 0 P
+#41006
+mithril earring p-item~
+a {Wm{ci{Wt{ch{Wr{ci{Wl {Yearring{x~
+An {Yearring {xmade of {Wm{ci{Wt{ch{Wr{ci{Wl {xis here.~
+unknown~
+jewelry GSY AV
+0 0 0 0 0
+150 1 0 P
+A
+19 15
+A
+18 45
+#41007
+portal quest soul field~
+a portal to the {yField {xof {DSouls{x~
+A portal to the {yField {xof {DSouls{x is here.~
+unknown~
+portal SY 0
+999 0 0 41060 0
+0 0 0 P
+#41008
+portal cloud 9 bar~
+a portal to {WThe Cloud {R9 {YBar{x~
+A portal to {WThe Cloud {R9 {YBar{x is on the ground here.~
+unknown~
+portal SY 0
+999 0 0 20200 0
+0 0 0 P
+#41054
+{xShould Delete Object~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#41000
+{BBefore the {gTree {xof {DD{re{Ra{rt{Dh{x~
+{yWarning!!!
+{BT{bhis {GI{gs {mA {CH{cigh {DL{Wevel {RA{rrea{x!
+{DR{Recommended {xfor {BL{cevels {W150 - {RA{rncient{x.
+~
+0 4 3
+D0
+~
+~
+0 0 41059
+D2
+~
+~
+0 0 6506
+S
+#41001
+{gBelow the Branches{x~
+The ground is dry from all the roots that have sucked up the water.  It's
+said to be dangerous to travel outside the shadow of this tree, for then the
+souls will attack without mercy.  
+~
+0 0 3
+D2
+~
+~
+0 0 41051
+D4
+~
+~
+0 0 41005
+S
+#41002
+{gBelow the Branches{x~
+The branches above are close enough to grab and climb up.  It is said to
+be dangerous to travel beyond the shadow of this large tree, for then the
+demons can see you in plain day light.  
+~
+0 0 3
+D3
+~
+~
+0 0 41051
+D4
+~
+~
+0 0 41006
+S
+#41003
+{gBelow the Branches{x~
+The roots underground have drank all the water from the soil here.  The
+dark shadow of the tree ends further to the south.  Perhaps it'd be best to
+stay here even when it's night.  
+~
+0 0 3
+D0
+~
+~
+0 0 41051
+D4
+~
+~
+0 0 41007
+S
+#41004
+{gBelow the Branches{x~
+The shadow of this tree ends here.  Going farther out, passed the shadow
+can be dangerous.  The ground is hard here since the roots have drank all
+the water from it.  
+~
+0 0 3
+D1
+~
+~
+0 0 41051
+D4
+~
+~
+0 0 41008
+S
+#41005
+{gWorking Through the Branches{x~
+The tree is already scaring you and your only ten feet above the ground. 
+Just stay in the tree and don't fall down, or the souls will have a grand
+feast.  
+~
+0 0 3
+D2
+~
+~
+0 0 41009
+D5
+~
+~
+0 0 41001
+S
+#41006
+{gWorking Through the Branches{x~
+The tree is already scaring you and your only ten feet above the ground. 
+Just stay in the tree and don't fall down, or the souls will have a grand
+feast.  
+~
+0 0 3
+D3
+~
+~
+0 0 41009
+D5
+~
+~
+0 0 41002
+S
+#41007
+{gWorking Through the Branches{x~
+The tree is already scaring you and your only ten feet above the ground. 
+Just stay in the tree and don't fall down, or the souls will have a grand
+feast.  
+~
+0 0 3
+D0
+~
+~
+0 0 41009
+D5
+~
+~
+0 0 41003
+S
+#41008
+{gWorking Through the Branches{x~
+The tree is already scaring you and your only ten feet above the ground. 
+Just stay in the tree and don't fall down, or the souls will have a grand
+feast.  
+~
+0 0 3
+D1
+~
+~
+0 0 41009
+D5
+~
+~
+0 0 41004
+S
+#41009
+{gWorking Through the Branches{x~
+The tree is already scaring you and your only ten feet above the ground. 
+Just stay in the tree and don't fall down, or the souls will have a grand
+feast.  
+~
+0 0 3
+D0
+~
+~
+0 0 41005
+D1
+~
+~
+0 0 41006
+D2
+~
+~
+0 0 41007
+D3
+~
+~
+0 0 41008
+D4
+~
+~
+0 0 41010
+S
+#41010
+{gStarting up the Tree{x~
+Climbing higher up the tree, you see all the hiding soul.  It seems
+you've been blessed with power by the soul slayer.  
+~
+0 0 3
+D0
+~
+~
+0 0 41011
+D1
+~
+~
+0 0 41012
+D2
+~
+~
+0 0 41013
+D3
+~
+~
+0 0 41014
+D4
+~
+~
+0 0 41015
+D5
+~
+~
+0 0 41009
+S
+#41011
+{gStarting up the Tree{x~
+Climbing higher up the tree, you see all the hiding soul.  It seems
+you've been blessed with power by the soul slayer.  
+~
+0 0 3
+D2
+~
+~
+0 0 41010
+S
+#41012
+{gStarting up the Tree{x~
+Climbing higher up the tree, you see all the hiding soul.  It seems
+you've been blessed with power by the soul slayer.  
+~
+0 0 3
+D3
+~
+~
+0 0 41010
+S
+#41013
+{gStarting up the Tree{x~
+Climbing higher up the tree, you see all the hiding soul.  It seems
+you've been blessed with power by the soul slayer.  
+~
+0 0 3
+D0
+~
+~
+0 0 41010
+S
+#41014
+{gStarting up the Tree{x~
+Climbing higher up the tree, you see all the hiding soul.  It seems
+you've been blessed with power by the soul slayer.  
+~
+0 0 3
+D1
+~
+~
+0 0 41010
+S
+#41015
+{gTwenty Feet Above the Ground{x~
+Climbing higher up, it seems you can't ever finish off these souls.  They
+just keep coming and leaving towards the top.  Maybe there's something at
+the top worth finding.  
+~
+0 0 3
+D0
+~
+~
+0 0 41016
+D1
+~
+~
+0 0 41017
+D2
+~
+~
+0 0 41018
+D3
+~
+~
+0 0 41019
+D4
+~
+~
+0 0 41020
+D5
+~
+~
+0 0 41010
+S
+#41016
+{gTwenty Feet Above the Ground{x~
+Climbing higher up, it seems you can't ever finish off these souls.  They
+just keep coming and leaving towards the top.  Maybe there's something at
+the top worth finding.  
+~
+0 0 3
+D2
+~
+~
+0 0 41015
+S
+#41017
+{gTwenty Feet Above the Ground{x~
+Climbing higher up, it seems you can't ever finish off these souls.  They
+just keep coming and leaving towards the top.  Maybe there's something at
+the top worth finding.  
+~
+0 0 3
+D3
+~
+~
+0 0 41015
+S
+#41018
+{gTwenty Feet Above the Ground{x~
+Climbing higher up, it seems you can't ever finish off these souls.  They
+just keep coming and leaving towards the top.  Maybe there's something at
+the top worth finding.  
+~
+0 0 3
+D0
+~
+~
+0 0 41015
+S
+#41019
+{gTwenty Feet Above the Ground{x~
+Climbing higher up, it seems you can't ever finish off these souls.  They
+just keep coming and leaving towards the top.  Maybe there's something at
+the top worth finding.  
+~
+0 0 3
+D1
+~
+~
+0 0 41015
+S
+#41020
+{gNearly Halfway Up{x~
+You're nearing the middle of the tree.  A few more feet and you'll be
+past halfway.  The souls are in great number here, so just don't look down. 
+~
+0 0 3
+D0
+~
+~
+0 0 41021
+D1
+~
+~
+0 0 41022
+D2
+~
+~
+0 0 41023
+D3
+~
+~
+0 0 41024
+D4
+~
+~
+0 0 41025
+D5
+~
+~
+0 0 41015
+S
+#41021
+{gNearly Halfway Up{x~
+You're nearing the middle of the tree.  A few more feet and you'll be
+past halfway.  The souls are in great number here, so just don't look down. 
+~
+0 0 3
+D2
+~
+~
+0 0 41020
+S
+#41022
+{gNearly Halfway Up{x~
+You're nearing the middle of the tree.  A few more feet and you'll be
+past halfway.  The souls are in great number here, so just don't look down. 
+~
+0 0 3
+D3
+~
+~
+0 0 41020
+S
+#41023
+{gNearly Halfway Up{x~
+You're nearing the middle of the tree.  A few more feet and you'll be
+past halfway.  The souls are in great number here, so just don't look down. 
+~
+0 0 3
+D0
+~
+~
+0 0 41020
+S
+#41024
+{gNearly Halfway Up{x~
+You're nearing the middle of the tree.  A few more feet and you'll be
+past halfway.  The souls are in great number here, so just don't look down. 
+~
+0 0 3
+D1
+~
+~
+0 0 41020
+S
+#41025
+{gForty Feet off the Ground{x~
+You're almost halfway up the tree.  Looking straight up you can see a
+bright ball of light.  Maybe that's where all the souls are going.  Now's
+the time to turn back if you must.  
+~
+0 0 3
+D0
+~
+~
+0 0 41026
+D1
+~
+~
+0 0 41027
+D2
+~
+~
+0 0 41028
+D3
+~
+~
+0 0 41029
+D4
+~
+~
+0 0 41030
+D5
+~
+~
+0 0 41020
+S
+#41026
+{gForty Feet off the Ground{x~
+You're almost halfway up the tree.  Looking straight up you can see a
+bright ball of light.  Maybe that's where all the souls are going.  Now's
+the time to turn back if you must.  
+~
+0 0 3
+D2
+~
+~
+0 0 41025
+S
+#41027
+{gForty Feet off the Ground{x~
+You're almost halfway up the tree.  Looking straight up you can see a
+bright ball of light.  Maybe that's where all the souls are going.  Now's
+the time to turn back if you must.  
+~
+0 0 3
+D3
+~
+~
+0 0 41025
+S
+#41028
+{gForty Feet off the Ground{x~
+You're almost halfway up the tree.  Looking straight up you can see a
+bright ball of light.  Maybe that's where all the souls are going.  Now's
+the time to turn back if you must.  
+~
+0 0 3
+D0
+~
+~
+0 0 41025
+S
+#41029
+{gForty Feet off the Ground{x~
+You're almost halfway up the tree.  Looking straight up you can see a
+bright ball of light.  Maybe that's where all the souls are going.  Now's
+the time to turn back if you must.  
+~
+0 0 3
+D1
+~
+~
+0 0 41025
+S
+#41030
+{gHalfway Up{x~
+You've just climbed over halfway.  The souls are a little bigger here. 
+With the soul slayer's blessing, they should still be an easy fight.  Just
+keep looking up and you should be fine.  
+~
+0 0 3
+D0
+~
+~
+0 0 41031
+D1
+~
+~
+0 0 41032
+D2
+~
+~
+0 0 41033
+D3
+~
+~
+0 0 41034
+D4
+~
+~
+0 0 41035
+D5
+~
+~
+0 0 41025
+S
+#41031
+{gHalfway Up{x~
+You've just climbed over halfway.  The souls are a little bigger here. 
+With the soul slayer's blessing, they should still be an easy fight.  Just
+keep looking up and you should be fine.  
+~
+0 0 3
+D2
+~
+~
+0 0 41030
+S
+#41032
+{gHalfway Up{x~
+You've just climbed over halfway.  The souls are a little bigger here. 
+With the soul slayer's blessing, they should still be an easy fight.  Just
+keep looking up and you should be fine.  
+~
+0 0 3
+D3
+~
+~
+0 0 41030
+S
+#41033
+{gHalfway Up{x~
+You've just climbed over halfway.  The souls are a little bigger here. 
+With the soul slayer's blessing, they should still be an easy fight.  Just
+keep looking up and you should be fine.  
+~
+0 0 3
+D0
+~
+~
+0 0 41030
+S
+#41034
+{gHalfway Up{x~
+You've just climbed over halfway.  The souls are a little bigger here. 
+With the soul slayer's blessing, they should still be an easy fight.  Just
+keep looking up and you should be fine.  
+~
+0 0 3
+D1
+~
+~
+0 0 41030
+S
+#41035
+{gSixty Feet Above the Ground{x~
+You're past the halfway point.  The souls seem to be running upwards from
+here.  The branches are to weak on the ends to climb up very fast.  
+~
+0 0 3
+D0
+~
+~
+0 0 41036
+D1
+~
+~
+0 0 41037
+D2
+~
+~
+0 0 41038
+D3
+~
+~
+0 0 41039
+D4
+~
+~
+0 0 41040
+D5
+~
+~
+0 0 41030
+S
+#41036
+{gSixty Feet Above the Ground{x~
+You're past the halfway point.  The souls seem to be running upwards from
+here.  The branches are to weak on the ends to climb up very fast.  
+~
+0 0 3
+D2
+~
+~
+0 0 41035
+S
+#41037
+{gSixty Feet Above the Ground{x~
+You're past the halfway point.  The souls seem to be running upwards from
+here.  The branches are to weak on the ends to climb up very fast.  
+~
+0 0 3
+D3
+~
+~
+0 0 41035
+S
+#41038
+{gSixty Feet Above the Ground{x~
+You're past the halfway point.  The souls seem to be running upwards from
+here.  The branches are to weak on the ends to climb up very fast.  
+~
+0 0 3
+D0
+~
+~
+0 0 41035
+S
+#41039
+{gSixty Feet Above the Ground{x~
+You're past the halfway point.  The souls seem to be running upwards from
+here.  The branches are to weak on the ends to climb up very fast.  
+~
+0 0 3
+D1
+~
+~
+0 0 41035
+S
+#41040
+{gAlmost to the Top{x~
+The top of the tree is nearby.  Not much farther and you'll be there. 
+You might want to clear out all the surrounding souls before you continue
+your climb.  
+~
+0 0 3
+D0
+~
+~
+0 0 41041
+D1
+~
+~
+0 0 41042
+D2
+~
+~
+0 0 41043
+D3
+~
+~
+0 0 41044
+D4
+~
+~
+0 0 41045
+D5
+~
+~
+0 0 41035
+S
+#41041
+{gAlmost to the Top{x~
+The top of the tree is nearby.  Not much farther and you'll be there. 
+You might want to clear out all the surrounding souls before you continue
+your climb.  
+~
+0 0 3
+D2
+~
+~
+0 0 41040
+S
+#41042
+{gAlmost to the Top{x~
+The top of the tree is nearby.  Not much farther and you'll be there. 
+You might want to clear out all the surrounding souls before you continue
+your climb.  
+~
+0 0 3
+D3
+~
+~
+0 0 41040
+S
+#41043
+{gAlmost to the Top{x~
+The top of the tree is nearby.  Not much farther and you'll be there. 
+You might want to clear out all the surrounding souls before you continue
+your climb.  
+~
+0 0 3
+D0
+~
+~
+0 0 41040
+S
+#41044
+{gAlmost to the Top{x~
+The top of the tree is nearby.  Not much farther and you'll be there. 
+You might want to clear out all the surrounding souls before you continue
+your climb.  
+~
+0 0 3
+D1
+~
+~
+0 0 41040
+S
+#41045
+{gTop of the Tree{x~
+You have reached the top of the Tree of Death!  By the looks of it,
+you're at least 105 feet above the ground.  A bright object shines above
+you.  
+~
+0 0 3
+D0
+~
+~
+0 0 41046
+D1
+~
+~
+0 0 41047
+D2
+~
+~
+0 0 41048
+D3
+~
+~
+0 0 41049
+D4
+~
+~
+0 0 41050
+D5
+~
+~
+0 0 41040
+S
+#41046
+{gTop of the Tree{x~
+You have reached the top of the Tree of Death!  By the looks of it,
+you're at least 105 feet above the ground.  A bright object shines above
+you.  
+~
+0 0 3
+D2
+~
+~
+0 0 41045
+S
+#41047
+{gTop of the Tree{x~
+You have reached the top of the Tree of Death!  By the looks of it,
+you're at least 105 feet above the ground.  A bright object shines above
+you.  
+~
+0 0 3
+D3
+~
+~
+0 0 41045
+S
+#41048
+{gTop of the Tree{x~
+You have reached the top of the Tree of Death!  By the looks of it,
+you're at least 105 feet above the ground.  A bright object shines above
+you.  
+~
+0 0 3
+D0
+~
+~
+0 0 41045
+S
+#41049
+{gTwenty Feet Above the Ground{x~
+You have reached the top of the Tree of Death!  By the looks of it,
+you're at least 105 feet above the ground.  A bright object shines above
+you.  
+~
+0 0 3
+D1
+~
+~
+0 0 41045
+S
+#41050
+{DAbove the Tree{x~
+You are balancing on the top most branch of the tree.  The soulds are all
+around here.  Back down the tree is the only obvious way out.  A dark figure
+is soaring over head.  
+~
+0 0 3
+D4
+~
+~
+0 0 41052
+D5
+~
+~
+0 0 41045
+S
+#41051
+{gBelow the Branches{x~
+The roots underground have sucked up all the water from here.  The shadow
+this tree casts down seems to be somewhat comforting.  Perhaps it's best to
+stay within it's range.  
+~
+0 0 0
+D0
+~
+~
+0 0 41001
+D1
+~
+~
+0 0 41002
+D2
+~
+~
+0 0 41003
+D3
+~
+~
+0 0 41004
+D5
+~
+~
+0 0 41053
+S
+#41052
+{CH{ci{Cg{ch {Ci{cn {Ct{ch{Ce {cA{Ci{cr{x~
+You're high above the Tree of Death now.  The air around you is very thin
+making it hard to breath.  It will be hard to heal here do to the lack of
+air.  
+~
+0 0 9
+D5
+~
+~
+0 0 41050
+S
+#41053
+{rUnder the Roots{x~
+The ground is dry here from all the roots that sucked up the water.  Up
+from here is the Tree of Death.  It's said the tree goes higher then ten
+ents stacked up.  
+~
+0 4 3
+D2
+~
+~
+0 0 41056
+D4
+~
+~
+0 0 41051
+S
+#41054
+{gEntrance to the {DL{ra{Di{rr{x~
+Your standing before the lair fo the soul slayer.  You can travel
+throughout the realms here.  
+ 
+{DMorlok's Castle {x- Down
+{WEagle's Peak {x- Up
+{YLem{Wto{Yrak {x- South
+{gTree {xof {DD{re{Ra{rt{Dh{x - West
+~
+0 32772 0
+D0
+~
+~
+0 0 41055
+D2
+~
+~
+0 0 353
+D3
+~
+~
+0 0 41000
+D4
+~
+~
+0 0 553
+D5
+~
+~
+0 0 16900
+S
+#41055
+{DL{ra{Di{rr {yof the {DSoul S{Bl{Da{By{De{Br{x~
+Your inside the Lair of the Soul Slayer.  This immortal room forbids your
+being here without permission.  The walls are covered in blood as the marks
+of important souls are scratched into them.  
+~
+0 32772 0
+D2
+~
+~
+0 0 41054
+S
+#41056
+{gOn a Forest Path{x~
+The dark forest gets a little lighter here as the sun peeps in from
+between a few branches.  The dirt path your on continues to the north. 
+Massive trees surround you east and west.  
+~
+0 4 3
+D0
+~
+~
+0 0 41053
+D5
+~
+~
+0 0 41057
+S
+#41057
+{rIn a Wet Tunnel{x~
+The dark tunnel is lit up from above.  Lookings upwards you see the sun,
+although it seem to have an odd dimness to it.  It must be some form of
+magic, possibly an immortals doing.  
+~
+0 4 3
+D2
+~
+~
+0 0 41058
+D4
+~
+~
+0 0 41056
+S
+#41058
+{rIn a Dark Tunnel{x~
+You're underground in a small we tunnel.  It's completely dark here
+except for the rays of light coming from the north.  Your starting to
+shrink, or so it seems, in this dark realm.  The light ahead seems to be
+fading.  
+~
+0 4 5
+D0
+~
+~
+0 0 41057
+D4
+~
+~
+0 0 41059
+S
+#41059
+{gOn a Forest Path{x~
+The path seems to end here.  A small hole in the ground here is wide
+enough to fit through.  The only other option seems to go back to the south.
+The trees are to close together, stopping you from going in any other
+direction.  
+~
+0 4 3
+D2
+~
+~
+0 0 41000
+D5
+~
+~
+0 0 41058
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 41001 100 41001 6
+M 0 41001 100 41001 6
+M 0 41001 100 41001 6
+M 0 41001 100 41001 6
+M 0 41001 100 41002 6
+M 0 41001 100 41002 6
+M 0 41001 100 41002 6
+M 0 41001 100 41002 6
+M 0 41001 100 41003 6
+M 0 41001 100 41003 6
+M 0 41001 100 41003 6
+M 0 41001 100 41003 6
+M 0 41001 100 41004 6
+M 0 41001 100 41004 6
+M 0 41001 100 41004 6
+M 0 41001 100 41004 6
+M 0 41001 100 41005 6
+M 0 41001 100 41005 6
+M 0 41001 100 41005 6
+M 0 41001 100 41005 6
+M 0 41001 100 41006 6
+M 0 41001 100 41006 6
+M 0 41001 100 41006 6
+M 0 41001 100 41006 6
+M 0 41001 100 41007 6
+M 0 41001 100 41007 6
+M 0 41001 100 41007 6
+M 0 41001 100 41007 6
+M 0 41001 100 41008 6
+M 0 41001 100 41008 6
+M 0 41001 100 41008 6
+M 0 41001 100 41008 6
+M 0 41001 100 41009 6
+M 0 41001 100 41009 6
+M 0 41001 100 41009 6
+M 0 41001 100 41009 6
+M 0 41002 100 41010 6
+M 0 41002 100 41010 6
+M 0 41002 100 41010 6
+M 0 41002 100 41010 6
+M 0 41001 100 41010 6
+M 0 41001 100 41010 6
+M 0 41001 100 41010 6
+M 0 41001 100 41010 6
+M 0 41002 100 41011 6
+M 0 41002 100 41011 6
+M 0 41002 100 41011 6
+M 0 41002 100 41011 6
+M 0 41001 100 41011 6
+M 0 41001 100 41011 6
+M 0 41001 100 41011 6
+M 0 41001 100 41011 6
+M 0 41002 100 41012 6
+M 0 41002 100 41012 6
+M 0 41002 100 41012 6
+M 0 41002 100 41012 6
+M 0 41001 100 41012 6
+M 0 41001 100 41012 6
+M 0 41001 100 41012 6
+M 0 41001 100 41012 6
+M 0 41002 100 41013 6
+M 0 41002 100 41013 6
+M 0 41002 100 41013 6
+M 0 41002 100 41013 6
+M 0 41001 100 41013 6
+M 0 41001 100 41013 6
+M 0 41001 100 41013 6
+M 0 41001 100 41013 6
+M 0 41002 100 41014 6
+M 0 41002 100 41014 6
+M 0 41002 100 41014 6
+M 0 41002 100 41014 6
+M 0 41001 100 41014 6
+M 0 41001 100 41014 6
+M 0 41001 100 41014 6
+M 0 41001 100 41014 6
+M 0 41002 100 41015 6
+M 0 41002 100 41015 6
+M 0 41002 100 41015 6
+M 0 41002 100 41015 6
+M 0 41002 100 41016 6
+M 0 41002 100 41016 6
+M 0 41002 100 41016 6
+M 0 41002 100 41016 6
+M 0 41002 100 41017 6
+M 0 41002 100 41017 6
+M 0 41002 100 41017 6
+M 0 41002 100 41017 6
+M 0 41002 100 41018 6
+M 0 41002 100 41018 6
+M 0 41002 100 41018 6
+M 0 41002 100 41018 6
+M 0 41002 100 41019 6
+M 0 41002 100 41019 6
+M 0 41002 100 41019 6
+M 0 41002 100 41019 6
+M 0 41003 100 41020 6
+M 0 41003 100 41020 6
+M 0 41003 100 41020 6
+M 0 41003 100 41020 6
+M 0 41002 100 41020 6
+M 0 41002 100 41020 6
+M 0 41002 100 41020 6
+M 0 41002 100 41020 6
+M 0 41003 100 41021 6
+M 0 41003 100 41021 6
+M 0 41003 100 41021 6
+M 0 41003 100 41021 6
+M 0 41002 100 41021 6
+M 0 41002 100 41021 6
+M 0 41002 100 41021 6
+M 0 41002 100 41021 6
+M 0 41003 100 41022 6
+M 0 41003 100 41022 6
+M 0 41003 100 41022 6
+M 0 41003 100 41022 6
+M 0 41002 100 41022 6
+M 0 41002 100 41022 6
+M 0 41002 100 41022 6
+M 0 41002 100 41022 6
+M 0 41003 100 41023 6
+M 0 41003 100 41023 6
+M 0 41003 100 41023 6
+M 0 41003 100 41023 6
+M 0 41002 100 41023 6
+M 0 41002 100 41023 6
+M 0 41002 100 41023 6
+M 0 41002 100 41023 6
+M 0 41003 100 41024 6
+M 0 41003 100 41024 6
+M 0 41003 100 41024 6
+M 0 41003 100 41024 6
+M 0 41002 100 41024 6
+M 0 41002 100 41024 6
+M 0 41002 100 41024 6
+M 0 41002 100 41024 6
+M 0 41003 100 41025 6
+M 0 41003 100 41025 6
+M 0 41003 100 41025 6
+M 0 41003 100 41025 6
+M 0 41003 100 41026 6
+M 0 41003 100 41026 6
+M 0 41003 100 41026 6
+M 0 41003 100 41026 6
+M 0 41003 100 41027 6
+M 0 41003 100 41027 6
+M 0 41003 100 41027 6
+M 0 41003 100 41027 6
+M 0 41003 100 41028 6
+M 0 41003 100 41028 6
+M 0 41003 100 41028 6
+M 0 41003 100 41028 6
+M 0 41003 100 41029 6
+M 0 41003 100 41029 6
+M 0 41003 100 41029 6
+M 0 41003 100 41029 6
+M 0 41004 100 41030 6
+M 0 41004 100 41030 6
+M 0 41004 100 41030 6
+M 0 41004 100 41030 6
+M 0 41003 100 41030 6
+M 0 41003 100 41030 6
+M 0 41003 100 41030 6
+M 0 41003 100 41030 6
+M 0 41004 100 41031 6
+M 0 41004 100 41031 6
+M 0 41004 100 41031 6
+M 0 41004 100 41031 6
+M 0 41003 100 41031 6
+M 0 41003 100 41031 6
+M 0 41003 100 41031 6
+M 0 41003 100 41031 6
+M 0 41004 100 41032 6
+M 0 41004 100 41032 6
+M 0 41004 100 41032 6
+M 0 41004 100 41032 6
+M 0 41003 100 41032 6
+M 0 41003 100 41032 6
+M 0 41003 100 41032 6
+M 0 41003 100 41032 6
+M 0 41004 100 41033 6
+M 0 41004 100 41033 6
+M 0 41004 100 41033 6
+M 0 41004 100 41033 6
+M 0 41003 100 41033 6
+M 0 41003 100 41033 6
+M 0 41003 100 41033 6
+M 0 41003 100 41033 6
+M 0 41004 100 41034 6
+M 0 41004 100 41034 6
+M 0 41004 100 41034 6
+M 0 41004 100 41034 6
+M 0 41003 100 41034 6
+M 0 41003 100 41034 6
+M 0 41003 100 41034 6
+M 0 41003 100 41034 6
+M 0 41003 100 41035 6
+M 0 41003 100 41035 6
+M 0 41003 100 41035 6
+M 0 41003 100 41035 6
+M 0 41004 100 41035 6
+M 0 41004 100 41035 6
+M 0 41004 100 41035 6
+M 0 41004 100 41035 6
+M 0 41003 100 41036 6
+M 0 41003 100 41036 6
+M 0 41003 100 41036 6
+M 0 41003 100 41036 6
+M 0 41004 100 41036 6
+M 0 41004 100 41036 6
+M 0 41004 100 41036 6
+M 0 41004 100 41036 6
+M 0 41003 100 41037 6
+M 0 41003 100 41037 6
+M 0 41003 100 41037 6
+M 0 41003 100 41037 6
+M 0 41004 100 41037 6
+M 0 41004 100 41037 6
+M 0 41004 100 41037 6
+M 0 41004 100 41037 6
+M 0 41003 100 41038 6
+M 0 41003 100 41038 6
+M 0 41003 100 41038 6
+M 0 41003 100 41038 6
+M 0 41004 100 41038 6
+M 0 41004 100 41038 6
+M 0 41004 100 41038 6
+M 0 41004 100 41038 6
+M 0 41003 100 41039 6
+M 0 41003 100 41039 6
+M 0 41003 100 41039 6
+M 0 41003 100 41039 6
+M 0 41004 100 41039 6
+M 0 41004 100 41039 6
+M 0 41004 100 41039 6
+M 0 41004 100 41039 6
+M 0 41000 133 41040 8
+M 0 41000 133 41040 8
+M 0 41000 133 41040 8
+M 0 41000 133 41040 8
+M 0 41000 133 41040 8
+M 0 41004 100 41040 6
+M 0 41004 100 41040 6
+M 0 41004 100 41040 6
+M 0 41004 100 41040 6
+M 0 41000 133 41041 8
+M 0 41000 133 41041 8
+M 0 41000 133 41041 8
+M 0 41000 133 41041 8
+M 0 41000 133 41041 8
+M 0 41004 100 41041 6
+M 0 41004 100 41041 6
+M 0 41004 100 41041 6
+M 0 41004 100 41041 6
+M 0 41000 133 41042 8
+M 0 41000 133 41042 8
+M 0 41000 133 41042 8
+M 0 41000 133 41042 8
+M 0 41000 133 41042 8
+M 0 41004 100 41042 6
+M 0 41004 100 41042 6
+M 0 41004 100 41042 6
+M 0 41004 100 41042 6
+M 0 41000 133 41043 8
+M 0 41000 133 41043 8
+M 0 41000 133 41043 8
+M 0 41000 133 41043 8
+M 0 41000 133 41043 8
+M 0 41004 100 41043 6
+M 0 41004 100 41043 6
+M 0 41004 100 41043 6
+M 0 41004 100 41043 6
+M 0 41000 133 41044 8
+M 0 41000 133 41044 8
+M 0 41000 133 41044 8
+M 0 41000 133 41044 8
+M 0 41000 133 41044 8
+M 0 41004 100 41044 6
+M 0 41004 100 41044 6
+M 0 41004 100 41044 6
+M 0 41004 100 41044 6
+M 0 41000 133 41045 8
+M 0 41000 133 41045 8
+M 0 41000 133 41045 8
+M 0 41000 133 41045 8
+M 0 41000 133 41045 8
+M 0 41000 133 41046 8
+M 0 41000 133 41046 8
+M 0 41000 133 41046 8
+M 0 41000 133 41046 8
+M 0 41000 133 41046 8
+M 0 41000 133 41047 8
+M 0 41000 133 41047 8
+M 0 41000 133 41047 8
+M 0 41000 133 41047 8
+M 0 41000 133 41047 8
+M 0 41000 133 41048 8
+M 0 41000 133 41048 8
+M 0 41000 133 41048 8
+M 0 41000 133 41048 8
+M 0 41000 133 41048 8
+M 0 41000 133 41049 8
+M 0 41000 133 41049 8
+M 0 41000 133 41049 8
+M 0 41000 133 41049 8
+M 0 41000 133 41049 8
+M 0 41005 1 41050 1
+G 0 41002 0
+G 0 41002 0
+G 0 41002 0
+G 0 41002 0
+G 0 41002 0
+G 0 41002 0
+M 0 41001 100 41051 6
+M 0 41001 100 41051 6
+M 0 41001 100 41051 6
+M 0 41001 100 41051 6
+M 0 41007 1 41052 1
+G 0 41005 0
+G 0 41005 0
+G 0 41005 0
+G 0 41005 0
+G 0 41005 0
+G 0 41005 0
+E 0 41001 0 0
+E 0 41000 0 24
+G 0 41006 0
+G 0 41006 0
+O 0 41007 0 41054
+O 0 41008 0 41054
+O 0 41003 0 41055
+O 0 41004 0 41055
+M 0 41006 1 41055 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

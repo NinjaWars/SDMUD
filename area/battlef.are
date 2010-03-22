@@ -1,0 +1,934 @@
+#AREADATA
+Name Battle Field~
+Builders Rashan~
+VNUMs 200 230
+Credits {G[ 1-15  ] Battle Fields{x~
+Security 9
+RepopMsg (null)~
+End
+
+
+
+#MOBILES
+#200
+Wraith Footsoldier~
+{xA {bwr{Dai{bth {xfootsoldier~
+A {bwr{Dai{bth{x footsoldier is standing here.
+~
+What you seem to look at you aren't yet you are, oh forget it your
+getting confused now.  
+~
+Human~
+A 0 V 0 -1000 0
+25 10 10d70+100 25d9+60 3d1+5 thwack
+-6 -6 -6 0
+0 0 0 0
+stand stand none 300
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#201
+paladin footsoldier~
+{xA {Wpa{wlad{Win{x footsoldier~
+A {Wpa{wlad{Win{x footsoldier is standing here.
+~
+A elegant warrior is here though he has large gashes and scars all over
+his body.  
+~
+Human~
+A 0 V 0 1000 0
+25 10 10d70+100 25d9+60 3d1+6 slash
+-6 -6 -6 0
+0 0 0 0
+stand stand none 300
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#202
+Wraith Field Commander~
+{xA {bwr{Dai{bth{x field commander~
+A {bwr{Dai{bth{x field commander is here ordering troops around.
+~
+You can see it yet you can't......
+~
+Human~
+A 0 V 0 -1000 0
+35 12 10d70+100 35d9+60 3d1+6 thwack
+-12 -12 -12 -5
+0 0 0 0
+stand stand none 400
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#203
+Paladin field commander~
+{xA {Wpa{wlad{Win{x field commander~
+A {Wpa{wlad{Win{x field commander is standing here commanding some troops.
+~
+He is great and powerfull, and loves to order people around.  
+~
+Human~
+A 0 V 0 0 0
+35 10 10d70+100 35d9+60 4d1+8 slash
+-12 -12 -12 -5
+0 0 0 0
+stand stand none 400
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#204
+Wraith Commander~
+{xThe {bwr{Dai{bth{x commander~
+The commander of the {bwr{Dait{bhs{x stands here looking out over the battle field.
+~
+You can see it yet you can't....
+~
+Human~
+AB 0 V 0 -1000 0
+40 20 10d70+100 40d9+60 3d1+8 suction
+-16 -16 -16 -7
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#205
+Paladin Commander~
+{xThe {Wpa{wlad{Win{x commander~
+The {Wpa{wlad{Win{x commander stands here watching over the battle field.
+~
+~
+Human~
+AB 0 V 0 1000 0
+40 10 10d70+100 40d9+60 3d1+7 slash
+-16 -16 -16 -7
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#206
+Banner Carrier Wraith~
+{xA {bWr{Dait{bhs{x Banner Carrier~
+A {bwr{Dai{bth{x banner carrier is here waving his banner.
+~
+He is proud of his banner and waves it with pride.
+~
+Human~
+A 0 V 0 -1000 0
+38 12 10d70+100 38d9+60 3d1+9 punch
+-14 -14 -14 -6
+0 0 0 0
+stand stand none 200
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#207
+Banner Carrier Paladin~
+A {WPa{wlad{Win{x Banner Carrier~
+A {Wpa{wlad{Win{x banner carrier is here waving his flag proudly.
+~
+He is proud and tall and is waving his flag so.
+~
+Human~
+A 0 V 0 1000 0
+38 10 10d70+100 38d9+60 3d1+8 slash
+-14 -14 -14 -6
+0 0 0 0
+stand stand none 20
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#208
+Beast Gigantic~
+A {WGigantic {DBeast{x~
+A {WGigantic {DBeast{x is here.
+~
+He is a giant allright massing almost 10 feet tall.
+~
+Human~
+ABF 0 V 0 -1000 0
+55 55 10d70+100 55d9+60 5d2+11 claw
+-25 -25 -25 -14
+0 0 D C
+stand stand none 100000
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#230
+Familiar~
+{x~
+{x
+~
+This is a familiar.
+~
+Human~
+A 0 0 0 0 0
+0 0 0d0+0 0d0+0 0d0+0 none
+0 0 0 0
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#0
+
+
+
+#OBJECTS
+#200
+Wraith Dagger~
+{xA {bW{br{Da{bi{Dt{bh{w Dagger{x~
+A small shadowy dagger lies here.~
+unknown~
+weapon B AN
+dagger 1 7 peck E
+10 11 550 P
+A
+5 1
+#201
+Paladin ShortSword~
+{xA {WPa{wlad{Win{x ShortSword ~
+A small sword is lying here.~
+unknown~
+weapon B AN
+sword 2 13 pierce D
+15 16 1275 P
+A
+5 2
+#202
+Wraiths Shroud~
+{xA {bwr{Dait{bhs {ysh{gr{you{gd{x~
+A small shourd lies here.~
+unknown~
+armor 0 AK
+13 13 13 12 0
+10 11 14 P
+A
+13 10
+#203
+Paladins ChainMail~
+{WPa{wladi{Wns{x Chainmail~
+A small sheet of chainmail lies here.~
+unknown~
+armor B AD
+17 17 17 16 0
+15 16 11 P
+A
+5 3
+#204
+Wraiths Cap~
+{xA {bwr{Dait{bhs {ycap{x~
+A small cap is lying here.~
+unknown~
+armor B AE
+13 13 13 12 0
+10 11 14 P
+A
+4 2
+#205
+Paladins helm~
+{xA {Wpa{wladi{Wns{x helm~
+A small metal helm lies here.~
+unknown~
+armor B AE
+17 17 17 16 0
+15 16 11 P
+A
+4 2
+A
+3 2
+#206
+Wraiths Banner~
+{xBanner of the {bWr{Dait{bhs{x~
+A small banner of {Dgray{x and {bblue{x is lying here.~
+unknown~
+light A AQ
+0 0 999 0 0
+5 0 200 P
+A
+18 2
+#207
+Paladins Banner~
+{xThe banner of the {WPa{wladi{Wns{x~
+A large {Wwhite{x banner is lying here.~
+unknown~
+light A AQ
+0 0 999 0 0
+10 0 200 P
+A
+18 3
+A
+19 3
+#208
+Ring Holy~
+{RR{ring{x of the {WH{wol{Wy{x~
+A small ring is lying here.~
+unknown~
+jewelry AB AB
+0 0 0 0 0
+15 0 300 P
+A
+12 20
+A
+13 20
+#209
+Wraith Ring~
+{RR{ring{x of the {bWr{Dai{bth{x~
+A small ring lies here.~
+unknown~
+jewelry AB AB
+0 0 0 0 0
+10 0 2000 P
+A
+13 20
+A
+3 2
+A
+4 2
+#210
+Portal Crack~
+a strange crack~
+A strange {Wcrack{x is in the wall here.~
+unknown~
+portal A 0
+99999999 H H 226 0
+0 0 0 P
+#211
+Beast's Arms Beasts ~
+{xA {WGigantic{x pair of {bb{Deas{bt{x arms~
+A pair of arms lie here.~
+unknown~
+armor BHM AI
+30 30 30 29 0
+30 31 26 P
+A
+18 15
+A
+5 2
+A
+1 4
+#212
+Beast Claw Beasts~
+{xA {bBeast's {WC{Dl{Wa{Dw{x ~
+A large claw is lying here.~
+unknown~
+weapon ABHM AN
+dagger 3 12 claw E
+30 31 1840 P
+A
+19 20
+A
+18 20
+#213
+Beast Eye Beasts~
+a {bbeast's{x eyeball~
+A ugly eyeball is lying here.~
+unknown~
+treasure A AO
+0 0 0 0 0
+20 0 1000000 P
+#214
+Twisted Metal Bracer~
+{xA {Wt{gw{Wi{gs{Wt{ge{Wd {Dm{we{Dt{wa{Dl {xbracer~
+A small twisted chunk of metal lies here.~
+unknown~
+armor 0 AM
+13 13 13 12 0
+10 11 14 P
+A
+19 10
+A
+18 10
+#215
+beasts skin beast's~
+{bB{De{ba{Ds{bt{D'{bs {ySkin{x~
+A small amount of skin lies here.~
+unknown~
+armor AB AL
+8 8 8 4 0
+10 0 4000 P
+A
+18 6
+A
+19 3
+#230
+Holy Mace~
+{WH{CO{WL{CY {WM{CA{WC{CE{x~
+A mace of great power lies here.~
+magic~
+weapon AB AN
+exotic 0 0 none 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#200
+Entrance to the battle field~
+You stand before a battle field, the ground is stained with blood and
+bodyparts.  
+~
+0 4 0
+D0
+~
+~
+0 0 201
+D2
+~
+~
+0 0 659
+S
+#201
+On the battle field~
+Below you the ground is stained with blood and entrails of who know's who.  
+~
+0 0 0
+D0
+~
+~
+0 0 206
+D1
+~
+~
+0 0 202
+D2
+~
+~
+0 0 200
+D3
+~
+~
+0 0 204
+S
+#202
+On the battle field~
+Below you the ground is stained with blood and entrails of who know's who.  
+~
+0 0 0
+D0
+~
+~
+0 0 207
+D1
+~
+~
+0 0 203
+D3
+~
+~
+0 0 201
+S
+#203
+On the battle field~
+Below you the ground is stained with blood and entrails of who know's who.  
+~
+0 0 0
+D0
+~
+~
+0 0 208
+D3
+~
+~
+0 0 202
+S
+#204
+On the battle field~
+Below you the ground is stained with blood and entrails of who know's who.  
+~
+0 0 0
+D0
+~
+~
+0 0 209
+D1
+~
+~
+0 0 201
+D3
+~
+~
+0 0 205
+S
+#205
+On the battle field~
+Below you the ground is stained with blood and entrails of who know's who.  
+~
+0 0 0
+D0
+~
+~
+0 0 210
+D1
+~
+~
+0 0 204
+S
+#206
+On the battle field~
+Below you the ground is stained with blood and entrails of who know's who.
+~
+0 0 0
+D0
+~
+~
+0 0 211
+D1
+~
+~
+0 0 207
+D2
+~
+~
+0 0 201
+D3
+~
+~
+0 0 209
+S
+#207
+On the battle field~
+Below you the ground is stained with blood and entrails of who know's who.
+~
+0 0 0
+D0
+~
+~
+0 0 212
+D1
+~
+~
+0 0 208
+D2
+~
+~
+0 0 202
+D3
+~
+~
+0 0 206
+S
+#208
+On the battle field~
+~
+0 0 0
+D0
+~
+~
+0 0 213
+D2
+~
+~
+0 0 203
+D3
+~
+~
+0 0 207
+S
+#209
+On the battle field~
+Below you the ground is stained with blood and entrails of who know's who.  
+~
+0 0 0
+D0
+~
+~
+0 0 214
+D1
+~
+~
+0 0 206
+D2
+~
+~
+0 0 204
+D3
+~
+~
+0 0 210
+S
+#210
+On the battle field~
+Below you the ground is stained with blood and entrails of who know's who.  
+~
+0 0 0
+D0
+~
+~
+0 0 215
+D1
+~
+~
+0 0 209
+D2
+~
+~
+0 0 205
+S
+#211
+On the battle field~
+Below you the ground is stained with blood and entrails of who know's who.
+~
+0 0 0
+D0
+~
+~
+0 0 216
+D1
+~
+~
+0 0 212
+D2
+~
+~
+0 0 206
+D3
+~
+~
+0 0 214
+S
+#212
+On the battle field~
+Below you the ground is stained with blood and entrails of who know's who.
+~
+0 0 0
+D1
+~
+~
+0 0 213
+D2
+~
+~
+0 0 207
+D3
+~
+~
+0 0 211
+S
+#213
+On the battle field~
+Below you the ground is stained with blood and entrails of who know's who.
+~
+0 0 0
+D2
+~
+~
+0 0 208
+D3
+~
+~
+0 0 212
+S
+#214
+On the battle field~
+Below you the ground is stained with blood and entrails of who know's who.
+~
+0 0 0
+D1
+~
+~
+0 0 211
+D2
+~
+~
+0 0 209
+D3
+~
+~
+0 0 215
+S
+#215
+On the battle field~
+Below you the ground is stained with blood and entrails of who know's who.
+~
+0 0 0
+D1
+~
+~
+0 0 214
+D2
+~
+~
+0 0 210
+S
+#216
+Going up a hill~
+You are heading up a small hill which on top of you can see the entire
+battle field.  
+~
+0 0 0
+D0
+~
+~
+0 0 217
+D2
+~
+~
+0 0 211
+S
+#217
+Going up a hill~
+You are heading up a small hill which on top of you can see the entire
+battle field.  
+~
+0 0 0
+D0
+~
+~
+0 0 218
+D2
+~
+~
+0 0 216
+S
+#218
+On top of a hill~
+You stand on top of the hill, from here you can see the entire battle
+field, things engaged in battle, killing each other at all costs.  
+~
+0 0 0
+D0
+~
+~
+0 0 221
+D1
+~
+~
+0 0 219
+D2
+~
+~
+0 0 217
+D3
+~
+~
+0 0 220
+S
+#219
+Commander of the paladins lookout point~
+You stand here with the great commander of the paladins, he is dressed in
+all white and seems to glow.  
+~
+0 0 0
+D3
+~
+~
+0 0 218
+S
+#220
+Commander of the wraiths lookout point~
+You stand next to..  Well nothing that you can see with great ease, there
+seems to be a shadow floating here but that is all you can really see.  
+~
+0 0 0
+D1
+~
+~
+0 0 218
+S
+#221
+Further up the hill~
+You have now reached the absolute peak of the small hill, you appear to
+be 60-70 feet above the battle field, you truely do have an eagles eye view
+of the battle here.  Below you notice a small opening in the earth.  
+~
+0 0 0
+D2
+~
+~
+0 0 218
+D5
+~
+~
+0 0 222
+S
+#222
+In a small cave~
+You are now in a small dark cave, water is dripping from stalagmites. To the north you notice the cave widening
+~
+0 0 0
+D0
+~
+~
+0 0 223
+D4
+~
+~
+0 0 221
+S
+#223
+Curve in the cave~
+The cave has become much larger now, you feel a strange sense of fear
+now.  You can see another curve in the cave to the west.  
+~
+0 0 0
+D2
+~
+~
+0 0 222
+D3
+~
+~
+0 0 224
+S
+#224
+End of the cave~
+You appear to have reached the end of the small cave, but as you look around you notice a strange opening below you.
+~
+0 0 0
+D1
+~
+~
+0 0 223
+D5
+~
+~
+0 0 225
+S
+#225
+End of the cave~
+This is most definately the end of the cave, the only exit you can see is back the way you came. As you look around you notice a very strange crack in the side of the cave wall.
+~
+0 0 0
+D4
+~
+~
+0 0 224
+S
+#226
+Secret part of the cave~
+You have discovered a secret part of the cave.  To the north the new part
+of the cave continues.  
+~
+0 0 0
+D0
+~
+~
+0 0 227
+S
+#227
+In the secret cave~
+You stand in the secret cave, as you look around you notice exits in all
+directions.  Could it be a trap, or could it be a great reward, you would
+suppose the right choice will tell you.  
+~
+0 0 0
+D0
+~
+~
+0 0 228
+D1
+~
+~
+0 0 229
+D2
+~
+~
+0 0 226
+D3
+~
+~
+0 0 230
+S
+#228
+Wrong choice~
+Welp, you made the wrong choice, better get outa here before your traped for good.
+~
+0 4 0
+S
+#229
+Wrong choice~
+This you suppose is a wrong choice, better get out of here before you are traped for good.
+~
+0 4 0
+S
+#230
+The RIGHT CHOICE!!!~
+You choose right!! 
+~
+0 0 0
+D1
+~
+~
+0 0 227
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 201 8 202 1
+E 0 201 0 16
+E 0 203 0 5
+M 0 207 4 202 1
+E 0 207 0 0
+M 0 203 8 203 1
+E 0 205 0 6
+M 0 200 8 204 1
+E 0 200 0 16
+E 0 202 0 12
+M 0 206 4 204 1
+E 0 206 0 0
+M 0 202 8 205 1
+E 0 204 0 6
+M 0 201 8 207 1
+E 0 201 0 16
+E 0 203 0 5
+M 0 207 4 207 1
+E 0 207 0 0
+M 0 203 8 208 1
+E 0 205 0 6
+M 0 200 8 209 1
+E 0 200 0 16
+E 0 202 0 12
+M 0 206 4 209 1
+E 0 206 0 0
+M 0 202 8 210 1
+E 0 204 0 6
+M 0 201 8 212 1
+E 0 201 0 16
+E 0 203 0 5
+M 0 207 4 212 1
+E 0 207 0 0
+M 0 203 8 213 1
+E 0 205 0 6
+M 0 200 8 214 1
+E 0 200 0 16
+E 0 202 0 12
+M 0 206 4 214 1
+E 0 206 0 0
+M 0 202 8 215 1
+E 0 204 0 6
+M 0 205 1 219 1
+E 0 208 0 1
+E 0 201 0 16
+M 0 204 1 220 1
+E 0 209 0 2
+E 0 200 0 16
+O 0 210 0 225
+M 0 208 2 230 1
+E 0 211 0 10
+E 0 212 0 16
+E 0 213 0 6
+E 0 214 0 15
+G 0 215 0
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

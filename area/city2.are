@@ -1,0 +1,1842 @@
+#AREADATA
+Name Hellion Demonia~
+Builders Kargal~
+VNUMs 1100 1199
+Credits [  U-C  ] Kargal Hellion Demonia~
+Security 9
+RepopMsg There is a sudden earthquake and everythings returns with a flash~
+End
+
+
+
+#MOBILES
+#1100
+HEALER~
+Shetz'Rak the Demonic Healer~
+A demonic healer
+~
+As you look upon this tall demon you see a helpful aura about him. He is as
+tall as two of you togeather. He has a pair of wings that are 3 feet taller
+than he is. He looks at you and says "{RCan I Help You!!!{0".
+~
+Demon~
+AUZa 0 DEFVZac ACDEFGHINO 0 0
+202 1000 100d100+10000 200d100+100000 100d100+1000 wrath
+0 0 0 0
+HMR ABCDEFGHIJKLMNOPQRSTXYZ 0 0
+stand stand male 1000000000
+AHMV ABCGHIJK medium flesh
+F vul INSY
+#1101
+greeter demon~
+Helkra the Greeter~
+A demon dressed in robes and smiling slightly
+~
+You see a smaller demon that looks at you and smiles. His 
+face shows many years of education and dedication. As you get closer
+he smiles and says "{RWelcome to Demonia University{0"
+~
+Demon~
+ABU 0 Va HI 0 0
+12 12 62d4+122 12d10+85 4d3+24 none
+1 1 1 3
+EFM CDH BLQ INSY
+stand stand male 0
+AHMV ABCDGHIJKQW medium flesh
+M GREET 1101 100~
+#1102
+trainer demon~
+Telkrag a Demon trainer~
+A strong female demon
+~
+You see a female thats bigger than you in the way of size. She
+is about 6 ft tall and has razor sharp claws on her hands. She looks
+at you and grins.
+~
+Demon~
+AJUZ 0 DFVZac CDHI 0 0
+20 20 102d6+203 20d10+85 6d3+32 none
+-3 -3 -3 0
+EF DEHM LQY INSXY
+stand stand female 0
+AHMV ABCGHIJKW medium flesh
+#1103
+imp~
+Lepishk The practice master~
+An Imp to practice with
+~
+You see a small Imp that had a slight gleem in its eye. It is about 2 feet
+tall and some small wings that can make it fly.
+~
+Imp~
+ABKU 0 TVZa CDFH 0 0
+19 76 77d7+1911 19d15+600 5d5+45 wrath
+-14 -14 -14 -10
+BCDG DHLMN IJP EGNSXYZ
+stand stand male 100
+ACHMV ABCDEFGHIJKPW small flesh
+#1104
+guard ~
+A demon cityguard~
+A demon guard
+~
+~
+Demon~
+ABG 0 Va H 0 0
+18 18 92d6+182 18d10+85 6d3+30 none
+-2 -2 -2 0
+CEFIKMP H 0 INSY
+stand stand male 100
+AHMV ABCGHIJKQW medium flesh
+#1105
+guard~
+Kreylag a heckuva guard~
+A heckuva guard
+~
+You see one of the female guards that help patrol the city. These guards are
+a lot harder than the normal demons that patrol the city.
+~
+Human~
+ABG 0 Va HI 0 0
+17 68 69d6+1711 17d15+600 5d5+43 slash
+-11 -11 -11 -8
+T H IS MN
+stand stand female 1250
+H ABCGHJKQW large flesh
+F for AMV
+F par DEFI
+#1106
+teacher~
+The Drow Teacher~
+A dark elf teacher sits here waiting patiently.
+~
+You see a aged dark elf sitting here waiting for you to figure out that
+he has the key to the door to continue on.
+~
+Drow~
+ABG JQ 0 AMV 0 0
+1 1 15d2+10 1d9+60 1d2+11 none
+9 9 9 9
+CDGHIKO B Z 0
+stand stand none 100
+ABCDEFGHIJKM 0 medium flesh
+F shd H
+#1107
+blob~
+Blob~
+A green blob
+~
+It is a slightly desgusting green blob.
+~
+school monster~
+ABU 0 0 0 0 0
+3 1 13d3+301 3d15+600 1d2+1 none
+4 4 4 5
+0 AB 0 C
+stand stand none 10
+AMV ABCDEFHJKQU medium unknown
+#1108
+monster~
+an aggressive monster~
+An aggressive mudschool monster
+~
+You see a small monster that is foaming at the mouth.
+~
+school monster~
+ABFU 0 0 0 0 0
+3 3 35d2+28 3d9+60 1d3+13 claw
+7 7 7 8
+0 AB 0 C
+stand stand none 10
+AMV ABCDEFHJKQU medium unknown
+#1109
+monster~
+a wimpy monster~
+A wimpy monster tied to the floor
+~
+You see a small monster tied to the floor.
+~
+school monster~
+ABU 0 0 0 0 0
+2 2 25d2+19 2d9+60 1d2+12 slash
+8 8 8 8
+0 AB 0 C
+stand stand none 5
+AMV ABCDEFHJKQU medium unknown
+#1110
+monster~
+a monster~
+A monster
+~
+You see a monster with a tag on its neck that says KILL ME!!!
+~
+school monster~
+ABU 0 0 0 0 0
+3 3 35d2+28 3d9+60 1d3+13 claw
+7 7 7 8
+0 AB 0 C
+stand stand none 10
+AMV ABCDEFHJKQU medium unknown
+#0
+
+
+
+#OBJECTS
+#1100
+key~
+a small plain key to an oak door~
+A small key~
+unknown~
+key PU A
+0 0 0 0 0
+0 0 0 P
+#1101
+bracer~
+a small bracer~
+A {RDemonic {0 newbie bracer~
+unknown~
+armor U AM
+6 6 6 5 0
+2 3 0 P
+#1102
+cloak~
+a small cloak~
+A {RDemonic {0 Newbie Cloak~
+unknown~
+armor U AK
+10 9 13 4 0
+2 2 0 P
+#1103
+shield~
+a small {YGo{Wl{Yd{Wen {0Shield~
+A Small Shield~
+metal~
+armor U AJ
+7 7 7 6 0
+3 4 7 P
+#1104
+armor~
+{GHy{gdr{Ga {YScale {wArmor~
+A set of armor made from hydra skin~
+scale~
+armor U AD
+8 7 10 1 0
+2 0 0 P
+#1199
+tattoo~
+{WGodly {RClan {YTattoo{0~
+This is a Tattoo that you cant use~
+metal~
+armor ABCEFGIY AW
+175 175 175 174 0
+203 206 201 P
+A
+17 -10000
+A
+19 10000
+A
+18 10000
+F
+I 0 0 D
+F
+I 0 0 N
+F
+I 0 0 M
+#0
+
+
+
+#ROOMS
+#1100
+in the Caves~
+As you stand in a dark cave you feel the moisture in the air. There is a
+slick substance on the walls and there is a fowl oder in the air. To the
+north, you see a bright red light. To the south you see more caves.
+You feel heat radiating from the north. Along with freedom from the dark
+of the caves.
+~
+0 0 0
+D0
+~
+~
+0 0 1101
+S
+#1101
+In The Cavern~
+As you step onto the large ledge you see before you a great crater
+under the ground. It is taller than you can see and as wide as the
+largest sea you've seen. In the Center of the Cavern you see a large
+city. It spans a large area of the cavern and looks like a nice place
+to stop and rest for a while. To the south you see a cave enterance
+and there is a path leading down into the cavern.
+~
+0 0 0
+D2
+~
+~
+0 0 1100
+D5
+~
+~
+0 0 1102
+S
+#1102
+going into the crater~
+You are on a steep path that leads into the crater. It is a steep path that is
+made from a dark rock that feels like stone. The path you are on seems to be
+well worn from travlers going to the huge city in the center of the cavern.
+The path leads up to a large ledge and continues down towards the cavern 
+floor.
+~
+0 0 0
+D4
+~
+~
+0 0 1101
+D5
+~
+~
+0 0 1103
+S
+#1103
+going into the crater~
+You stand on a path leading to the cavern floor. It is made of a dark rock
+that feels like stone. You see some life along the road leading into the
+large city that you have seen since entering the cavern. There is the
+smell of food in the air around you and you can hear faint laughter from
+the City. The path continues going both upward and downwards.
+~
+0 0 0
+D4
+~
+~
+0 0 1102
+D5
+~
+~
+0 0 1116
+S
+#1104
+Demonia University~
+You stand in the enteranceway of the most prestegious university underground.
+Demonia University is the one place where Demons come to learn all they can
+before going out into the world. The walls are lined with rustic bookshelves 
+that are filled with textbooks and scrolls of knowledge from thruout the lands
+writen in many different tounges. The walkways are made of pure coarse black
+marbel and carpeted with the flesh of lesser races that demons have tread on
+while destroying them. There is small rooms to the north and south from here.
+and the school continues east from here to continue your learning. There is
+also an exit leading down from here that takes you down into the city.
+There is also a sign here welcoming you.
+~
+0 394240 0
+E
+carpet~
+You see a carpet that is made from all different types of flesh. 
+It is placed along the room so that you wont ever have to walk on the 
+hallowed black marble flooring of the university.
+~
+E
+sign~
+/-----=====^_^=====-----\
+|  Welcome to Demonia   |
+| University for Demons |
+\-----=====_^_=====-----/
+~
+D0
+~
+~
+0 0 1106
+D1
+~
+~
+0 0 1105
+D2
+~
+~
+0 0 1107
+S
+#1105
+Rooms 101~
+You stand in a small classroom. It is made of white marble and has a few empty
+seats around. A small figure comes in and says "Sit Down.". You take a seat in
+one of the empty seats and wait for the lecture to begin. There is a small
+sign on the wall and a oak door leading to the east. There is also an open
+door to the west. As you get done with the lecture the small figuire looks
+at you and says "Where is the key to the next room.".
+~
+0 131072 0
+E
+sign~
+You see a sign with a lot of small rules to read. You might want to
+look at each rule. They are listed as 1 thru 5. to read the rules tho
+you have to type look rule1, rule2 and so on.
+~
+E
+rule1~
+1. All rooms have a multitude of uses, some are shops, some are healers
+and some are places where you can better yourselves. Try and look close
+at each room.
+~
+E
+rule2~
+2. Rooms have a large variety of exits, There can be the one you entered
+with. or there can be more that one.
+~
+E
+rule3~
+3. Some rooms have hidden enterances and exits. You have to search around
+to find some of these. try moving in different directions to find out
+if a room has any hidden exits.
+~
+E
+rule4~
+4. Sometimes rooms have locked or closed doors. Its up to you to find
+the key for such doors if needed. To unlock a door type unlock and the
+direction the door is in. to open doors type open and the same thing.
+~
+E
+rule5~
+5. This room has a locked door, and only the teacher has the key.
+~
+D1
+~
+~
+0 1100 1108
+D3
+~
+~
+0 0 1104
+S
+#1106
+Training Room~
+You enter a room with a lot of books and weights to use to make you
+the best you can be. There is a small indoor track and a tiny desk in
+the middle of the room. There is also a small pool and a punching bag to
+use as well.
+There is a sign on the wall, You might want to look at it.
+there is an exit from this room to the south.
+~
+0 394240 0
+E
+sign~
+/------------------------------\
+| This is a training mob. Its  |
+| Only purpose is to make you  |
+| Better. Type train to see my |
+| meaning. To train however    |
+| type train < then the stat > |
+\==============================/
+~
+D2
+~
+~
+0 0 1104
+S
+#1107
+Practice Room~
+You enter a room with all types of books and wooden practice dummies.
+There is a small padded area where you see students tumbling around and
+yelling at the top of there lungs. There is a small desk here and a large
+number of shelves with a large variety of books on them. There is an exit
+to the north into the hall. And a sign sits right, You might want to look at
+it.
+~
+0 394240 0
+E
+sign~
+/============================\
+|  This is a practice room.  |
+| Here is where you practice | 
+| all your skills. type prac |
+| to see what skills you can |
+|  learn. Then type prac &   | 
+| <skill to learn> to prac   |
+|           it.              |
+\============================/
+~
+D0
+~
+~
+0 0 1104
+S
+#1108
+Descriptions 101~
+You are standing in another small classroom. this one is full of objects
+that are on tables. There is 3 tables to choose from and a variety of 
+different objects. One table has a small statue a book and a gold coin.
+on another there is a feather a horn and a watch. on the third however
+there is only a sign, read the sign first.
+~
+0 131072 0
+E
+sign~
+You see a small sign that reads. "Look at all the items on the table
+for they will help you with seeing what is not there."
+~
+E
+watch~
+You see an old watch. Its hands have stopped moving and are forever
+stuck at the time of 4:20.
+~
+E
+horn~
+It is a small horn from a satyr, it is cracked and old looking.
+~
+E
+feather~
+It is a feather off of a phoenix, glowing red and giving off a
+large ammount of heat for its size.
+~
+E
+coin~
+It is a coin with a young demons face on it. It somehow looks
+like youve seen that face before.
+~
+E
+book~
+The books title is The life and times of Kargal the demon
+who ended it all.
+~
+E
+statue~
+You see a small statue of a demon fighter... this could be a toy.
+~
+D0
+~
+~
+1 0 1109
+D3
+~
+~
+0 0 1105
+S
+#1109
+Doors 101~
+You are in a small room that barely resembles a broom closet.
+there is a closed door south of you and one north of you.
+It is so dark in here you can barely make out the skeleton hanging
+on the wall.
+~
+0 0 0
+E
+skeleton~
+You see a skeleton that could be used for teaching... man talk 
+about skeletons in someones closet.
+~
+D0
+~
+~
+1 0 1110
+D2
+~
+~
+1 0 1108
+S
+#1110
+flee 101~
+You are in a room with a small blob that seems to not move like others do.
+It is a small green object that doesnt move. It looks extremely strong but 
+it won't kill you. Or atleast you hope it doesnt. There is exits to the north
+south and east from you. There is also a small sign here for you to read.
+~
+0 0 0
+E
+sign~
+This is to warn you... if you fight this monster you will have to
+set your wimpy, By typing wimpy and whatever number of HPs you
+~
+D0
+~
+~
+0 0 1111
+D1
+~
+~
+0 0 1112
+D2
+~
+~
+1 0 1109
+S
+#1111
+Monsters 101~
+You enter a plain room that is uncharistically made of brick. there is blood
+on the walls and a small drain in the middle of the floor. You see a small 
+sign in the middle of the room. There is exits to the north into a small cage
+and south into the school once again.
+~
+0 131072 0
+E
+sign~
+You are in the first room where there is a monster. type kill and the 
+mobs name to kill what ever monster is in the room.
+~
+D0
+~
+~
+0 0 1114
+D2
+~
+~
+0 0 1110
+S
+#1112
+Monsters 103~
+You are in a small hallway that leads towards the graduation platform.
+there is a small ammount of blood on the floor and a small drain in the
+center of the room. There is exits to the west back into the school and
+one to the east leading into the last part of the school.
+~
+0 131072 0
+D1
+~
+~
+0 0 1113
+D3
+~
+~
+0 0 1110
+S
+#1113
+Monsters 104~
+You are at the stairs leading towards the graduation pavalion. There is a
+large beast standing at the base of the stairs that is blocking your way
+to the graduation ceremony. there is exits to the north to graduate or
+to the west back into the school.
+~
+0 131072 0
+D0
+~
+~
+0 0 1115
+D3
+~
+~
+0 0 1112
+S
+#1114
+Monsters 102~
+you have entered a small cage. There is a leash here and a small drain
+in the center of the room. there is an exit to the south out of the cage.
+~
+0 0 0
+D2
+~
+~
+0 0 1111
+S
+#1115
+Graduation~
+~
+0 131072 0
+D0
+~
+~
+0 0 1160
+D2
+~
+~
+0 0 1113
+S
+#1116
+going into the crater~
+You stand very near the bottom of a well worn path leading to Hellfire
+Demonia. The path is well worn and has some dirt from the cavern on it. 
+You hear the sounds of life better now. The smell of cooking food 
+inflames your nose and makes your stomache ache. The lights of 
+the city light the landscape around you now. There is little in
+the way of plant life here and the path is becoming more trecherious as
+you make your way down to the cavern floor. The path also leads up
+towards the darkness above.
+~
+0 0 0
+D4
+~
+~
+0 0 1103
+D5
+~
+~
+0 0 1117
+S
+#1117
+A road to Hellfire Demonia~
+As you stand in the crater you cant help but marvle at the sights you see
+in the cavern. There is a large city to then north that seems like its 
+been here for a while. The road leading to the city is made of a hard packed
+patch of earth thats well worn. There is a lot of movement along the road and 
+the city itsself seems to be making its own light. There is the road leading 
+north and a path up the side of the cavern wall.
+~
+0 0 0
+D0
+~
+~
+0 0 1118
+D4
+~
+~
+0 0 1116
+S
+#1118
+before the gates~
+You stand before Hellfire Demonia, home to the demons of the world. Now
+that you are closer to the city you can make out that it is huge. there is
+a large tower that you can see from outside the city walls that seem almost 
+impervious to any force. There is also a large statue that you can see but
+cant make out from here. There is a gate leading into the city to the north
+and the road leads to the south towards the cavern wall.
+~
+0 0 0
+D0
+~
+~
+0 0 1119
+D2
+~
+~
+0 0 1117
+S
+#1119
+The Southern Gate~
+You stand inside the gates of Hellfire Demonia. The gates are made of a
+wrought iron that is a foot thick. The walls that connect to this gate are
+made from stone, big peices of stone that have been melted togeather by 
+something that could create enough heat to melt stone. The road you are on
+continues into the city or out beyond the gates. There is also a set of stairs
+that lead into a guardroom above the gate. There is people entering and
+leaving the city from these gates. There is also a small pathway that leads
+east or west along the wall surrounding the city.
+~
+0 0 0
+D0
+~
+~
+0 0 1170
+D1
+~
+~
+0 0 1121
+D2
+~
+~
+0 0 1118
+D3
+~
+~
+0 0 1156
+D4
+~
+~
+0 0 1131
+S
+#1120
+~
+~
+0 0 0
+D2
+~
+~
+0 0 1119
+S
+#1121
+southern wall~
+~
+0 0 0
+D1
+~
+~
+0 0 1122
+D3
+~
+~
+0 0 1119
+S
+#1122
+southern wall~
+~
+0 0 0
+D1
+~
+~
+0 0 1123
+D3
+~
+~
+0 0 1121
+S
+#1123
+Near the southeastern tower~
+~
+0 0 0
+D0
+~
+~
+0 0 1126
+D3
+~
+~
+0 0 1122
+D4
+~
+~
+0 0 1124
+S
+#1124
+In a southeastern tower~
+~
+0 0 0
+D4
+~
+~
+0 0 1125
+D5
+~
+~
+0 0 1123
+S
+#1125
+In the top of the southeastern tower~
+~
+0 0 0
+D5
+~
+~
+0 0 1124
+S
+#1126
+eastern wall~
+~
+0 0 0
+D0
+~
+~
+0 0 1127
+D2
+~
+~
+0 0 1123
+S
+#1127
+eastern wall~
+~
+0 0 0
+D0
+~
+~
+0 0 1128
+D2
+~
+~
+0 0 1126
+S
+#1128
+The Eastern Gate~
+~
+0 0 0
+D0
+~
+~
+0 0 1129
+D2
+~
+~
+0 0 1127
+D3
+~
+~
+0 0 1168
+D4
+~
+~
+0 0 1130
+S
+#1129
+eastern wall~
+~
+0 0 0
+D0
+~
+~
+0 0 1132
+D2
+~
+~
+0 0 1128
+S
+#1130
+Above the North enterance~
+~
+0 0 0
+D5
+~
+~
+0 0 1128
+S
+#1131
+Above the Southern Gate~
+You are in a small room above the southern gate. It is incased in stone
+and has enough room for 3 guards. there is a few arrow slits in the wall
+looking out from the city. There is also a small weapon rack here and a table
+that has four chairs around it. There is a small set of stairs leading down.
+~
+0 0 0
+D5
+~
+~
+0 0 1119
+S
+#1132
+eastern wall~
+~
+0 0 0
+D0
+~
+~
+0 0 1133
+D2
+~
+~
+0 0 1129
+S
+#1133
+Near the Northeastern Tower~
+~
+0 0 0
+D2
+~
+~
+0 0 1132
+D3
+~
+~
+0 0 1136
+D4
+~
+~
+0 0 1134
+S
+#1134
+Inside the Northeastern Tower~
+~
+0 0 0
+D4
+~
+~
+0 0 1135
+D5
+~
+~
+0 0 1133
+S
+#1135
+The top of the Northeastern Tower~
+~
+0 0 0
+D5
+~
+~
+0 0 1134
+S
+#1136
+northern wall~
+~
+0 0 0
+D1
+~
+~
+0 0 1133
+D3
+~
+~
+0 0 1137
+S
+#1137
+northern wall~
+~
+0 0 0
+D1
+~
+~
+0 0 1136
+D3
+~
+~
+0 0 1138
+S
+#1138
+Northern Gate~
+~
+0 0 0
+D1
+~
+~
+0 0 1137
+D2
+~
+~
+0 0 1169
+D3
+~
+~
+0 0 1140
+D4
+~
+~
+0 0 1139
+S
+#1139
+Above the Northern Gate~
+~
+0 0 0
+D5
+~
+~
+0 0 1138
+S
+#1140
+northern wall~
+~
+0 0 0
+D1
+~
+~
+0 0 1138
+D3
+~
+~
+0 0 1141
+S
+#1141
+northern wall~
+~
+0 0 0
+D1
+~
+~
+0 0 1140
+D3
+~
+~
+0 0 1142
+S
+#1142
+Near the northwestern Tower~
+~
+0 0 0
+D1
+~
+~
+0 0 1141
+D2
+~
+~
+0 0 1146
+D4
+~
+~
+0 0 1143
+S
+#1143
+Inside the Northwestern Tower~
+~
+0 0 0
+D4
+~
+~
+0 0 1144
+D5
+~
+~
+0 0 1142
+S
+#1144
+Top of the Northwestern Tower~
+~
+0 0 0
+D5
+~
+~
+0 0 1143
+S
+#1146
+western wall~
+~
+0 0 0
+D0
+~
+~
+0 0 1142
+D2
+~
+~
+0 0 1151
+S
+#1147
+Western Gate~
+~
+0 0 0
+D0
+~
+~
+0 0 1151
+D1
+~
+~
+0 0 1163
+D2
+~
+~
+0 0 1149
+D4
+~
+~
+0 0 1148
+S
+#1148
+above the Western Gate~
+~
+0 0 0
+D5
+~
+~
+0 0 1147
+S
+#1149
+western wall~
+~
+0 0 0
+D0
+~
+~
+0 0 1147
+D2
+~
+~
+0 0 1150
+S
+#1150
+western wall~
+~
+0 0 0
+D0
+~
+~
+0 0 1149
+D2
+~
+~
+0 0 1152
+S
+#1151
+western wall~
+~
+0 0 0
+D0
+~
+~
+0 0 1146
+D2
+~
+~
+0 0 1147
+S
+#1152
+Near the Southwestern Tower~
+~
+0 0 0
+D0
+~
+~
+0 0 1150
+D1
+~
+~
+0 0 1155
+D4
+~
+~
+0 0 1153
+S
+#1153
+Inside the Southwestern Tower~
+~
+0 0 0
+D4
+~
+~
+0 0 1154
+D5
+~
+~
+0 0 1152
+S
+#1154
+Top of the Southwestern Tower~
+~
+0 0 0
+D5
+~
+~
+0 0 1153
+S
+#1155
+southern wall~
+~
+0 0 0
+D1
+~
+~
+0 0 1156
+D3
+~
+~
+0 0 1152
+S
+#1156
+southern wall~
+~
+0 0 0
+D1
+~
+~
+0 0 1119
+D3
+~
+~
+0 0 1155
+S
+#1157
+Corner of Demonlaw and Main~
+~
+0 0 0
+D0
+~
+~
+0 0 1158
+D1
+~
+~
+0 0 1178
+D2
+~
+~
+0 0 1170
+D3
+~
+~
+0 0 1176
+S
+#1158
+Before a tall Tower~
+You stand before the Tower. It is a tall tower that goes out of your
+sight in the darkness above. The tower is made of bone and there
+seems to be a red liquid comming from it. Its Enterance is to the west
+of you. The Road continues to the North and the South. You also notice
+a small sign to the side of the road.
+~
+0 0 0
+E
+red~
+You see a red liquid that looks like it is blood.
+As you touch it you realize that it is BLOOD!!!
+~
+E
+sign~
+@+++++===------===+++++@
+   |   Beware the Tower   |
+   |**********************|
+   | It is still Being    |
+   | Built for the Strong |
+   |**********************|
+   |   Beware Newbies!!!  |
+   @+++++===------===+++++@
+~
+D0
+~
+~
+0 0 1159
+D2
+~
+~
+0 0 1157
+S
+#1159
+Town Square Center~
+~
+0 0 0
+D0
+~
+~
+0 0 1160
+D1
+~
+~
+0 0 1166
+D2
+~
+~
+0 0 1158
+D3
+~
+~
+0 0 1165
+D5
+~
+~
+0 0 1162
+S
+#1160
+healers circle~
+As you stand before the statue of Hetzrak... the Immortal Demon you see a red
+light radiating from the statue. It stands about 500 ft tall and it is made of
+gold. The street is in good condition here, with beds made out of straw on the
+ground. The road goes towards the north and south.
+~
+0 0 0
+D0
+~
+~
+0 0 1161
+D2
+~
+~
+0 0 1159
+S
+#1161
+Corner of Coin and Main~
+~
+0 0 0
+D0
+~
+~
+0 0 1169
+D2
+~
+~
+0 0 1160
+D3
+~
+~
+0 0 1193
+S
+#1162
+Before the Grand Gates~
+~
+0 0 0
+D4
+~
+~
+0 0 1159
+S
+#1163
+Market west~
+~
+0 0 0
+D0
+~
+~
+0 0 1191
+D1
+~
+~
+0 0 1164
+D2
+~
+~
+0 0 1192
+D3
+~
+~
+0 0 1147
+S
+#1164
+Market west~
+~
+0 0 0
+D0
+~
+~
+0 0 1189
+D1
+~
+~
+0 0 1165
+D2
+~
+~
+0 0 1190
+D3
+~
+~
+0 0 1163
+S
+#1165
+Market west~
+~
+0 0 0
+D0
+~
+~
+0 0 1187
+D1
+~
+~
+0 0 1159
+D2
+~
+~
+0 0 1188
+D3
+~
+~
+0 0 1164
+S
+#1166
+Market East~
+~
+0 0 0
+D0
+~
+~
+0 0 1181
+D1
+~
+~
+0 0 1167
+D2
+~
+~
+0 0 1182
+D3
+~
+~
+0 0 1159
+S
+#1167
+Market East~
+~
+0 0 0
+D0
+~
+~
+0 0 1183
+D1
+~
+~
+0 0 1168
+D2
+~
+~
+0 0 1184
+D3
+~
+~
+0 0 1166
+S
+#1168
+Market East~
+~
+0 0 0
+D0
+~
+~
+0 0 1185
+D1
+~
+~
+0 0 1128
+D2
+~
+~
+0 0 1186
+D3
+~
+~
+0 0 1167
+S
+#1169
+corner of Guild and Main~
+~
+0 0 0
+D0
+~
+~
+0 0 1138
+D1
+~
+~
+0 0 1195
+D2
+~
+~
+0 0 1161
+D3
+~
+~
+0 0 1197
+D4
+~
+~
+0 0 1194
+D5
+~
+~
+0 0 1199
+S
+#1170
+Corner of Residential and Main~
+~
+0 0 0
+D0
+~
+~
+0 0 1157
+D1
+~
+~
+0 0 1173
+D2
+~
+~
+0 0 1119
+D3
+~
+~
+0 0 1171
+S
+#1171
+Ket'Chaks Residence~
+~
+0 0 0
+D1
+~
+~
+0 0 1170
+D4
+~
+~
+0 0 1172
+S
+#1172
+Ket'Chaks Bedroom~
+~
+0 0 0
+D5
+~
+~
+0 0 1171
+S
+#1173
+Lyr'Dargs Residence~
+~
+0 0 0
+D1
+~
+~
+0 0 1174
+D3
+~
+~
+0 0 1170
+S
+#1174
+Grand Foray~
+~
+0 0 0
+D3
+~
+~
+0 0 1173
+D5
+~
+~
+0 0 1175
+S
+#1175
+Secret Chambers~
+~
+0 16384 0
+D4
+~
+~
+0 0 1174
+S
+#1176
+Enterance to the Mayors Office~
+~
+0 0 0
+D1
+~
+~
+0 0 1157
+D3
+~
+~
+0 0 1177
+S
+#1177
+Mayors Office~
+~
+0 0 0
+D1
+~
+~
+0 0 1176
+S
+#1178
+Guard Station~
+~
+0 0 0
+D1
+~
+~
+0 0 1179
+D3
+~
+~
+0 0 1157
+S
+#1179
+Locker Room~
+~
+0 0 0
+D2
+~
+~
+0 0 1180
+D3
+~
+~
+0 0 1178
+S
+#1180
+Captains Office~
+~
+0 0 0
+D0
+~
+~
+0 0 1179
+S
+#1181
+Grocer~
+~
+0 0 0
+D2
+~
+~
+0 0 1166
+S
+#1182
+Mapmaker~
+~
+0 0 0
+D0
+~
+~
+0 0 1166
+S
+#1183
+Clothier~
+~
+0 0 0
+D2
+~
+~
+0 0 1167
+S
+#1184
+Spellster~
+~
+0 0 0
+D0
+~
+~
+0 0 1167
+S
+#1185
+Weaponsmith~
+~
+0 0 0
+D2
+~
+~
+0 0 1168
+S
+#1186
+Blacksmith~
+~
+0 0 0
+D0
+~
+~
+0 0 1168
+S
+#1187
+Brewery~
+~
+0 0 0
+D2
+~
+~
+0 0 1165
+S
+#1188
+Potion Maker~
+~
+0 0 0
+D0
+~
+~
+0 0 1165
+S
+#1189
+Bakery~
+~
+0 0 0
+D2
+~
+~
+0 0 1164
+S
+#1190
+Boats and Rafts~
+~
+0 0 0
+D0
+~
+~
+0 0 1164
+S
+#1191
+Armorer~
+~
+0 0 0
+D2
+~
+~
+0 0 1163
+S
+#1192
+Wands and More~
+~
+0 0 0
+D0
+~
+~
+0 0 1163
+S
+#1193
+Demonia Trust~
+~
+0 0 0
+D1
+~
+~
+0 0 1161
+S
+#1194
+Mages Guild~
+~
+0 0 0
+D5
+~
+~
+0 0 1169
+S
+#1195
+Fighters Guild~
+~
+0 0 0
+D1
+~
+~
+0 0 1196
+D3
+~
+~
+0 0 1169
+S
+#1196
+Guildmaster Chambers~
+~
+0 0 0
+D3
+~
+~
+0 0 1195
+S
+#1197
+Thieves Guild~
+~
+0 0 0
+D1
+~
+~
+0 0 1169
+D3
+~
+~
+0 0 1198
+S
+#1198
+Guildmatsers Chambers~
+~
+0 0 0
+D1
+~
+~
+0 0 1197
+S
+#1199
+Clerics Guild~
+~
+0 0 0
+D4
+~
+~
+0 0 1169
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 1101 1 1104 1
+M 0 1106 1 1105 1
+G 0 1100 0
+M 0 1102 1 1106 1
+M 0 1103 1 1107 1
+M 0 1107 1 1110 1
+E 0 1199 0 23
+M 0 1108 1 1111 1
+E 0 1103 0 11
+E 0 1104 0 5
+M 0 1109 1 1114 1
+E 0 1102 0 12
+E 0 1101 0 15
+M 0 1100 1 1160 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#1101
+say Why hello $n, I hope you learn all that you need here, and that you have a good stay.
+Bow $n
+~
+#0
+
+#$

@@ -1,0 +1,50 @@
+#AREADATA
+Name City4~
+Builders Avidlar~
+VNUMs 1300 1399
+Credits [000-000] OLC    New Area~
+Security 1
+RepopMsg (null)~
+End
+
+
+
+#MOBILES
+#0
+
+
+
+#OBJECTS
+#0
+
+
+
+#ROOMS
+#1300
+~
+~
+0 4 1
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

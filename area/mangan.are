@@ -1,0 +1,2950 @@
+#AREADATA
+Name Morlok's Castle~
+Builders Mangan~
+VNUMs 16900 17000
+Credits {M[100-130] Morlok's Castle{x~
+Security 9
+RepopMsg You here scouts rushing to warn the king of your presence.~
+End
+
+
+
+#MOBILES
+#16900
+large adult alligator~
+The {gall{Giga{gtor{x~
+A large {gall{Giga{gtor {xswims here in the water.
+~
+An adult alligator is here.  It's the largest reptile you've seen in
+ages.  Perhaps you'd better leave King Morlok's creatures alone.  You can
+tell the alligator is here for a reason.  
+~
+water fowl~
+AFG 0 Tb 0 -1000 0
+110 110 552d36+3334 110d10+85 36d3+122 bite
+-64 -64 -64 -41
+AEFHIKNOR ABER IZ C
+stand stand either 99
+AGX ACDEFHKP large scale
+F res R
+F for W
+#16901
+huge troll guard giant large big~
+A troll {rguard{x~
+A huge {rguard {xis here blocking your entrance to the castle.
+~
+A huge {rguard {xis here standing in your way.  You notice a small key
+ring in his hand.  That's probably the key to the castle...  
+~
+troll~
+A 0 FJc 0 -1000 0
+115 460 461d39+13933 115d15+600 29d5+141 slash
+-130 -130 -130 -107
+D ABIL BE S
+stand stand male 149
+ABHMV ABCDEFGHIJKUV large unknown
+F vul HK
+#16902
+bar tender small tiny little bartender~
+A small bartender~
+A small bartender stands here behind a counter.
+~
+A small bartender stand here rushing to help everyone with there orders. 
+Maybe when he has a spare second you could ask him for a drink...  
+~
+Human~
+AB 0 0 0 -900 0
+120 480 481d41+15757 120d15+600 31d5+146 punch
+-137 -137 -137 -112
+0 ABCDEGHIJKLMNOPQRSTXYZ 0 0
+stand stand male 500
+0 0 small unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16903
+old man wizard~
+The {rWi{Dza{Rrd{x~
+An old man with a staff stands here casting a spell.
+~
+This man looks pretty angry for you disrupted him.  He was having a nice
+nap in his rocking chair.  Perhaps you'd better come back later.  He starts
+casting a spell as his the end of his staff glows red.  
+~
+Human~
+ABCF 0 0 0 -1000 0
+120 480 481d41+15757 120d15+600 31d5+146 magic
+-137 -137 -137 -112
+ADEFHKN ABKX CDP HIN
+stand stand male 428
+0 ADJK medium unknown
+F for AHMV
+F par BCEFGHI
+#16904
+A Small Troll~
+A {rS{mma{rll {gTr{Gol{gl{x~
+A {rS{mma{rll {gTr{Gol{gl {xstands here trying to warn you.
+~
+This troll is obviously trying to get your attention.
+A Small Troll says 'Excuse me Sir!'
+A Small Troll says 'No one has ever made it out of these caves alive.'
+A Small Troll says 'Enter at your own Risk!'
+~
+Human~
+AB 0 0 0 1000 0
+110 110 1105d36+2001 110d9+60 34d3+120 chop
+-61 -61 -61 -37
+0 ABELN G C
+stand stand male 499
+V AIK medium unknown
+F for AHM
+F par BCDEFGHJ
+#16905
+A Small Rodent Rat~
+A {ySm{Wa{yll {yR{rod{yent{x~
+A {cW{be{ca{br{cy {yR{rod{yent {xof {ySm{Wa{yll {xsize rests here.
+~
+This small rat is sleeping to catchup on the restless nights he has had.  
+~
+Human~
+ACF 0 DFIPVZac 0 -700 0
+145 145 1455d48+3955 145d9+60 45d3+155 claw
+-83 -83 -83 -53
+0 BKLQ IM HJ
+stand stand either 0
+G JKQU small unknown
+F for AHMV
+F par ABCDEFGHI
+#16906
+Thordock the Dragon~
+{DT{Whordock {xthe {gDr{Dag{gon{x~
+A {gDr{Dag{gon {xis sleeping here.
+~
+A large dragon is sleeping here.  He is known as Thordock, the Dragon of
+acid.  
+~
+unique~
+ABF 0 DFJLPQRTVZac DFHNO -1000 0
+155 155 1555d51+4228 155d9+60 48d3+165 acbite
+-90 -90 -90 -57
+ACDEFGHIKMNO ABEK BCDEH FI
+sleep sleep male 700
+AHZ ACDEFGHIJKLMPQUVX huge unknown
+#16907
+Forgan the Ice Dragon~
+{BF{Worgan {xthe {bDr{Cag{bon{x~
+A {bDr{Cag{bon {xis sleeping here.
+~
+A Large dragon is sleeping here.  He is known as Forgan, the Dragon of
+ice.  
+~
+unique~
+ABF 0 DFJLPQRTVZac CDHNO -1000 0
+155 155 777d51+6261 155d10+85 51d3+167 chill
+-95 -95 -95 -62
+ACDEFGHIKMNO ABEI BCDEH H
+sleep sleep male 700
+AHZ ACDEFGHIJKLMPQUVX huge unknown
+#16908
+Pinol the Fire Dragon~
+{rP{Winol {xthe {RDr{Dag{Ron{x~
+{rP{Winol {xthe {RDr{Dag{Ron {xof {RF{Yi{Rr{Ye {xis attempting to sleep here.
+~
+Pinol the Dragon of Fire is attempting to sleep here.  He hates intruders
+and is more powerful then either of his siblings.  
+~
+unique~
+ABF 0 DFJLPQRTVZac DHNO -1000 0
+155 620 621d52+20346 155d15+600 39d5+181 flame
+-179 -179 -179 -147
+ACDEFGHIKMNO ABEH CD I
+sleep sleep male 1000
+AH CDEFGHIJLMQUV huge unknown
+#16909
+king rat~
+The {YKing {rRat{x~
+The {YKing {rRat {xis resting here.
+~
+The King Rat is here trying to regain his strength to fend off the next
+attack.  Perhaps it's best to just let him lay there unnoticed.  
+~
+wolf~
+AB 0 IKYZad G -1000 0
+150 600 601d51+19696 150d15+600 38d5+176 bite
+-173 -173 -173 -142
+AFH AB ILQ CHJ
+rest stand male 200
+AGV ACDEFJKQV small unknown
+#16910
+queen rat wife~
+The {YQueen {rRat{x~
+The {YQueen {rRat {xis here resting with her husband.
+~
+The queen rat is here, laying down next to her husband, the King.  She
+looks even weeker then the other rats.  Maybe you should just sneak by and
+try to stay undetected.  
+~
+wolf~
+AB 0 IZ 0 -1000 0
+150 150 752d50+6061 150d10+85 50d3+162 claw
+-91 -91 -91 -60
+FH ABL IK HJ
+rest stand female 0
+AGV ACDEFJKQV small unknown
+#16911
+large zombie~
+a large {Dz{ro{Dm{rb{Di{re{x~
+A {Dz{ro{Dm{rb{Di{re {xseem to be making his way towards you.
+~
+This horrible looking creature seems to be walking towards you.  His
+knees can barely bend, yet he seems to have some quick arms.  
+~
+Mutant~
+A 0 VYa A -1000 0
+115 115 1155d38+2091 115d9+60 36d3+125 drain
+-64 -64 -64 -40
+DEFHKU BK ADLQYZ CHNOPS
+stand stand none 0
+AHMV K large unknown
+F res G
+F par ABCDEFGHIJ
+#16912
+a small skeleton~
+a small {Wskeleton{x~
+A small {Wskeleton{x is before you.
+~
+This skeleton seems to be smaller then the others you've seen.  It looks
+like a pile of bones, not moving, but smelling of fresh blood.  
+~
+Human~
+AG 0 DFVZa O -1000 0
+110 110 1105d36+2001 110d9+60 34d3+120 blast
+-61 -61 -61 -37
+CEFHKU ALPRT BKX N
+rest stand none 0
+I 0 small unknown
+F for AHMV
+F par ABCDEFGHIJK
+#16913
+escaped prisoner~
+an escaped {bpr{gis{bon{ger{x~
+An escaped {bpr{gis{bon{ger{x is running from the law of {DMorlok{x.
+~
+~
+Human~
+AB 0 Rd 0 1000 0
+110 440 441d37+13333 110d15+600 28d5+136 none
+-124 -124 -124 -102
+CP B ARXZ CD
+rest stand male 0
+V HM medium unknown
+F for AHM
+F par ABCDEFGIJK
+#16914
+a prisoner~
+a {rp{Gr{ris{Gon{re{Gr{x~
+A {rp{Gr{ris{Gon{re{Gr{x rests here, praying for help.
+~
+This prisoner is praying for a ray of hope.  He just wants to get out
+alive.  You notice the marks he has on his arms from being abused at by the
+guards.  
+~
+Human~
+AB 0 QVac N 1000 0
+125 125 1255d41+3409 125d9+60 38d3+135 punch
+-71 -71 -71 -44
+HQ A CELX BD
+stand stand male 0
+V J medium unknown
+F for AHM
+F par ABCDEFGHIK
+#16915
+cell guard~
+a {DC{we{Dl{wl {WGu{ga{Wrd{x~
+A {DC{we{Dl{wl {WGu{ga{Wrd{x stands here with a nasty grin on his face.
+~
+This cell guard seems to have been all worked up on his card game.  He
+snarls at you every time you make a move.  Maybe he isn't the best person to
+be hanging around with?  
+~
+Heucuva~
+AB 0 Z GO -1000 0
+130 520 521d44+17070 130d15+600 33d5+156 crush
+-149 -149 -149 -122
+CDEFHIKLNOQ LMQ DGL NSY
+stand stand male 348
+AHMV ABCGHIJK large unknown
+#16916
+chained slave~
+A {Dch{Wai{Dne{Wd-{Dup {ysl{ra{yve{x~
+A {Dch{Wai{Dne{Wd-{Dup {ysl{ra{yve{x stands here, looking as if he's dying from thirst.
+~
+This slave is walking along here, trying to keep up the pace in order to
+avoid the captain's lashings.  Drooling from his mouth, you can tell he
+hasn't had any food and drink for days.  Around his eyes, he is all swollen.
+Looks as if he can't even see.  
+~
+Human~
+AB 0 AMWd 0 1000 0
+130 130 1305d43+3544 130d9+60 40d3+140 charge
+-74 -74 -74 -47
+0 A N C
+stand stand male 0
+V G small unknown
+F for AHM
+F par ABCDEFHIJK
+#16917
+captain guard~
+A {ysl{ra{yve {DCa{cpta{Din{x~
+A {DCa{cpta{Din{x is standing here keeping the {ysl{ra{yve{rs {xtogether.
+~
+This captain stand here keeping the slaves from running loose.  He lashes
+at anyone who doesn't keep up the pace or stay in line.  This isn't a guy
+you would want to mess with...  
+~
+Orc~
+AB 0 Ja G -1000 0
+145 580 581d49+19033 145d15+600 37d5+171 crush
+-167 -167 -167 -137
+COU AB CDQ CPS
+stand stand male 248
+AHMVX ABCDEFGHIJK large unknown
+#16918
+king morlok~
+{YK{yi{Yn{yg {DM{Ro{Dr{rl{Do{Rk{x~
+{YK{yi{Yn{yg {DM{Ro{Dr{rl{Do{Rk{x is here, standing before his throne.
+~
+This powerful King rules all of the surrounding lands.  Not only is he
+merciless, but he is a great wizard not listening to anyone but his own
+mind.  
+~
+Human~
+AB 0 DFJPVZac AHO -1000 0
+160 640 641d54+22625 160d15+600 41d5+186 drain
+-185 -185 -185 -153
+AEFGHK AB CD N
+stand stand male 1000
+V K medium unknown
+F for AHM
+F par ABCDEFGHIJ
+#0
+
+
+
+#OBJECTS
+#16900
+a golden key morlok's castle~
+a {YGo{yld{Yen {Wk{xey~
+A golden key lies here on the ground.~
+unknown~
+key 0 AO
+0 0 0 0 0
+100 1 0 P
+#16901
+castle key morlok large~
+a large {DCastle {YK{ye{Yy{x~
+A large {YK{ye{Yy {xbelonging to a {DCastle {xlies here.~
+unknown~
+key 0 A
+0 0 0 0 0
+0 1 0 P
+#16902
+small old wooden chest~
+a small wooden chest sits alone in the corner.~
+A small wooden chest sits alone in the corner.~
+wood~
+container 0 0
+0 AC 0 0 0
+0 10000 0 P
+#16903
+small golden gold statue morlok king~
+a small {Ygolden {Dstatue {wof {RKing Morlok{x~
+This small statue is made out of pure gold.  It must resemble King Morlok.~
+gold~
+treasure 0 A
+0 0 0 0 0
+101 99 100000 P
+#16904
+coin coins gold silver platinum bundle~
+a small {rBu{ynd{rle {wof {YGold Coins{x~
+A small {rB{yun{rdle {xof {YGold Coins {xlie here.~
+money~
+money 0 A
+500 0 0 0 0
+101 0 50000 P
+#16905
+jug blood wine~
+a {yJug {xof {RBlood {WWine{x~
+A {yJug {xof {RBlood {WWine {Xlies here.~
+wood~
+drink 0 A
+25 25 'blood' 0 0
+50 3 5000 P
+#16906
+tall glass flame flaming blue liquid~
+a {WGlass {xof {RF{rl{Ra{rm{Ri{rn{Rg {bBlue {xLiquid~
+A tall {WGlass {xof {RF{rl{Ra{rm{Ri{rn{Rg {bBlue {xLiquid lies here.~
+liquor~
+drink C A
+6 4 'firebreather' 0 0
+45 2 3000 P
+#16907
+pitcher golden colored liquor~
+a {WPitcher {xof {YGolden {xcolored {yLiquor{x~
+A small {WPitcher {xof a {YGolden {xdrink lies here.~
+liquor~
+drink C A
+8 6 'brandy' 0 0
+42 7 4000 P
+#16908
+hamburger burger juicy ketchup~
+a {DJuicy {yHa{Wm{Gb{Ru{rrg{yer{x~
+A {DJuicy {yHa{Wm{Gb{Ru{rrg{yer {xis here dripping {Rketchup {xon the ground.~
+hamburger~
+food 0 A
+20 2 0 0 0
+40 3 1000 P
+#16909
+giant portal~
+a {RGiant {DPortal{x~
+A {RGiant {DPortal {xsits here in the middle of the room.~
+portal~
+portal O 0
+0 H H 16901 0
+0 1 0 P
+#16910
+mangan wand enchantment immortal~
+a {cW{Wa{cn{Wd {xof {BE{Cn{Gc{Rh{Da{Yn{bt{gm{re{yn{Wt{x~
+A {cW{Wa{cn{Wd {xof {BE{Cn{Gc{Rh{Da{Yn{bt{gm{re{yn{Wt{x is here.~
+steel~
+wand 0 A
+1000 999 999 'enchant weapon' 0
+204 0 10000000 P
+#16911
+skull bones skeleton~
+a crushed {WSkeleton{x~
+A pile of {Wbones {xlie next to the wall with a large {Wskull {xon top.~
+bone~
+trash CHY A
+0 0 0 0 0
+1 3 0 P
+#16912
+diembodied head~
+a {RDisembodied {yHead{x~
+A {RDisembodied {yHead {xlays in here in the corner.~
+head~
+armor C APR
+88 88 88 87 0
+100 101 96 P
+A
+1 -2
+A
+4 -2
+A
+18 5
+A
+19 5
+A
+17 -20
+A
+20 -3
+#16913
+troll club trollish large~
+a {DL{ra{Drg{re {gTr{Gol{gl {BC{mlu{Bb{x~
+A {DL{ra{Drg{re {BC{mlu{Bb {xlies here with a {rS{mma{rll {yHandle{x.~
+unknown~
+weapon 0 AN
+mace 11 15 beating F
+100 101 6680 P
+A
+19 20
+#16914
+small troll vest~
+a {rS{mma{rll {gTr{Gol{gl {DV{yes{Dt{x~
+A {rS{mma{rll {DV{yes{Dt {xis here wrinkled on the ground.~
+unknown~
+armor S AD
+88 88 88 87 0
+100 101 96 P
+A
+18 20
+#16915
+small troll bloody helmet~
+a {rS{mma{rll {RBloody {gTr{Gol{gl {YH{De{Wl{bm{De{Yt{x~
+A {rS{mma{rll {YH{De{Wl{bm{De{Yt {xis here stained with {RBlood{x.~
+unknown~
+armor 0 AE
+88 88 88 87 0
+100 101 96 P
+A
+18 20
+A
+19 20
+#16916
+king morlok golden throne~
+a {YGolden {DT{Rh{rro{Rn{De{x~
+A {YGolden {DT{Rh{rro{Rn{De {xis at the back of the room.~
+gold~
+furniture 0 0
+1 1000000 E 200 200
+1 1 1 P
+#16917
+seat chair bar stool set~
+a {rB{Da{Rr {yStool{x~
+A set of {rB{Da{Rr {yStools {xline the counter here.~
+wood~
+furniture 0 0
+5 100000 E 10 10
+1 1 1 P
+#16918
+corpse old man rot~
+an old man's rotting corpse~
+The {yR{co{ytt{ci{yng {YC{Worp{Yse of an {WElder {DMan {xlies here in the corner.~
+unknown~
+npc_corpse 0 0
+0 0 0 0 0
+1 70 1 P
+#16919
+tattoo of fire~
+a {DTa{ctt{Doo {xof {RF{Yi{Rr{Ye{x~
+A {DTa{ctt{Doo {xof {RF{Yi{Rr{Ye{x.~
+unknown~
+armor SUY AT
+109 109 109 108 0
+125 126 121 P
+A
+13 250
+#16920
+tattoo of ice~
+a {DTa{btt{Doo {xof {BI{Cc{Be{x~
+A {DTa{btt{Doo {xof {BI{Cc{Be{x.~
+unknown~
+armor SUY AT
+109 109 109 108 0
+125 126 121 P
+A
+17 -50
+#16921
+tattoo of acid~
+a {DTa{gtt{Doo {xof {GAcid{x~
+A {DTa{gtt{Doo {xof {GAcid{x.~
+unknown~
+armor SUY AT
+109 109 109 108 0
+125 126 121 P
+A
+12 250
+#16922
+set of dragon scales~
+a set of {YShiny {RD{Dr{rag{Do{Rn {cS{yc{ca{yl{ce{ys{x~
+A set of {YShiny {RD{Dr{rag{Do{Rn {cS{yc{ca{yl{ce{ys {xare here on the ground.~
+unknown~
+armor 0 AD
+109 109 109 108 0
+125 126 121 P
+A
+18 25
+#16923
+claw of pinol~
+the {WClaw {xof {RP{Winol{x~
+The {WClaw {xof {RP{Winol {xlies here.~
+unknown~
+wand Q AQ
+150 20 10 'dispel magic' 0
+125 6 1000 P
+#16924
+small key~
+a small {ykey{x~
+A small {ykey {xis on the ground.~
+unknown~
+key 0 A
+0 0 0 0 0
+1 1 0 P
+#16925
+key~
+a {ykey{x~
+A {ykey {xis on the ground.~
+unknown~
+key 0 A
+0 0 0 0 0
+1 1 0 P
+#16926
+large key~
+a large {ykey{x~
+A large {ykey {xis on the ground.~
+unknown~
+key 0 0
+0 0 0 0 0
+1 0 0 P
+#16927
+coins platinum gold silver~
+a pile of coins~
+A pile of coins is on the ground.~
+unknown~
+money 0 A
+200 0 0 0 0
+1 0 200 P
+#16928
+set dragons teeth~
+a set of {cDr{Dag{ron{R's {WTeeth{x~
+A set of {cDr{Dag{ron{R's {WTeeth {xare here.~
+unknown~
+armor IS AR
+109 109 109 108 0
+125 126 121 P
+A
+1 4
+A
+2 4
+#16929
+dragon ball~
+a {cDr{Dag{ron {RNail{x~
+A {cDr{Dag{ron {RNail {xlies here on the ground.~
+unknown~
+jewelry SY AB
+0 0 0 0 0
+125 203 206 P
+A
+17 -4
+A
+4 4
+A
+3 4
+A
+12 200
+A
+20 -5
+#16930
+a large diamond~
+a {BLa{Cr{Bge {WDiamond{x~
+A {BLa{Cr{Bge {WDiamond{x is here.~
+diamond~
+gem SY AO
+0 0 0 0 0
+1 0 10000 P
+#16931
+a small diamond~
+a {bSm{ca{bll {WDiamond{x~
+A {bSm{ca{bll {WDiamond {xis here.~
+diamond~
+gem SY AO
+0 0 0 0 0
+1 0 7500 P
+#16932
+a pair of dragon wings~
+a pair of {rDr{Rag{ron {DW{Wing{Ds{x~
+A large pair of {rDr{Rag{ron {DW{Wing{Ds{x are here.~
+wings~
+armor SY AI
+173 173 173 172 0
+125 203 206 P
+A
+2 2
+A
+1 2
+A
+4 2
+A
+3 2
+A
+5 2
+A
+17 -20
+#16933
+large dark staff~
+a large {Ddark {Wstaff{x~
+A large {Ddark {Wstaff{x lies here.~
+unknown~
+weapon CGS AN
+mace 12 16 drain 0
+110 111 7600 P
+A
+19 10
+A
+18 10
+A
+3 1
+#16934
+small glass orb~
+a small {Wglass {go{yr{bb{x~
+A small {Wglass {go{yr{bb{x floats here.~
+unknown~
+armor GU A
+96 96 96 95 0
+110 111 106 P
+A
+19 3
+A
+18 3
+A
+17 -36
+#16935
+pair short troll leggins~
+a pair of {gTr{Gol{gl {yL{ge{rgg{Gin{ygs{x~
+A pair of {gTr{Gol{gl {yL{ge{rgg{Gin{ygs{x are here.~
+unknown~
+armor S AF
+88 88 88 87 0
+100 101 96 P
+A
+17 -40
+#16936
+small round earring~
+a small {Wround {Yearring{x~
+A small {Wround {Yearring{x is here.~
+unknown~
+jewelry Y AV
+0 0 0 0 0
+100 0 0 P
+A
+13 250
+#16937
+large scar~
+a large {Ds{rc{Da{rr{x~
+You notice a large {Ds{rc{Da{rr{x.~
+unknown~
+jewelry HMUY AC
+0 0 0 0 0
+125 0 0 P
+A
+18 25
+#16938
+pair small troll boots~
+a pair of {rs{mma{rll {gTr{Gol{gl {bb{yo{bo{yt{bs{x~
+A pair of {rs{mma{rll {gTr{Gol{gl {bb{yo{bo{yt{bs{x are here.~
+unknown~
+armor S AG
+88 88 88 87 0
+100 101 96 P
+A
+19 10
+A
+18 10
+#16939
+small steel shield~
+a small {Ds{Wt{Dee{Wl {cSh{yie{cld{x~
+A small {Ds{Wt{Dee{Wl {cSh{yie{cld{x rests here.~
+unknown~
+armor 0 AJ
+88 88 88 87 0
+100 101 96 P
+A
+17 -80
+#16940
+dragon skin mask~
+a {bdr{Cag{bon {rs{gk{ri{gn {xmask~
+A mask made of tough {bdr{Cag{bon {rs{gk{ri{gn {xis here.~
+unknown~
+armor QS AR
+173 173 173 172 0
+125 203 206 P
+A
+4 4
+A
+3 4
+#16941
+stench of dragon~
+the stench of a {gDr{Dag{gon{x~
+The stench of a {gDr{Dag{gon{x is around you.~
+unknown~
+jewelry HMQSU Q
+0 0 0 0 0
+125 203 206 P
+A
+2 -4
+A
+17 -56
+#16942
+dragon flame~
+a {RDr{Dag{Ron {rFlame{x~
+A {RDr{Dag{Ron {rFlame{x is here lighting the way.~
+unknown~
+light 0 A
+0 0 999 0 0
+125 0 0 P
+A
+18 10
+A
+19 10
+A
+17 -10
+#16943
+brown dirty mushroom~
+a {rbrown{x, {ydirty {Wmushroom{x~
+The ground seems a little lighter here.~
+unknown~
+food 0 A
+30 4 0 0 0
+0 0 0 P
+#16944
+card table~
+a card {ytable{x~
+A card {ytable {xis here.~
+unknown~
+furniture Y 0
+3 2000 D 0 0
+1 1 0 P
+#16945
+guard whip~
+a {Wgu{ga{Wrd{g'{Ws {Bwh{Yi{Bp{x~
+A {Wgu{ga{Wrd{g'{Ws {Bwh{Yi{Bp{x~
+unknown~
+weapon 0 AN
+whip 11 16 whip EH
+110 111 7200 P
+A
+17 -20
+A
+19 10
+A
+18 10
+#16946
+slave chains~
+a {ysl{ra{yve{r's {Dc{Wh{Da{Wi{Dn{Ws{x~
+A {ysl{ra{yve{r's {Dc{Wh{Da{Wi{Dn{Ws{x are here.~
+unknown~
+armor HMY AM
+88 88 88 87 0
+100 101 96 P
+A
+17 -40
+#16947
+captain whip~
+{xa {DCa{cpta{Din{c's {rW{bh{ri{bp{x~
+{xA {DCa{cpta{Din{c's {rW{bh{ri{bp{x is waiting to be used.~
+unknown~
+weapon 0 AN
+whip 13 16 whip H
+120 121 8220 P
+A
+19 21
+#16948
+king morlok mace p-item~
+{YK{yi{Yn{yg {DM{Ro{Dr{rl{Do{Rk{D'{rs {DM{ca{Dc{ce{x~
+A {DM{ca{Dc{ce {xbelong to {YK{yi{Yn{yg {DM{Ro{Dr{rl{Do{Rk {xis here.~
+unknown~
+weapon CEGJLS AN
+mace 15 15 magic BCE
+130 21 8465 P
+A
+18 17
+A
+19 17
+#16949
+king morlok crown morlok castle p-item~
+the {YK{yi{Yn{yg{Y'{ys {DC{Rr{ro{Rw{Dn {xof {DMorlok's {rR{ce{ra{cl{rm{c'{rs{x~
+The {YK{yi{Yn{yg{Y'{ys {DC{Rr{ro{Rw{Dn {xof {DMorlok's {rR{ce{ra{cl{rm{c'{rs{x is wanting to be worn.~
+unknown~
+armor CEJL AE
+117 117 117 116 0
+130 136 131 P
+A
+20 -5
+A
+17 -50
+A
+12 20
+#16950
+mangan bag of acolyte goodies immortal~
+{DM{Ga{Dn{Gg{Da{Gn{D'{Gs {rB{ga{rg {xof {DIm{Rm{ror{Rt{Dal {DG{Bo{Do{Bd{Di{Be{Ds{x~
+{DM{Ga{Dn{Gg{Da{Gn{D'{Gs {rB{ga{rg {xof {DIm{Rm{ror{Rt{Dal {DG{Bo{Do{Bd{Di{Be{Ds{x is here.~
+unknown~
+container SY A
+100000 A 0 100000 0
+203 0 0 P
+#16951
+mangan bed unrested souls~
+{DM{Ga{Dn{Gg{Da{Gn{D'{Gs {BB{Ye{Bd {xof {cU{rn{cr{re{cs{rt{ce{rd {DSouls{x~
+{DM{Ga{Dn{Gg{Da{Gn{D'{Gs {BB{Ye{Bd {xof {cU{rn{cr{re{cs{rt{ce{rd {DSouls{x lies here.~
+unknown~
+furniture SY AO
+1 1000000 K 70000 10000
+203 0 0 P
+#16952
+mangan wand immortals immortal~
+the {cW{Wa{cn{Wd {xof the {DI{Bm{Dm{ro{Dr{Rt{Da{yl{Ds{x~
+The {cW{Wa{cn{Wd {xof the {DI{Bm{Dm{ro{Dr{Rt{Da{yl{Ds{x is here.~
+unknown~
+wand 0 AO
+1000 999 999 'master healing' 0
+203 0 0 P
+#16953
+white gem~
+{r({R({r({DI{Wmm{wqu{Wes{Dt{r){R){r) {xa {Wwhite {Gg{Re{Gm{x~
+{r({R({r({DI{Wmm{wqu{Wes{Dt{r){R){r) {xa {Wwhite {Gg{Re{Gm{x is here.~
+unknown~
+treasure SY A
+0 0 0 0 0
+0 0 0 P
+#16954
+magic pill~
+a {cma{Wg{cic {Rpi{wl{Rl{x~
+A magic pill is here.~
+unknown~
+pill HSU A
+0 'quest pill' 'reserved' 'reserved' 'reserved'
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#16900
+A Small Path {R({DMorlok's Castle{R){x~
+{*W{*A{*R{*N{*I{*N{*G{*!{x
+ 
+Only high level players should attempt to travel this area!
+Venture on at your own risk!
+~
+0 4 4
+D0
+~
+~
+0 0 16901
+D2
+~
+~
+0 0 640
+S
+#16901
+Before the Mote {R({DMorlok's Castle{R){x~
+To the north is a large moat running east and west as far as your eyes
+can see.  Beyond the moat is a large castle surrounded by a dark glow.  You
+then realize this is your last chance to turn back.  
+~
+0 4 4
+D0
+~
+~
+0 0 16902
+D2
+~
+~
+0 0 16900
+S
+#16902
+A Large Mote {R({DMorlok's Castle{R){x~
+Your swimming in the middle of a large moat.  You look east and west but
+the moat goes on as far as you can see.  The current is pulling you in all
+directions not allowing you to go back southl.  The only way out of the moat
+is north.  
+~
+0 4 6
+D0
+~
+~
+0 0 16996
+D1
+~
+~
+0 0 16903
+D3
+~
+~
+0 0 16907
+S
+#16903
+A Large Mote {R({DMorlok's Castle{R){x~
+The banks of the moat are to high to climb up on.  It look like you'll
+have to fight the current and swim back to the west if you want to get out. 
+The moat continues to the east without any sing of ending.  
+~
+0 0 6
+D1
+~
+~
+0 0 16904
+D3
+~
+~
+0 0 16902
+S
+#16904
+A Large Mote {R({DMorlok's Castle{R){x~
+The current is getting stronger and you can't turn back.  The only choice
+you have is to continue east.  You see bubbles coming from under the water. 
+Perhaps this isn't the safest place to be.  
+~
+0 0 6
+D1
+~
+~
+0 0 16905
+D3
+~
+~
+0 0 16903
+S
+#16905
+A Large Mote {R({DMorlok's Castle{R){x~
+The current keeps getting stronger and stronger.  There's no stopping it.
+It's pulling you east harder then ever before.  Seems you have no other
+options but to continue east.  
+~
+0 0 6
+D1
+~
+~
+0 0 16906
+D3
+~
+~
+0 0 16904
+S
+#16906
+A Large Mote {R({DMorlok's Castle{R){x~
+You can't stop now for the current is much to strong.  You float by a
+boulder but have no chance of grabbing on to it.  You look ahead to check
+for any dangers, but for some odd reason it seem familiar.  
+~
+0 0 6
+D1
+~
+~
+0 0 16905
+D3
+~
+~
+0 0 16905
+S
+#16907
+A Large Mote {R({DMorlok's Castle{R){x~
+You keep trying to climb out of the moat but you keep slipping on the
+banks.  It almost feels like your rock climbing since the banks are so high.
+To the west you can see a small field.  Perhaps you could climb out there.  
+~
+0 4 6
+D1
+~
+~
+0 0 16902
+D3
+~
+~
+0 0 16908
+S
+#16908
+A Large Mote {R({DMorlok's Castle{R){x~
+As the current gets stronger you realize that this moat could go on
+forever.  A small field to your north seems to look so much more comfortable
+than this freezing cold moat.  The bank isn't as high to your north.  You
+might be able to climb out.  
+~
+0 0 6
+D0
+~
+~
+0 0 16998
+D1
+~
+~
+0 0 16907
+D3
+~
+~
+0 0 16909
+S
+#16909
+A Large Mote {R({DMorlok's Castle{R){x~
+Straight ahead you can see some sort of water animal moving.  The current
+seems to be dragging you closer and closer to it.  You panic and try to swim
+away but it only makes things worse.  Your only chance is to swim passed
+him.  
+~
+0 0 6
+D1
+~
+~
+0 0 16908
+D3
+~
+~
+0 0 16910
+S
+#16910
+A Large Mote {R({DMorlok's Castle{R){x~
+The current keeps rising and pulling you faster and faster.  You try and
+fight it but you can't.  You still can't see the end of the moat.  Let's
+hope you don't smash into a rock along the sides.  
+~
+0 0 6
+D1
+~
+~
+0 0 16909
+D3
+~
+~
+0 0 16909
+S
+#16911
+A Circular Path {R({DMorlok's Castle{R){x~
+You can now see the large castle to the east.  It looks close enough to
+reach in an hour of walking.  Perhaps if you hurry you'll get there before
+the guards wake up.  
+~
+0 4 4
+D1
+~
+~
+0 0 16912
+D2
+~
+~
+0 0 16995
+S
+#16912
+Before the Castle {R({DMorlok's Castle{R){x~
+You stand before the massive doors to King Morlok's Castle.  There are
+two guards stopping anyone from entering without an invitation.  To the
+south you can jump off the cliff and hope you don't land in the moat.  
+~
+0 0 4
+D0
+~
+~
+4 16901 16914
+D1
+~
+~
+0 0 16913
+D2
+~
+~
+0 0 16996
+D3
+~
+~
+0 0 16911
+S
+#16913
+A Circular Path {R({DMorlok's Castle{R){x~
+This dusty path curves once again.  You can now see the castle off to the
+west.  You can see the massive doors to enter the castle.  You start to
+wonder why they don't have a drawbridge.  You see two figures guarding the
+door.  
+~
+0 4 4
+D2
+~
+~
+0 0 16997
+D3
+~
+~
+0 0 16912
+S
+#16914
+A Long Hallway {R({DMorlok's Castle{R){x~
+The hallway continues to the north.  The floor is made of white and black
+marble placed like a checkerboard.  The walls are made of solid rocks.  You
+get the feeling that it would be best to turn back before it is to late. 
+The large doors which you entered the castle from are to the south.  
+~
+0 0 0
+D0
+~
+~
+0 0 16915
+D2
+~
+~
+4 16900 16912
+S
+#16915
+A Long Hallway {R({DMorlok's Castle{R){x~
+Your standing in a wide hallway.  The wall to the east is a darker shade
+of grey than the rest of the room.  To the west is a door.  You can hear
+lots of talking and laughing coming from the otherside of the door.  
+~
+0 8 0
+D0
+~
+~
+0 0 16923
+D1
+~
+~
+1 0 16916
+D2
+~
+~
+0 0 16914
+D3
+~
+~
+1 0 16920
+S
+#16916
+A Small Tunnel {R({DMorlok's Castle{R){x~
+You find youself in a small tunnel.  The tunnel leads south.  Maybe
+opening doors isn't such a good idea.  Maybe it's best to turn back and
+leave the castle to itself.  Morlok might not want any visitors.  
+~
+0 9 0
+D2
+~
+~
+0 0 16917
+D3
+~
+~
+1 0 16915
+S
+#16917
+A Small Tunnel {R({DMorlok's Castle{R){x~
+The tunnel continues to the east where it takes a sharp turn.  You can
+see cobwebs and skeletons all around the walls.  You step on a small twig
+and see a skull roll over your foot.  Hundreds of insects start crawling
+out.  Then they disappear into a small hole in the wall.  
+~
+0 9 0
+D0
+~
+~
+0 0 16916
+D1
+~
+~
+0 0 16918
+S
+#16918
+A Small Tunnel {R({DMorlok's Castle{R){x~
+You come to the end of the tunnel.  You can't see anything very well even
+with your light.  As you look around you find a small ladder on the back
+wall.  
+~
+0 9 0
+D3
+~
+~
+0 0 16917
+D4
+~
+~
+0 0 16919
+S
+#16919
+A Small Room {R({DMorlok's Castle{R){x~
+Your standing in a small room with nothing except an old chest.  It looks
+to be unlocked.  It probably hasn't been touched for a few hundred years. 
+What harm could it do to take a peek inside?  
+~
+0 0 0
+D5
+~
+~
+0 0 16918
+S
+#16920
+A Bar Room {R({DMorlok's Castle{R){x~
+Your standing in a large bar room.  You can see loads of people, mostly
+drunks, sitting at the bar.  You notice a small bartender rushing around
+quickly to help all the people with their orders.  Back to the east is the
+door you came in.  You see a small door behind the counter.  
+~
+0 1024 0
+D1
+~
+~
+1 0 16915
+S
+#16921
+A Cellar {R({DMorlok's Castle{R){x~
+Your standing in a large cellar.  You can see the walls covered in drinks
+sold at the bar.  An entire wall is covered from stacks of Blood Wine.  The
+bar is back to the east.  You notice a small trapdoor on the ground.  
+~
+0 0 0
+D1
+~
+~
+1 0 16920
+D5
+~
+~
+1 0 16922
+S
+#16922
+Through a Trap Door {R({DMorlok's Castle{R){x~
+You've fallen through the trap door.  You try to climb back out but no
+ladder or rope is to be found.  The only way to continue is down through the
+small hole in the floor.  
+~
+0 12 0
+D5
+~
+~
+0 0 16909
+S
+#16923
+A Long Hallway {R({DMorlok's Castle{R){x~
+The hallway gets a little narrower here.  You see three large doors to
+the north, east, and west.  You can go back down the hall to the south. 
+Make sure you pick the right choice.  
+~
+0 8 0
+D0
+~
+~
+1 0 16924
+D1
+~
+~
+1 0 16926
+D2
+~
+~
+0 0 16915
+D3
+~
+~
+1 0 16925
+S
+#16924
+A Large Room {R({DMorlok's Castle{R){x~
+You look around as you enter this room and notice than the room is one of
+the largest ones in the castle.  After a minute you realize there is a giant
+portal on the ground.  Perhaps you could step into it unharmed, assuming
+that you are lucky.  
+~
+0 8 0
+D2
+~
+~
+1 0 16923
+S
+#16925
+A Bedroom~
+Your in a huge bedroom.  You can see pictures on the wall and a bed big
+enough for one person.  You also see a table with a book on it.  You hear a
+creak coming from the corner.  You find an old man with a staff standing
+infront of a rocking chair.  
+~
+0 8 0
+D1
+~
+~
+1 0 16923
+S
+#16926
+Start of a Cave {R({DMorlok's Castle{R){x~
+You find yourself at the start of a wide cave.  It becomes all dark as
+you look ahead.  Then you hear a voice coming from the other end.  
+~
+0 9 0
+D1
+~
+~
+0 0 16927
+D3
+~
+~
+1 0 16923
+S
+#16927
+A Curve in a Cave {R({DMorlok's Castle{R){x~
+You come to a curve in the cave.  For it seems to now look more like a
+tunnel ahead of you.  The voices become even louder now.  Hurry, they might
+need help whether it be given in battle or in a heal of wounds.  
+~
+0 9 0
+D0
+~
+~
+0 0 16928
+D3
+~
+~
+0 0 16926
+S
+#16928
+Entrance to the Caves {R({DMorlok's Castle{R){x~
+Your standing infront of a huge cave opening.  You can see it is all dark
+ahead.  You can only see ten feet into the cave before it goes pitch black. 
+Perhaps this isn't the best place to be right now.  
+~
+0 13 0
+D0
+~
+~
+0 0 16929
+S
+#16929
+Inside the Caves {R({DMorlok's Castle{R){x~
+Your standing inside a huge cave.  It's to dark to see anything...  
+~
+0 524293 0
+D1
+~
+~
+0 0 16930
+D2
+~
+~
+0 0 16928
+D3
+~
+~
+0 0 16960
+S
+#16930
+A Dark Part of the Caves {R({DMorlok's Castle{R){x~
+Your standing inside a huge cave.  It's to dark to see anything...
+~
+0 5 0
+D0
+~
+~
+0 0 16931
+D1
+~
+~
+0 0 16946
+D3
+~
+~
+0 0 16929
+S
+#16931
+A Dark Part of the Caves {R({DMorlok's Castle{R){x~
+Your standing inside a huge cave.  It's to dark to see anything...
+~
+0 1 0
+D0
+~
+~
+0 0 16934
+D1
+~
+~
+0 0 16935
+D2
+~
+~
+0 0 16930
+D3
+~
+~
+0 0 16932
+S
+#16932
+A Dark Part of the Caves {R({DMorlok's Castle{R){x~
+Your standing inside a huge cave.  It's to dark to see anything...
+~
+0 1 0
+D0
+~
+~
+0 0 16933
+D1
+~
+~
+0 0 16931
+D2
+~
+~
+0 0 16945
+D3
+~
+~
+0 0 16933
+S
+#16933
+A Dark Part of the Caves {R({DMorlok's Castle{R){x~
+Your standing inside a huge cave.  It's to dark to see anything...
+~
+0 1 0
+D0
+~
+~
+0 0 16931
+D1
+~
+~
+0 0 16934
+D2
+~
+~
+0 0 16932
+D3
+~
+~
+0 0 16936
+S
+#16934
+A Dark Part of the Caves {R({DMorlok's Castle{R){x~
+Your standing inside a huge cave.  It's to dark to see anything...
+~
+0 1 0
+D0
+~
+~
+0 0 16938
+D1
+~
+~
+0 0 16936
+D2
+~
+~
+0 0 16931
+D3
+~
+~
+0 0 16933
+S
+#16935
+A Dark Part of the Caves {R({DMorlok's Castle{R){x~
+Your standing inside a huge cave.  It's to dark to see anything...
+~
+0 1 0
+D0
+~
+~
+0 0 16936
+D1
+~
+~
+0 0 16934
+D2
+~
+~
+0 0 16939
+D3
+~
+~
+0 0 16931
+S
+#16936
+A Dark Part of the Caves {R({DMorlok's Castle{R){x~
+Your standing inside a huge cave.  It's to dark to see anything...
+~
+0 1 0
+D0
+~
+~
+0 0 16937
+D1
+~
+~
+0 0 16932
+D2
+~
+~
+0 0 16935
+D3
+~
+~
+0 0 16934
+S
+#16937
+A Dark Part of the Caves {R({DMorlok's Castle{R){x~
+Your standing inside a huge cave.  It's to dark to see anything...
+~
+0 1 0
+D0
+~
+~
+0 0 16940
+D1
+~
+~
+0 0 16942
+D2
+~
+~
+0 0 16936
+D3
+~
+~
+0 0 16938
+S
+#16938
+A Dark Part of the Caves {R({DMorlok's Castle{R){x~
+The light shines here but you can't seem to find the source.  You don't
+think to much since it's the first time you've seen your own hands since
+you've entered the caves.  
+~
+0 0 0
+D0
+~
+~
+0 0 16939
+D1
+~
+~
+0 0 16937
+D2
+~
+~
+0 0 16934
+D3
+~
+~
+0 0 16935
+S
+#16939
+A Dark Part of the Caves {R({DMorlok's Castle{R){x~
+Your standing inside a huge cave.  It's to dark to see anything...
+~
+0 1 0
+D0
+~
+~
+0 0 16935
+D1
+~
+~
+0 0 16935
+D2
+~
+~
+0 0 16938
+D3
+~
+~
+0 0 16940
+S
+#16940
+A Dark Part of the Caves {R({DMorlok's Castle{R){x~
+Your standing inside a huge cave.  It's to dark to see anything...
+~
+0 1 0
+D0
+~
+~
+0 0 16940
+D1
+~
+~
+0 0 16941
+D2
+~
+~
+0 0 16937
+S
+#16941
+A Dark Part of the Caves {R({DMorlok's Castle{R){x~
+Your standing inside a huge cave.  It's to dark to see anything...
+~
+0 1 0
+D0
+~
+~
+0 0 16945
+D1
+~
+~
+0 0 16944
+D2
+~
+~
+0 0 16942
+D3
+~
+~
+0 0 16940
+S
+#16942
+A Dark Part of the Caves {R({DMorlok's Castle{R){x~
+Your standing inside a huge cave.  It's to dark to see anything...
+~
+0 1 0
+D0
+~
+~
+0 0 16941
+D1
+~
+~
+0 0 16943
+D2
+~
+~
+0 0 16932
+D3
+~
+~
+0 0 16937
+S
+#16943
+A Dark Part of the Caves {R({DMorlok's Castle{R){x~
+Your standing inside a huge cave.  It's to dark to see anything...
+~
+0 1 0
+D0
+~
+~
+0 0 16944
+D1
+~
+~
+0 0 16934
+D2
+~
+~
+0 0 16943
+D3
+~
+~
+0 0 16942
+S
+#16944
+A Dark Part of the Caves {R({DMorlok's Castle{R){x~
+Your standing inside a huge cave.  It's to dark to see anything...
+~
+0 1 0
+D0
+~
+~
+0 0 16943
+D1
+~
+~
+0 0 16939
+D2
+~
+~
+0 0 16943
+D3
+~
+~
+0 0 16941
+S
+#16945
+A Dark Part of the Caves {R({DMorlok's Castle{R){x~
+Your standing inside a huge cave.  It's to dark to see anything...
+~
+0 1 0
+D0
+~
+~
+0 0 16932
+D1
+~
+~
+0 0 16943
+D2
+~
+~
+0 0 16941
+D3
+~
+~
+0 0 16940
+S
+#16946
+A Dark Part of the Caves {R({DMorlok's Castle{R){x~
+Your standing inside a huge cave.  It's to dark to see anything...
+~
+0 5 0
+D2
+~
+~
+0 0 16947
+D3
+~
+~
+0 0 16930
+S
+#16947
+A Wet Tunnel in the Caves {R({DMorlok's Castle{R){x~
+Your standing inside a huge cave.  It's to dark to see anything...
+~
+0 1 0
+D0
+~
+~
+0 0 16946
+D1
+~
+~
+0 0 16947
+D2
+~
+~
+0 0 16948
+D3
+~
+~
+0 0 16947
+S
+#16948
+A Wet Tunnel in the Caves {R({DMorlok's Castle{R){x~
+Your standing inside a huge cave.  It's to dark to see anything...
+~
+0 1 0
+D0
+~
+~
+0 0 16947
+D1
+~
+~
+0 0 16949
+D2
+~
+~
+0 0 16955
+D3
+~
+~
+0 0 16951
+S
+#16949
+A Wet Tunnel in the Caves {R({DMorlok's Castle{R){x~
+Your standing inside a huge cave.  It's to dark to see anything...
+~
+0 0 0
+D0
+~
+~
+0 0 16956
+D1
+~
+~
+0 0 16951
+D2
+~
+~
+0 0 16954
+D3
+~
+~
+0 0 16948
+S
+#16950
+{xA Wet Tunnel through the Caves {R({DMorlok's Castle{R){x~
+~
+0 0 0
+D0
+~
+~
+0 0 16957
+D2
+~
+~
+0 0 16953
+D3
+~
+~
+0 0 16949
+S
+#16951
+A Wet Tunnel in the Caves {R({DMorlok's Castle{R){x~
+Your standing inside a huge cave.  It's to dark to see anything...
+~
+0 0 0
+D0
+~
+~
+0 0 16958
+D1
+~
+~
+0 0 16948
+D2
+~
+~
+0 0 16952
+D3
+~
+~
+0 0 16949
+S
+#16952
+A Wet Tunnel in the Caves {R({DMorlok's Castle{R){x~
+Your standing inside a huge cave.  It's to dark to see anything...
+~
+0 1 0
+D0
+~
+~
+0 0 16951
+D1
+~
+~
+0 0 16955
+D2
+~
+~
+0 0 16959
+D3
+~
+~
+0 0 16953
+S
+#16953
+A Wet Tunnel in the Caves {R({DMorlok's Castle{R){x~
+Your standing inside a huge cave.  It's to dark to see anything...
+~
+0 1 0
+D0
+~
+~
+0 0 16950
+D1
+~
+~
+0 0 16952
+D2
+~
+~
+0 0 16958
+D3
+~
+~
+0 0 16954
+S
+#16954
+A Wet Tunnel in the Caves {R({DMorlok's Castle{R){x~
+Inside this magnificent cave you can see drawing from the ghosts who roam
+the castle.  The light from the ceiling above lets you see all around.  
+~
+0 524288 0
+D0
+~
+~
+0 0 16949
+D1
+~
+~
+0 0 16953
+D2
+~
+~
+0 0 16957
+D3
+~
+~
+0 0 16955
+S
+#16955
+A Wet Tunnel in the Caves {R({DMorlok's Castle{R){x~
+Your standing inside a huge cave.  It's to dark to see anything...
+~
+0 1 0
+D0
+~
+~
+0 0 16948
+D1
+~
+~
+0 0 16954
+D2
+~
+~
+0 0 16956
+D3
+~
+~
+0 0 16952
+S
+#16956
+A Wet Tunnel in the Caves {R({DMorlok's Castle{R){x~
+You can eel the ground moving beneath you!  You wonder which way to go
+next...  
+~
+0 1 0
+D0
+~
+~
+0 0 16955
+D1
+~
+~
+0 0 16957
+D2
+~
+~
+0 0 16949
+D3
+~
+~
+0 0 16959
+S
+#16957
+A Wet Tunnel in the Caves {R({DMorlok's Castle{R){x~
+Your standing inside a huge cave.  It's to dark to see anything...
+~
+0 1 0
+D0
+~
+~
+0 0 16954
+D1
+~
+~
+0 0 16958
+D2
+~
+~
+0 0 16950
+D3
+~
+~
+0 0 16956
+S
+#16958
+A Wet Tunnel in the Caves {R({DMorlok's Castle{R){x~
+Your standing inside a huge cave.  It's to dark to see anything...
+~
+0 1 0
+D0
+~
+~
+0 0 16953
+D1
+~
+~
+0 0 16959
+D2
+~
+~
+0 0 16951
+D3
+~
+~
+0 0 16957
+S
+#16959
+A Wet Tunnel in the Caves {R({DMorlok's Castle{R){x~
+Your standing inside a huge cave.  It's to dark to see anything...
+~
+0 1 0
+D0
+~
+~
+0 0 16952
+D1
+~
+~
+0 0 16956
+D2
+~
+~
+0 0 16954
+D3
+~
+~
+0 0 16958
+S
+#16960
+A Mist filled Part of the Caves {R({DMorlok's Castle{R){x~
+You can see here, but not to well for their is mist floating all around
+you.  If the mist would leave you would be able to walk around the caves
+fearlessly.  
+~
+0 0 0
+D1
+~
+~
+0 0 16929
+D3
+~
+~
+0 0 16961
+S
+#16961
+A Mist filled Part of the Caves {R({DMorlok's Castle{R){x~
+The mist seems to lighten here.  The mist has to have escaped somehow. 
+You here the mamblings of an old man ahead.  As you look farther on, you see
+light on the side of a wall.  
+~
+0 1 0
+D1
+~
+~
+0 0 16960
+D3
+~
+~
+0 0 16962
+S
+#16962
+A Corner in the Caves {R({DMorlok's Castle{R){x~
+You can see a path to the north with light shining on upon it.  The mist
+is getting lighter with every step you take.  You can see a few dark figures
+ahead, but who knows what they'll do.  
+~
+0 4 0
+D0
+~
+~
+0 0 16963
+D1
+~
+~
+0 0 16961
+S
+#16963
+A Path towards the Light {R({DMorlok's Castle{R){x~
+You see rodent droppings everywhere.  The smell is so horrible that you
+The path continues to the north as the light gets brighter.  You see rodent
+droppings everywhere.  The smell is so horrible that you don't bother
+looking around, until it's to late.  
+~
+0 0 0
+D0
+~
+~
+0 0 16964
+D2
+~
+~
+0 0 16962
+S
+#16964
+A Path towards the Light {R({DMorlok's Castle{R){x~
+The path continues to the north.  As you keep walking, you see even more
+tired rats.  There must have been a war recently.  To the west you see a
+crack in the wall.  As you look in, a blast of fire shoots out of it.  
+~
+0 0 0
+D0
+~
+~
+0 0 16975
+D2
+~
+~
+0 0 16963
+D3
+~
+~
+0 0 16965
+S
+#16965
+The Entrance to the Dragons' Lairs {R({DMorlok's Castle{R){x~
+The walls here are steaming with heat.  As you look up, you see a small
+hole in the ceiling, but to small to climb through.  You hear the breathing
+of a giant animal ahead.  Now the tired rats don't seem so tough...  
+~
+0 4 0
+D1
+~
+~
+0 0 16964
+D3
+~
+~
+0 0 16966
+S
+#16966
+Path to the Dragons {R({DMorlok's Castle{R){x~
+Here the path splits in all different ways.  You here breathing all
+around you.  The path is getting hotter and hotter as you continue.  The
+south path has been blocked off by a giant iron door.  
+~
+0 0 0
+D0
+~
+~
+0 0 16967
+D1
+~
+~
+0 0 16965
+D2
+~
+~
+4 16924 16971
+D3
+~
+~
+0 0 16974
+S
+#16967
+Before Three Dragons' Lairs {R({DMorlok's Castle{R){x~
+To the north, east, and west are large dragons.  You see their huge
+shapes ahead.  It is said that dragons sleep with one eye open at all
+times...  
+~
+0 4 0
+D0
+~
+~
+0 0 16969
+D1
+~
+~
+0 0 16968
+D2
+~
+~
+0 0 16966
+D3
+~
+~
+0 0 16970
+S
+#16968
+Thordock's Lair {R({DMorlok's Castle{R){x~
+You stand in the middle of a large lair.  You see Thordock the Dragon
+sitting on top of a pile of jewels in the back of the room.  
+~
+0 0 0
+D3
+~
+~
+0 0 16967
+S
+#16969
+Forgan's Lair {R({DMorlok's Castle{R){x~
+Forgan the Dragon of Ice, is sleeping here.  He is one of the deadliest
+dragons of all.  Now might be your last chance to turn back, and live.  
+~
+0 0 0
+D2
+~
+~
+0 0 16967
+S
+#16970
+Pinol's Lair {R({DMorlok's Castle{R){x~
+This is the lair of Pinol the Dragon of Fire.  He is obviously stronger
+then his siblings for he is sitting on a mound of gold and platinum coins,
+along with a few diamonds.  
+~
+0 0 0
+D1
+~
+~
+0 0 16967
+S
+#16971
+Inbetween the Doors {R({DMorlok's Castle{R){x~
+You have gotten passed the first door, only to find another door to the
+south.  I guess you'll have to find another key to get in.  
+~
+0 0 0
+D0
+~
+~
+4 16924 16966
+D2
+~
+~
+4 16925 16972
+S
+#16972
+Inbetween the Door {R({DMorlok's Castle{R){x~
+You are starting to get exhausted.  All the key searching is wearing you
+out.  You then notice their is another door to the south.  You try smashing
+it to pieces, but your body is useless in breaking down iron doors.  
+~
+0 0 0
+D0
+~
+~
+4 16925 16971
+D2
+~
+~
+4 16926 16973
+S
+#16973
+Behind the Doors {R({DMorlok's Castle{R){x~
+It's a way out!  You look to the south and you realize you have
+successfully passed through the maze alive!  To the south is a small field. 
+~
+0 0 0
+D0
+~
+~
+4 0 16972
+D2
+~
+~
+0 0 16998
+S
+#16974
+A Dragon's Lair {R({DMorlok's Castle{R){x~
+You are standing in a dragon's lair, that is dragonless.  You see a large
+sum of coins in the middle of the room.  Maybe if the dragon is out, you
+could sneak away a few coins.  
+~
+0 0 0
+D1
+~
+~
+0 0 16966
+S
+#16975
+A Path towards the Light {R({DMorlok's Castle{R){x~
+The rats still lay around your feet, as they are to tired to notice you. 
+You see the light getting even brighter as you continue north.  
+~
+0 0 0
+D0
+~
+~
+0 0 16976
+D2
+~
+~
+0 0 16964
+S
+#16976
+A Path towards the Light {R({DMorlok's Castle{R){x~
+Here you find the King Rat himself, accompanied by his wife, the queen. 
+He is resting here with his wife, trying to gain back his strength from the
+recent battle.  
+~
+0 0 0
+D0
+~
+~
+0 0 16977
+D2
+~
+~
+0 0 16975
+S
+#16977
+Before the Light {R({DMorlok's Castle{R){x~
+You see the light coming from a small hole in the ceiling, but to small
+to climb through.  The passageway take a sharp turn here.  As you peer to
+the west, you smell danger lurking ahead.  
+~
+0 4 0
+D2
+~
+~
+0 0 16976
+D3
+~
+~
+0 0 16978
+S
+#16978
+A Path towards the Darkness {R({DMorlok's Castle{R){x~
+You find the darkness growing around you.  You see the light coming back
+from behind you, although the urge to continue is getting stronger.  
+~
+0 4 0
+D1
+~
+~
+0 0 16977
+D3
+~
+~
+0 0 16979
+S
+#16979
+A Dusty Passage {R({DMorlok's Castle{R){x~
+This small passage continues to the west.  You notice cells containing
+prisoners to the north and south.  The cells continue along the walls
+further down the passage.  
+~
+0 0 0
+D0
+~
+~
+2 0 16981
+D1
+~
+~
+0 0 16978
+D2
+~
+~
+2 0 16982
+D3
+~
+~
+0 0 16980
+S
+#16980
+A Dusty Passage {R({DMorlok's Castle{R){x~
+The small passage continues here, and to the west.  The cells here are a
+little larger then the previous one, but still look really uncomfortable.  A
+here a loud noise, almost like laughter, coming from a nearby cell.  
+~
+0 0 0
+D0
+~
+~
+2 0 16983
+D1
+~
+~
+0 0 16979
+D2
+~
+~
+2 0 16984
+D3
+~
+~
+0 0 16985
+S
+#16981
+A Tiny Cell {R({DMorlok's Castle{R){x~
+You find yourself in a small cell meant to hold prisoners.  You can hear
+the cries of 'Help!  ' from the prisoners in neighboring cells followed by
+the evil laughs of the guards.  
+~
+0 0 0
+D2
+~
+~
+2 0 16979
+S
+#16982
+An Empty Cell {R({DMorlok's Castle{R){x~
+This room is completely...  Empty.  You can still smell the scent that
+the last prisoner had.  He must have been taken away just recently.  You
+notice a small crack in the wall to the south, just big enough to squeeze
+through.  
+~
+0 4 0
+D0
+~
+~
+2 0 16979
+D2
+~
+~
+0 0 16998
+S
+#16983
+A Moist Cell {R({DMorlok's Castle{R){x~
+The cell is dripping water from the ceiling.  You can see the head
+imprint from the prisoner, lying on his back to get what ever form of drink
+he could.  
+~
+0 0 0
+D2
+~
+~
+2 0 16980
+D4
+~
+~
+0 0 16909
+S
+#16984
+A Dry Cell {R({DMorlok's Castle{R){x~
+This cell is as dry as a troll bone.  There is no moisture in the air. 
+The prisoner, however, seems to be in perfect health.  There must be some
+way he is getting food and drink.  
+~
+0 0 0
+D0
+~
+~
+2 0 16980
+S
+#16985
+A Dusty Passage {R({DMorlok's Castle{R){x~
+To the north you see yet another cell.  To the south you hear the
+laughing of the guards while they play a card game.  The prisoner must be
+scared half to death...  If not dead already.  
+~
+0 0 0
+D0
+~
+~
+2 0 16986
+D1
+~
+~
+0 0 16980
+D2
+~
+~
+2 0 16987
+D3
+~
+~
+0 0 16988
+S
+#16986
+A Large Cell {R({DMorlok's Castle{R){x~
+This cell seems to be larger then all of the previous ones.  It isn't any
+deeper, just about twice the width.  Perhaps a cell like this is made for
+two people.  
+~
+0 0 0
+D2
+~
+~
+2 0 16985
+S
+#16987
+A Large Cell {R({DMorlok's Castle{R){x~
+The guards are here playing an ancient game of cards.  It looks like the
+winner of each round gets to whip one of the prisoners.  As you enter the
+room, the guards seem to stop, and one of them picks up a whip.  
+~
+0 0 0
+D0
+~
+~
+2 0 16985
+S
+#16988
+A Turn in the Passage {R({DMorlok's Castle{R){x~
+The passage you've been following seems to make a sharp turn here.  It
+continues to the north.  It looks like a few more steps and you'll have to
+make another turn.  South leads through a secret passage.  
+~
+0 0 0
+D0
+~
+~
+0 0 16989
+D1
+~
+~
+0 0 16985
+D2
+~
+~
+0 0 398
+S
+#16989
+Another Turn in the Passage {R({DMorlok's Castle{R){x~
+This path takes yet another turn, this time to the east.  The passage
+seems to end just a little ways ahead.  A bright object shines into the
+passage, nearly blinding you.  
+~
+0 0 0
+D1
+~
+~
+0 0 16990
+D2
+~
+~
+0 0 16988
+S
+#16990
+On Top of the Valley {R({DMorlok's Castle{R){x~
+You step out into the bright sunlight.  It must have been days since you
+last saw it.  You look out and find yourself at the northwest corner of a
+large valley.  It is cluttered with trees and small paths.  Looks as if a
+castle is at the opposite end.  The only way to the valley floowr is a small
+path to the south.  
+~
+0 0 0
+D2
+~
+~
+0 0 16991
+D3
+~
+~
+0 0 16989
+S
+#16991
+A Path to the Valley Floor {R({DMorlok's Castle{R){x~
+As you start down this small path, you slip on a rock while gazing out
+upon the valley.  You find yourself at the bottom of the path where it turns
+eastward.  You look ahead of you and find slave all chained together.  There
+seems to be captains that keep the slaves from running off.  
+~
+0 0 0
+D1
+~
+~
+0 0 16992
+S
+#16992
+A Path through the Valley {R({DMorlok's Castle{R){x~
+This path is made of tightly packed gravel and dirt.  It must be used
+quite frequently inorder to keep it from growing weed in the center of it,
+such as the ones surrounding the path.  The path takes another turn to the
+south.  
+~
+0 0 0
+D2
+~
+~
+0 0 16993
+D3
+~
+~
+0 0 16991
+S
+#16993
+Before the Castle {R({DMorlok's Castle{R){x~
+You stand before the castle belonging to King Morlok.  As you look around
+you notice that this isn't as pleasant as it seemed when you left the caves.
+You look up towards the sun, again, and notice a dark glow around it that
+you've never seen before.  It's almost as if it were some kind of magic.  
+~
+0 0 0
+D0
+~
+~
+0 0 16992
+D1
+~
+~
+1 0 16994
+S
+#16994
+Room of Slaves {R({DMorlok's Castle{R){x~
+Here the slaves are held until King Morlok can find a use for them.  With
+so many here, he must have a new slave polishing his shoes everyday.  The
+guards are keeping tight order among the slaves.  Another door is to the
+east, near the guards.  
+~
+0 0 0
+D1
+~
+~
+1 0 16999
+D3
+~
+~
+1 0 16993
+S
+#16995
+A Circular Path {R({DMorlok's Castle{R){x~
+This path seems to curve to the north where you notice a slight slope. 
+You also notice a small sign at the side of the path.  Perhaps you should
+check it out.  
+~
+0 0 4
+D0
+~
+~
+0 0 16911
+D1
+~
+~
+0 0 16996
+S
+#16996
+A Circular Path {R({DMorlok's Castle{R){x~
+Your now on a dusty path made of rock and soil from the moat.  You can go
+east or west to continue along the path.  The moat is back to the south.  To
+the north is a giant cliff about 30 feet high.  You can see the huge wooden
+doors leading into the castle on top of the cliff.  You notice a small crack
+in the bottom of the cliff.  
+~
+0 4 4
+D1
+~
+~
+0 0 16997
+D2
+~
+~
+0 0 16902
+D3
+~
+~
+0 0 16995
+S
+#16997
+A Circular Path {R({DMorlok's Castle{R)~
+Your walking along this dirt path which seems to slope upwards to the
+north.  They say if you continue along the path you'll eventually reach the
+castle of King Morlak.  
+~
+0 0 4
+D0
+~
+~
+0 0 16913
+D3
+~
+~
+0 0 16996
+S
+#16998
+A Small Field {R({DMorlok's Castle{R){x~
+You are in the middle of a small field.  The only grass you see is around
+a hole large enough for a dragon to fit through.  As you walk closer you can
+feel warm busts of air shoot out of the hole.  Then without warning the air
+becomes freezing cold.  Then you realize this must be some sort of magic... 
+~
+0 4 2
+D2
+~
+~
+0 0 16908
+D5
+~
+~
+0 0 16901
+S
+#16999
+Before King Morlok's Chambers {R({DMorlok's Castle{R){x~
+Your standing in a large room with torches lighting your way.  There are
+doors leading in every direction.  King Morlok must be nearby...  If only
+you knew which door he was behind.  
+~
+0 0 0
+D0
+~
+~
+1 0 17000
+D1
+~
+~
+1 0 16998
+D2
+~
+~
+1 0 16920
+D3
+~
+~
+1 0 16994
+D5
+~
+~
+0 0 16901
+S
+#17000
+King Morlok's Throne Room {R({DMorlok's Castle{R){x~
+You fing yourself inside a giant rectangular shaped room.  Torches along
+the eastern and western walls lead you to a giant golden throne.  King
+Morlok sits here most of the day.  
+~
+0 0 0
+D2
+~
+~
+1 0 16999
+M 500 H 500
+S
+#0
+
+
+
+#SPECIALS
+M 16903 spec_cast_mage
+S
+
+
+
+#RESETS
+D 0 16912 0 2
+D 0 16914 2 2
+D 0 16915 1 1
+D 0 16915 3 1
+D 0 16916 3 1
+D 0 16920 1 1
+D 0 16921 1 1
+D 0 16921 5 1
+D 0 16923 0 1
+D 0 16923 1 1
+D 0 16923 3 1
+D 0 16924 2 1
+D 0 16925 1 1
+D 0 16926 3 1
+D 0 16966 2 2
+D 0 16971 0 2
+D 0 16971 2 2
+D 0 16972 0 2
+D 0 16972 2 2
+D 0 16973 0 2
+D 0 16979 0 2
+D 0 16979 2 2
+D 0 16980 0 2
+D 0 16980 2 2
+D 0 16981 2 2
+D 0 16982 0 2
+D 0 16983 2 2
+D 0 16984 0 2
+D 0 16985 0 2
+D 0 16985 2 2
+D 0 16986 2 2
+D 0 16987 0 2
+D 0 16993 1 1
+D 0 16994 1 1
+D 0 16994 3 1
+D 0 16999 0 1
+D 0 16999 1 1
+D 0 16999 2 1
+D 0 16999 3 1
+D 0 17000 2 1
+M 0 16900 9 16902 1
+M 0 16900 9 16903 1
+M 0 16900 9 16904 1
+M 0 16900 9 16907 1
+M 0 16900 9 16908 1
+M 0 16901 2 16912 2
+E 0 16901 0 17
+O 0 16902 0 16919
+P 0 16903 1 16902 1
+P 0 16904 1 16902 1
+M 0 16902 1 16920 1
+G 0 16905 0
+G 0 16906 0
+G 0 16907 0
+G 0 16908 0
+O 0 16917 0 16920
+O 0 16909 0 16924
+M 0 16903 1 16925 1
+E 0 16933 0 16
+E 0 16934 0 18
+O 0 16911 0 16926
+O 0 16912 0 16927
+M 0 16904 2 16928 2
+E 0 16939 0 11
+E 0 16938 0 8
+E 0 16936 0 25
+E 0 16935 0 7
+E 0 16913 0 16
+E 0 16914 0 5
+E 0 16915 0 6
+M 0 16904 2 16928 2
+E 0 16913 0 16
+E 0 16914 0 5
+E 0 16915 0 6
+E 0 16938 0 8
+E 0 16935 0 7
+E 0 16939 0 11
+E 0 16936 0 25
+M 0 16911 8 16931 1
+M 0 16911 8 16934 1
+M 0 16911 8 16935 1
+M 0 16911 8 16937 1
+M 0 16911 8 16937 1
+M 0 16911 8 16939 1
+M 0 16911 8 16940 1
+M 0 16911 8 16940 1
+M 0 16911 8 16943 1
+M 0 16912 8 16947 1
+M 0 16912 8 16950 1
+M 0 16912 8 16951 1
+M 0 16912 8 16953 1
+M 0 16912 8 16955 1
+M 0 16912 8 16958 1
+M 0 16912 8 16958 1
+M 0 16912 8 16958 1
+O 0 16918 0 16962
+M 0 16905 21 16963 3
+M 0 16905 6 16964 2
+M 0 16905 6 16964 2
+M 0 16906 1 16968 1
+G 0 16941 0
+E 0 16922 0 5
+G 0 16924 0
+E 0 16928 0 20
+E 0 16929 0 1
+E 0 16931 0 17
+E 0 16921 0 7
+E 0 16932 0 10
+M 0 16907 1 16969 1
+E 0 16922 0 5
+G 0 16925 0
+E 0 16928 0 20
+E 0 16929 0 1
+E 0 16931 0 17
+E 0 16920 0 7
+E 0 16932 0 10
+G 0 16940 0
+M 0 16908 1 16970 1
+E 0 16922 0 5
+G 0 16923 0
+G 0 16926 0
+E 0 16928 0 20
+E 0 16929 0 1
+E 0 16930 0 17
+E 0 16919 0 7
+E 0 16932 0 10
+E 0 16937 0 3
+E 0 16942 0 0
+O 0 16927 0 16974
+M 0 16905 6 16975 2
+M 0 16905 6 16975 2
+M 0 16909 1 16976 1
+M 0 16910 1 16976 1
+M 0 16905 6 16976 2
+M 0 16905 6 16976 2
+M 0 16914 7 16981 1
+M 0 16914 7 16983 1
+M 0 16914 7 16984 1
+O 0 16943 0 16984
+M 0 16914 7 16986 2
+M 0 16914 7 16986 2
+M 0 16915 3 16987 3
+E 0 16945 0 16
+M 0 16915 3 16987 3
+M 0 16915 3 16987 3
+M 0 16914 7 16987 2
+M 0 16914 7 16987 2
+O 0 16944 0 16987
+M 0 16917 6 16992 2
+E 0 16947 0 16
+M 0 16917 6 16992 2
+E 0 16947 0 16
+M 0 16916 21 16992 7
+E 0 16946 0 14
+M 0 16916 21 16992 7
+E 0 16946 0 14
+M 0 16916 21 16992 7
+E 0 16946 0 14
+M 0 16916 21 16992 7
+E 0 16946 0 14
+M 0 16916 21 16992 7
+E 0 16946 0 14
+M 0 16916 21 16992 7
+E 0 16946 0 14
+M 0 16916 21 16992 7
+E 0 16946 0 14
+M 0 16917 6 16993 2
+E 0 16947 0 16
+M 0 16917 6 16993 2
+E 0 16947 0 16
+M 0 16916 21 16993 7
+E 0 16946 0 14
+M 0 16916 21 16993 7
+E 0 16946 0 14
+M 0 16916 21 16993 7
+E 0 16946 0 14
+M 0 16916 21 16993 7
+E 0 16946 0 14
+M 0 16916 21 16993 7
+E 0 16946 0 14
+M 0 16916 21 16993 7
+E 0 16946 0 14
+M 0 16916 21 16993 7
+E 0 16946 0 14
+M 0 16917 6 16994 2
+E 0 16947 0 16
+M 0 16917 6 16994 2
+E 0 16947 0 16
+M 0 16916 21 16994 7
+E 0 16946 0 14
+M 0 16916 21 16994 7
+E 0 16946 0 14
+M 0 16916 21 16994 7
+E 0 16946 0 14
+M 0 16916 21 16994 7
+E 0 16946 0 14
+M 0 16916 21 16994 7
+E 0 16946 0 14
+M 0 16916 21 16994 7
+E 0 16946 0 14
+M 0 16916 21 16994 7
+E 0 16946 0 14
+M 0 16913 1 16998 1
+M 0 16918 1 17000 1
+E 0 16948 0 16
+E 0 16949 0 6
+O 0 16916 0 17000
+S
+
+
+
+#SHOPS
+16902 19 19 0 0 0 200 50 0 23
+0
+
+
+
+#MOBPROGS
+#0
+
+#$

@@ -1,0 +1,2450 @@
+#AREADATA
+Name Warrior Castle~
+Builders Suraman~
+VNUMs 4200 4300
+Credits {M[ 65-75 ] Warrior Castle{x~
+Security 9
+RepopMsg Your soul is gripped by an insane wish to kill.~
+End
+
+
+
+#MOBILES
+#4200
+Guards Ghost~
+{RG{ru{bar{rd'{Rs {CG{chost{x~
+The ghost of a guard floats here.
+~
+This is the ghost of a man who was murdered in his sleep.  Murdered by
+men whom he respected and protected.  He is now doomed to stand at his post
+for all eternity.  
+~
+Human~
+AB 0 CDEFT 0 0 0
+65 65 655d21+1181 65d9+60 19d3+75 magic
+-31 -31 -31 -18
+0 0 0 C
+stand stand none 1000
+AHMV ABCDEFGHIJK medium unknown
+#4201
+spider~
+A hairy spider~
+A hairy spider hisses at you.
+~
+The spider has long, hairy legs and mandibles that are oozing deadly
+poison.  It's many eyes watch you as it waits for the right time to attack. 
+~
+centipede~
+AF 0 Z F 0 0
+100 70 141d23+1273 70d9+60 21d3+35 bite
+-35 -35 -35 -20
+0 0 FIL E
+stand stand none 1000
+ABGO ACK medium unknown
+#4202
+Gardener's ghost~
+a ghost~
+The ghost of a castle gardener stands here
+~
+The Ghost of a man who tended the garden before the hatered filled this
+place and engulfed his soul.  Now he wonders the grounds, crying over the
+garden, and life, that he has lost.  
+~
+Human~
+A 0 0 0 0 0
+100 60 121d20+1091 60d9+60 18d3+31 chill
+-28 -28 -28 -16
+0 0 0 D
+stand stand none 100
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#4203
+Castle guard ghost~
+a guard's ghost~
+The ghost of a castle guard patrols this area
+~
+This is the Ghost of a Guard who once patrolled the halls of this Castle.
+His armor bears the symbol of the last Ruling Family.  
+~
+Human~
+A 0 0 0 0 0
+100 65 131d21+1181 65d9+60 19d3+33 slash
+-31 -31 -31 -18
+0 0 0 0
+stand stand none 200
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#4204
+guard ghost tempest~
+a castle {Rt{re{bm{Cp{bl{ra{Rr{x~
+The ghost of a castle templar stands guard
+~
+The Templar's used to guard the castle from intruders.  Now they spend
+the rest of eternity in this Castle of hate.  
+~
+Human~
+AB 0 0 0 0 0
+110 65 131d21+1181 65d9+60 19d3+33 none
+-31 -31 -31 -18
+0 0 0 0
+stand stand none 300
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#4205
+Castle Cook ghost~
+a castle cook~
+The ghost of a castle {rc{boo{rk{x sets the table
+~
+The Cook's front apron is covered in blood, some belongs to the animals
+he butchered, some of the blood belongs to the innocent, while the rest is
+his own blood.  
+~
+Human~
+A 0 0 0 0 0
+100 70 141d23+1415 70d10+85 23d3+40 wrath
+-37 -37 -37 -22
+0 0 C D
+stand stand none 500
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#4206
+Stevinson~
+{RS{rt{Be{bv{ci{bn{Bs{ro{Rn{x~
+Stevinson is sleeping here
+~
+Stevinson, one of the loyal knights of this castle, after he was ingulfed
+by insanity his bloodlust became never-ending.  
+~
+Human~
+A 0 c H 0 0
+100 70 141d23+1273 70d9+60 21d3+35 thwack
+-35 -35 -35 -20
+EFIKN 0 0 0
+sleep sleep none 700
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M DEATH 4203 100~
+#4207
+Armoury Guard Ghost~
+an armoury guard's ghost~
+The ghost of an armoury guard stands watch at the armoury's entrance
+~
+~
+Human~
+ABF 0 0 C 0 0
+100 70 141d23+1415 70d10+85 23d3+40 pound
+-37 -37 -37 -22
+N 0 0 CD
+stand stand none 100
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#4208
+Phantom Priest~
+the {DPhantom {WPriest{x~
+A priest's Ghost floats here, praying
+~
+A priest from Maerkai, he came to this castle because he felt the
+presence of sheer evil.  He was murdered by the insane population.  
+~
+Human~
+AB 0 V H 0 0
+100 70 145d24+1415 70d11+95 24d2+54 divine
+-41 -41 -41 -26
+0 0 C 0
+stand stand none 250
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+M SPEECH 18016 yes~
+M GIVE 18015 18038~
+M SPEECH 18013 no~
+M GREET 18012 30~
+#4209
+Creatures soul~
+a poor {Bs{cou{Bl{x~
+The soul of a creature floats amidst the oblivion
+~
+The soul of some unknown creature is floating here, lost in this void.  
+~
+Human~
+A 0 0 0 0 0
+70 70 141d23+1273 70d9+60 21d3+35 wrath
+-35 -35 -35 -20
+0 0 D C
+stand stand none 200
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#4210
+watcher of souls~
+a {Cwa{bt{Bc{bh{Cer{x~
+A watcher of souls wanders here
+~
+~
+Human~
+A 0 0 0 0 0
+70 70 141d23+1273 70d9+60 21d3+35 none
+-35 -35 -35 -20
+0 0 C D
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#4211
+Carthog~
+{DCarthog{x~
+Carthog snarls and attacks!
+~
+~
+Human~
+ABF 0 VZac H 0 0
+75 75 155d26+1515 75d11+95 26d2+57 none
+-44 -44 -44 -29
+BDEFGHIKNO M CD N
+stand stand none 200
+AHMV ABCDEFGHIJK medium unknown
+M DEATH 4201 40~
+#4212
+Moorlok~
+{bMo{corl{bok{x~
+Moorlok the wizard floats here
+~
+~
+Human~
+ABF 0 TVZac DFH 0 0
+75 80 165d27+1617 80d11+95 27d2+60 none
+-48 -48 -48 -32
+DEFGHIJK EK CH I
+stand stand none 300
+AHMV ABCDEFGHIJK medium unknown
+#4213
+Insane being~
+An {rinsane{D being{x~
+A {Dbeing{x stumbles aimlessly around
+~
+~
+Human~
+A 0 0 C 0 0
+80 80 161d26+1455 80d9+60 24d3+40 none
+-42 -42 -42 -25
+0 0 M N
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#4214
+lord voliam~
+{DLord Voliam{x~
+{DVoliam{x, lord of {Rmadness{x stands here, surveying his work
+~
+Lord Voliam is a dark and sinister being.  He wishes for all to suffer an
+eternity of pain and madness at the hands of him, the Lord of Madness.  
+~
+Human~
+ABF 0 DEFJLPQVZac CDEFGHIO -1000 0
+80 80 165d27+1617 80d11+95 27d2+60 wrath
+-48 -48 -48 -32
+ABCDEFGHIJKNO KLMQ 0 N
+stand stand none 350
+AHIMV ABCDEFGHIJK giant unknown
+M DEATH 4200 40~
+#4215
+Solliam~
+{DSolliam{x~
+Solliam, a disciple of Lord Voliam.
+~
+My life to You, Voliam!  
+~
+Human~
+ABF 0 DFTVZc H 0 0
+76 76 157d26+1535 76d11+95 26d2+58 wrath
+-45 -45 -45 -29
+EGK 0 M 0
+stand stand none 200
+AHMV ABCDEFGHIJK medium unknown
+#4216
+Torketh~
+{DTorketh{x~
+Torketh, an undead disciple of Voliam, floats here
+~
+My soul for you, Lord Voliam!  
+~
+Human~
+ABF 0 DFTZac FH 0 0
+77 77 159d26+1555 77d11+95 26d2+58 crush
+-45 -45 -45 -30
+IKN M 0 S
+stand stand none 200
+AHMV ABCDEFGHIJK medium unknown
+#4217
+Atrench~
+{DAtrench{x~
+Atrench sits here
+~
+I live to serve you, Lord Voliam!
+~
+Human~
+ABF 0 DFVZa CDH 0 0
+78 78 161d27+1575 78d11+95 27d2+59 divine
+-46 -46 -46 -30
+DEK 0 E 0
+stand stand none 100
+AHMV ABCDEFGHIJK medium unknown
+#4218
+zombie~
+{DWiton's{x zombie~
+An undead being is here worshipping Witon
+~
+A zombie stands here, bearing the mark of Witon, the necromancer.  
+~
+Human~
+AFO 0 DFZd H 0 0
+70 70 141d23+1273 70d9+60 21d3+35 chomp
+-35 -35 -35 -20
+RU 0 0 M
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#4219
+Witon~
+the Necromancer {DWiton{x~
+Witon stands here, controlling the Undead
+~
+~
+Human~
+ABFO 0 DFPQTZac BCDH 0 0
+79 79 163d27+1595 79d11+95 27d2+60 drain
+-47 -47 -47 -31
+BCDEFGHNR M E N
+stand stand none 250
+AHMV ABCDEFGHIJK medium unknown
+#4220
+merchant ghost~
+The ghost of a merchant~
+The ghost of a merchant stands here, grinning
+~
+~
+Human~
+A 0 d 0 0 0
+100 100 10000d1+1 100d11+95 34d2+74 none
+-62 -62 -62 -42
+0 0 0 EKMO
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#4221
+ghost petshop owner~
+the ghost of a petshop owner~
+The {cGhost{x of a {mPetshop{x owner stands here
+~
+~
+Human~
+A 0 0 0 0 0
+70 70 145d24+1415 70d11+95 24d2+54 none
+-41 -41 -41 -26
+0 0 0 0
+stand stand none 0
+0 0 medium unknown
+F for AHMV
+F par ABCDEFGHIJK
+#4222
+hawk skeleton~
+a {yhawk{x'{ys{x {Wskeleton{x~
+The {Wskeleton{x of a {yhawk{x is here
+~
+~
+Avian~
+AI 0 DFJLTV 0 -1000 0
+60 60 124d21+1213 60d11+95 21d2+47 claw
+-33 -33 -33 -21
+0 0 J LQ
+stand stand none 100000
+AHMV ABCDEFGJKP medium unknown
+F par HI
+#4223
+zombie~
+a {yz{go{ym{gb{yi{ge{x~
+A {yz{go{ym{gb{yi{ge{x stands here
+~
+~
+Human~
+AI 0 Vc C 0 0
+120 120 247d41+3637 120d11+95 41d2+87 drain
+-77 -77 -77 -52
+BDEHI 0 LM 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+#4224
+test~
+heya~
+Heya
+~
+~
+Human~
+A 0 0 0 0 0
+3000 1 15d2+10 1d9+60 1d2+11 none
+9 9 9 9
+0 0 0 0
+stand stand none 0
+AHMV ABCDEFGHIJK medium unknown
+M GREET 4224 100~
+M SPEECH 4225 uncurse~
+#0
+
+
+
+#OBJECTS
+#4200
+bloody bed~
+a {Rb{rlood{x stained bed.~
+A {Rb{rlood{x stained bed lies in the corner.~
+unknown~
+furniture C 0
+2 0 L 1000 1000
+0 0 0 P
+#4201
+Aura of Unholy Wrath~
+{WAura{x of {DUnholy {RW{rrath{x~
+A strong feeling of wrath surrounds you.~
+Wrath~
+armor CG AU
+67 67 67 66 0
+75 76 79 P
+#4202
+a bloody corpse~
+a {rbloody{x corpse.~
+A {rbloody{x corpse hangs here.~
+unknown~
+container 0 0
+0 0 0 0 0
+0 0 0 P
+#4203
+a bloody corpse~
+a {rbloody{x corpse.~
+A {rbloody{x corpse hangs here.~
+unknown~
+container 0 0
+0 0 0 0 0
+0 0 0 P
+#4204
+A putrid rib bone~
+a {gputrid{x rib bone~
+A {gputrid{x rib bone decays on the ground.~
+unknown~
+armor 0 AK
+59 59 59 58 0
+65 1 69 P
+A
+13 30
+A
+18 5
+A
+19 5
+#4205
+Bloody Doorway~
+a huge, {rbloody{x doorway.~
+A huge, {rbloody{w doorway~
+unknown~
+portal 0 0
+0 0 0 4224 0
+1 1 1 P
+#4206
+Chef's hat~
+a {cchef's hat{x~
+A white chef's hat sits here.~
+cotton~
+armor 0 AE
+59 59 59 58 0
+65 1 69 P
+A
+12 30
+A
+19 5
+A
+13 90
+#4207
+no name~
+(no short description)~
+(no description)~
+unknown~
+trash 0 0
+0 0 0 0 0
+0 0 0 P
+#4208
+black hilted sword Orcrist~
+{RO{rr{Dc{Dri{Rs{rt{x~
+A black-hilted sword named 'Orcrist' glows as it rests on the ground.~
+Mithril~
+weapon 0 AN
+sword 8 15 slice C
+70 0 4895 P
+A
+20 -2
+A
+13 20
+A
+19 10
+#4209
+Prayer Shawl~
+{W-={CP{cr{bay{ce{Cr S{ch{ba{cw{Cl{x{w=-{x~
+A white shawl with religious markings is here~
+unknown~
+armor 0 AK
+59 59 59 58 0
+65 1 69 P
+A
+19 1
+A
+18 10
+A
+20 -5
+#4210
+Dark Doorway~
+a {Ddark{x doorway~
+A {Ddark{x doorway stands here~
+unknown~
+portal 0 0
+0 0 0 4241 0
+0 0 0 P
+#4211
+Carthogs Helm~
+{DCarthog's Helm{x~
+A dark helm lies here.~
+unknown~
+armor EG AE
+65 65 65 64 0
+72 2 76 P
+A
+19 2
+A
+2 2
+A
+1 2
+A
+13 74
+#4212
+Carthogs Chest~
+carthog's Chest~
+Carthog's Chest lies here.~
+unknown~
+container 0 0
+10 ACD 4213 10 10
+0 0 0 P
+#4213
+Dark Key~
+a {DDark{x key~
+A {Dblack{x key lies here~
+unknown~
+key 0 A
+0 0 0 0 0
+70 1 0 P
+#4214
+dragoon dirk~
+a {RDragoon {DDirk{x~
+A long, sharp knife glitters on the ground.~
+a Dragon Claw~
+weapon AE AN
+dagger 8 17 stab BH
+75 3 522 P
+A
+20 -2
+A
+19 10
+#4215
+Green Key~
+a {ggreen{x key~
+A {ggreen{x key has been dropped here.~
+unknown~
+key 0 A
+0 0 0 0 0
+0 1 0 P
+#4216
+Moorlok's Chest~
+moorlok's Chest~
+Moorlok's chest sits here.~
+unknown~
+container 0 0
+10 ACD 4217 10 10
+1 100 1000 P
+#4217
+Blue key~
+a {bblue{x key~
+A {bblue{x key sits here.~
+unknown~
+key 0 A
+0 0 0 0 0
+0 0 0 P
+#4218
+Aura of Dark insanity~
+{WA{au{Wr{aa {wof {DDark{x {RI{rn{Rs{ra{Rn{ri{Rt{ry{x~
+A glowing aura floats here.~
+Hate~
+armor ABCE AU
+67 67 67 66 0
+75 0 79 P
+A
+13 90
+A
+3 2
+A
+4 2
+#4219
+Bloody Key~
+a {rbloody{x key~
+A {rbloody{x key has been dropped here.~
+unknown~
+key 0 A
+0 0 0 0 0
+0 1 0 P
+#4220
+black key~
+a {DDark{x key~
+A key rests here, absorbing light~
+unknown~
+key C A
+0 0 0 0 0
+60 0 1 P
+#4221
+A bright key~
+a {Wbright{x key~
+A {Wbright{x key sits here~
+unknown~
+key 0 A
+0 0 0 0 0
+70 1 0 P
+#4222
+Grey key~
+a {Dgrey{x key~
+A {Dgrey{x key rests here~
+unknown~
+key 0 A
+0 0 0 0 0
+0 0 0 P
+#4223
+skull~
+a white {Ds{rku{Dll{x~
+A gleaming white skull lies here.~
+unknown~
+key V A
+0 0 0 0 0
+0 0 0 P
+#4224
+hatred~
+{DH{ra{Dt{rr{De{rd{D{x~
+A strong feeling of {Dh{ra{Dt{rr{De{rd{x engulfs you.~
+Hate~
+armor CG AJ
+67 67 67 66 0
+75 2 79 P
+A
+18 5
+A
+19 10
+A
+1 1
+A
+5 -2
+#4225
+mask of the sorcerer~
+{GM{yas{Gk{x of the {CSo{Rr{rce{Rr{Cer{x~
+A {cg{gl{yi{rt{bte{rr{yi{gn{cg{x mask rests here~
+unknown~
+armor BC AR
+67 67 67 66 0
+75 1 79 P
+A
+18 3
+A
+19 5
+A
+12 70
+#4226
+blood of the innocent p-item~
+the {RB{rl{Roo{rd{x of the {CI{cnnocent{x~
+A wish to murder fills your mind~
+Blood~
+armor C AH
+71 71 71 70 0
+75 81 84 P
+A
+19 10
+A
+20 -5
+A
+13 150
+F
+A 0 0 a
+#4227
+voices of madness~
+the {CVo{cic{Ces{x of {rMadness{x~
+Voices fill your ears, whispering evil intentions...~
+Voices~
+armor ABC AV
+67 67 67 66 0
+75 0 79 P
+A
+19 15
+#4228
+Bone Scythe p-item~
+{WBone{x {rSc{xyt{rhe{x~
+A scythe with a sharpened bone head rests here~
+Bone~
+weapon BCE AN
+polearm 9 17 cleave CDFH
+80 86 6090 P
+A
+13 100
+A
+19 10
+#4229
+kitchen drawer~
+a {ckitchen{x {ydrawer{x~
+A {ckitchen{x {ydrawer{x sits here~
+wood~
+container 0 0
+100 0 0 100 100
+70 0 0 P
+#4230
+butcher knife~
+{rbutcher{x {cknife{x~
+A long, sharp knfe sits here~
+metal~
+weapon AB AN
+sword 6 17 frbite BDH
+45 1 3360 P
+A
+13 40
+#4231
+potion of supreme heal~
+a potion of supreme heal~
+A white potion is here~
+unknown~
+potion 0 A
+200 'heal' 'heal' 'reserved' ''
+200 1 500000 P
+#4232
+potion of rage~
+a potion of {RR{Dag{Re{x~
+A bubbling, red potion is here~
+unknown~
+potion 0 A
+20 'anger' 'reserved' 'reserved' 'reserved'
+70 1 100000 P
+#4233
+divine protection~
+{WDivine {CProtection{x~
+A smoking, rainbow potion sits here~
+unknown~
+potion 0 A
+1 'poisonshield' 'iceshield' 'shockshield' 'acidshield'
+100 1 100000 P
+#4234
+book of summons~
+a {yBook{x of {DS{ru{Dm{rm{Do{rn{Ds{x~
+A magical book rests here~
+unknown~
+armor BC AO
+67 67 67 66 0
+75 1 79 P
+A
+19 9
+A
+4 2
+A
+3 2
+#4235
+wizards robe~
+a {BW{bizard'{Bs {CR{cob{Ce{x~
+A robe has been left here~
+unknown~
+armor BCF AK
+55 55 55 50 0
+70 2 66 P
+A
+18 4
+A
+19 10
+#4236
+imm-only suramans vampiric fangs~
+{BS{bu{Rra{Cm{Ran{b'{Bs {DV{ga{Dm{gp{Di{gr{Di{gc {RF{Da{rn{Dg{Rs{x~
+How's Suraman supposed to eat without these?~
+Ivory~
+weapon ABCEFHMPUY AN
+exotic 210 10 bite ABCDG
+202 203 13770 P
+A
+13 5500
+A
+19 200
+A
+18 200
+#4237
+skull of voliam~
+the {Dskull{x of {DVoliam{x~
+The skull of a human rests here.~
+Bone~
+treasure CE A
+0 0 0 0 0
+0 8 0 P
+#4238
+trial2~
+trying this~
+Rolands~
+unknown~
+armor 0 AK
+0 0 0 0 0
+1 0 0 P
+#4239
+Warrior Castle~
+portal Ro Warrior Castle~
+A {RB{rlood{Ry{x portal that leads to {Dmandess{x is here.~
+unknown~
+portal 0 0
+-1 0 0 4200 0
+0 0 0 P
+#4240
+Quest Pill Shattered Dreams~
+{DS{xh{ra{btte{rr{xe{Dd {DD{xr{cea{xm{Ds{x~
+The Dreams of an Innocent lay here, shattered and torn.~
+unknown~
+pill 0 A
+0 'quest pill' 'reserved' 'reserved' 'reserved'
+0 0 0 P
+#4241
+Evil Skull~
+an {DE{rvi{Dl{x {WS{xkull{x~
+A skull is on the ground, here.~
+unknown~
+trash 0 A
+0 0 0 0 0
+0 0 0 P
+#4242
+Decapitated Head~
+a {DD{re{Rc{ra{Rp{ri{Rt{ra{Rt{re{Dd H{yea{Dd{x~
+The Head of a mortal lies here. Return this to Suraman.~
+Flesh~
+container 0 AQ
+10000 0 0 10000 10
+203 0 0 P
+A
+17 -300
+A
+14 300
+A
+12 300
+A
+13 300
+A
+19 150
+A
+18 150
+#4243
+4x pill~
+a pill of 4x~
+A white pill is here.~
+unknown~
+pill 0 A
+204 '4x' 'reserved' 'reserved' 'reserved'
+0 0 0 P
+#4244
+Suraman Spellup pill~
+a Spellup Pill~
+A spellup pill~
+unknown~
+pill 0 A
+205 'dark gift' 'gods armor' 'anger' 'reserved'
+100 0 0 P
+#4245
+cancel~
+cancel~
+Cancel~
+unknown~
+pill 0 A
+5000 'cancellation' 'reserved' 'reserved' 'reserved'
+0 0 0 P
+#4246
+Portal Maerkai~
+maerkai~
+A Portal to a {gseren{x Town is here.~
+unknown~
+portal 0 0
+-1 0 0 18045 0
+0 0 0 P
+#4247
+Mountain~
+mountain~
+A Portal to the Maerkai {yMou{gntai{gns{x is here.~
+unknown~
+portal 0 0
+-1 H H 18000 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#4200
+{GF{gorest {GP{gath{x~
+The forest path stops when it comes to the stone path that leads to a
+large, stone castle.  There are no birds and no wild animals, even the trees
+look dark and menacing.  The road is old and dusty and appears to not have
+been used very much lately.  
+~
+0 0 3
+D0
+~
+~
+0 0 4201
+D2
+~
+~
+0 0 6506
+S
+#4201
+{BBefore the Gates{x~
+The gates of the castle stand tall and ominous at the end of the dirt
+trail.  Dark clouds loom overhead as if they were an evil omen warning all
+travelers of the danger that lies before them.  
+~
+0 0 1
+D0
+~
+~
+0 0 4202
+D2
+~
+~
+0 0 4200
+S
+#4202
+{R-={BCa{bst{cl{Ce {cG{bat{Bes{R=-{x~
+The castle gates might once have been a formidable defense against even
+the strongest of foes, but now stands rusted and askew.  The gates seem to
+have once been made from the strongest of metals but now are covered in
+rust...  And the blood of the innocent.  
+~
+0 0 0
+D0
+~
+gates~
+1 0 4204
+D2
+~
+~
+0 0 4201
+D3
+~
+~
+1 0 4203
+S
+#4203
+{RG{buard {RT{bower{x~
+This room once served as a private room to the guard who stood watch at
+the gates but now serves to warn travellers of the danger that is within the
+castle.  The walls are splattered with the blood of the guard, his bed has
+been torn and stained with his blood.  There is a skeleton tossed in the
+corner, maybe the remains of a skeleton would be a better description for
+most of it has been crushed to bone dust under the might of his murderer.  
+~
+0 1024 0
+D1
+~
+~
+1 0 4202
+S
+#4204
+{r-{R=C{ra{bst{cle {bRo{ra{Rd={r-{x~
+The path that leads to the castle doors is one made of stones that have
+been worn down and broken away by use and weather.  Many feet have touched
+the surface of this road over the years since it was built, all the victims
+that this castle has claimed have tread upon this road before being
+slaughtered like animals inside the very building that now looms ahead.  
+~
+0 0 1
+D0
+~
+~
+0 0 4207
+D1
+~
+~
+0 0 4206
+D2
+~
+~
+1 0 4202
+D3
+~
+~
+0 0 4205
+S
+#4205
+{GC{xastle {GG{xarden{x~
+This was once a beautiful garden with exotic plants from the far reaches
+of the world but now is only filled with dead plants and the bones of the
+castle's victims.
+~
+0 0 1
+D0
+~
+~
+0 0 4208
+D1
+~
+~
+0 0 4204
+S
+#4206
+{GC{xastle {GG{xarden~
+This was once a beautiful garden with exotic plants from the far reaches
+of the world but now is only filled with dead plants and the bones of the
+castle's victims.
+~
+0 0 1
+D0
+~
+~
+0 0 4209
+D3
+~
+~
+0 0 4204
+S
+#4207
+{r-{R=C{ra{bst{cle {bRo{ra{Rd={r-{x~
+The path runs up to the huge, marble steps that lead to the wooden doors
+that have the height of two men and the width of three.  The door might once
+have been a magnificent sight, carved from a marvelous wood by the most
+skilled hands in all the world but now these doors are old and warped and
+hold no beauty.  
+~
+0 0 1
+D0
+~
+~
+0 0 4210
+D1
+~
+~
+0 0 4209
+D2
+~
+~
+0 0 4204
+D3
+~
+~
+0 0 4208
+S
+#4208
+{GC{xastle {GG{xarden~
+This was once a beautiful garden with exotic plants from the far reaches
+of the world but now is only filled with dead plants and the bones of the
+castle's victims.
+~
+0 0 1
+D1
+~
+~
+0 0 4207
+D2
+~
+~
+0 0 4205
+S
+#4209
+{GC{xastle {GG{xarden~
+This was once a beautiful garden with exotic plants from the far reaches
+of the world but now is only filled with dead plants and the bones of the
+castle's victims.
+~
+0 0 1
+D2
+~
+~
+0 0 4206
+D3
+~
+~
+0 0 4207
+S
+#4210
+Before the Castle~
+The castle doors are huge, wooden doors that now stand ajar and warped
+because of the weather.  Scrawled on the door is a {Wmessage{x written in
+{rblood{x.  
+~
+0 0 1
+E
+message~
+{rAll ye who come upon this door: Be forewarned that if you enter these
+halls you will be entering the halls of the damned and shall be condemned to
+die a horrible death.  {x 
+~
+D0
+~
+doors~
+1 0 4211
+D2
+~
+~
+0 0 4207
+S
+#4211
+{R-=H{ra{Bll{Bw{ra{Ry=-{x~
+The floor of these halls are littered with the bones of the castle's
+victims.  The walls are smeared with bloody handprints that were made as
+women and children stumbled down the hall, screaming in pain and agony as
+they bled to death in the halls of the damned.  
+~
+0 8 0
+D0
+~
+~
+0 0 4214
+D1
+~
+~
+0 0 4213
+D2
+~
+~
+1 0 4210
+D3
+~
+~
+0 0 4212
+S
+#4212
+{DStairway{x~
+The spiral staircase leads up to the second floor.  The walls were once
+decorated with beautiful artwork but now are decorated with art of a
+different kind, art that only an insane murderer would find beautiful.  
+~
+0 8 0
+D1
+~
+~
+0 0 4211
+D4
+~
+~
+0 0 4216
+S
+#4213
+{DStairway{x~
+The spiral staircase leads up to the second floor.  The walls were once
+decorated with beautiful artwork but now are decorated with art of a
+different kind, art that only an insane murderer would find beautiful.  
+~
+0 8 0
+D3
+~
+~
+0 0 4211
+D4
+~
+~
+0 0 4218
+S
+#4214
+{R-=H{ra{Bllw{ra{Ry=-{x~
+These walls seem to be moaning the names of their victims as the screams
+of the innocent still echo years after their physical torment was cut short,
+as their souls left their bodies and became trapped in these halls for all
+eternity.  
+~
+0 8 0
+D0
+~
+~
+1 0 4215
+D1
+~
+~
+1 0 4229
+D2
+~
+~
+0 0 4211
+D3
+~
+~
+1 0 4228
+S
+#4215
+{DDining Room{x~
+This room has become the joke of a crazed killer.  It has been kept
+amazingly clean compared to the rest of the castle, not one thing in this
+room would suggest anything close to the horror that has become the theme of
+the rest of this massive castle...  Nothing except for the head placed on a
+silver platter as if it were the main course for a lovely dinner.  
+~
+0 8 0
+D2
+~
+~
+1 0 4214
+D3
+~
+~
+1 0 4268
+S
+#4216
+{DStairway{x~
+The stairway is dark, lit only by a single torch, yet the light that the
+torch throws is enough to see the vile gore that covers the stairs.  There
+are bone chips and pieces of decaying flesh rotting on the stairs and lying
+at the top of the steps there is a corpse that has been mutilated by the
+repeated banging of the body against the hard, stone stairs of this castle
+of horrors before being skinned alive and driven mad by the pure pain that
+no living being should be forced to endure.  
+~
+0 8 0
+D1
+~
+~
+0 0 4217
+D5
+~
+~
+0 0 4212
+S
+#4217
+{R-=H{ra{Bllw{ra{Ry=-{x~
+The stairways are to the east and west while to the south are a pair of
+broken glass doors.  The glass has been broken and pieces of it litter the
+floor, the hinges are old and rusty but still work and there is a blood
+trail that leads touth, through the doors onto the balcony beyond.  
+~
+0 8 0
+D0
+~
+~
+0 0 4220
+D1
+~
+~
+0 0 4218
+D2
+~
+~
+1 0 4219
+D3
+~
+~
+0 0 4216
+S
+#4218
+{DStairway{x~
+The stairway is dark, lit only by a single torch, yet the light that the
+torch throws is enough to see the vile gore that covers the stairs.  There
+are bone chips and pieces of decaying flesh rotting on the stairs and lying
+at the top of the steps there is a corpse that has been mutilated by the
+repeated banging of the body against the hard, stone stairs of this castle
+of horrors before being skinned alive and driven mad by the pure pain that
+no living being should be forced to endure.  
+~
+0 8 0
+D3
+~
+~
+0 0 4217
+D5
+~
+~
+0 0 4213
+S
+#4219
+{DBalcony{x~
+The balcony is surrounded by a wood railing.  Hanging from the railing
+are several ropes, each has a severely mutilated corpse tied to it.  The
+corpses seem quite fresh as blood is still dripping from the places where a
+limb or two has been savagely ripped from the torso.  
+~
+0 8 0
+D0
+~
+~
+1 0 4217
+S
+#4220
+{R-=H{ra{Bllw{ra{Ry=-{x~
+The hallway is long and narrow.  There are no special marks on the wall,
+it is covered in a steady coating of blood, almost as if it were painted on.
+The floor is carpeted by an old rug that is decaying and has thousands of
+insects living in it's dying, blood strewn threads.  
+~
+0 8 0
+D0
+~
+~
+0 0 4221
+D2
+~
+~
+0 0 4217
+S
+#4221
+{R-=C{ras{Bt{bl{ce T{Bo{rwe{Rr=-{x~
+This is a circular tower with old, worn stairs leading up to the top. 
+There are windows set in the walls at steady intervals, they overlook a dark
+and dying land that has been devoid of life for many years.  
+~
+0 8 0
+D1
+~
+~
+1 0 4270
+D2
+~
+~
+0 0 4220
+D3
+~
+~
+1 0 4269
+D4
+~
+~
+0 0 4222
+S
+#4222
+{R-=C{ras{Bt{bl{ce T{Bo{rwe{Rr=-{x~
+This is a circular tower with old, worn stairs leading up to the top. 
+There are windows set in the walls at steady intervals, they overlook a dark
+and dying land that has been void of life for many years.  
+~
+0 8 0
+D4
+~
+~
+0 0 4223
+D5
+~
+~
+0 0 4221
+S
+#4223
+{R-=C{ras{Bt{bl{ce T{Bo{rwe{Rr=-{x~
+Hanging from the tower ceiling are many ropes, attached to each rope is a
+decaying corpse, the body of a poor victim.  Many body parts are decaying on
+the steps and the air is filled with the stench of rotten meat yet there are
+no flies around...  
+~
+0 8 0
+D5
+~
+~
+0 0 4222
+S
+#4224
+A Dark Hallway~
+The room has no walls, it seems to go on forever.  The only things that
+are visible are the puddles that emit from the floor whenever pressure is
+applied.  There's no light in the room but it's still possible for someone
+to see perfectly, not that there's much to see...  
+~
+0 12 0
+D1
+~
+~
+0 0 4224
+D2
+~
+~
+0 0 4225
+D3
+~
+~
+0 0 4224
+S
+#4225
+A Dark Hallway~
+The room has no walls, it seems to go on forever.  The only things that
+are visible are the puddles that emit from the floor whenever pressure is
+applied.  There's no light in the room but it's still possible for someone
+to see perfectly, not that there's much to see...  
+~
+0 8 0
+D0
+~
+~
+0 0 4224
+D1
+~
+~
+0 0 4225
+D2
+~
+~
+0 0 4226
+D3
+~
+~
+0 0 4225
+S
+#4226
+A Dark Hallway~
+The naked eye can't see any walls but the body can feel them.  The walls
+that seemed to be non-existant a while back are now threateningly to cut off
+the path ahead.  
+~
+0 8 0
+D0
+~
+~
+0 0 4225
+D2
+~
+~
+0 0 4227
+S
+#4227
+A Dark Intersection~
+Now the walls can be faintly seen.  A faint red aura emanates from the
+nearly invisable walls.  The path has come to a four way intersection.  Each
+path looks identical to the next.  
+~
+0 8 0
+D0
+~
+~
+0 0 4226
+D1
+~
+~
+0 0 4235
+D2
+~
+~
+0 0 4236
+D3
+~
+~
+0 0 4234
+S
+#4228
+{RS{rt{Be{bv{cy{bn{Bs{ro{Rn's{x Bedroom~
+The room is old and dusty, in the middle sits a large, blood stained bed.
+Lying in the bed is the corpse of a victim who was slain in his sleep,
+wasn't even given a chance to fight back.  He was Stevynson, one of the most
+skilled fighters of the castle.  He was a legend among his people and
+respected by many.  
+~
+0 8 0
+D1
+~
+~
+1 0 4214
+S
+#4229
+{DEntrance to Armoury{x~
+There are two full suits of armour, obviously ornamental, standing in
+two corners.  Each holds a large {Wsword{x and each sword is engraved with a
+message.  
+~
+0 8 0
+E
+sword~
+"This castle shall be defended by those who are powerful enough to
+defeat our enemies.  Our knights, our holy warriors shall fight to defend
+their home, they shall fight until their bodies are no more then lifeless
+corpses and even then their spirits shall defend us and our home."  
+~
+D3
+~
+~
+1 0 4214
+D5
+~
+~
+0 0 4230
+S
+#4230
+{RC{ra{bst{rl{Re A{rr{bm{co{bu{rr{Ry{x~
+The steps are old and worn.  Their are cracks running down the walls and
+blood stains at the foot of the stairs.  The weapons that line the walls are
+rusty and blood stained but once, along time ago, they were used to do
+battle with the evil that has overcome their land.  
+~
+0 8 0
+D3
+~
+~
+0 0 4231
+D4
+~
+~
+0 0 4229
+S
+#4231
+{RC{ra{bst{rl{Re A{rr{bm{co{bu{rr{Ry{x~
+The armor is old and cracked but the flag of the castle and it's kingdom
+still stands in these halls, these halls that have been forgotten for so
+many years.  
+~
+0 8 0
+D1
+~
+~
+0 0 4230
+D3
+~
+~
+0 0 4232
+S
+#4232
+{D-={WShrine{D=-{x~
+This was once a beautiful shrine, a place where the holy men of the
+castle prayed to their god, a god that deserted them in their time of need. 
+The altar is now broken and the statues are disfigured but the place still
+holds a holy elegance that the rest of this damned castle lacks.  
+~
+0 8 0
+D1
+~
+~
+0 0 4231
+S
+#4233
+{W-={DT{Ro{rrt{ru{Rr{De{W=-{x~
+This room is stained a dark maroon, it is stained by the blood of the
+many victims of Suraman.  There are confessions and prayers for mercy
+written in blood by the victims who just wanted to die but would not be
+allowed such mercy.  
+~
+0 4 0
+D0
+~
+~
+0 0 4272
+M 5000 H 5000
+S
+#4234
+A Dark Hallway~
+It's hard to tell which way to go, each path looks identical to the next
+which looks the same as the last.  The floor makes that strange puddle and
+the walls glow a faint red but there's nothing to show how far the ceiling
+is.  
+~
+0 8 0
+D1
+~
+~
+0 0 4227
+D3
+~
+~
+0 0 4237
+S
+#4235
+A Dark Hallway~
+It's hard to tell which way to go, each path looks identical to the next
+which looks the same as the last.  The floor makes that strange puddle and
+the walls glow a faint red but there's nothing to show how far the ceiling
+is.  
+~
+0 8 0
+D0
+~
+~
+0 0 4239
+D1
+~
+~
+0 0 4238
+D3
+~
+~
+0 0 4227
+S
+#4236
+A Dark Hallway~
+It's hard to tell which way to go, each path looks identical to the next
+which looks the same as the last.  The floor makes that strange puddle and
+the walls glow a faint red but there's nothing to show how far the ceiling
+is.  
+~
+0 8 0
+D0
+~
+~
+0 0 4227
+D2
+~
+~
+0 0 4239
+S
+#4237
+A Dark Hallway~
+It's hard to tell which way to go, each path looks identical to the next
+which looks the same as the last.  The floor makes that strange puddle and
+the walls glow a faint red but there's nothing to show how far the ceiling
+is.  
+~
+0 8 0
+D0
+~
+~
+0 0 4238
+D1
+~
+~
+0 0 4234
+D2
+~
+~
+0 0 4238
+D3
+~
+~
+0 0 4238
+S
+#4238
+A Dark Hallway~
+It's hard to tell which way to go, each path looks identical to the next
+which looks the same as the last.  The floor makes that strange puddle and
+the walls glow a faint red but there's nothing to show how far the ceiling
+is.  
+~
+0 8 0
+D0
+~
+~
+0 0 4237
+D1
+~
+~
+0 0 4237
+D2
+~
+~
+0 0 4237
+D3
+~
+~
+0 0 4235
+S
+#4239
+A Dark Hallway~
+It's hard to tell which way to go, each path looks identical to the next
+which looks the same as the last.  The floor makes that strange puddle and
+the walls glow a faint red but there's nothing to show how far the ceiling
+is.  
+~
+0 8 0
+D0
+~
+~
+0 0 4236
+D1
+~
+~
+0 0 4240
+D2
+~
+~
+0 0 4235
+D3
+~
+~
+0 0 4240
+S
+#4240
+A Dark Hallway~
+It's hard to tell which way to go, each path looks identical to the next
+which looks the same as the last.  The floor makes that strange puddle and
+the walls glow a faint red but there's nothing to show how far the ceiling
+is.  
+~
+0 8 0
+D1
+~
+~
+0 0 4239
+D3
+~
+~
+0 0 4239
+S
+#4241
+A Dark Passageway~
+The strange hallway has come to a dark, stone passageway.  The walls and
+ceiling seem to be carved out of stone but the floor is covered with bones. 
+The light, although scarce, allows one to see the strange {Wmarkings{x on
+the walls.  
+~
+0 8 0
+E
+markings~
+The markings are written in an old language that you cannot comprehend.  
+~
+D0
+~
+~
+0 0 4242
+D1
+~
+~
+3 4215 4245
+D3
+~
+~
+1 0 4243
+S
+#4242
+A Dark Passageway~
+The strange hallway has come to a dark, stone passageway.  The walls and
+ceiling seem to be carved out of stone but the floor is covered with bones. 
+There is a rotten smell in the air, the smell of death and decay, the smell
+of insanity.  
+~
+0 8 0
+D0
+~
+~
+4 4219 4247
+D2
+~
+~
+0 0 4241
+S
+#4243
+Carthog's Bedroom~
+The owner of this bedroom was once a very noble man.  He was a renowned
+knight of this castle until one day he was overcome by the darkness that
+lives here.  Now he is insane and will slaughter any living being he finds. 
+~
+0 8 0
+D0
+~
+~
+0 0 4244
+D1
+~
+~
+1 0 4241
+S
+#4244
+Carthog's Bedroom~
+The owner of this bedroom was once a very noble man.  He was a renowned
+knight of this castle until one day he was overcome by the darkness that
+lives here.  Now he is insane and will slaughter any living being he finds. 
+~
+0 8 0
+D2
+~
+~
+0 0 4243
+S
+#4245
+Moorlok's Bedroom~
+This room belongs to the great wizard, Moorlok.  He was once a noble man,
+respected by all until the evil infected him and his.  Now he is insane and
+has murdered many civilians.  His name is cursed and spit upon by his own
+people, at least by those who survived his wrath.  
+~
+0 8 0
+D0
+~
+~
+0 0 4246
+D3
+~
+~
+3 4215 4241
+S
+#4246
+Moorlok's Bedroom~
+This room belongs to the great wizard, Moorlok.  He was once a noble
+man, respected by all until the evil infected him and his.  Now he is insane
+and has murdered many civilians.  His name is cursed and spit upon by his
+own people, at least by those who survived his wrath.  
+~
+0 8 0
+D2
+~
+~
+0 0 4245
+S
+#4247
+A River of Gore~
+The path is nothing more then a bridge constructed over a river of blood
+and gore.  The river is filled with mutilated bodies and the railing of the
+bridge is decorated with bleeding heads, swollen from decomposition.  
+~
+0 8 0
+D0
+~
+~
+0 0 4248
+D2
+~
+~
+4 4219 4242
+S
+#4248
+A River of Gore~
+The path is nothing more then a bridge constructed over a river of blood
+and gore.  The river is filled with mutilated bodies and the railing of the
+bridge is decorated with bleeding heads, swollen from decomposition.  
+~
+0 8 0
+D0
+~
+~
+0 0 4249
+D2
+~
+~
+0 0 4247
+S
+#4249
+A River of Gore~
+The path is nothing more then a bridge constructed over a river of blood
+and gore.  The river is filled with mutilated bodies and the railing of the
+bridge is decorated with bleeding heads, swollen from decomposition.  
+~
+0 8 0
+D0
+~
+~
+0 0 4250
+D2
+~
+~
+0 0 4248
+S
+#4250
+A River of Gore~
+The path is nothing more then a bridge constructed over a river of blood
+and gore.  The river is filled with mutilated bodies and the railing of the
+bridge is decorated with bleeding heads, swollen from decomposition.  
+~
+0 8 0
+D0
+~
+~
+0 0 4251
+D2
+~
+~
+0 0 4249
+S
+#4251
+{DBefore the Gates{x~
+These are the gates of insanity, the gates of madness.  They grow and
+grow and consume all those who come near.  These gates have driven even the
+most noble of men to murder their sons and daughters, their fathers and
+mothers and even their husbands or wives.  
+~
+0 8 0
+D0
+~
+~
+1 0 4252
+D2
+~
+~
+0 0 4250
+S
+#4252
+{DThe Depths of {RMadness{x~
+The depths of madness are indeed a strange sight to behold.  The mind of
+gods creatures can't comprehend the visions that may be seen in this plane,
+the plane of madness and insanity.  
+~
+0 0 0
+D0
+~
+~
+0 0 4253
+D1
+~
+~
+0 0 4254
+D2
+~
+~
+1 0 4251
+D3
+~
+~
+0 0 4253
+S
+#4253
+{DThe Depths of {RMadness{x~
+The depths of madness are indeed a strange sight to behold.  The mind of
+gods creatures can't comprehend the visions that may be seen in this plane,
+the plane of madness and insanity.  
+~
+0 0 0
+D0
+~
+~
+0 0 4254
+D1
+~
+~
+0 0 4252
+D2
+~
+~
+0 0 4252
+D3
+~
+~
+0 0 4254
+S
+#4254
+{DThe Depths of {RMadness{x~
+The depths of madness are indeed a strange sight to behold.  The mind of
+gods creatures can't comprehend the visions that may be seen in this plane,
+the plane of madness and insanity.  
+~
+0 0 0
+D0
+~
+~
+0 0 4255
+D1
+~
+~
+0 0 4253
+D2
+~
+~
+0 0 4253
+D3
+~
+~
+0 0 4252
+S
+#4255
+{DThe Depths of {RMadness{x~
+The depths of madness are indeed a strange sight to behold.  The mind of
+gods creatures can't comprehend the visions that may be seen in this plane,
+the plane of madness and insanity.  
+~
+0 0 0
+D0
+~
+~
+0 0 4256
+D2
+~
+~
+0 0 4254
+S
+#4256
+{DThe Depths of {RMadness{x~
+The depths of madness are indeed a strange sight to behold.  The mind of
+gods creatures can't comprehend the visions that may be seen in this plane,
+the plane of madness and insanity.  
+~
+0 0 0
+D1
+~
+~
+0 0 4257
+D2
+~
+~
+0 0 4255
+D3
+~
+~
+0 0 4257
+S
+#4257
+{DThe Depths of {RMadness{x~
+The depths of madness are indeed a strange sight to behold.  The mind of
+gods creatures can't comprehend the visions that may be seen in this plane,
+the plane of madness and insanity.  
+~
+0 0 0
+D0
+~
+~
+0 0 4258
+D1
+~
+~
+0 0 4256
+D2
+~
+~
+0 0 4258
+D3
+~
+~
+0 0 4256
+S
+#4258
+{DThe Depths of {RMadness{x~
+The depths of madness are indeed a strange sight to behold.  The mind of
+gods creatures can't comprehend the visions that may be seen in this plane,
+the plane of madness and insanity.  
+~
+0 0 0
+D0
+~
+~
+0 0 4257
+D2
+~
+~
+0 0 4257
+D3
+~
+~
+0 0 4259
+S
+#4259
+{DThe Depths of {RMadness{x~
+The depths of madness are indeed a strange sight to behold.  The mind of
+gods creatures can't comprehend the visions that may be seen in this plane,
+the plane of madness and insanity.  
+~
+0 0 0
+D1
+~
+~
+0 0 4258
+D3
+~
+~
+0 0 4260
+S
+#4260
+{DThe Depths of {RMadness{x~
+The depths of madness are indeed a strange sight to behold.  The mind of
+gods creatures can't comprehend the visions that may be seen in this plane,
+the plane of madness and insanity.  
+~
+0 0 0
+D0
+~
+~
+0 0 4261
+D1
+~
+~
+0 0 4259
+S
+#4261
+{DThe Depths of {RMadness{x~
+The depths of madness are indeed a strange sight to behold.  The mind of
+gods creatures can't comprehend the visions that may be seen in this plane,
+the plane of madness and insanity.  
+~
+0 0 0
+D0
+~
+~
+0 0 4262
+D2
+~
+~
+0 0 4260
+S
+#4262
+{DThe Depths of {RMadness{x~
+The depths of madness are indeed a strange sight to behold.  The mind of
+gods creatures can't comprehend the visions that may be seen in this plane,
+the plane of madness and insanity.  
+~
+0 0 0
+D0
+~
+~
+1 0 4263
+D2
+~
+~
+0 0 4261
+S
+#4263
+{DSolliam's Chamber{x~
+This is the chamber of a well respected summoner.  Solliam was once a
+very strong and very formidable magic user.  He is the disciple of Lord
+Voliam, a very insane individual who travels the mortal realm enslaving and
+murdering innocent people.  
+~
+0 0 0
+D0
+~
+~
+4 4220 4265
+D2
+~
+~
+1 0 4262
+S
+#4264
+The Chamber of {DVoliam{x~
+There is a huge throne sitting atop a large set of stairs.  The throne
+might once have been gold but now is red with the color of freshly spilt
+blood.  The blood has come from an innocent man who has been lacerated and
+strung up to die a bloody death.  
+~
+0 4 0
+D2
+~
+~
+4 0 4267
+S
+#4265
+{DTorketh's Chamber{x~
+Torketh's chamber is filled with the screams of the innocent.  Spirits of
+madness scream their endless cries and drive lost souls into their dark,
+lonely place of insanity.  
+~
+0 0 0
+D0
+~
+~
+4 4221 4266
+D2
+~
+~
+4 4220 4263
+S
+#4266
+{DAtrench's Chamber{x~
+Atrench's chamber is filled with books and the teachings of the dark and
+demented.  The strange endless space is occupied by rows and rows of book
+cases and the smell of burning flesh fills the room.  
+~
+0 0 0
+D0
+~
+~
+4 4222 4267
+D2
+~
+~
+4 0 4265
+S
+#4267
+{DWiton's Chamber{x~
+The room is filled with skeletons and the remains of Witon's past... 
+Experiments.  The room is filled with the unmistakable sweet odor of decay. 
+~
+0 0 0
+D0
+~
+~
+4 4223 4264
+D2
+~
+~
+4 0 4266
+S
+#4268
+{cKitchen{x~
+This is where the food was prepared, but now it seems to be used to
+dismantle the victims of this castle.  There are many body parts strewn
+about the room, many bones and a stench of decay fills the air.  
+~
+0 8 0
+D1
+~
+~
+1 0 4215
+S
+#4269
+A Merchant's Bedroom~
+Scattered about this room are various potions and pieces of equipment. 
+Althought most of his items appear to be either broken or rusted he appears
+to still have some items left to sell.  
+~
+0 0 0
+D1
+~
+~
+1 0 4221
+S
+#4270
+A Petshop Owner's Bedroom~
+There are various cages filled with the ghosts of various monsters, all
+being treated and sold by the ghost of an old adventurer.  Each cage has a
+skeleton of some type of monster or another and the souls of those monsters
+float in the room.  
+~
+0 4104 0
+D3
+~
+~
+1 0 4221
+S
+#4271
+Petshop Storage~
+~
+0 4 0
+S
+#4272
+Portal Room~
+This room Branches off into Several other Rooms.  Each contains a portal,
+each pertal leads to an Area.  
+West is Warrior Castle.
+East is Maerkai.
+~
+0 0 0
+D0
+~
+~
+0 0 4275
+D1
+~
+~
+0 0 4274
+D2
+~
+~
+0 0 4233
+D3
+~
+~
+0 0 4273
+S
+#4273
+{DW{Ra{Br{bri{cor C{bas{Bt{Rl{De{x~
+~
+0 0 0
+E
+tele~
+You are surrounded by an {Din{rsane {Rh{Datred{x, all thoughts are blocked by the single urge to {DM{rurder{x. You have entered {DW{rar{cr{rio{Dr C{ca{rst{cl{De{x
+~
+D1
+~
+~
+0 0 4272
+S
+#4274
+{GM{gaerkai{x~
+~
+0 0 0
+E
+tele~
+A serene Town surrounds you, you are in Maerkai.
+~
+D3
+~
+~
+0 0 4272
+S
+#4275
+Portal Room~
+To the East and West are various Home Towns.
+~
+0 0 0
+D2
+~
+~
+0 0 4272
+S
+#0
+
+
+
+#SPECIALS
+M 4212 spec_cast_mage
+M 4214 spec_cast_mage
+M 4217 spec_breath_any
+M 4219 spec_cast_undead
+S
+
+
+
+#RESETS
+D 0 4202 0 1
+D 0 4202 3 1
+D 0 4203 1 1
+D 0 4204 2 1
+D 0 4210 0 1
+D 0 4211 2 1
+D 0 4214 0 1
+D 0 4214 1 1
+D 0 4214 3 1
+D 0 4215 2 1
+D 0 4215 3 1
+D 0 4217 2 1
+D 0 4219 0 1
+D 0 4221 1 1
+D 0 4221 3 1
+D 0 4228 1 1
+D 0 4229 3 1
+D 0 4241 1 2
+D 0 4241 3 1
+D 0 4242 0 2
+D 0 4243 1 1
+D 0 4245 3 2
+D 0 4247 2 2
+D 0 4251 0 1
+D 0 4252 2 1
+D 0 4262 0 1
+D 0 4263 0 2
+D 0 4263 2 1
+D 0 4264 2 2
+D 0 4265 0 2
+D 0 4265 2 2
+D 0 4266 0 2
+D 0 4266 2 2
+D 0 4267 0 2
+D 0 4267 2 2
+D 0 4268 1 1
+D 0 4269 1 1
+D 0 4270 3 1
+M 0 4200 1 4200 1
+M 0 4200 100 4202 1
+O 0 4200 0 4203
+M 0 4203 100 4204 2
+M 0 4202 100 4205 1
+M 0 4202 100 4206 1
+M 0 4203 100 4207 2
+M 0 4202 100 4208 1
+M 0 4202 100 4209 1
+M 0 4203 100 4210 2
+M 0 4203 100 4211 2
+M 0 4204 100 4212 1
+M 0 4204 100 4213 1
+M 0 4203 100 4214 2
+M 0 4205 1 4215 1
+E 0 4206 0 6
+M 0 4204 100 4216 1
+M 0 4203 100 4217 3
+M 0 4201 100 4217 3
+M 0 4204 100 4218 1
+O 0 4202 0 4219
+O 0 4202 0 4219
+O 0 4203 0 4219
+P 0 4204 1 4203 1
+M 0 4203 100 4220 3
+M 0 4201 100 4220 3
+M 0 4203 100 4221 3
+M 0 4201 100 4221 3
+M 0 4203 100 4222 3
+M 0 4201 100 4222 3
+M 0 4203 100 4223 3
+M 0 4201 100 4223 3
+O 0 4205 0 4223
+M 0 4210 100 4224 3
+M 0 4209 100 4224 3
+M 0 4210 100 4225 3
+M 0 4209 100 4225 3
+M 0 4210 100 4226 3
+M 0 4209 100 4226 3
+M 0 4210 100 4227 3
+M 0 4209 100 4227 3
+O 0 4200 0 4228
+M 0 4206 1 4228 1
+E 0 4208 0 16
+M 0 4207 100 4229 3
+M 0 4203 100 4230 2
+M 0 4203 100 4231 2
+M 0 4208 1 4232 1
+E 0 4209 0 12
+O 0 4200 0 4233
+M 0 4210 100 4234 3
+M 0 4209 100 4234 3
+M 0 4210 100 4235 3
+M 0 4209 100 4235 3
+M 0 4210 100 4236 3
+M 0 4209 100 4236 3
+M 0 4210 100 4237 3
+M 0 4209 100 4237 3
+M 0 4209 100 4238 3
+M 0 4209 100 4239 3
+O 0 4210 0 4240
+M 0 4211 1 4243 1
+E 0 4211 0 6
+G 0 4213 0
+O 0 4212 0 4244
+P 0 4214 1 4212 1
+P 0 4215 1 4212 1
+M 0 4212 1 4245 1
+G 0 4219 0
+E 0 4218 0 24
+O 0 4235 0 4246
+M 0 4213 100 4252 3
+M 0 4213 100 4253 3
+M 0 4213 100 4254 3
+M 0 4213 100 4255 3
+M 0 4213 100 4256 3
+M 0 4213 100 4257 3
+M 0 4213 100 4258 3
+M 0 4213 100 4259 3
+M 0 4213 100 4260 3
+M 0 4213 100 4261 3
+M 0 4213 100 4262 3
+M 0 4215 1 4263 1
+G 0 4220 0
+E 0 4234 0 17
+M 0 4214 1 4264 1
+E 0 4227 0 25
+E 0 4228 0 3
+M 0 4216 1 4265 1
+G 0 4221 0
+E 0 4224 0 11
+M 0 4217 1 4266 1
+G 0 4222 0
+E 0 4225 0 20
+M 0 4219 1 4267 1
+G 0 4223 0
+E 0 4226 0 9
+M 0 4218 3 4267 3
+O 0 4229 0 4268
+P 0 4230 1 4229 1
+M 0 4220 1 4269 1
+G 0 4231 0
+G 0 4232 0
+G 0 4233 0
+M 0 4221 1 4270 1
+M 0 4222 1 4271 1
+M 0 4223 1 4271 1
+O 0 4239 0 4273
+O 0 4246 0 4274
+O 0 4247 0 4274
+S
+
+
+
+#SHOPS
+4220 0 10 0 0 0 100 100 0 23
+4221 0 0 0 0 0 100 100 0 23
+0
+
+
+
+#MOBPROGS
+#4200
+mob oload 4237
+say I shall {Ddrive{W you to the {Ddark{W brinks of {Rinsanity{W, $n.
+~
+#4201
+mob oload 4237
+say urgghhhh my trial!!
+~
+#4202
+say 'Tis but a scratch!
+~
+#4203
+a {DGrey{w Key{x~
+#4224
+say Type 'uncurse'
+~
+#4225
+mob remove $n 16937
+mob junk scar
+~
+#0
+
+#$

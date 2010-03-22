@@ -1,0 +1,97 @@
+#AREADATA
+Name Death Roulette~
+Builders Suraman~
+VNUMs 50021 50030
+Credits [000-000] OLC    New Area~
+Security 1
+RepopMsg (null)~
+End
+
+
+
+#MOBILES
+#50021
+Roulette Ball~
+a {DRo{rulet{Dte Ball{x~
+A Roulette Ball rolls towards you.
+~
+~
+Human~
+AF 0 CDEFGVZc CDEFGHI 0 0
+1000 8000 8001d667+1212001 2000d15+600 501d5+2026 crush
+-2421 -2421 -2421 -2015
+DFGHK ABCDEFGHIJKL 0 0
+stand stand none 1000
+AHMV ABCDEFGHIJK giant Metal
+#0
+
+
+
+#OBJECTS
+#50021
+portal to somewhere~
+a portal to somewhere~
+A {DPo{rrt{Dal{x to some unknown place is here~
+unknown~
+portal 0 0
+40 0 0 50022 0
+0 0 0 P
+#50022
+Portal to somewhere~
+a portal to somewhere~
+A {DPo{rrt{Dal{x to some unknown place is here~
+unknown~
+portal 0 0
+40 0 0 50023 0
+0 0 0 P
+#0
+
+
+
+#ROOMS
+#50021
+{DD{reat{Dh Ro{rulet{Dte{x~
+This is the room where the fun starts.  Many have come to challenge their
+luck, but only a few have made it out alive.  Now the time comes for you to
+test your luck, will you survive...  Or will your luck fail you?  
+~
+0 4 0
+S
+#50022
+{DLo{Wse{Dr's {DR{Woo{Dm{x~
+This is where the gamblers go when their luck runs out.  It's filled with
+the decaying corpses of those who bet their lives and lost.  
+~
+0 8192 0
+S
+#50023
+{YW{yi{Yn{yn{Ye{yr{Y's {yR{Yo{yo{Ym{x~
+Welcome to the Winner's Circle, it would seem that your luck has gotten
+you through it...  This time, care to try again?  
+~
+0 0 0
+S
+#0
+
+
+
+#SPECIALS
+S
+
+
+
+#RESETS
+M 0 50021 1 50022 1
+S
+
+
+
+#SHOPS
+0
+
+
+
+#MOBPROGS
+#0
+
+#$
